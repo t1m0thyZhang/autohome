@@ -1,0 +1,12 @@
+2017-06-12 11:10:16,565 spiders.py[line:68] INFO Reading start URLs from redis key 'sse:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 11:10:18,204 __init__.py[line:47] DEBUG Resuming crawl (4 requests scheduled)
+2017-06-12 11:10:19,257 spiders.py[line:95] DEBUG Read 1 requests from 'sse:start_urls'
+2017-06-12 11:10:19,609 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/ZCpeidianxiang.htm.
+2017-06-12 11:10:24,076 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DYchunengdianzhan.htm.
+2017-06-12 11:10:27,023 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DYdc-dc-zhuanhuanqi.htm.
+2017-06-12 11:10:29,461 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/shuangxiangdcdcbianliuqi.htm.
+2017-06-12 11:10:35,135 spider_sse.py[line:57] INFO url is: http://www.ssechina.com/products/dianyuan.htm.
+2017-06-12 11:10:42,381 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/ZCgfdydl.htm.
+2017-06-12 11:14:08,213 spiders.py[line:95] DEBUG Read 1 requests from 'sse:start_urls'
+2017-06-12 11:14:08,489 spider_sse.py[line:57] INFO url is: http://www.ssechina.com/products/dianyuan.htm.
+2017-06-12 11:15:14,575 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/ZCgfdydl.htm.

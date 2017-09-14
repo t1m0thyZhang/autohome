@@ -1,0 +1,34 @@
+2017-06-06 15:27:25,342 spiders.py[line:68] INFO Reading start URLs from redis key 'smc:start_urls' (batch size: 16, encoding: utf-8
+2017-06-06 15:27:27,855 spiders.py[line:95] DEBUG Read 1 requests from 'smc:start_urls'
+2017-06-06 15:27:37,371 spider_smc.py[line:51] INFO step into layer1, url is: http://www.smc.com.cn/cnnew/newproinfo.aspx?Htype=news&NID=8844.
+2017-06-06 15:27:41,270 spider_smc.py[line:65] INFO step into layer2, url is: http://www.smc.com.cn/PDF/subchoice01.htm.
+2017-06-06 15:27:45,483 spider_smc.py[line:65] INFO step into layer2, url is: http://www.smc.com.cn/PDF/subchoice02.htm.
+2017-06-06 15:27:45,489 spider_smc.py[line:78] ERROR layer2 failed, url is:(http://www.smc.com.cn/PDF/subchoice02.htm), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_smc.py", line 73, in parse2
+    level = re.sub("<.*?>|\r|\n|\t| ", "", leveltmp[0])
+IndexError: list index out of range
+)
+2017-06-06 15:27:50,434 spider_smc.py[line:65] INFO step into layer2, url is: http://www.smc.com.cn/PDF/subchoice03.htm.
+2017-06-06 15:27:50,434 spider_smc.py[line:78] ERROR layer2 failed, url is:(http://www.smc.com.cn/PDF/subchoice03.htm), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_smc.py", line 73, in parse2
+    level = re.sub("<.*?>|\r|\n|\t| ", "", leveltmp[0])
+IndexError: list index out of range
+)
+2017-06-06 15:27:55,232 spider_smc.py[line:65] INFO step into layer2, url is: http://www.smc.com.cn/PDF/subchoice04.htm.
+2017-06-06 15:27:55,233 spider_smc.py[line:78] ERROR layer2 failed, url is:(http://www.smc.com.cn/PDF/subchoice04.htm), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_smc.py", line 73, in parse2
+    level = re.sub("<.*?>|\r|\n|\t| ", "", leveltmp[0])
+IndexError: list index out of range
+)
+2017-06-06 15:28:00,799 spider_smc.py[line:65] INFO step into layer2, url is: http://www.smc.com.cn/PDF/subchoice05.htm.
+2017-06-06 15:28:00,802 spider_smc.py[line:78] ERROR layer2 failed, url is:(http://www.smc.com.cn/PDF/subchoice05.htm), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_smc.py", line 73, in parse2
+    level = re.sub("<.*?>|\r|\n|\t| ", "", leveltmp[0])
+IndexError: list index out of range
+)
+2017-06-06 15:28:05,930 spider_smc.py[line:65] INFO step into layer2, url is: http://www.smc.com.cn/PDF/subchoice06.htm.
+2017-06-06 15:28:05,936 spider_smc.py[line:78] ERROR layer2 failed, url is:(http://www.smc.com.cn/PDF/subchoice06.htm), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_smc.py", line 73, in parse2
+    level = re.sub("<.*?>|\r|\n|\t| ", "", leveltmp[0])
+IndexError: list index out of range
+)

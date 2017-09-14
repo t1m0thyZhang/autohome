@@ -1,0 +1,9 @@
+2017-06-07 16:03:21,760 spiders.py[line:68] INFO Reading start URLs from redis key 'huarun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 16:03:24,414 spiders.py[line:95] DEBUG Read 1 requests from 'huarun:start_urls'
+2017-06-07 16:03:24,894 spider_huarun.py[line:98] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 95, in parse
+    data_json = json.load(the_page)
+  File "E:\python27\lib\json\__init__.py", line 287, in load
+    return loads(fp.read(),
+AttributeError: 'str' object has no attribute 'read'
+)

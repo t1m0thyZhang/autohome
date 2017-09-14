@@ -1,0 +1,55 @@
+2017-06-12 13:20:55,249 spiders.py[line:68] INFO Reading start URLs from redis key 'dlx:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 13:20:58,326 spiders.py[line:95] DEBUG Read 16 requests from 'dlx:start_urls'
+2017-06-12 13:20:58,426 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=6.
+2017-06-12 13:21:02,750 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=42.
+2017-06-12 13:21:06,668 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=47.
+2017-06-12 13:21:11,142 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=24.
+2017-06-12 13:21:17,073 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=4.
+2017-06-12 13:21:21,062 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=7.
+2017-06-12 13:21:26,624 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=10.
+2017-06-12 13:21:32,151 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=26.
+2017-06-12 13:21:38,059 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=25.
+2017-06-12 13:21:42,230 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=12.
+2017-06-12 13:21:46,871 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=8.
+2017-06-12 13:21:52,484 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=19.
+2017-06-12 13:21:58,411 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=43.
+2017-06-12 13:22:02,471 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=28.
+2017-06-12 13:22:07,927 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=37.
+2017-06-12 13:22:12,733 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=1.
+2017-06-12 13:22:12,769 spiders.py[line:95] DEBUG Read 16 requests from 'dlx:start_urls'
+2017-06-12 13:22:18,132 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=0.
+2017-06-12 13:22:24,155 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=2.
+2017-06-12 13:22:29,811 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=3.
+2017-06-12 13:22:35,532 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=5.
+2017-06-12 13:22:40,703 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=18.
+2017-06-12 13:22:45,401 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=20.
+2017-06-12 13:22:50,201 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=21.
+2017-06-12 13:22:55,661 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=29.
+2017-06-12 13:23:01,523 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=30.
+2017-06-12 13:23:07,226 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=33.
+2017-06-12 13:23:12,059 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=38.
+2017-06-12 13:23:17,497 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=39.
+2017-06-12 13:23:22,789 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=44.
+2017-06-12 13:23:26,403 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=45.
+2017-06-12 13:23:31,174 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=48.
+2017-06-12 13:23:37,176 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=49.
+2017-06-12 13:23:37,214 spiders.py[line:95] DEBUG Read 16 requests from 'dlx:start_urls'
+2017-06-12 13:23:42,813 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=9.
+2017-06-12 13:23:48,816 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=13.
+2017-06-12 13:23:53,868 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=14.
+2017-06-12 13:23:59,726 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=15.
+2017-06-12 13:24:02,381 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=16.
+2017-06-12 13:24:07,900 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=17.
+2017-06-12 13:24:12,802 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=22.
+2017-06-12 13:24:17,729 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=27.
+2017-06-12 13:24:22,460 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=31.
+2017-06-12 13:24:26,884 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=32.
+2017-06-12 13:24:31,651 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=34.
+2017-06-12 13:24:34,355 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=35.
+2017-06-12 13:24:39,885 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=36.
+2017-06-12 13:24:43,698 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=40.
+2017-06-12 13:24:49,647 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=41.
+2017-06-12 13:24:55,265 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=46.
+2017-06-12 13:24:55,276 spiders.py[line:95] DEBUG Read 2 requests from 'dlx:start_urls'
+2017-06-12 13:25:00,802 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=11.
+2017-06-12 13:25:05,134 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=23.

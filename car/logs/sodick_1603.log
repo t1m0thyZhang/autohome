@@ -1,0 +1,4 @@
+2017-05-31 16:03:05,437 spiders.py[line:68] INFO Reading start URLs from redis key 'sodick:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 16:03:06,964 __init__.py[line:47] DEBUG Resuming crawl (5 requests scheduled)
+2017-05-31 16:03:08,065 spiders.py[line:95] DEBUG Read 1 requests from 'sodick:start_urls'
+2017-05-31 16:03:22,694 spider_sodick.py[line:70] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/tool/machining/uh430l_ln4x.html.

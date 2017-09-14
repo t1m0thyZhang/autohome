@@ -1,0 +1,3 @@
+2017-06-02 13:15:55,023 spiders.py[line:68] INFO Reading start URLs from redis key 'opple:start_urls' (batch size: 16, encoding: utf-8
+2017-06-02 13:15:56,459 __init__.py[line:47] DEBUG Resuming crawl (20 requests scheduled)
+2017-06-02 13:15:56,795 spider_opple.py[line:77] INFO step into layer1, url is: http://www.opple.com.cn/product/d/1/284/?type=diaoding.

@@ -1,0 +1,19 @@
+2017-06-06 18:06:51,285 spiders.py[line:68] INFO Reading start URLs from redis key 'jsyz:start_urls' (batch size: 16, encoding: utf-8
+2017-06-06 18:06:53,776 spiders.py[line:95] DEBUG Read 1 requests from 'jsyz:start_urls'
+2017-06-06 18:06:54,203 spider_jsyz.py[line:53] INFO step into layer1, url is: http://www.jiangsuyz.com/product.asp?page=1.
+2017-06-06 18:06:58,858 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3637.
+2017-06-06 18:07:04,273 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3639.
+2017-06-06 18:07:10,270 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3631.
+2017-06-06 18:07:15,986 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3632.
+2017-06-06 18:07:21,069 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3633.
+2017-06-06 18:07:27,069 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3634.
+2017-06-06 18:07:32,677 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3635.
+2017-06-06 18:07:37,983 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3636.
+2017-06-06 18:07:42,226 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3625.
+2017-06-06 18:07:44,982 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3627.
+2017-06-06 18:07:49,789 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3628.
+2017-06-06 18:07:54,480 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3629.
+2017-06-06 18:07:59,451 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3630.
+2017-06-06 18:08:05,072 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3631.
+2017-06-06 18:08:10,630 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3622.
+2017-06-06 18:08:14,105 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3623.

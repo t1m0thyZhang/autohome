@@ -1,0 +1,33 @@
+2017-06-05 14:13:44,698 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'tcl:items' (server: localhost, port: 6379)
+2017-06-05 14:13:45,720 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 晶漾-90W <http://www.tcl-lighting.com/cn/products/show/?38-230.html>
+2017-06-05 14:13:45,723 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 晶玉缘-36W <http://www.tcl-lighting.com/cn/products/show/?38-231.html>
+2017-06-05 14:13:45,724 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 晶玉缘-80W <http://www.tcl-lighting.com/cn/products/show/?38-232.html>
+2017-06-05 14:13:45,727 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 欧伦-72W <http://www.tcl-lighting.com/cn/products/show/?38-245.html>
+2017-06-05 14:13:45,730 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 欧伦-90W <http://www.tcl-lighting.com/cn/products/show/?38-246.html>
+2017-06-05 14:13:45,732 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 云骈-54W <http://www.tcl-lighting.com/cn/products/show/?38-257.html>
+2017-06-05 14:13:45,733 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 云骈-72W <http://www.tcl-lighting.com/cn/products/show/?38-258.html>
+2017-06-05 14:13:45,736 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 云骈-90W <http://www.tcl-lighting.com/cn/products/show/?38-259.html>
+2017-06-05 14:13:45,737 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 云栈-24W <http://www.tcl-lighting.com/cn/products/show/?38-262.html>
+2017-06-05 14:13:45,739 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 灯笼36W <http://www.tcl-lighting.com/cn/products/show/?38-263.html>
+2017-06-05 14:13:45,740 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 云栈-32W <http://www.tcl-lighting.com/cn/products/show/?38-264.html>
+2017-06-05 14:13:48,348 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 云栈-48W <http://www.tcl-lighting.com/cn/products/show/?38-265.html>
+2017-06-05 14:13:53,904 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 灯笼72W <http://www.tcl-lighting.com/cn/products/show/?38-266.html>
+2017-06-05 14:13:58,210 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 云栈-54W <http://www.tcl-lighting.com/cn/products/show/?38-267.html>
+2017-06-05 14:14:04,026 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 芙蓉园35W <http://www.tcl-lighting.com/cn/products/show/?38-268.html>
+2017-06-05 14:14:08,440 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: LED 高压灯带 <http://www.tcl-lighting.com/cn/products/show/?27-6.html>
+2017-06-05 14:14:12,556 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 50 COB格栅灯 <http://www.tcl-lighting.com/cn/products/show/?25-99.html>
+2017-06-05 14:14:18,000 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: LED面板灯 直下式 <http://www.tcl-lighting.com/cn/products/show/?92-88.html>
+2017-06-05 14:14:20,664 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: LED支架 <http://www.tcl-lighting.com/cn/products/show/?92-90.html>
+2017-06-05 14:14:25,713 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 80 COB格栅灯 <http://www.tcl-lighting.com/cn/products/show/?25-100.html>
+2017-06-05 14:14:30,470 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 格栅射灯 C型 <http://www.tcl-lighting.com/cn/products/show/?25-103.html>
+2017-06-05 14:14:35,864 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 低压灯带 <http://www.tcl-lighting.com/cn/products/show/?27-112.html>
+2017-06-05 14:14:38,908 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 高压灯带 <http://www.tcl-lighting.com/cn/products/show/?27-113.html>
+2017-06-05 14:14:44,006 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: T5精锐系列节能格栅灯盘 <http://www.tcl-lighting.com/cn/products/show/?33-369.html>
+2017-06-05 14:14:49,459 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: T5王牌系列格栅灯盘 <http://www.tcl-lighting.com/cn/products/show/?33-370.html>
+2017-06-05 14:14:55,361 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 直螺筒灯 <http://www.tcl-lighting.com/cn/products/show/?34-374.html>
+2017-06-05 14:14:59,190 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 横螺E27筒灯 <http://www.tcl-lighting.com/cn/products/show/?34-375.html>
+2017-06-05 14:15:04,799 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 消防应急照明灯 <http://www.tcl-lighting.com/cn/products/show/?35-364.html>
+2017-06-05 14:15:07,563 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 单面壁挂式 <http://www.tcl-lighting.com/cn/products/show/?35-365.html>
+2017-06-05 14:15:13,184 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: 单面吊挂式/壁挂式 <http://www.tcl-lighting.com/cn/products/show/?35-366.html>
+2017-06-05 14:15:17,298 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: TCLMC-4G62042/C <http://www.tcl-lighting.com/cn/products/show/?77-434.html>
+2017-06-05 14:15:21,385 download_items_from_redis.py[line:93] INFO [tcl:items] Processing item: TCLMC-4G61542 <http://www.tcl-lighting.com/cn/products/show/?77-435.html>

@@ -1,0 +1,47 @@
+2017-05-31 12:58:08,622 spiders.py[line:68] INFO Reading start URLs from redis key 'nsk:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 12:58:11,105 spiders.py[line:95] DEBUG Read 1 requests from 'nsk:start_urls'
+2017-05-31 12:58:11,528 spider_nsk.py[line:53] INFO step into layer1, url is: http://www.cn.nsk.com/products/epsteel.html.
+2017-05-31 12:58:15,588 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/ballbearing/deepgroove/.
+2017-05-31 12:58:21,233 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/ballbearing/thrust/.
+2017-05-31 12:58:26,232 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/ballbearing/nseries/.
+2017-05-31 12:58:30,398 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/ballbearing/selfaligning/.
+2017-05-31 12:58:35,447 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/ballbearing/angularcontact/.
+2017-05-31 12:58:40,109 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/rollerbearing/needle/.
+2017-05-31 12:58:45,680 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/rollerbearing/thrust/.
+2017-05-31 12:58:50,688 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/rollerbearing/tapered/.
+2017-05-31 12:58:56,661 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/rollerbearing/spherical/.
+2017-05-31 12:59:02,528 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/rollerbearing/cylindrical/.
+2017-05-31 12:59:07,095 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/bearingunit/ball/.
+2017-05-31 12:59:11,950 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/spb/angularcontact/.
+2017-05-31 12:59:16,733 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/bearingunit/plummer/.
+2017-05-31 12:59:22,621 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/spb/swiveling/.
+2017-05-31 12:59:28,453 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/spb/cylindrical/.
+2017-05-31 12:59:33,042 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/spb/ballscrewsupport/.
+2017-05-31 12:59:37,596 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/spacea/clean/.
+2017-05-31 12:59:41,763 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/spacea/vacuum/.
+2017-05-31 12:59:41,796 spider_nsk.py[line:102] ERROR layer3 failed: failed to write into item, url is:(http://www.cn.nsk.com/products/spacea/vacuum/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_nsk.py", line 79, in parse2
+    print details
+UnicodeEncodeError: 'gbk' codec can't encode character u'\x99' in position 27: illegal multibyte sequence
+)
+2017-05-31 12:59:47,164 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/spacea/corrosive/.
+2017-05-31 12:59:52,453 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/precisionmachine/xy/.
+2017-05-31 12:59:57,776 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/spacea/non-magnetic/.
+2017-05-31 13:00:03,611 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/automotive/drive/auto/.
+2017-05-31 13:00:09,404 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/automotive/drive/hcvt/.
+2017-05-31 13:00:15,190 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/automotive/drive/manual/.
+2017-05-31 13:00:20,743 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/automotive/power/engine/.
+2017-05-31 13:00:26,431 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/spacea/high-temperature/.
+2017-05-31 13:00:30,026 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/spacea/dust-contaminated/.
+2017-05-31 13:00:34,415 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/precisionmachine/ballscrew/.
+2017-05-31 13:00:38,832 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/automotive/chassis/wheelhub/.
+2017-05-31 13:00:43,053 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/automotive/power/electrical/.
+2017-05-31 13:00:48,335 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/automotive/drive/motorcycles/.
+2017-05-31 13:00:53,948 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/miningconstruction/machinery/.
+2017-05-31 13:00:58,206 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/precisionmachine/accessories/.
+2017-05-31 13:01:03,375 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/precisionmachine/linearguide/.
+2017-05-31 13:01:08,953 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/precisionmachine/monocarrier/.
+2017-05-31 13:01:14,904 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/miningconstruction/construction/.
+2017-05-31 13:01:20,523 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/automotive/chassis/steeringcolumns/.
+2017-05-31 13:01:23,075 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/automotive/chassis/electricsteering/.
+2017-05-31 13:01:28,865 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/automotive/drive/differentialpropeller/.

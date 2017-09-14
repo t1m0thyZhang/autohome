@@ -1,0 +1,1045 @@
+2017-08-17 20:36:24,095 spiders.py[line:68] INFO Reading start URLs from redis key 'autohome:start_urls' (batch size: 1, encoding: utf-8
+2017-08-17 20:36:27,526 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 20:36:27,628 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/2730/.
+2017-08-17 20:36:28,101 spider_autohome.py[line:71] INFO layer 2 url is: http://k.autohome.com.cn/2730/8967/.
+2017-08-17 20:36:36,595 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/2730/8967/?gradeenum=0.
+2017-08-17 20:36:59,286 spiders.py[line:68] INFO Reading start URLs from redis key 'autohome:start_urls' (batch size: 1, encoding: utf-8
+2017-08-17 20:37:02,744 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 20:37:02,846 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/370/.
+2017-08-17 20:37:03,293 spider_autohome.py[line:71] INFO layer 2 url is: http://k.autohome.com.cn/370/9219/.
+2017-08-17 20:37:03,328 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 20:37:07,061 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/650/.
+2017-08-17 20:37:08,023 spider_autohome.py[line:71] INFO layer 2 url is: http://k.autohome.com.cn/650/8278/.
+2017-08-17 20:37:08,058 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 20:37:13,599 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/2951/.
+2017-08-17 20:37:13,812 spider_autohome.py[line:71] INFO layer 2 url is: http://k.autohome.com.cn/2951/9448/.
+2017-08-17 20:37:23,970 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/2951/9448/?gradeenum=0.
+2017-08-17 20:37:46,388 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/2951/9448/index_2.html?GradeEnum=0.
+2017-08-17 20:37:50,706 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1614168_1.html?st=1&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:37:55,822 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1617324_1.html?st=6&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:38:00,084 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1643714_1.html?st=9&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:38:06,115 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1645311_1.html?st=8&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:38:11,667 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29127/view_1673548_1.html?st=3&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:38:16,660 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29129/view_1653467_1.html?st=7&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:38:21,315 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29129/view_1661505_1.html?st=5&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:38:25,526 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29129/view_1672356_1.html?st=4&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:38:29,677 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1676732_1.html?st=2&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:38:33,367 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1575616_1.html?st=15&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:38:37,207 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1578476_1.html?st=14&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:38:42,918 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1607047_1.html?st=12&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:38:48,634 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29132/view_1549081_1.html?st=13&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:38:54,779 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1609947_1.html?st=11&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:38:59,055 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1611169_1.html?st=10&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:39:04,040 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1548134_1.html?st=20&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:39:08,753 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1557132_1.html?st=18&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:39:11,953 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1562505_1.html?st=17&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:39:16,984 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29127/view_1524575_1.html?st=29&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:39:21,302 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29127/view_1529130_1.html?st=25&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:39:25,267 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29127/view_1552663_1.html?st=19&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:39:30,740 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29129/view_1520969_1.html?st=30&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:39:36,546 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29129/view_1567098_1.html?st=16&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:39:42,266 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29130/view_1531737_1.html?st=24&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:39:48,619 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1504236_1.html?st=21&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:39:53,838 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1525507_1.html?st=28&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:39:59,378 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1527441_1.html?st=27&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:40:05,017 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1528100_1.html?st=26&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:40:07,915 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1531857_1.html?st=23&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:40:11,878 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1533786_1.html?st=22&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:40:15,823 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/2951/9448/index_3.html?GradeEnum=0.
+2017-08-17 20:40:20,464 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/2951/9448/index_4.html?GradeEnum=0.
+2017-08-17 20:40:24,125 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29125/view_1626264_1.html?st=45&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:40:30,206 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1519469_1.html?st=32&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:40:38,293 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29127/view_1455082_1.html?st=42&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:40:41,128 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29127/view_1502036_1.html?st=39&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:40:44,753 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29127/view_1512559_1.html?st=36&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:40:51,148 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29129/view_1489897_1.html?st=41&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:40:55,040 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29129/view_1514414_1.html?st=34&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:41:00,624 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29129/view_1674178_1.html?st=44&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:41:06,157 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29130/view_1677218_1.html?st=43&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:41:11,369 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1496975_1.html?st=40&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:41:16,224 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1502334_1.html?st=38&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:41:20,690 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1512923_1.html?st=35&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:41:25,615 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1514588_1.html?st=33&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:41:29,923 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1519737_1.html?st=31&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:41:33,697 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29135/view_1510951_1.html?st=37&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:41:37,822 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1565146_1.html?st=56&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:41:43,125 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1579242_1.html?st=52&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:41:46,421 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1583534_1.html?st=51&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:41:49,375 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1601357_1.html?st=50&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:41:54,213 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1605508_1.html?st=48&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:42:00,128 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1624327_1.html?st=46&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:42:03,711 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29127/view_1531679_1.html?st=60&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:42:09,127 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29127/view_1532133_1.html?st=59&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:42:14,654 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29127/view_1561943_1.html?st=57&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:42:19,967 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29127/view_1572911_1.html?st=55&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:42:25,803 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29127/view_1577055_1.html?st=54&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:42:31,170 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29130/view_1577847_1.html?st=53&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:42:36,220 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29130/view_1604750_1.html?st=49&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:42:39,980 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1533415_1.html?st=58&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:42:45,187 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1608203_1.html?st=47&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:42:48,763 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/2951/9448/index_5.html?GradeEnum=0.
+2017-08-17 20:42:53,052 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/2951/9448/index_6.html?GradeEnum=0.
+2017-08-17 20:42:58,959 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1478830_1.html?st=75&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:43:04,457 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1481363_1.html?st=63&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:43:08,415 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1497444_1.html?st=71&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:43:11,747 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1505146_1.html?st=67&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:43:16,502 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1514277_1.html?st=66&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:43:22,233 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1521334_1.html?st=64&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:43:27,895 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1530494_1.html?st=62&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:43:32,526 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29127/view_1501876_1.html?st=68&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:43:37,421 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29127/view_1531599_1.html?st=61&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:43:43,038 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1489564_1.html?st=74&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:43:48,470 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1494921_1.html?st=73&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:43:54,775 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1497136_1.html?st=72&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:43:56,969 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1499835_1.html?st=70&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:44:02,701 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1499950_1.html?st=69&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:44:05,272 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1518376_1.html?st=65&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:44:09,795 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1648519_1.html?st=90&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:44:15,500 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1652989_1.html?st=89&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:44:20,206 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1654295_1.html?st=88&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:44:24,822 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1655298_1.html?st=87&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:44:30,276 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1675647_1.html?st=82&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:44:34,993 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1680326_1.html?st=79&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:44:41,125 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29127/view_1675905_1.html?st=81&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:44:46,474 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29127/view_1680173_1.html?st=80&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:44:50,657 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29129/view_1470619_1.html?st=77&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:44:53,694 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29129/view_1505089_1.html?st=86&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:44:57,017 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29129/view_1664161_1.html?st=85&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:45:02,841 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29130/view_1449475_1.html?st=78&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:45:05,259 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29130/view_1474195_1.html?st=76&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:45:10,802 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29130/view_1674640_1.html?st=83&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:45:16,372 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1672229_1.html?st=84&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:45:22,062 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/2951/9448/index_7.html?GradeEnum=0.
+2017-08-17 20:45:27,023 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/2951/9448/index_8.html?GradeEnum=0.
+2017-08-17 20:45:31,267 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1545148_1.html?st=99&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:45:37,134 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1583176_1.html?st=98&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:45:41,447 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1609484_1.html?st=96&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:45:46,460 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1609774_1.html?st=95&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:45:52,089 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1622163_1.html?st=94&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:45:57,484 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1635226_1.html?st=93&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:46:02,503 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1641780_1.html?st=91&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:46:07,072 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29129/view_1592896_1.html?st=97&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:46:12,201 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29129/view_1637100_1.html?st=92&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:46:17,288 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1548557_1.html?st=105&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:46:22,591 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1552809_1.html?st=104&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:46:28,328 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1579294_1.html?st=101&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:46:32,813 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1579554_1.html?st=100&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:46:36,950 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29127/view_1555881_1.html?st=103&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:46:42,763 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29129/view_1577565_1.html?st=102&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:46:47,671 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29125/view_1516321_1.html?st=113&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:46:52,693 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29125/view_1533409_1.html?st=108&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:46:58,263 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1499589_1.html?st=117&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:47:04,075 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1532857_1.html?st=110&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:47:09,332 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1547593_1.html?st=106&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:47:14,697 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29127/view_1513490_1.html?st=114&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:47:20,273 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29128/view_1490623_1.html?st=119&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:47:24,427 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29129/view_1524969_1.html?st=112&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:47:29,973 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29130/view_1480198_1.html?st=120&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:47:35,322 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29130/view_1492744_1.html?st=118&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:47:41,056 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1510100_1.html?st=116&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:47:46,805 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1532246_1.html?st=111&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:47:50,436 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1533347_1.html?st=109&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:47:56,112 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29134/view_1540521_1.html?st=107&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:48:01,193 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29135/view_1512869_1.html?st=115&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:48:03,914 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/2951/9448/index_9.html?GradeEnum=0.
+2017-08-17 20:48:09,292 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29127/view_1477756_1.html?st=121&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:48:15,069 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29125/view_1476151_1.html?st=122&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:48:18,496 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1453561_1.html?st=124&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:48:20,973 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29130/view_1471449_1.html?st=123&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:48:24,332 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29132/view_1448083_1.html?st=125&piap=0|2951|9448|0|1|0|0|0|0|0|1.
+2017-08-17 20:48:24,387 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 20:48:25,661 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/509/.
+2017-08-17 20:48:25,681 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 20:48:29,319 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/2736/.
+2017-08-17 20:48:31,407 spider_autohome.py[line:71] INFO layer 2 url is: http://k.autohome.com.cn/2736/9042/.
+2017-08-17 20:48:31,447 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 20:48:34,654 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/692/.
+2017-08-17 20:48:35,447 spider_autohome.py[line:71] INFO layer 2 url is: http://k.autohome.com.cn/692/8710/.
+2017-08-17 20:48:44,276 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/?gradeenum=0.
+2017-08-17 20:48:47,904 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_2.html?GradeEnum=0.
+2017-08-17 20:48:53,020 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1682200_1.html?st=3&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:48:58,052 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1625894_1.html?st=6&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:49:02,493 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1645419_1.html?st=5&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:49:08,091 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1633936_1.html?st=9&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:49:12,259 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1682965_1.html?st=1&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:49:17,806 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1677319_1.html?st=7&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:49:21,736 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1682490_1.html?st=2&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:49:25,000 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29975/view_1677233_1.html?st=8&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:49:29,250 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1680082_1.html?st=4&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:49:35,059 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1671792_1.html?st=12&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:49:39,342 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1672509_1.html?st=11&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:49:45,197 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1673639_1.html?st=10&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:49:49,470 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29975/view_1667575_1.html?st=14&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:49:53,381 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29975/view_1670519_1.html?st=13&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:49:59,292 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1667449_1.html?st=15&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:50:03,931 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1654980_1.html?st=25&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:50:07,040 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1626268_1.html?st=16&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:50:12,591 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1655730_1.html?st=24&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:50:17,489 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1626135_1.html?st=18&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:50:22,473 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1650506_1.html?st=29&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:50:28,049 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1652780_1.html?st=28&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:50:31,530 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1653990_1.html?st=26&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:50:37,197 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1656850_1.html?st=23&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:50:42,996 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1660010_1.html?st=21&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:50:48,918 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1618315_1.html?st=19&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:50:53,436 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1648155_1.html?st=30&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:50:59,263 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1664487_1.html?st=17&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:51:05,546 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29975/view_1657635_1.html?st=22&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:51:10,019 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1661488_1.html?st=20&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:51:13,871 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29977/view_1653459_1.html?st=27&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:51:20,920 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_3.html?GradeEnum=0.
+2017-08-17 20:51:23,151 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_4.html?GradeEnum=0.
+2017-08-17 20:51:29,279 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1626316_1.html?st=42&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:51:33,388 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1626213_1.html?st=43&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:51:37,809 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1475495_1.html?st=40&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:51:43,217 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27320/view_1629185_1.html?st=41&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:51:48,532 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28656/view_1642433_1.html?st=36&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:51:53,980 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1581488_1.html?st=32&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:51:59,707 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1642374_1.html?st=37&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:52:04,233 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1647929_1.html?st=31&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:52:09,411 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1564340_1.html?st=34&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:52:14,082 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1644121_1.html?st=35&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:52:18,681 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1560014_1.html?st=45&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:52:23,361 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1612418_1.html?st=44&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:52:28,875 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1641115_1.html?st=38&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:52:32,688 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1645934_1.html?st=33&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:52:38,609 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29978/view_1631541_1.html?st=39&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:52:41,894 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1483708_1.html?st=60&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:52:47,316 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1588775_1.html?st=52&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:52:51,756 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1569448_1.html?st=59&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:52:57,361 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1578775_1.html?st=57&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:53:02,203 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1585096_1.html?st=54&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:53:06,243 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1590444_1.html?st=51&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:53:09,789 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1575047_1.html?st=58&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:53:14,331 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1598421_1.html?st=49&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:53:18,779 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1604639_1.html?st=47&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:53:23,141 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1608172_1.html?st=46&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:53:26,632 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29975/view_1580210_1.html?st=56&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:53:29,720 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1586526_1.html?st=53&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:53:35,326 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29977/view_1583992_1.html?st=55&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:53:40,676 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29978/view_1594767_1.html?st=50&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:53:44,858 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29978/view_1603220_1.html?st=48&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:53:50,217 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_5.html?GradeEnum=0.
+2017-08-17 20:53:53,792 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_6.html?GradeEnum=0.
+2017-08-17 20:53:58,309 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1483029_1.html?st=75&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:54:02,311 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1547504_1.html?st=69&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:54:07,207 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1550322_1.html?st=68&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:54:13,140 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1530896_1.html?st=72&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:54:18,760 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1539786_1.html?st=71&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:54:24,434 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1556259_1.html?st=64&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:54:29,742 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1516908_1.html?st=66&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:54:35,463 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1518090_1.html?st=65&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:54:40,558 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27320/view_1449894_1.html?st=63&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:54:46,234 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27320/view_1526438_1.html?st=74&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:54:52,059 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27320/view_1558218_1.html?st=62&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:54:57,970 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1551198_1.html?st=67&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:55:02,114 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29975/view_1528016_1.html?st=73&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:55:07,135 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1560496_1.html?st=61&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:55:11,085 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29977/view_1541236_1.html?st=70&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:55:16,365 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1480235_1.html?st=85&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:55:20,595 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1473635_1.html?st=89&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:55:26,364 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1474870_1.html?st=88&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:55:32,551 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1510565_1.html?st=81&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:55:37,859 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1524964_1.html?st=77&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:55:42,780 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1468270_1.html?st=90&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:55:48,459 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1475303_1.html?st=87&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:55:54,082 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1490595_1.html?st=84&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:55:58,313 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1496173_1.html?st=83&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:56:02,901 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1511270_1.html?st=80&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:56:08,032 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1519265_1.html?st=79&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:56:13,361 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27320/view_1523497_1.html?st=78&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:56:17,910 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1475458_1.html?st=86&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:56:23,122 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1500069_1.html?st=82&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:56:26,696 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1525537_1.html?st=76&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:56:30,634 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_7.html?GradeEnum=0.
+2017-08-17 20:56:36,148 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_8.html?GradeEnum=0.
+2017-08-17 20:56:41,127 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1421463_1.html?st=98&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:56:43,878 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1422051_1.html?st=97&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:56:50,542 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1438917_1.html?st=94&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:56:52,255 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1448550_1.html?st=93&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:56:56,674 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1361428_1.html?st=99&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:57:02,513 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1431781_1.html?st=96&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:57:06,072 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1433187_1.html?st=95&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:57:09,996 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27320/view_1461466_1.html?st=91&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:57:16,015 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1452723_1.html?st=92&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:57:21,272 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1329410_1.html?st=101&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:57:26,503 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1352237_1.html?st=100&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:57:32,089 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1323447_1.html?st=102&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:57:38,335 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1683561_1.html?st=104&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:57:42,118 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29977/view_1681917_1.html?st=105&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:57:47,059 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29978/view_1684154_1.html?st=103&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:57:51,144 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1575755_1.html?st=107&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:57:56,976 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1651938_1.html?st=116&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:58:02,753 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1653169_1.html?st=115&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:58:06,651 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1654116_1.html?st=114&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:58:11,210 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1661743_1.html?st=109&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:58:16,325 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28656/view_1658273_1.html?st=111&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:58:22,378 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1590567_1.html?st=117&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:58:27,816 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1643607_1.html?st=119&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:58:31,849 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1657525_1.html?st=112&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:58:36,971 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1667035_1.html?st=108&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:58:40,615 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29975/view_1640212_1.html?st=120&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:58:46,555 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29975/view_1661573_1.html?st=110&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:58:52,703 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1609719_1.html?st=118&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:58:55,953 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1655665_1.html?st=113&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:59:00,823 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29977/view_1677974_1.html?st=106&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:59:05,520 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_9.html?GradeEnum=0.
+2017-08-17 20:59:08,601 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_10.html?GradeEnum=0.
+2017-08-17 20:59:13,530 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1542520_1.html?st=131&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:59:18,763 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1602760_1.html?st=132&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:59:23,220 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1583893_1.html?st=135&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:59:25,812 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1598450_1.html?st=133&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:59:30,733 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1614766_1.html?st=130&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:59:36,546 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1618669_1.html?st=127&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:59:40,052 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1621125_1.html?st=125&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:59:45,852 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1622439_1.html?st=124&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:59:51,803 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27320/view_1632555_1.html?st=121&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 20:59:57,765 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1594754_1.html?st=134&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:00:02,345 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1626415_1.html?st=122&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:00:05,322 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29975/view_1615410_1.html?st=129&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:00:10,891 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1577609_1.html?st=128&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:00:15,072 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1619067_1.html?st=126&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:00:20,710 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1622696_1.html?st=123&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:00:25,918 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1566702_1.html?st=147&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:00:29,289 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1559935_1.html?st=150&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:00:35,232 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1574455_1.html?st=141&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:00:40,055 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1575572_1.html?st=139&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:00:44,624 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1580376_1.html?st=138&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:00:48,438 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1567322_1.html?st=144&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:00:52,400 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1574937_1.html?st=140&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:00:54,680 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1580695_1.html?st=137&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:00:58,762 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1563269_1.html?st=148&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:01:03,572 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1572302_1.html?st=142&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:01:07,601 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1561622_1.html?st=149&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:01:11,799 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29975/view_1566798_1.html?st=146&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:01:16,796 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29975/view_1567184_1.html?st=145&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:01:22,423 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1568324_1.html?st=143&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:01:27,651 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29977/view_1582986_1.html?st=136&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:01:32,463 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_11.html?GradeEnum=0.
+2017-08-17 21:01:35,834 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_12.html?GradeEnum=0.
+2017-08-17 21:01:40,124 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1508088_1.html?st=156&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:01:44,641 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1481809_1.html?st=164&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:01:50,463 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1476496_1.html?st=165&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:01:55,368 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1488301_1.html?st=162&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:02:00,398 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1491540_1.html?st=161&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:02:06,243 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1501795_1.html?st=157&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:02:11,559 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1512224_1.html?st=154&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:02:14,960 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1512637_1.html?st=153&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:02:18,431 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1516896_1.html?st=152&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:02:22,829 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1520391_1.html?st=151&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:02:27,441 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1496826_1.html?st=158&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:02:32,960 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27320/view_1493354_1.html?st=160&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:02:36,368 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1482926_1.html?st=163&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:02:41,494 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1496214_1.html?st=159&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:02:47,809 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28656/view_1511894_1.html?st=155&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:02:53,493 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1450744_1.html?st=176&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:02:59,015 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1467100_1.html?st=171&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:03:01,283 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1433112_1.html?st=180&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:03:05,937 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1447405_1.html?st=178&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:03:10,161 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1449920_1.html?st=177&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:03:13,414 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1455956_1.html?st=174&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:03:18,697 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1468302_1.html?st=170&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:03:24,089 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1441687_1.html?st=179&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:03:29,022 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1453435_1.html?st=175&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:03:34,505 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1457181_1.html?st=173&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:03:39,884 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1458811_1.html?st=172&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:03:45,421 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1471955_1.html?st=169&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:03:51,138 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1475182_1.html?st=166&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:03:54,730 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1474584_1.html?st=168&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:03:58,415 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28656/view_1474955_1.html?st=167&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:04:04,427 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_13.html?GradeEnum=0.
+2017-08-17 21:04:08,858 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_14.html?GradeEnum=0.
+2017-08-17 21:04:12,240 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1423247_1.html?st=184&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:04:17,209 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1320759_1.html?st=194&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:04:22,571 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1344159_1.html?st=193&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:04:26,125 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1391227_1.html?st=190&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:04:31,765 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1405746_1.html?st=188&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:04:37,342 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1410188_1.html?st=187&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:04:42,934 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1413257_1.html?st=186&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:04:47,142 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1423507_1.html?st=183&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:04:51,821 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1427237_1.html?st=181&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:04:56,220 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1313017_1.html?st=195&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:04:59,000 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1398053_1.html?st=189&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:05:04,578 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1417320_1.html?st=185&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:05:10,612 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1370243_1.html?st=192&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:05:14,374 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1390487_1.html?st=191&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:05:19,575 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1425108_1.html?st=182&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:05:24,631 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1682524_1.html?st=200&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:05:29,117 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1300391_1.html?st=196&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:05:33,545 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1645728_1.html?st=203&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:05:36,410 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1673290_1.html?st=207&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:05:42,267 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1578831_1.html?st=210&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:05:46,502 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1672743_1.html?st=209&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:05:50,904 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1673267_1.html?st=208&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:05:54,427 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1678656_1.html?st=204&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:05:59,065 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1675145_1.html?st=206&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:06:02,085 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1680638_1.html?st=202&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:06:07,707 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1682287_1.html?st=201&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:06:12,118 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1684432_1.html?st=197&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:06:17,233 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29975/view_1676206_1.html?st=205&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:06:20,841 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29978/view_1683122_1.html?st=199&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:06:24,905 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29978/view_1683417_1.html?st=198&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:06:30,043 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_15.html?GradeEnum=0.
+2017-08-17 21:06:37,134 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_16.html?GradeEnum=0.
+2017-08-17 21:06:43,598 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1655039_1.html?st=220&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:06:45,144 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1653605_1.html?st=224&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:06:50,846 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1654773_1.html?st=223&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:06:56,187 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1654996_1.html?st=221&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:07:02,141 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1663741_1.html?st=215&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:07:07,154 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1670722_1.html?st=212&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:07:10,638 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1651441_1.html?st=225&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:07:15,816 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1654971_1.html?st=222&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:07:21,023 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1658067_1.html?st=217&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:07:25,667 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1660533_1.html?st=216&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:07:31,671 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1666994_1.html?st=214&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:07:37,605 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1672290_1.html?st=211&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:07:40,546 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1656400_1.html?st=219&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:07:44,484 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1657375_1.html?st=218&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:07:48,369 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1668369_1.html?st=213&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:07:53,828 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1573493_1.html?st=237&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:07:58,433 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1645430_1.html?st=234&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:08:04,052 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1648937_1.html?st=230&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:08:09,270 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1649054_1.html?st=229&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:08:15,209 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1639138_1.html?st=240&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:08:20,936 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27320/view_1646022_1.html?st=233&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:08:26,073 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1647213_1.html?st=232&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:08:30,401 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1647923_1.html?st=231&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:08:35,799 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1641850_1.html?st=236&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:08:40,404 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1650766_1.html?st=226&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:08:45,967 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29975/view_1640022_1.html?st=239&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:08:50,585 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29975/view_1641752_1.html?st=238&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:08:55,483 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29975/view_1649503_1.html?st=228&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:09:00,453 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1641914_1.html?st=235&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:09:05,992 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29978/view_1650055_1.html?st=227&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:09:11,779 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_17.html?GradeEnum=0.
+2017-08-17 21:09:15,617 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_18.html?GradeEnum=0.
+2017-08-17 21:09:21,653 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1622477_1.html?st=246&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:09:24,987 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1627662_1.html?st=244&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:09:30,378 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1580363_1.html?st=242&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:09:35,915 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1606763_1.html?st=254&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:09:40,941 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1618511_1.html?st=249&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:09:45,003 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1621693_1.html?st=247&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:09:50,398 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1615105_1.html?st=250&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:09:55,576 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28656/view_1608711_1.html?st=252&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:10:00,776 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28656/view_1619481_1.html?st=248&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:10:06,516 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1605692_1.html?st=255&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:10:12,030 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1608579_1.html?st=253&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:10:14,427 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1612143_1.html?st=251&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:10:20,039 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1635665_1.html?st=243&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:10:24,450 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1623857_1.html?st=245&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:10:28,931 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29977/view_1638740_1.html?st=241&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:10:33,595 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1578001_1.html?st=270&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:10:38,875 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1591083_1.html?st=262&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:10:43,615 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1579773_1.html?st=266&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:10:47,938 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1539061_1.html?st=260&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:10:53,413 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1578589_1.html?st=268&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:10:58,851 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1578054_1.html?st=269&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:11:03,605 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1578882_1.html?st=267&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:11:08,154 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1580863_1.html?st=265&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:11:11,428 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1600921_1.html?st=258&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:11:15,559 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1591425_1.html?st=261&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:11:20,984 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29975/view_1583283_1.html?st=264&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:11:26,720 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29975/view_1601199_1.html?st=257&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:11:30,822 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1587055_1.html?st=263&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:11:36,055 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1598530_1.html?st=259&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:11:41,180 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29978/view_1601831_1.html?st=256&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:11:44,719 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_19.html?GradeEnum=0.
+2017-08-17 21:11:48,934 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_20.html?GradeEnum=0.
+2017-08-17 21:11:54,236 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1561346_1.html?st=284&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:11:57,306 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1571700_1.html?st=275&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:11:59,665 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1423655_1.html?st=273&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:12:05,552 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1534930_1.html?st=272&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:12:09,191 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1557766_1.html?st=285&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:12:14,229 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1566640_1.html?st=280&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:12:18,538 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1568941_1.html?st=278&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:12:23,842 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1572000_1.html?st=274&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:12:27,618 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1562001_1.html?st=283&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:12:31,766 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1577813_1.html?st=271&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:12:33,805 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1562358_1.html?st=282&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:12:39,627 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1569058_1.html?st=277&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:12:45,339 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1570325_1.html?st=276&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:12:50,970 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29975/view_1566930_1.html?st=279&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:12:55,687 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29978/view_1566544_1.html?st=281&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:12:59,788 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1533019_1.html?st=299&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:13:05,203 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1546062_1.html?st=289&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:13:09,918 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1543507_1.html?st=291&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:13:15,026 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27320/view_1551957_1.html?st=287&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:13:20,188 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1533885_1.html?st=298&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:13:26,009 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28656/view_1487355_1.html?st=297&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:13:31,756 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28656/view_1537884_1.html?st=296&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:13:37,890 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29973/view_1537892_1.html?st=295&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:13:42,796 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1539870_1.html?st=293&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:13:47,457 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29974/view_1546851_1.html?st=288&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:13:52,578 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29975/view_1556883_1.html?st=286&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:13:56,750 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1531603_1.html?st=300&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:14:02,266 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1539266_1.html?st=294&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:14:06,674 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1545347_1.html?st=290&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:14:12,220 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29978/view_1540638_1.html?st=292&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:14:16,118 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_21.html?GradeEnum=0.
+2017-08-17 21:14:21,141 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_22.html?GradeEnum=0.
+2017-08-17 21:14:25,292 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1507858_1.html?st=309&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:14:29,589 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1501787_1.html?st=311&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:14:34,565 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1505821_1.html?st=310&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:14:38,234 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1420659_1.html?st=301&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:14:42,993 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1470624_1.html?st=307&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:14:48,226 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1500947_1.html?st=312&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:14:53,703 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1511006_1.html?st=308&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:14:58,321 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1517461_1.html?st=305&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:15:03,180 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1524077_1.html?st=303&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:15:08,404 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1498662_1.html?st=315&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:15:13,927 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1499508_1.html?st=314&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:15:19,109 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1499522_1.html?st=313&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:15:24,536 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1515374_1.html?st=306&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:15:29,803 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1518108_1.html?st=304&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:15:34,107 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29976/view_1526018_1.html?st=302&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:15:38,730 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1465236_1.html?st=328&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:15:43,828 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1483375_1.html?st=320&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:15:49,378 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1487198_1.html?st=319&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:15:54,910 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1463813_1.html?st=329&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:16:00,180 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1466999_1.html?st=324&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:16:04,931 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1477446_1.html?st=323&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:16:08,203 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1490849_1.html?st=318&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:16:11,844 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1495419_1.html?st=317&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:16:16,428 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1353792_1.html?st=326&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:16:22,540 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1463373_1.html?st=330&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:16:27,549 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1481393_1.html?st=321&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:16:31,153 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27320/view_1498298_1.html?st=316&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:16:34,105 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1465570_1.html?st=327&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:16:38,039 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1466639_1.html?st=325&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:16:41,805 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1477552_1.html?st=322&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:16:46,321 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_23.html?GradeEnum=0.
+2017-08-17 21:16:55,059 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_24.html?GradeEnum=0.
+2017-08-17 21:16:56,227 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1453981_1.html?st=336&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:17:02,295 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1455028_1.html?st=335&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:17:06,924 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1463189_1.html?st=331&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:17:10,920 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1444049_1.html?st=343&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:17:16,233 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1448556_1.html?st=340&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:17:21,542 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1450541_1.html?st=338&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:17:26,387 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1452180_1.html?st=337&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:17:31,562 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1458677_1.html?st=334&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:17:37,085 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1440420_1.html?st=345&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:17:41,002 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1442595_1.html?st=344&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:17:46,723 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1444223_1.html?st=342&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:17:52,308 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1444564_1.html?st=341&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:17:57,793 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27320/view_1448916_1.html?st=339&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:18:00,533 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1458785_1.html?st=333&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:18:05,892 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1463188_1.html?st=332&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:18:10,713 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1425269_1.html?st=356&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:18:16,536 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1435343_1.html?st=348&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:18:22,355 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1438565_1.html?st=346&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:18:27,742 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1425670_1.html?st=355&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:18:32,608 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1427866_1.html?st=353&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:18:37,509 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1433048_1.html?st=349&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:18:41,713 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1436809_1.html?st=347&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:18:46,858 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1421305_1.html?st=360&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:18:51,803 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1423528_1.html?st=358&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:18:57,184 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1423539_1.html?st=357&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:19:02,206 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1426634_1.html?st=354&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:19:06,808 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1421334_1.html?st=359&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:19:12,341 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1428070_1.html?st=352&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:19:15,852 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1431397_1.html?st=351&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:19:20,842 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28656/view_1432708_1.html?st=350&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:19:23,414 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_25.html?GradeEnum=0.
+2017-08-17 21:19:29,058 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_26.html?GradeEnum=0.
+2017-08-17 21:19:33,930 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1418407_1.html?st=363&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:19:38,032 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1418510_1.html?st=362&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:19:43,405 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1403745_1.html?st=372&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:19:48,487 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1413747_1.html?st=369&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:19:51,434 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1416657_1.html?st=366&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:19:57,283 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1409716_1.html?st=371&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:20:01,273 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1414270_1.html?st=368&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:20:07,345 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1416691_1.html?st=365&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:20:12,776 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1420031_1.html?st=361&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:20:19,607 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1395411_1.html?st=375&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:20:22,831 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1399727_1.html?st=374&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:20:28,615 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1399773_1.html?st=373&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:20:34,187 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1410762_1.html?st=370&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:20:36,842 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1417204_1.html?st=364&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:20:41,845 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28656/view_1415494_1.html?st=367&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:20:51,388 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/26201/view_1306076_1.html?st=387&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:20:52,069 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1369093_1.html?st=382&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:20:57,424 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1386198_1.html?st=379&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:21:02,832 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1393616_1.html?st=376&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:21:07,118 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1337625_1.html?st=384&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:21:12,382 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27319/view_1390954_1.html?st=377&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:21:18,177 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27320/view_1372724_1.html?st=381&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:21:22,494 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1294448_1.html?st=390&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:21:27,614 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1298271_1.html?st=389&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:21:31,006 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1303372_1.html?st=388&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:21:36,746 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1319569_1.html?st=386&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:21:42,450 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1336101_1.html?st=385&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:21:46,048 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1347952_1.html?st=383&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:21:51,611 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1373688_1.html?st=380&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:21:59,710 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27436/view_1387355_1.html?st=378&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:22:02,539 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/692/8710/index_27.html?GradeEnum=0.
+2017-08-17 21:22:05,801 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1288170_1.html?st=391&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:22:11,698 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27317/view_1286771_1.html?st=392&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:22:17,486 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27318/view_1283163_1.html?st=393&piap=0|692|8710|0|1|0|0|0|0|0|1.
+2017-08-17 21:22:17,523 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 21:22:17,944 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/4325/.
+2017-08-17 21:22:17,973 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 21:22:23,993 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/146/.
+2017-08-17 21:22:24,446 spider_autohome.py[line:71] INFO layer 2 url is: http://k.autohome.com.cn/146/9437/.
+2017-08-17 21:22:24,474 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 21:22:29,621 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/3170/.
+2017-08-17 21:22:29,923 spider_autohome.py[line:71] INFO layer 2 url is: http://k.autohome.com.cn/3170/9871/.
+2017-08-17 21:22:36,755 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/3170/9871/?gradeenum=0.
+2017-08-17 21:22:43,403 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/3170/9871/index_2.html?GradeEnum=0.
+2017-08-17 21:22:48,348 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30294/view_1677802_1.html?st=5&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:22:54,276 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30295/view_1676667_1.html?st=7&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:22:59,599 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30296/view_1669731_1.html?st=8&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:23:05,700 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30298/view_1676856_1.html?st=6&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:23:10,730 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30299/view_1650538_1.html?st=1&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:23:15,911 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30299/view_1668677_1.html?st=9&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:23:20,253 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30299/view_1678217_1.html?st=4&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:23:25,381 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30299/view_1680017_1.html?st=3&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:23:31,134 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30307/view_1680611_1.html?st=2&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:23:34,832 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30088/view_1649734_1.html?st=15&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:23:40,638 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30298/view_1667932_1.html?st=10&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:23:46,575 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30305/view_1616466_1.html?st=14&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:23:52,217 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30306/view_1654797_1.html?st=11&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:23:57,275 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30307/view_1653288_1.html?st=13&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:24:01,536 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30307/view_1654405_1.html?st=12&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:24:07,302 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30088/view_1574085_1.html?st=28&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:24:12,117 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30088/view_1648672_1.html?st=16&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:24:16,828 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30293/view_1644568_1.html?st=19&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:24:22,645 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30295/view_1647457_1.html?st=29&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:24:27,637 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30296/view_1620191_1.html?st=23&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:24:33,167 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30297/view_1646140_1.html?st=18&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:24:38,997 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30298/view_1604647_1.html?st=25&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:24:43,732 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30298/view_1608588_1.html?st=24&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:24:47,499 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30298/view_1633564_1.html?st=20&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:24:52,890 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30299/view_1594695_1.html?st=26&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:24:56,405 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30299/view_1627529_1.html?st=21&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:24:59,273 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30299/view_1676056_1.html?st=30&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:25:04,963 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30305/view_1590376_1.html?st=27&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:25:06,709 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30305/view_1623492_1.html?st=22&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:25:12,279 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30307/view_1646777_1.html?st=17&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:25:16,842 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/3170/9871/index_3.html?GradeEnum=0.
+2017-08-17 21:25:21,138 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/3170/9871/index_4.html?GradeEnum=0.
+2017-08-17 21:25:24,513 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30293/view_1668739_1.html?st=32&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:25:30,555 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30294/view_1624580_1.html?st=44&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:25:33,401 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30296/view_1640291_1.html?st=41&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:25:37,684 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30296/view_1641759_1.html?st=39&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:25:43,056 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30298/view_1620827_1.html?st=45&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:25:49,884 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30298/view_1625244_1.html?st=43&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:25:53,183 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30298/view_1641407_1.html?st=40&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:25:57,180 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30299/view_1629129_1.html?st=42&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:26:01,424 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30299/view_1655336_1.html?st=35&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:26:04,191 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30300/view_1657205_1.html?st=34&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:26:09,825 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30305/view_1616993_1.html?st=33&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:26:14,795 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30305/view_1651642_1.html?st=37&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:26:20,232 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30306/view_1648311_1.html?st=38&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:26:25,594 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30307/view_1631818_1.html?st=31&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:26:31,953 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30307/view_1653604_1.html?st=36&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:26:35,654 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30294/view_1589090_1.html?st=49&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:26:40,374 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30294/view_1591104_1.html?st=48&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:26:45,023 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30294/view_1658988_1.html?st=58&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:26:49,078 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30294/view_1676135_1.html?st=54&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:26:53,507 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30294/view_1682825_1.html?st=51&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:26:58,082 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30296/view_1658144_1.html?st=60&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:27:04,017 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30298/view_1607860_1.html?st=47&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:27:08,107 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30299/view_1587884_1.html?st=50&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:27:14,473 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30299/view_1658336_1.html?st=59&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:27:19,681 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30299/view_1672882_1.html?st=56&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:27:24,176 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30300/view_1675847_1.html?st=55&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:27:29,908 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30305/view_1669891_1.html?st=57&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:27:35,069 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30305/view_1676276_1.html?st=53&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:27:40,056 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30307/view_1611618_1.html?st=46&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:27:43,868 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30307/view_1679028_1.html?st=52&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:27:49,617 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/3170/9871/index_5.html?GradeEnum=0.
+2017-08-17 21:27:55,266 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30294/view_1656701_1.html?st=61&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:28:00,891 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30088/view_1635617_1.html?st=68&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:28:06,821 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30294/view_1626051_1.html?st=70&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:28:11,743 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30296/view_1632823_1.html?st=69&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:28:15,786 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30299/view_1589926_1.html?st=72&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:28:21,223 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30299/view_1648448_1.html?st=66&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:28:31,878 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30299/view_1650022_1.html?st=65&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:28:33,220 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30299/view_1650899_1.html?st=64&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:28:38,555 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30305/view_1604681_1.html?st=71&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:28:45,121 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30305/view_1639968_1.html?st=67&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:28:48,038 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30305/view_1651802_1.html?st=63&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:28:53,013 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30305/view_1653048_1.html?st=62&piap=0|3170|9871|0|1|0|0|0|0|0|1.
+2017-08-17 21:28:53,061 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 21:28:53,588 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/812/.
+2017-08-17 21:28:57,272 spider_autohome.py[line:71] INFO layer 2 url is: http://k.autohome.com.cn/812/9063/.
+2017-08-17 21:29:08,423 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/812/9063/?gradeenum=0.
+2017-08-17 21:29:13,845 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/812/9063/index_2.html?GradeEnum=0.
+2017-08-17 21:29:18,723 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1426219_1.html?st=5&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:29:24,627 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1431561_1.html?st=6&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:29:29,438 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1646349_1.html?st=9&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:29:33,551 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1649840_1.html?st=1&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:29:38,733 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1681861_1.html?st=2&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:29:43,236 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1651095_1.html?st=7&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:29:47,667 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1680460_1.html?st=3&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:29:51,325 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27904/view_1673173_1.html?st=4&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:29:57,121 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30962/view_1648249_1.html?st=8&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:30:01,477 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1409505_1.html?st=13&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:30:06,536 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1609826_1.html?st=15&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:30:12,013 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1472756_1.html?st=14&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:30:16,789 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1622848_1.html?st=12&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:30:22,664 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1629084_1.html?st=11&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:30:27,394 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1534648_1.html?st=10&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:30:33,061 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1550127_1.html?st=19&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:30:36,812 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1405898_1.html?st=30&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:30:42,137 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1423709_1.html?st=29&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:30:46,632 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1450905_1.html?st=26&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:30:50,348 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1467751_1.html?st=24&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:30:54,207 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1474633_1.html?st=23&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:30:58,148 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1482516_1.html?st=22&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:31:03,006 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1501914_1.html?st=21&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:31:06,391 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1532121_1.html?st=20&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:31:11,822 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1554459_1.html?st=18&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:31:16,691 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1559165_1.html?st=16&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:31:20,549 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1565342_1.html?st=17&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:31:25,812 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27904/view_1351484_1.html?st=28&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:31:28,657 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27904/view_1441444_1.html?st=27&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:31:33,178 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27904/view_1466070_1.html?st=25&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:31:39,121 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/812/9063/index_3.html?GradeEnum=0.
+2017-08-17 21:31:44,592 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/812/9063/index_4.html?GradeEnum=0.
+2017-08-17 21:31:46,641 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1323357_1.html?st=31&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:31:50,839 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1329324_1.html?st=32&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:31:55,986 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1680525_1.html?st=39&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:32:00,793 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1683368_1.html?st=35&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:32:06,763 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1675608_1.html?st=43&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:32:09,500 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1684148_1.html?st=34&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:32:13,815 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27904/view_1678952_1.html?st=40&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:32:19,151 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27905/view_1670155_1.html?st=45&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:32:23,240 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27905/view_1670282_1.html?st=44&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:32:29,191 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30961/view_1676042_1.html?st=42&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:32:34,673 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30961/view_1682116_1.html?st=37&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:32:40,914 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30961/view_1683066_1.html?st=36&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:32:46,025 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30963/view_1678168_1.html?st=41&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:32:51,477 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30963/view_1684588_1.html?st=33&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:32:56,233 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30964/view_1681591_1.html?st=38&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:32:59,484 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1548657_1.html?st=60&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:33:05,119 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1579311_1.html?st=58&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:33:11,256 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1630430_1.html?st=53&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:33:16,684 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1653067_1.html?st=49&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:33:21,773 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1457741_1.html?st=52&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:33:27,323 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1530563_1.html?st=57&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:33:32,782 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1583945_1.html?st=56&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:33:38,256 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1584174_1.html?st=55&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:33:43,088 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1581657_1.html?st=54&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:33:48,979 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27904/view_1559838_1.html?st=59&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:33:53,977 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30962/view_1646774_1.html?st=51&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:33:59,615 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30962/view_1664104_1.html?st=46&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:34:03,680 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30963/view_1647618_1.html?st=50&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:34:09,325 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30965/view_1654191_1.html?st=48&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:34:14,674 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30965/view_1655402_1.html?st=47&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:34:17,328 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/812/9063/index_5.html?GradeEnum=0.
+2017-08-17 21:34:22,665 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/812/9063/index_6.html?GradeEnum=0.
+2017-08-17 21:34:26,717 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1488476_1.html?st=67&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:34:31,124 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1519751_1.html?st=64&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:34:36,539 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1455788_1.html?st=75&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:34:42,078 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1457561_1.html?st=74&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:34:48,341 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1459926_1.html?st=73&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:34:52,640 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1461295_1.html?st=72&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:34:56,700 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1469197_1.html?st=71&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:35:00,230 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1472453_1.html?st=69&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:35:06,051 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1477936_1.html?st=68&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:35:15,239 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1489825_1.html?st=66&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:35:16,736 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1507173_1.html?st=65&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:35:23,122 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1333974_1.html?st=63&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:35:28,948 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1471035_1.html?st=70&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:35:34,017 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1529586_1.html?st=62&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:35:37,915 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27904/view_1508937_1.html?st=61&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:35:42,710 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1321955_1.html?st=89&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:35:45,964 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1413300_1.html?st=81&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:35:51,861 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1435591_1.html?st=79&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:35:57,907 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1439463_1.html?st=77&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:36:00,951 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1320630_1.html?st=90&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:36:07,015 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1334089_1.html?st=88&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:36:11,565 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1388747_1.html?st=85&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:36:15,986 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1402197_1.html?st=84&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:36:22,467 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1405459_1.html?st=83&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:36:40,792 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1451800_1.html?st=76&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:36:42,816 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1365930_1.html?st=87&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:36:47,526 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1407892_1.html?st=82&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:36:50,483 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1427744_1.html?st=80&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:36:54,619 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27904/view_1383884_1.html?st=86&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:37:00,002 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/812/9063/index_7.html?GradeEnum=0.
+2017-08-17 21:37:04,457 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/812/9063/index_8.html?GradeEnum=0.
+2017-08-17 21:37:10,710 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1317859_1.html?st=91&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:37:13,816 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1662228_1.html?st=99&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:37:18,059 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1669733_1.html?st=98&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:37:24,487 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1670643_1.html?st=97&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:37:28,944 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1509836_1.html?st=93&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:37:32,832 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1575334_1.html?st=96&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:37:38,546 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30962/view_1675415_1.html?st=95&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:37:43,325 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30962/view_1676468_1.html?st=94&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:37:48,849 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30962/view_1683553_1.html?st=92&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:37:54,200 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1606885_1.html?st=105&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:37:59,819 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1587013_1.html?st=104&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:38:04,158 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1609552_1.html?st=101&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:38:08,339 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1653925_1.html?st=102&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:38:13,884 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30962/view_1652130_1.html?st=103&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:38:20,743 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30962/view_1658544_1.html?st=100&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:38:23,822 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1556377_1.html?st=120&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:38:28,576 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1609710_1.html?st=112&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:38:34,533 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1428026_1.html?st=114&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:38:40,292 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1565348_1.html?st=119&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:38:44,563 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1567449_1.html?st=118&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:38:49,111 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1573017_1.html?st=117&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:38:54,535 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1586309_1.html?st=115&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:39:00,539 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1606000_1.html?st=113&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:39:04,628 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1615089_1.html?st=111&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:39:10,790 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1615519_1.html?st=110&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:39:14,551 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1618377_1.html?st=109&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:39:19,430 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1631713_1.html?st=107&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:39:25,230 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1635252_1.html?st=106&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:39:30,438 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1626793_1.html?st=108&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:39:34,987 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27904/view_1575759_1.html?st=116&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:39:39,984 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/812/9063/index_9.html?GradeEnum=0.
+2017-08-17 21:39:46,315 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/812/9063/index_10.html?GradeEnum=0.
+2017-08-17 21:39:50,102 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1502502_1.html?st=132&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:39:56,028 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1528339_1.html?st=127&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:40:00,193 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1530139_1.html?st=126&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:40:05,450 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1551610_1.html?st=123&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:40:11,220 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1553926_1.html?st=122&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:40:16,934 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1421107_1.html?st=121&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:40:22,257 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1490391_1.html?st=135&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:40:27,881 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1501696_1.html?st=133&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:40:31,974 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1505897_1.html?st=131&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:40:37,427 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1508979_1.html?st=130&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:40:42,825 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1522282_1.html?st=129&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:40:48,056 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1525207_1.html?st=128&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:40:53,131 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1533875_1.html?st=125&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:40:58,459 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1543824_1.html?st=124&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:41:03,874 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1498631_1.html?st=134&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:41:09,355 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1441558_1.html?st=149&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:41:11,806 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1462326_1.html?st=143&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:41:17,249 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1465249_1.html?st=141&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:41:23,696 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1316888_1.html?st=147&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:41:26,862 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1393278_1.html?st=144&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:41:32,605 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1442601_1.html?st=148&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:41:38,473 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1453569_1.html?st=146&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:41:44,188 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1455427_1.html?st=145&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:41:47,775 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1463729_1.html?st=142&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:41:53,306 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1466103_1.html?st=140&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:41:58,632 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1467922_1.html?st=139&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:42:01,801 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1473497_1.html?st=138&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:42:06,915 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1475533_1.html?st=137&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:42:10,842 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1476373_1.html?st=136&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:42:15,618 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1431353_1.html?st=150&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:42:20,450 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/812/9063/index_11.html?GradeEnum=0.
+2017-08-17 21:42:24,572 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/812/9063/index_12.html?GradeEnum=0.
+2017-08-17 21:42:28,029 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1423894_1.html?st=157&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:42:32,645 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1427523_1.html?st=154&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:42:39,322 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1348741_1.html?st=161&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:42:42,960 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1368660_1.html?st=151&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:42:48,276 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1405255_1.html?st=165&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:42:55,539 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1408285_1.html?st=164&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:42:58,549 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1408629_1.html?st=163&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:43:03,799 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1412408_1.html?st=162&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:43:09,167 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1414277_1.html?st=160&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:43:13,924 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1418014_1.html?st=158&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:43:18,117 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1424085_1.html?st=156&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:43:24,144 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1426038_1.html?st=155&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:43:27,509 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1428836_1.html?st=153&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:43:33,381 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1429804_1.html?st=152&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:43:37,671 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1416814_1.html?st=159&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:43:41,118 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1310778_1.html?st=180&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:43:48,505 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27901/view_1375293_1.html?st=173&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:43:52,576 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1311459_1.html?st=179&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:43:58,210 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1329412_1.html?st=178&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:44:09,993 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1345377_1.html?st=176&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:44:10,555 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1367880_1.html?st=175&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:44:15,069 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1371787_1.html?st=174&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:44:20,338 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1375998_1.html?st=172&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:44:24,157 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1390860_1.html?st=170&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:44:27,128 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1395329_1.html?st=169&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:44:32,355 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1395942_1.html?st=168&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:44:37,325 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1400197_1.html?st=166&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:44:41,217 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1333095_1.html?st=177&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:44:47,086 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1378845_1.html?st=171&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:44:52,224 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27903/view_1397534_1.html?st=167&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:44:57,826 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/812/9063/index_13.html?GradeEnum=0.
+2017-08-17 21:45:03,381 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1436669_1.html?st=78&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:45:07,573 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1305711_1.html?st=181&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 21:45:07,601 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 21:45:08,226 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/472/.
+2017-08-17 21:45:13,763 spider_autohome.py[line:71] INFO layer 2 url is: http://k.autohome.com.cn/472/9040/.
+2017-08-17 21:45:24,753 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/472/9040/?gradeenum=0.
+2017-08-17 21:45:29,686 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/472/9040/index_2.html?GradeEnum=0.
+2017-08-17 21:45:33,246 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27820/view_1346122_1.html?st=8&piap=0|472|9040|0|1|0|0|0|0|0|1.
+2017-08-17 21:45:37,687 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27820/view_1413664_1.html?st=5&piap=0|472|9040|0|1|0|0|0|0|0|1.
+2017-08-17 21:45:41,571 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27820/view_1426572_1.html?st=7&piap=0|472|9040|0|1|0|0|0|0|0|1.
+2017-08-17 21:45:46,173 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27820/view_1432749_1.html?st=4&piap=0|472|9040|0|1|0|0|0|0|0|1.
+2017-08-17 21:45:50,757 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27820/view_1482748_1.html?st=3&piap=0|472|9040|0|1|0|0|0|0|0|1.
+2017-08-17 21:45:56,596 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27820/view_1522769_1.html?st=6&piap=0|472|9040|0|1|0|0|0|0|0|1.
+2017-08-17 21:46:02,243 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27820/view_1543339_1.html?st=2&piap=0|472|9040|0|1|0|0|0|0|0|1.
+2017-08-17 21:46:08,266 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27820/view_1556510_1.html?st=1&piap=0|472|9040|0|1|0|0|0|0|0|1.
+2017-08-17 21:46:13,961 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27820/view_1682232_1.html?st=9&piap=0|472|9040|0|1|0|0|0|0|0|1.
+2017-08-17 21:46:18,818 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27820/view_1352361_1.html?st=15&piap=0|472|9040|0|1|0|0|0|0|0|1.
+2017-08-17 21:46:24,244 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27820/view_1498946_1.html?st=14&piap=0|472|9040|0|1|0|0|0|0|0|1.
+2017-08-17 21:46:28,134 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27820/view_1527036_1.html?st=13&piap=0|472|9040|0|1|0|0|0|0|0|1.
+2017-08-17 21:46:33,813 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27820/view_1584417_1.html?st=12&piap=0|472|9040|0|1|0|0|0|0|0|1.
+2017-08-17 21:46:39,032 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27820/view_1618026_1.html?st=11&piap=0|472|9040|0|1|0|0|0|0|0|1.
+2017-08-17 21:46:43,740 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27820/view_1626048_1.html?st=10&piap=0|472|9040|0|1|0|0|0|0|0|1.
+2017-08-17 21:46:49,737 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27820/view_1297577_1.html?st=17&piap=0|472|9040|0|1|0|0|0|0|0|1.
+2017-08-17 21:46:52,209 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27820/view_1345157_1.html?st=16&piap=0|472|9040|0|1|0|0|0|0|0|1.
+2017-08-17 21:46:52,255 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 21:46:53,091 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/740/.
+2017-08-17 21:46:58,367 spider_autohome.py[line:71] INFO layer 2 url is: http://k.autohome.com.cn/740/8859/.
+2017-08-17 21:47:09,575 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/740/8859/?gradeenum=0.
+2017-08-17 21:47:15,005 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/740/8859/index_2.html?GradeEnum=0.
+2017-08-17 21:47:18,223 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27970/view_1576937_1.html?st=7&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:47:21,711 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27971/view_1638429_1.html?st=5&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:47:27,323 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27972/view_1362584_1.html?st=9&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:47:33,434 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27972/view_1369437_1.html?st=4&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:47:38,798 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27973/view_1352444_1.html?st=3&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:47:42,309 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27973/view_1544903_1.html?st=8&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:47:48,224 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27973/view_1570263_1.html?st=2&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:47:52,753 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27973/view_1603630_1.html?st=6&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:47:57,253 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27974/view_1621431_1.html?st=1&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:48:02,720 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27970/view_1584622_1.html?st=15&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:48:07,917 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27971/view_1682631_1.html?st=12&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:48:13,000 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27972/view_1647003_1.html?st=14&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:48:18,937 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27973/view_1306864_1.html?st=11&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:48:23,980 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27973/view_1344961_1.html?st=10&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:48:29,213 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27974/view_1655576_1.html?st=13&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:48:34,403 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27970/view_1425610_1.html?st=23&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:48:38,000 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27971/view_1310048_1.html?st=25&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:48:43,765 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27971/view_1534815_1.html?st=20&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:48:48,479 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27971/view_1552332_1.html?st=17&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:48:52,542 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27971/view_1584229_1.html?st=16&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:48:58,259 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27972/view_1517975_1.html?st=21&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:49:00,513 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27972/view_1539678_1.html?st=19&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:49:06,046 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27973/view_1380028_1.html?st=24&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:49:09,568 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27973/view_1486153_1.html?st=22&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:49:15,295 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27973/view_1546276_1.html?st=18&piap=0|740|8859|0|1|0|0|0|0|0|1.
+2017-08-17 21:49:15,338 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 21:49:16,009 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/471/.
+2017-08-17 21:49:20,640 spider_autohome.py[line:71] INFO layer 2 url is: http://k.autohome.com.cn/471/9318/.
+2017-08-17 21:49:29,640 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/471/9318/?gradeenum=0.
+2017-08-17 21:49:35,163 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/471/9318/index_2.html?GradeEnum=0.
+2017-08-17 21:49:40,993 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1509654_1.html?st=6&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:49:45,328 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1612531_1.html?st=8&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:49:50,960 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1653657_1.html?st=1&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:49:56,680 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28682/view_1447001_1.html?st=7&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:50:01,891 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28682/view_1503001_1.html?st=2&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:50:07,894 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28682/view_1527319_1.html?st=5&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:50:14,000 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28682/view_1533657_1.html?st=3&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:50:18,865 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28682/view_1543723_1.html?st=4&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:50:24,535 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28682/view_1609433_1.html?st=9&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:50:29,200 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1527741_1.html?st=13&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:50:34,565 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1550683_1.html?st=12&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:50:38,427 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1572181_1.html?st=11&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:50:43,582 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1574173_1.html?st=10&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:50:49,279 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28682/view_1488900_1.html?st=14&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:50:54,411 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28682/view_1619840_1.html?st=15&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:50:59,239 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1447170_1.html?st=25&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:51:04,987 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1453855_1.html?st=24&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:51:10,778 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1463251_1.html?st=22&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:51:14,408 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1530148_1.html?st=21&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:51:20,101 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1562465_1.html?st=19&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:51:23,430 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1620140_1.html?st=17&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:51:28,405 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1667981_1.html?st=16&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:51:32,805 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28682/view_1458657_1.html?st=23&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:51:38,015 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28682/view_1540576_1.html?st=20&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:51:43,769 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28682/view_1619541_1.html?st=18&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 21:51:43,973 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 21:51:44,430 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/2730/.
+2017-08-17 21:51:50,117 spider_autohome.py[line:71] INFO layer 2 url is: http://k.autohome.com.cn/2730/8967/.
+2017-08-17 21:51:59,479 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/2730/8967/?gradeenum=0.
+2017-08-17 21:52:03,007 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/2730/8967/index_2.html?GradeEnum=0.
+2017-08-17 21:52:07,638 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1300513_1.html?st=4&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:52:12,790 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1396129_1.html?st=3&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:52:17,799 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1505560_1.html?st=2&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:52:22,880 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1537474_1.html?st=1&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:52:26,676 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1566605_1.html?st=5&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:52:35,996 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25914/view_1609252_1.html?st=9&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:52:37,717 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25914/view_1622768_1.html?st=8&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:52:42,638 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25914/view_1648629_1.html?st=7&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:52:47,176 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25914/view_1677889_1.html?st=6&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:52:51,888 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1286766_1.html?st=11&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:52:55,335 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1307983_1.html?st=12&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:53:01,059 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1460496_1.html?st=10&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:53:05,806 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1672027_1.html?st=13&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:53:11,161 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25914/view_1644729_1.html?st=15&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:53:16,236 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25914/view_1671290_1.html?st=14&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:53:20,783 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1283346_1.html?st=27&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:53:25,266 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1288668_1.html?st=26&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:53:30,668 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1298391_1.html?st=25&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:53:36,019 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1303752_1.html?st=20&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:53:41,351 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1306284_1.html?st=24&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:53:46,221 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1321839_1.html?st=23&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:53:49,191 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1430394_1.html?st=22&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:53:53,964 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1442165_1.html?st=21&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:53:58,532 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1452653_1.html?st=19&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:54:03,032 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1517694_1.html?st=18&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:54:08,203 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25912/view_1578788_1.html?st=17&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:54:13,434 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/25914/view_1575324_1.html?st=16&piap=0|2730|8967|0|1|0|0|0|0|0|1.
+2017-08-17 21:54:13,509 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 21:54:14,247 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/2739/.
+2017-08-17 21:54:14,282 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 21:54:19,823 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/19/.
+2017-08-17 21:54:19,851 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 21:54:23,144 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/18/.
+2017-08-17 21:54:23,536 spider_autohome.py[line:71] INFO layer 2 url is: http://k.autohome.com.cn/18/9092/.
+2017-08-17 21:54:31,625 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/18/9092/?gradeenum=0.
+2017-08-17 21:54:37,808 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/18/9092/index_2.html?GradeEnum=0.
+2017-08-17 21:54:41,421 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27954/view_1676247_1.html?st=9&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:54:45,056 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27954/view_1677564_1.html?st=7&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:54:50,782 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27956/view_1677726_1.html?st=6&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:54:54,536 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27956/view_1679075_1.html?st=5&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:55:00,326 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27956/view_1682515_1.html?st=2&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:55:05,079 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27958/view_1633139_1.html?st=8&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:55:08,476 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27958/view_1680705_1.html?st=4&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:55:13,413 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27958/view_1683130_1.html?st=1&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:55:19,338 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27959/view_1681792_1.html?st=3&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:55:23,456 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27954/view_1639217_1.html?st=14&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:55:28,323 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27955/view_1647094_1.html?st=13&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:55:33,492 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27957/view_1650909_1.html?st=12&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:55:38,770 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27957/view_1669793_1.html?st=10&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:55:43,489 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27958/view_1665082_1.html?st=11&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:55:48,401 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27959/view_1576360_1.html?st=15&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:55:54,750 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27954/view_1589431_1.html?st=25&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:55:59,157 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27954/view_1625543_1.html?st=18&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:56:04,186 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27956/view_1610492_1.html?st=22&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:56:10,954 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27957/view_1617289_1.html?st=19&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:56:12,513 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27958/view_1489516_1.html?st=29&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:56:16,493 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27958/view_1594280_1.html?st=23&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:56:21,681 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27958/view_1612136_1.html?st=21&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:56:25,714 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27959/view_1529135_1.html?st=26&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:56:31,709 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27959/view_1535916_1.html?st=27&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:56:37,308 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27959/view_1561766_1.html?st=30&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:56:43,045 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27959/view_1590423_1.html?st=24&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:56:49,592 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27959/view_1631499_1.html?st=17&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:56:52,819 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27959/view_1633583_1.html?st=16&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:56:57,829 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27960/view_1568547_1.html?st=28&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:57:04,198 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27960/view_1615735_1.html?st=20&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:57:07,154 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/18/9092/index_3.html?GradeEnum=0.
+2017-08-17 21:57:12,601 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/18/9092/index_4.html?GradeEnum=0.
+2017-08-17 21:57:18,108 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27954/view_1402130_1.html?st=43&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:57:20,615 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27954/view_1416829_1.html?st=42&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:57:26,408 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27954/view_1428933_1.html?st=41&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:57:31,871 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27954/view_1467044_1.html?st=39&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:57:40,887 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27954/view_1519465_1.html?st=31&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:57:42,742 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27954/view_1543691_1.html?st=34&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:57:46,938 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27955/view_1494118_1.html?st=37&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:57:52,138 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27955/view_1503494_1.html?st=32&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:57:56,144 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27957/view_1404000_1.html?st=40&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:58:00,845 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27958/view_1492951_1.html?st=38&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:58:05,303 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27958/view_1539478_1.html?st=35&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:58:10,759 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27958/view_1549693_1.html?st=33&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:58:15,865 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27959/view_1383033_1.html?st=44&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:58:21,434 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27959/view_1513951_1.html?st=36&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:58:26,608 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27960/view_1684626_1.html?st=45&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:58:32,255 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27954/view_1531955_1.html?st=59&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:58:36,089 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27954/view_1655216_1.html?st=60&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:58:40,862 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27954/view_1681765_1.html?st=50&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:58:46,387 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27955/view_1678162_1.html?st=54&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:58:50,076 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27955/view_1682249_1.html?st=48&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:58:53,993 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27956/view_1672133_1.html?st=55&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:58:58,789 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27956/view_1682037_1.html?st=49&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:59:04,030 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27956/view_1683219_1.html?st=47&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:59:09,789 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27957/view_1670159_1.html?st=56&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:59:13,665 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27957/view_1683447_1.html?st=46&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:59:19,664 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27958/view_1680529_1.html?st=53&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:59:24,809 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27959/view_1658437_1.html?st=58&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:59:29,832 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27959/view_1660290_1.html?st=57&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:59:35,667 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27959/view_1680706_1.html?st=52&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:59:38,924 spider_autohome.py[line:124] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27959/view_1681551_1.html?st=51&piap=0|18|9092|0|1|0|0|0|0|0|1.
+2017-08-17 21:59:43,884 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/18/9092/index_5.html?GradeEnum=0.

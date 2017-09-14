@@ -1,0 +1,40 @@
+2017-05-31 16:50:32,813 spiders.py[line:68] INFO Reading start URLs from redis key 'by:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 16:50:34,362 __init__.py[line:47] DEBUG Resuming crawl (10 requests scheduled)
+2017-05-31 16:50:35,424 spiders.py[line:95] DEBUG Read 1 requests from 'by:start_urls'
+2017-05-31 16:50:35,993 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_7lsskxc-sjtsxl.html.
+2017-05-31 16:50:57,650 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_8wsskxc-sjtsxl.html.
+2017-05-31 16:51:03,538 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_11dlc-dlsfhcxzx.html.
+2017-05-31 16:51:09,476 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_14scx-qcljjgscx.html.
+2017-05-31 16:51:14,937 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_6wsjgzx_XHAE76xl.html.
+2017-05-31 16:51:18,240 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_9lszxjgzx-ZH51xl.html.
+2017-05-31 16:51:20,931 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_12ptsjsxc_wssjtxc.html.
+2017-05-31 16:51:25,426 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_10skcc_bydwLBR370xl.html.
+2017-05-31 16:51:30,769 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_12ptsjsxc_jysksjtxc.html.
+2017-05-31 16:51:33,941 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_7lsskxc-XKA73sklzydcsxcxl.html.
+2017-05-31 16:51:38,224 spider_by.py[line:51] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs.html.
+2017-05-31 16:51:42,884 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_1sklmtxc-XKAVwzlmxl.html.
+2017-05-31 16:51:48,882 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_1sklmtxc-XKAU28czxslmxl.html.
+2017-05-31 16:51:53,086 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_1sklmtxc-dlgztyds-XKA21xl.html.
+2017-05-31 16:51:57,767 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_1sklmtxc-dlgztyds-XKA24xl.html.
+2017-05-31 16:52:02,469 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_1sklmtxc-dllmkjyds-XKA27xl.html.
+2017-05-31 16:52:06,924 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_1sklmtxc-dlgztyds-XHAE24-XKAE24xl.html.
+2017-05-31 16:52:12,857 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_3szlscx_T2xl.html.
+2017-05-31 16:52:17,990 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_3szlscx_T3xl.html.
+2017-05-31 16:52:23,285 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_2ptlmtxc_zdlmxc.html.
+2017-05-31 16:52:27,323 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_4ldt_skgjdldxtc.html.
+2017-05-31 16:52:32,638 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_5lsjgzx_XHA71xl.html.
+2017-05-31 16:52:37,335 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_5lsjgzx_jmlsjgzx.html.
+2017-05-31 16:52:42,125 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_6wsjgzx_XHAE76xl.html.
+2017-05-31 16:52:46,411 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_1sklmtxc-XRAN21dllmrxjgdy.html.
+2017-05-31 16:52:50,887 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_1sklmtxc-dlgztyds-XHAD24-XKAD24xl.html.
+2017-05-31 16:53:01,341 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_13hmj-B3HMzyxl.html.
+2017-05-31 16:53:06,009 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_6wsjgzx_TH63xl.html.
+2017-05-31 16:53:10,993 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_7lsskxc-sjtsxl.html.
+2017-05-31 16:53:16,141 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_8wsskxc-sjtsxl.html.
+2017-05-31 16:53:21,828 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_11dlc-dlsfhcxzx.html.
+2017-05-31 16:53:25,871 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_14scx-qcljjgscx.html.
+2017-05-31 16:53:29,167 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_9lszxjgzx-ZH51xl.html.
+2017-05-31 16:53:34,220 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_12ptsjsxc_wssjtxc.html.
+2017-05-31 16:53:39,782 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_10skcc_bydwLBR370xl.html.
+2017-05-31 16:53:44,575 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_12ptsjsxc_jysksjtxc.html.
+2017-05-31 16:53:48,065 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_7lsskxc-XKA73sklzydcsxcxl.html.

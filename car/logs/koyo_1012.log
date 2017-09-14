@@ -1,0 +1,8 @@
+2017-05-31 10:12:50,365 spiders.py[line:68] INFO Reading start URLs from redis key 'koyo:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 10:12:52,871 spiders.py[line:95] DEBUG Read 1 requests from 'koyo:start_urls'
+2017-05-31 10:12:53,062 spider_koyo.py[line:51] INFO step into layer1, url is: http://www.koyo.tw/a/chanpinxinxi/.
+2017-05-31 10:12:53,081 spider_koyo.py[line:85] ERROR layer1 failed, url is:(http://www.koyo.tw/a/chanpinxinxi/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_koyo.py", line 66, in parse
+    details = re.sub("<.*?>|\r|\n|\t|\xa0|\xae", "", details[i])
+IndexError: string index out of range
+)

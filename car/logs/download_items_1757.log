@@ -1,0 +1,233 @@
+2017-05-25 17:57:15,543 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'sv:items' (server: localhost, port: 6379)
+2017-05-25 18:00:58,046 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill 880 <http://www.sandvik.coromant.com/zh-cn/products/corodrill_880/Pages/default.aspx>
+2017-05-25 18:01:02,582 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill 460 <http://www.sandvik.coromant.com/zh-cn/products/corodrill_460/Pages/default.aspx>
+2017-05-25 18:01:07,615 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill 860 <http://www.sandvik.coromant.com/zh-cn/products/corodrill_860/Pages/default.aspx>
+2017-05-25 18:01:12,782 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill 861 <http://www.sandvik.coromant.com/zh-cn/products/corodrill_861/Pages/default.aspx>
+2017-05-25 18:01:17,255 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill 862 <http://www.sandvik.coromant.com/zh-cn/products/corodrill_862/Pages/default.aspx>
+2017-05-25 18:01:24,200 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroReamer 435 <http://www.sandvik.coromant.com/zh-cn/products/cororeamer_435/Pages/default.aspx>
+2017-05-25 18:01:32,941 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroReamer 835 <http://www.sandvik.coromant.com/zh-cn/products/cororeamer_835/Pages/default.aspx>
+2017-05-25 18:01:41,118 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTap 200 <http://www.sandvik.coromant.com/zh-cn/products/corotap_200/Pages/default.aspx>
+2017-05-25 18:01:56,151 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Auto FS <http://www.sandvik.coromant.com/zh-cn/products/auto_fs/Pages/default.aspx>
+2017-05-25 18:02:01,908 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 176 <http://www.sandvik.coromant.com/zh-cn/products/coromill_176/Pages/default.aspx>
+2017-05-25 18:02:05,105 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 177 <http://www.sandvik.coromant.com/zh-cn/products/coromill-177/Pages/default.aspx>
+2017-05-25 18:02:10,144 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max P <http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx>
+2017-05-25 18:02:16,063 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 245 <http://www.sandvik.coromant.com/zh-cn/products/coromill_245/Pages/default.aspx>
+2017-05-25 18:02:23,049 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 345 <http://www.sandvik.coromant.com/zh-cn/products/coromill_345/Pages/default.aspx>
+2017-05-25 18:02:26,861 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 425 <http://www.sandvik.coromant.com/zh-cn/products/coromill_425/Pages/default.aspx>
+2017-05-25 18:02:32,290 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 745 <http://www.sandvik.coromant.com/zh-cn/products/coromill_745/Pages/default.aspx>
+2017-05-25 18:02:36,948 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 161 <http://www.sandvik.coromant.com/zh-cn/products/coromill-161/Pages/default.aspx>
+2017-05-25 18:02:41,368 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 162 <http://www.sandvik.coromant.com/zh-cn/products/coromill-162/Pages/default.aspx>
+2017-05-25 18:02:45,390 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 170 <http://www.sandvik.coromant.com/zh-cn/products/coromill_170/Pages/default.aspx>
+2017-05-25 18:02:50,634 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 171 <http://www.sandvik.coromant.com/zh-cn/products/coromill-171/Pages/default.aspx>
+2017-05-25 18:02:56,486 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 172 <http://www.sandvik.coromant.com/zh-cn/products/coromill_172/Pages/default.aspx>
+2017-05-25 18:03:01,489 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 174 <http://www.sandvik.coromant.com/zh-cn/products/coromill_174/Pages/default.aspx>
+2017-05-25 18:03:04,197 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill Century <http://www.sandvik.coromant.com/zh-cn/products/coromill_century/Pages/default.aspx>
+2017-05-25 18:03:07,479 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn 107 <http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx>
+2017-05-25 18:03:12,983 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 171.4 <http://www.sandvik.coromant.com/zh-cn/products/coromill-171-4/Pages/default.aspx>
+2017-05-25 18:03:19,789 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 316 <http://www.sandvik.coromant.com/zh-cn/products/coromill_316/Pages/default.aspx>
+2017-05-25 18:03:24,150 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 326 <http://www.sandvik.coromant.com/zh-cn/products/coromill_326/Pages/default.aspx>
+2017-05-25 18:03:28,851 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 327 <http://www.sandvik.coromant.com/zh-cn/products/coromill_327/Pages/default.aspx>
+2017-05-25 18:03:33,930 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 495 <http://www.sandvik.coromant.com/zh-cn/products/coromill-495/Pages/default.aspx>
+2017-05-25 18:03:39,456 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 325 <http://www.sandvik.coromant.com/zh-cn/products/coromill_325/Pages/default.aspx>
+2017-05-25 18:03:44,861 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 326 <http://www.sandvik.coromant.com/zh-cn/products/coromill_326/Pages/default.aspx>
+2017-05-25 18:03:48,111 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 327 <http://www.sandvik.coromant.com/zh-cn/products/coromill_327/Pages/default.aspx>
+2017-05-25 18:03:53,769 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 328 <http://www.sandvik.coromant.com/zh-cn/products/coromill_328/Pages/default.aspx>
+2017-05-25 18:03:58,983 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 210 <http://www.sandvik.coromant.com/zh-cn/products/coromill_210/Pages/default.aspx>
+2017-05-25 18:04:03,706 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 316 <http://www.sandvik.coromant.com/zh-cn/products/coromill_316/Pages/default.aspx>
+2017-05-25 18:04:13,569 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 419 <http://www.sandvik.coromant.com/zh-cn/products/coromill_419/Pages/default.aspx>
+2017-05-25 18:04:17,601 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 745 <http://www.sandvik.coromant.com/zh-cn/products/coromill_745/Pages/default.aspx>
+2017-05-25 18:04:22,525 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 多盘铣刀 <http://www.sandvik.coromant.com/zh-cn/products/double-disc-cutters/Pages/default.aspx>
+2017-05-25 18:04:26,140 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill Plura <http://www.sandvik.coromant.com/zh-cn/products/coromill_plura/Pages/default.aspx>
+2017-05-25 18:04:31,042 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 200 <http://www.sandvik.coromant.com/zh-cn/products/coromill_200/Pages/default.aspx>
+2017-05-25 18:04:34,844 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 245 <http://www.sandvik.coromant.com/zh-cn/products/coromill_245/Pages/default.aspx>
+2017-05-25 18:04:38,236 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 357 <http://www.sandvik.coromant.com/zh-cn/products/coromill_357/Pages/default.aspx>
+2017-05-25 18:04:53,510 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 精加工盘铣刀 <http://www.sandvik.coromant.com/zh-cn/products/finishing-disc-cutters/Pages/default.aspx>
+2017-05-25 18:04:57,102 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill R840 <http://www.sandvik.coromant.com/zh-cn/products/corodrill-r840/Pages/default.aspx>
+2017-05-25 18:05:02,746 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill R846 <http://www.sandvik.coromant.com/zh-cn/products/corodrill-r846/Pages/default.aspx>
+2017-05-25 18:05:08,710 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: DuoBore 821/821D <http://www.sandvik.coromant.com/zh-cn/products/duobore/Pages/default.aspx>
+2017-05-25 18:05:12,549 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 枪钻 <http://www.sandvik.coromant.com/zh-cn/products/gundrills/Pages/default.aspx>
+2017-05-25 18:05:16,365 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill 870 <http://www.sandvik.coromant.com/zh-cn/products/corodrill_870/Pages/default.aspx>
+2017-05-25 18:05:22,003 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill 881 <http://www.sandvik.coromant.com/zh-cn/products/corodrill_881/Pages/default.aspx>
+2017-05-25 18:05:26,823 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn TR <http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx>
+2017-05-25 18:05:32,812 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill Plura <http://www.sandvik.coromant.com/zh-cn/products/coromill_plura/Pages/default.aspx>
+2017-05-25 18:05:38,256 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill Plura <http://www.sandvik.coromant.com/zh-cn/products/coromill_plura/Pages/default.aspx>
+2017-05-25 18:05:43,131 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 200 <http://www.sandvik.coromant.com/zh-cn/products/coromill_200/Pages/default.aspx>
+2017-05-25 18:05:47,309 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 210 <http://www.sandvik.coromant.com/zh-cn/products/coromill_210/Pages/default.aspx>
+2017-05-25 18:05:52,109 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 245 <http://www.sandvik.coromant.com/zh-cn/products/coromill_245/Pages/default.aspx>
+2017-05-25 18:05:57,779 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 300 <http://www.sandvik.coromant.com/zh-cn/products/coromill_300/Pages/default.aspx>
+2017-05-25 18:06:08,585 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 345 <http://www.sandvik.coromant.com/zh-cn/products/coromill_345/Pages/default.aspx>
+2017-05-25 18:06:13,677 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 365 <http://www.sandvik.coromant.com/zh-cn/products/coromill_365/Pages/default.aspx>
+2017-05-25 18:06:22,500 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 419 <http://www.sandvik.coromant.com/zh-cn/products/coromill_419/Pages/default.aspx>
+2017-05-25 18:06:28,061 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 490 <http://www.sandvik.coromant.com/zh-cn/products/coromill_490/Pages/default.aspx>
+2017-05-25 18:06:31,411 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut 1-2 <http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx>
+2017-05-25 18:06:36,056 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn 107 <http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx>
+2017-05-25 18:06:41,963 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Auto Rough <http://www.sandvik.coromant.com/zh-cn/products/auto_roughing/Pages/default.aspx>
+2017-05-25 18:06:47,532 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill S-60 <http://www.sandvik.coromant.com/zh-cn/products/coromill_s60/Pages/default.aspx>
+2017-05-25 18:06:52,733 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroBore 825 <http://www.sandvik.coromant.com/zh-cn/products/corobore_825_826/pages/default.aspx>
+2017-05-25 18:06:58,145 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroBore 826 HP <http://www.sandvik.coromant.com/zh-cn/products/corobore_826/pages/default.aspx>
+2017-05-25 18:07:07,026 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill 800 <http://www.sandvik.coromant.com/zh-cn/products/corodrill_800/Pages/default.aspx>
+2017-05-25 18:07:12,148 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill 801 <http://www.sandvik.coromant.com/zh-cn/products/corodrill_801/Pages/default.aspx>
+2017-05-25 18:07:16,947 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill 808 <http://www.sandvik.coromant.com/zh-cn/products/corodrill-808/Pages/default.aspx>
+2017-05-25 18:07:21,507 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill 818 <http://www.sandvik.coromant.com/zh-cn/products/corodrill_818/Pages/default.aspx>
+2017-05-25 18:07:25,585 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroBore 820 <http://www.sandvik.coromant.com/zh-cn/products/corobore_820/Pages/default.aspx>
+2017-05-25 18:07:43,128 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroBore 824 XS <http://www.sandvik.coromant.com/zh-cn/products/corobore-824-xs/pages/default.aspx>
+2017-05-25 18:07:47,529 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max U堆钻 <http://www.sandvik.coromant.com/zh-cn/products/t-max_u_stack_drill/Pages/default.aspx>
+2017-05-25 18:07:51,217 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 精镗头和R429镗杆 <http://www.sandvik.coromant.com/zh-cn/products/fine_boring_head_391_37_392_410/pages/default.aspx>
+2017-05-25 18:07:55,811 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max P <http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx>
+2017-05-25 18:07:59,315 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroBore 825/826 XL <http://www.sandvik.coromant.com/zh-cn/products/corobore_825_826_xl/pages/default.aspx>
+2017-05-25 18:08:01,326 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Coromant U <http://www.sandvik.coromant.com/zh-cn/products/coromant_u/Pages/default.aspx>
+2017-05-25 18:08:07,306 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max U <http://www.sandvik.coromant.com/zh-cn/products/t-max_u/Pages/default.aspx>
+2017-05-25 18:08:12,635 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut XS <http://www.sandvik.coromant.com/zh-cn/products/corocut_xs/Pages/default.aspx>
+2017-05-25 18:08:21,450 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn TR <http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx>
+2017-05-25 18:08:26,861 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn 107 <http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx>
+2017-05-25 18:08:31,753 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn 300 <http://www.sandvik.coromant.com/zh-cn/products/coroturn_300/pages/default.aspx>
+2017-05-25 18:08:37,019 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn SL <http://www.sandvik.coromant.com/zh-cn/products/coroturn_sl/Pages/default.aspx>
+2017-05-25 18:08:41,467 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 可乐满Capto <http://www.sandvik.coromant.com/zh-cn/products/coromant_capto/Pages/default.aspx>
+2017-05-25 18:08:50,563 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: QS刀柄系统 <http://www.sandvik.coromant.com/zh-cn/products/qs_holding_system/Pages/default.aspx>
+2017-05-25 18:08:54,095 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroBore 825 SL端面切槽刀具 <http://www.sandvik.coromant.com/zh-cn/products/corobore_825_sl/Pages/default.aspx>
+2017-05-25 18:10:32,638 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max P <http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx>
+2017-05-25 18:10:38,533 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroPlex MT <http://www.sandvik.coromant.com/zh-cn/products/coroplex_mt/Pages/default.aspx>
+2017-05-25 18:10:44,206 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 316 <http://www.sandvik.coromant.com/zh-cn/products/coromill_316/Pages/default.aspx>
+2017-05-25 18:10:50,002 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 390 <http://www.sandvik.coromant.com/zh-cn/products/coromill_390/Pages/default.aspx>
+2017-05-25 18:10:54,944 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 490 <http://www.sandvik.coromant.com/zh-cn/products/coromill_490/Pages/default.aspx>
+2017-05-25 18:11:00,193 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 690 <http://www.sandvik.coromant.com/zh-cn/products/coromill_690/Pages/default.aspx>
+2017-05-25 18:11:03,312 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 790 <http://www.sandvik.coromant.com/zh-cn/products/coromill_790/Pages/default.aspx>
+2017-05-25 18:11:07,844 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill QD <http://www.sandvik.coromant.com/zh-cn/products/coromill_qd/Pages/default.aspx>
+2017-05-25 18:11:10,232 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 327 <http://www.sandvik.coromant.com/zh-cn/products/coromill_327/Pages/default.aspx>
+2017-05-25 18:11:15,437 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 328 <http://www.sandvik.coromant.com/zh-cn/products/coromill_328/Pages/default.aspx>
+2017-05-25 18:11:20,480 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 329 <http://www.sandvik.coromant.com/zh-cn/products/coromill_329/Pages/default.aspx>
+2017-05-25 18:11:29,128 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max P <http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx>
+2017-05-25 18:11:32,627 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroPlex MT <http://www.sandvik.coromant.com/zh-cn/products/coroplex_mt/Pages/default.aspx>
+2017-05-25 18:11:35,910 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroPlex SL <http://www.sandvik.coromant.com/zh-cn/products/coroplex_sl/Pages/default.aspx>
+2017-05-25 18:11:46,959 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroPlex TT <http://www.sandvik.coromant.com/zh-cn/products/coroplex_TT/Pages/default.aspx>
+2017-05-25 18:11:52,717 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut XS <http://www.sandvik.coromant.com/zh-cn/products/corocut_xs/Pages/default.aspx>
+2017-05-25 18:11:57,112 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut MB <http://www.sandvik.coromant.com/zh-cn/products/corocut_mb/Pages/default.aspx>
+2017-05-25 18:12:01,862 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 316 <http://www.sandvik.coromant.com/zh-cn/products/coromill_316/Pages/default.aspx>
+2017-05-25 18:12:11,454 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 390 <http://www.sandvik.coromant.com/zh-cn/products/coromill_390/Pages/default.aspx>
+2017-05-25 18:12:17,069 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 490 <http://www.sandvik.coromant.com/zh-cn/products/coromill_490/Pages/default.aspx>
+2017-05-25 18:12:22,868 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 790 <http://www.sandvik.coromant.com/zh-cn/products/coromill_790/Pages/default.aspx>
+2017-05-25 18:12:28,559 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn XS <http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx>
+2017-05-25 18:12:34,381 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 模块化系统 – 可乐满EH <http://www.sandvik.coromant.com/zh-cn/products/coromant-eh/pages/default.aspx>
+2017-05-25 18:12:39,575 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut MB <http://www.sandvik.coromant.com/zh-cn/products/corocut_mb/Pages/default.aspx>
+2017-05-25 18:12:42,726 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max U-Lock <http://www.sandvik.coromant.com/zh-cn/products/t-max_u-lock/Pages/default.aspx>
+2017-05-25 18:12:47,937 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn TR <http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx>
+2017-05-25 18:12:51,917 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn XS <http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx>
+2017-05-25 18:12:56,743 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill Plura <http://www.sandvik.coromant.com/zh-cn/products/coromill_plura/Pages/default.aspx>
+2017-05-25 18:13:02,479 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill Plura <http://www.sandvik.coromant.com/zh-cn/products/coromill_plura/Pages/default.aspx>
+2017-05-25 18:13:07,233 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill Plura <http://www.sandvik.coromant.com/zh-cn/products/coromill_plura/Pages/default.aspx>
+2017-05-25 18:13:12,214 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroChuck 930 <http://www.sandvik.coromant.com/zh-cn/products/corochuck_930/pages/default.aspx>
+2017-05-25 18:13:16,961 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroChuck 970 <http://www.sandvik.coromant.com/zh-cn/products/corochuck-970/pages/default.aspx>
+2017-05-25 18:13:19,351 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn 107 <http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx>
+2017-05-25 18:13:23,473 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroThread 266 <http://www.sandvik.coromant.com/zh-cn/products/corothread_266/Pages/default.aspx>
+2017-05-25 18:13:29,121 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroThread 266 <http://www.sandvik.coromant.com/zh-cn/products/corothread_266/Pages/default.aspx>
+2017-05-25 18:13:32,740 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 可乐满Capto <http://www.sandvik.coromant.com/zh-cn/products/coromant_capto/pages/default.aspx>
+2017-05-25 18:13:37,204 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max Twin-Lock <http://www.sandvik.coromant.com/zh-cn/products/t-max_twin-lock/Pages/default.aspx>
+2017-05-25 18:13:41,688 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max Twin-Lock <http://www.sandvik.coromant.com/zh-cn/products/t-max_twin-lock/Pages/default.aspx>
+2017-05-25 18:13:47,555 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroPlex MT <http://www.sandvik.coromant.com/zh-cn/products/coroplex_mt/pages/default.aspx>
+2017-05-25 18:13:51,296 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroPlex SL <http://www.sandvik.coromant.com/zh-cn/products/coroplex_sl/pages/default.aspx>
+2017-05-25 18:13:59,079 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroPlex TT <http://www.sandvik.coromant.com/zh-cn/products/coroplex_tt/pages/default.aspx>
+2017-05-25 18:14:04,391 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: EasyFix <http://www.sandvik.coromant.com/zh-cn/products/easy-fix/pages/default.aspx>
+2017-05-25 18:14:09,440 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 刀具产品 <http://www.sandvik.coromant.com/zh-cn/products/Pages/boring-and-reaming-tools.aspx>
+2017-05-25 18:14:14,471 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 工具包 <http://www.sandvik.coromant.com/zh-cn/products/start-up-tool-kits/pages/default.aspx>
+2017-05-25 18:14:19,457 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max P <http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx>
+2017-05-25 18:14:24,894 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 模块化系统 – 可乐满EH <http://www.sandvik.coromant.com/zh-cn/products/coromant-eh/pages/default.aspx>
+2017-05-25 18:14:30,364 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn SL <http://www.sandvik.coromant.com/zh-cn/products/coroturn_sl/pages/default.aspx>
+2017-05-25 18:14:35,332 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 模块化系统 – 可乐满EH <http://www.sandvik.coromant.com/zh-cn/products/coromant-eh/pages/default.aspx>
+2017-05-25 18:14:41,030 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn SL <http://www.sandvik.coromant.com/zh-cn/products/coroturn_sl/pages/default.aspx>
+2017-05-25 18:14:45,664 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 模块化系统 – 可乐满EH <http://www.sandvik.coromant.com/zh-cn/products/coromant-eh/Pages/default.aspx>
+2017-05-25 18:14:51,575 download_items_from_redis.py[line:93] INFO [sv:items] Processing item:  什么是Silent Tools减振刀具？  <http://www.sandvik.coromant.com/zh-cn/products/silent_tools/pages/default.aspx>
+2017-05-25 18:14:56,404 download_items_from_redis.py[line:93] INFO [sv:items] Processing item:  什么是Silent Tools减振刀具？  <http://www.sandvik.coromant.com/zh-cn/products/silent_tools/pages/default.aspx>
+2017-05-25 18:15:01,815 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 390 <http://www.sandvik.coromant.com/zh-cn/products/coromill_390/Pages/default.aspx>
+2017-05-25 18:15:05,267 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 铣削用Silent Tools减振刀具 <http://www.sandvik.coromant.com/zh-cn/products/silent_tools_milling/Pages/default.aspx>
+2017-05-25 18:15:10,615 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroChuck 930 <http://www.sandvik.coromant.com/zh-cn/products/corochuck_930/pages/default.aspx>
+2017-05-25 18:15:15,753 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroChuck 970 <http://www.sandvik.coromant.com/zh-cn/products/corochuck-970/pages/default.aspx>
+2017-05-25 18:15:20,690 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut MB <http://www.sandvik.coromant.com/zh-cn/products/corocut_mb/Pages/default.aspx>
+2017-05-25 18:15:24,878 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 可乐满Capto <http://www.sandvik.coromant.com/zh-cn/products/coromant_capto/pages/default.aspx>
+2017-05-25 18:15:28,763 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 可乐满Capto <http://www.sandvik.coromant.com/zh-cn/products/coromant_capto/pages/default.aspx>
+2017-05-25 18:15:34,223 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn XS <http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx>
+2017-05-25 18:15:40,301 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn 107 <http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx>
+2017-05-25 18:15:45,783 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: EasyFix <http://www.sandvik.coromant.com/zh-cn/products/easy-fix/Pages/default.aspx>
+2017-05-25 18:15:51,596 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Turning inserts and grades for steel <http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-steel/pages/default.aspx>
+2017-05-25 18:15:56,456 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 200 <http://www.sandvik.coromant.com/zh-cn/products/coromill_200/Pages/default.aspx>
+2017-05-25 18:16:01,052 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 210 <http://www.sandvik.coromant.com/zh-cn/products/coromill_210/Pages/default.aspx>
+2017-05-25 18:16:06,940 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 216 <http://www.sandvik.coromant.com/zh-cn/products/coromill_216/Pages/default.aspx>
+2017-05-25 18:16:11,881 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 300 <http://www.sandvik.coromant.com/zh-cn/products/coromill_300/Pages/default.aspx>
+2017-05-25 18:16:16,585 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 316 <http://www.sandvik.coromant.com/zh-cn/products/coromill_316/Pages/default.aspx>
+2017-05-25 18:16:22,128 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 419 <http://www.sandvik.coromant.com/zh-cn/products/coromill_419/Pages/default.aspx>
+2017-05-25 18:16:26,130 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 600 <http://www.sandvik.coromant.com/zh-cn/products/CoroMill_600/Pages/default.aspx>
+2017-05-25 18:16:32,081 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Milling inserts and grades for steel <http://www.sandvik.coromant.com/zh-cn/products/milling-inserts-grades-steel/pages/default.aspx>
+2017-05-25 18:16:35,971 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Turning inserts and grades for steel <http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-steel/pages/default.aspx>
+2017-05-25 18:16:41,236 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill球头精加工 <http://www.sandvik.coromant.com/zh-cn/products/coromill_216f/Pages/default.aspx>
+2017-05-25 18:16:45,552 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: QS刀柄系统 <http://www.sandvik.coromant.com/zh-cn/products/qs_holding_system/pages/default.aspx>
+2017-05-25 18:16:51,377 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 工具包 <http://www.sandvik.coromant.com/zh-cn/products/start-up-tool-kits/pages/default.aspx>
+2017-05-25 18:16:55,553 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill Plura <http://www.sandvik.coromant.com/zh-cn/products/coromill_plura/Pages/default.aspx>
+2017-05-25 18:16:58,331 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 316 <http://www.sandvik.coromant.com/zh-cn/products/coromill_316/Pages/default.aspx>
+2017-05-25 18:17:04,017 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 326 <http://www.sandvik.coromant.com/zh-cn/products/coromill_326/Pages/default.aspx>
+2017-05-25 18:17:08,809 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 327 <http://www.sandvik.coromant.com/zh-cn/products/coromill_327/Pages/default.aspx>
+2017-05-25 18:17:13,881 download_items_from_redis.py[line:93] INFO [sv:items] Processing item:  机床适配夹紧单元 - MACU  <http://www.sandvik.coromant.com/zh-cn/products/machine-adapted-clamping-units/pages/default.aspx>
+2017-05-25 18:17:18,813 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn SL <http://www.sandvik.coromant.com/zh-cn/products/coroturn_sl/Pages/default.aspx>
+2017-05-25 18:17:21,630 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Turning inserts and grades for cast iron <http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-cast-iron/pages/default.aspx>
+2017-05-25 18:17:26,670 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Milling inserts and grades for cast iron <http://www.sandvik.coromant.com/zh-cn/products/milling-inserts-grades-cast-iron/pages/default.aspx>
+2017-05-25 18:17:31,586 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Turning inserts and grades for cast iron <http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-cast-iron/pages/default.aspx>
+2017-05-25 18:17:37,433 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 390 <http://www.sandvik.coromant.com/zh-cn/products/coromill_390/Pages/default.aspx>
+2017-05-25 18:17:42,036 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 690 <http://www.sandvik.coromant.com/zh-cn/products/coromill_690/Pages/default.aspx>
+2017-05-25 18:17:46,536 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: HSK <http://www.sandvik.coromant.com/zh-cn/products/hsk/pages/default.aspx>
+2017-05-25 18:17:51,845 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 可乐满Capto <http://www.sandvik.coromant.com/zh-cn/products/coromant_capto/Pages/default.aspx>
+2017-05-25 18:17:57,818 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Deep hole drilling inserts and grades <http://www.sandvik.coromant.com/zh-cn/products/deep-hole-drilling-inserts-grades/Pages/default.aspx>
+2017-05-25 18:18:01,388 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Turning inserts and grades for titanium and HRSA <http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-titanium-hrsa/pages/default.aspx>
+2017-05-25 18:18:06,220 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Short hole drilling inserts and grades <http://www.sandvik.coromant.com/zh-cn/products/short-hole-drilling-inserts-grades/Pages/default.aspx>
+2017-05-25 18:18:10,243 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Turning inserts and grades for hardened steel <http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-hardened-steel/pages/default.aspx>
+2017-05-25 18:18:16,200 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Milling inserts and grades for titanium and HRSA <http://www.sandvik.coromant.com/zh-cn/products/milling-inserts-grades-titanium-hrsa/pages/default.aspx>
+2017-05-25 18:18:21,542 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Turning inserts and grades for titanium and HRSA <http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-titanium-hrsa/pages/default.aspx>
+2017-05-25 18:18:25,707 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Turning inserts and grades for stainless steel <http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-stainless-steel/pages/default.aspx>
+2017-05-25 18:18:29,125 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Milling inserts and grades for hardened steel <http://www.sandvik.coromant.com/zh-cn/products/milling-inserts-grades-hardened-steel/pages/default.aspx>
+2017-05-25 18:18:33,704 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Turning inserts and grades for hardened steel <http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-hardened-steel/pages/default.aspx>
+2017-05-25 18:18:37,361 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Milling inserts and grades for stainless steel <http://www.sandvik.coromant.com/zh-cn/products/milling-inserts-grades-stainless-steel/pages/default.aspx>
+2017-05-25 18:18:42,460 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Turning inserts and grades for stainless steel <http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-stainless-steel/pages/default.aspx>
+2017-05-25 18:18:47,240 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: BIG-PLUS <http://www.sandvik.coromant.com/zh-cn/products/bigplus/pages/default.aspx>
+2017-05-25 18:18:52,141 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 车削用Silent Tools 减振刀具 <http://www.sandvik.coromant.com/zh-cn/products/silent_tools_turning/pages/default.aspx>
+2017-05-25 18:18:58,263 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Turning inserts and grades for non ferrous materials <http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-non-ferrous-materials/pages/default.aspx>
+2017-05-25 18:19:03,936 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Milling inserts and grades for non ferrous materials <http://www.sandvik.coromant.com/zh-cn/products/milling-inserts-grades-non-ferrous-materials/pages/default.aspx>
+2017-05-25 18:19:09,131 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: Turning inserts and grades for non ferrous materials <http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-non-ferrous-materials/pages/default.aspx>
+2017-05-25 18:20:00,426 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill Plura <http://www.sandvik.coromant.com/zh-cn/products/coromill_plura/Pages/default.aspx>
+2017-05-25 18:20:05,438 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 316 <http://www.sandvik.coromant.com/zh-cn/products/coromill_316/Pages/default.aspx>
+2017-05-25 18:20:09,835 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill 326 <http://www.sandvik.coromant.com/zh-cn/products/coromill_326/Pages/default.aspx>
+2017-05-25 18:20:20,280 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill 452 <http://www.sandvik.coromant.com/zh-cn/products/corodrill_452/Pages/default.aspx>
+2017-05-25 18:20:24,892 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill 854/856 <http://www.sandvik.coromant.com/zh-cn/products/corodrill_854_856/Pages/default.aspx>
+2017-05-25 18:20:30,272 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill 860 <http://www.sandvik.coromant.com/zh-cn/products/corodrill_860/Pages/default.aspx>
+2017-05-25 18:20:34,427 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill 861 <http://www.sandvik.coromant.com/zh-cn/products/corodrill_861/Pages/default.aspx>
+2017-05-25 18:20:36,864 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill 862 <http://www.sandvik.coromant.com/zh-cn/products/corodrill_862/Pages/default.aspx>
+2017-05-25 18:20:43,036 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTap 200 <http://www.sandvik.coromant.com/zh-cn/products/corotap_200/Pages/default.aspx>
+2017-05-25 18:20:58,969 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut 3 <http://www.sandvik.coromant.com/zh-cn/products/corocut_3/Pages/default.aspx>
+2017-05-25 18:21:01,799 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut 3 <http://www.sandvik.coromant.com/zh-cn/products/corocut_3/Pages/default.aspx>
+2017-05-25 18:21:05,489 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut Q <http://www.sandvik.coromant.com/zh-cn/products/corocut-qd/Pages/default.aspx>
+2017-05-25 18:21:10,473 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut XS <http://www.sandvik.coromant.com/zh-cn/products/corocut_xs/Pages/default.aspx>
+2017-05-25 18:21:15,943 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut 1-2 <http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx>
+2017-05-25 18:21:20,395 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill QD <http://www.sandvik.coromant.com/zh-cn/products/coromill_qd/Pages/default.aspx>
+2017-05-25 18:21:25,223 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut MB <http://www.sandvik.coromant.com/zh-cn/products/corocut_mb/Pages/default.aspx>
+2017-05-25 18:21:30,997 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut 1-2 <http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx>
+2017-05-25 18:21:35,861 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn XS <http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx>
+2017-05-25 18:21:41,849 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max Q-Cut <http://www.sandvik.coromant.com/zh-cn/products/t-max_q-cut/Pages/default.aspx>
+2017-05-25 18:21:47,647 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut 3 <http://www.sandvik.coromant.com/zh-cn/products/corocut_3/Pages/default.aspx>
+2017-05-25 18:21:53,671 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut Q <http://www.sandvik.coromant.com/zh-cn/products/corocut-qd/Pages/default.aspx>
+2017-05-25 18:21:57,601 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut XS <http://www.sandvik.coromant.com/zh-cn/products/corocut_xs/Pages/default.aspx>
+2017-05-25 18:22:02,811 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut MB <http://www.sandvik.coromant.com/zh-cn/products/corocut_mb/Pages/default.aspx>
+2017-05-25 18:22:07,566 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut Q <http://www.sandvik.coromant.com/zh-cn/products/corocut-qd/Pages/default.aspx>
+2017-05-25 18:22:10,349 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut 1-2 <http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx>
+2017-05-25 18:22:16,242 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut 1-2 <http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx>
+2017-05-25 18:22:21,361 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn XS <http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx>
+2017-05-25 18:22:25,380 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max Q-Cut <http://www.sandvik.coromant.com/zh-cn/products/t-max_q-cut/Pages/default.aspx>
+2017-05-25 18:22:29,161 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut MB <http://www.sandvik.coromant.com/zh-cn/products/corocut_mb/Pages/default.aspx>
+2017-05-25 18:22:33,990 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut 1-2 <http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx>
+2017-05-25 18:22:39,947 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut 1-2 <http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx>
+2017-05-25 18:22:44,051 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn XS <http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx>
+2017-05-25 18:22:49,989 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max Q-Cut <http://www.sandvik.coromant.com/zh-cn/products/t-max_q-cut/Pages/default.aspx>
+2017-05-25 18:22:55,503 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroThread 254 <http://www.sandvik.coromant.com/zh-cn/products/corothread_254/Pages/default.aspx>
+2017-05-25 18:23:01,101 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroThread 254 <http://www.sandvik.coromant.com/zh-cn/products/corothread_254/Pages/default.aspx>
+2017-05-25 18:23:12,563 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill 863 <http://www.sandvik.coromant.com/zh-cn/products/corodrill_863/Pages/default.aspx>
+2017-05-25 18:23:22,003 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill 460 <http://www.sandvik.coromant.com/zh-cn/products/corodrill_460/Pages/default.aspx>
+2017-05-25 18:23:27,424 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill R846 <http://www.sandvik.coromant.com/zh-cn/products/corodrill-r846/Pages/default.aspx>
+2017-05-25 18:23:33,115 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroMill Plura <http://www.sandvik.coromant.com/zh-cn/products/coromill_plura/Pages/default.aspx>
+2017-05-25 18:23:37,569 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroReamer 435 <http://www.sandvik.coromant.com/zh-cn/products/cororeamer_435/Pages/default.aspx>
+2017-05-25 18:23:43,401 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTap 200 <http://www.sandvik.coromant.com/zh-cn/products/corotap_200/Pages/default.aspx>
+2017-05-25 18:23:52,907 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroDrill R840 <http://www.sandvik.coromant.com/zh-cn/products/corodrill-r840/Pages/default.aspx>

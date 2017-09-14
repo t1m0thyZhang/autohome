@@ -1,0 +1,2 @@
+2017-05-29 17:30:01,947 spiders.py[line:68] INFO Reading start URLs from redis key 'knt:start_urls' (batch size: 16, encoding: utf-8
+2017-05-29 17:30:03,746 __init__.py[line:47] DEBUG Resuming crawl (510 requests scheduled)

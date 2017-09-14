@@ -1,0 +1,5 @@
+2017-05-24 17:12:40,351 spiders.py[line:68] INFO Reading start URLs from redis key 'ctz:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 17:12:40,841 spiders.py[line:95] DEBUG Read 8 requests from 'ctz:start_urls'
+2017-05-24 17:12:43,230 spider_ctz.py[line:59] INFO layer1 url is: http://www.ceratizit.com/products/metal-cutting/list/?category=6.
+2017-05-24 17:12:46,551 spider_ctz.py[line:59] INFO layer1 url is: http://www.ceratizit.com/products/metal-cutting/list/?category=9.
+2017-05-24 17:12:53,020 spider_ctz.py[line:59] INFO layer1 url is: http://www.ceratizit.com/products/metal-cutting/list/?category=4.

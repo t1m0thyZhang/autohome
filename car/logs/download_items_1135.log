@@ -1,0 +1,62 @@
+2017-05-26 11:35:55,538 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'kc1:items' (server: localhost, port: 6379)
+2017-05-26 11:35:56,578 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 内径加工用刀杆达耐美刀杆 <http://www.kyocera.com.cn/prdct/cuttingtool/product/holder/dm/>
+2017-05-26 11:35:56,595 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 内径加工用刀杆内径双重紧固刀杆 <http://www.kyocera.com.cn/prdct/cuttingtool/product/holder/w_cramp/>
+2017-05-26 11:35:56,595 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 高效率可换刀尖式钻头DRA型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/drill/dra/>
+2017-05-26 11:35:56,595 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 高性能模块化钻头DRC型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/drill/drc/>
+2017-05-26 11:35:56,611 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 高效率 可换钻尖式钻头DRV型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/drill/drv/>
+2017-05-26 11:35:56,611 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 自动车床用 对应大切深LD断屑槽 <http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/ld/>
+2017-05-26 11:35:56,611 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 高效率球头立铣刀2SEB型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/2seb/>
+2017-05-26 11:35:56,611 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 锪孔加工用刀具2ZDK型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/2zdk/>
+2017-05-26 11:35:56,611 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 铝加工用端铣刀3AFK型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/3afk/>
+2017-05-26 11:35:56,611 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 3坐标高效率立铣刀3ZFK型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/3zfk/>
+2017-05-26 11:35:56,625 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 超耐热合金加工用4JER型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/4jer/>
+2017-05-26 11:35:56,625 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 高效率球头立铣刀4TFK/4TFR型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/4tfk4tfr/>
+2017-05-26 11:35:56,625 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 高效率可换刀尖式钻头DRA型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/drill/dra/>
+2017-05-26 11:35:56,625 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 高性能模块化钻头DRC型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/drill/drc/>
+2017-05-26 11:35:56,651 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 高效率 可换钻尖式钻头DRV型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/drill/drv/>
+2017-05-26 11:35:56,661 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 高效率球头立铣刀2SEB型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/2seb/>
+2017-05-26 11:35:56,668 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 锪孔加工用刀具2ZDK型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/2zdk/>
+2017-05-26 11:35:56,678 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 铝加工用端铣刀3AFK型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/3afk/>
+2017-05-26 11:35:56,687 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 3坐标高效率立铣刀3ZFK型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/3zfk/>
+2017-05-26 11:35:56,696 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 超耐热合金加工用4JER型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/4jer/>
+2017-05-26 11:35:56,703 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 高效率球头立铣刀4TFK/4TFR型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/4tfk4tfr/>
+2017-05-26 11:35:56,713 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 高效率多刃立铣刀6PFK/8PFK <http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/6pfk8pfk/>
+2017-05-26 11:35:56,721 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 高进给、高效率立铣刀4MFK/4MFR型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/4mfk_4mfr/>
+2017-05-26 11:35:56,732 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 内径加工用刀杆达耐美刀杆 <http://www.kyocera.com.cn/prdct/cuttingtool/product/holder/dm/>
+2017-05-26 11:35:56,739 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 内径加工用刀杆内径双重紧固刀杆 <http://www.kyocera.com.cn/prdct/cuttingtool/product/holder/w_cramp/>
+2017-05-26 11:35:56,747 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 自动车床用 对应大切深LD断屑槽 <http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/ld/>
+2017-05-26 11:35:56,756 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 小内径加工用工具EZ刀杆系列 <http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/ezb/>
+2017-05-26 11:35:56,765 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 自动车床用 切槽加工工具GBF型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/gbf/>
+2017-05-26 11:35:56,772 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 切断工具自动车床用KGD型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/kgd/>
+2017-05-26 11:35:56,780 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 自动车床用刀杆空间刀杆 <http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/sph/>
+2017-05-26 11:35:56,788 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 小物部品加工用工具KTKF型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/ktkf/>
+2017-05-26 11:35:56,796 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 自动车床用3坐标锋利刀尖断屑槽系列 <http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/shap/>
+2017-05-26 11:35:56,803 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 带3坐标断屑槽背车工具空间刀杆 <http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/tkfb/>
+2017-05-26 11:35:56,812 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 星昂精密株式会社专用 背面加工用刀具法兰盘刀杆 <http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/flange/>
+2017-05-26 11:35:56,819 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 自动车床用切断、高压冷却液对应刀杆KTKF-JCT型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/ktkf-jct/>
+2017-05-26 11:35:56,826 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 小零件工具用MEGA涂层系列 <http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/megacoatsmall/>
+2017-05-26 11:35:56,834 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 仿形加工用VC断屑槽 <http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/vc/>
+2017-05-26 11:35:56,842 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 正角型修光刃刀片WP断屑槽 <http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/wp/>
+2017-05-26 11:35:56,848 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 钢加工用正角型正角型PP断屑槽 <http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/ppb/>
+2017-05-26 11:35:56,855 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 负角型修光刃刀片WE/WF断屑槽 <http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/we-wf/>
+2017-05-26 11:35:56,862 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 难削材加工用材质PR1535 <http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/pr1535/>
+2017-05-26 11:35:56,868 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 难切削材加工用材质PR13/SW系列 <http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/pr13_sw/>
+2017-05-26 11:35:56,877 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 钢加工用断屑槽P系列 <http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/pseries/>
+2017-05-26 11:35:56,882 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 铸铁加工用CVD涂层材质CA5系列 <http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/ca3series/>
+2017-05-26 11:35:56,890 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 钢加工用CVD涂层CA5系列 <http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/ca5series/>
+2017-05-26 11:35:56,898 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 混合金属陶瓷TN620/PV720 <http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/tn620pv720/>
+2017-05-26 11:35:56,904 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 正角90°铣刀MEC系列 <http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mec/>
+2017-05-26 11:35:56,911 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 双面4刀尖新一代立铣刀MEW型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mew/>
+2017-05-26 11:35:56,917 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 高效率多尖刀，圆弧刀铣刀MRW型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mrw/>
+2017-05-26 11:35:56,924 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 双面6刀尖规格90°铣刀MFWN型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mfwn/>
+2017-05-26 11:35:56,931 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 低阻力圆弧铣刀MRX型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mrx/>
+2017-05-26 11:35:56,937 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 双面10刀尖规格45°铣刀MFPN型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mfpn/>
+2017-05-26 11:35:56,944 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 附带振摆调整构造 铸铁加工用刀盘MFK-SF型 <http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mfk-sf/>
+2017-05-26 11:35:56,950 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 重切削用铣刀MSRS90 <http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/msrs90/>
+2017-05-26 11:35:56,961 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: X-Treme 卡夹对应X-TremeShank立铣刀 <http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/x-tream/>
+2017-05-26 11:35:56,966 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 高效率、高进给刀盘MFH系列 <http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mfh-series/>
+2017-05-26 11:35:56,971 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 长寿命、高效率加工液压阀体（铸铁）加工用解决方案 <http://www.kyocera.com.cn/prdct/cuttingtool/product/specially/oil_kua/>
+2017-05-26 11:35:56,979 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 尤尼莫克产品汽车行业用非标金刚石刀具 <http://www.kyocera.com.cn/prdct/cuttingtool/product/specially/pcd_kua/>
+2017-05-26 11:35:56,984 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 特注ダイヤモンド工具阀体加工用解决方案 <http://www.kyocera.com.cn/prdct/cuttingtool/product/specially/valve_kua/>
+2017-05-26 11:35:56,992 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 可对应多种多样的被削材航空航天产业用非标工具 <http://www.kyocera.com.cn/prdct/cuttingtool/product/specially/airplane_kua/>
+2017-05-26 11:35:56,997 download_items_from_redis.py[line:93] INFO [kc1:items] Processing item: 尤尼莫克非标金刚石刀具汽缸盖加工用解决方案 <http://www.kyocera.com.cn/prdct/cuttingtool/product/specially/cylinder_kua/>

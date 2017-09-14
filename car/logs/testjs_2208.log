@@ -1,0 +1,8 @@
+2017-06-07 22:08:27,061 spiders.py[line:68] INFO Reading start URLs from redis key 'testjs:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 22:08:29,694 spiders.py[line:95] DEBUG Read 1 requests from 'testjs:start_urls'
+2017-06-07 22:08:29,875 spider_testjs.py[line:54] INFO step into layer1, url is: http://www.nvc-lighting.com.cn/productCategory.html?fixedAttributeId=1000000000010201&fixedAttributeValue=%E5%AE%A2%E5%8E%85%E7%85%A7%E6%98%8E%E4%B8%93%E5%8C%BA.
+2017-06-07 22:08:30,055 spider_testjs.py[line:86] ERROR layer1 failed, url is:(http://www.nvc-lighting.com.cn/productCategory.html?fixedAttributeId=1000000000010201&fixedAttributeValue=%E5%AE%A2%E5%8E%85%E7%85%A7%E6%98%8E%E4%B8%93%E5%8C%BA), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_testjs.py", line 74, in parse
+    for id in ret['data']['list']['id']:
+TypeError: list indices must be integers, not str
+)

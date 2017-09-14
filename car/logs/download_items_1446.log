@@ -1,0 +1,21 @@
+2017-06-08 14:46:15,256 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'lesso:items' (server: localhost, port: 6379)
+2017-06-08 14:46:16,272 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: PE给水管 <http://www.lesso.com//product/25>
+2017-06-08 14:46:16,276 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: 抗冲改性聚氯乙烯 (PVC-M) 给水管 <http://www.lesso.com//product/25>
+2017-06-08 14:46:16,279 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: PP-R管 <http://www.lesso.com//product/25>
+2017-06-08 14:46:16,286 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: PVC-U给水管 <http://www.lesso.com//product/25>
+2017-06-08 14:46:16,289 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: 钢丝网骨架塑料 (PE) 复合管 <http://www.lesso.com//product/25>
+2017-06-08 14:46:16,296 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: PB给水管 (灰色) <http://www.lesso.com//product/25>
+2017-06-08 14:46:16,299 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: 铝塑复合管 <http://www.lesso.com//product/25>
+2017-06-08 14:46:16,302 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: 钢塑复合管 <http://www.lesso.com//product/25>
+2017-06-08 14:46:16,303 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: PE-RT给水管 <http://www.lesso.com//product/25>
+2017-06-08 14:46:16,305 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: PVC-C冷热饮水管 <http://www.lesso.com//product/25>
+2017-06-08 14:47:58,400 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: PVC-U给水管 <http://www.lesso.com//product/25>
+2017-06-08 14:47:58,434 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: PE给水管 <http://www.lesso.com//product/25>
+2017-06-08 14:47:58,483 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: 钢丝网骨架塑料 (PE) 复合管 <http://www.lesso.com//product/25>
+2017-06-08 14:47:58,484 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: 抗冲改性聚氯乙烯 (PVC-M) 给水管 <http://www.lesso.com//product/25>
+2017-06-08 14:47:58,486 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: 铝塑复合管 <http://www.lesso.com//product/25>
+2017-06-08 14:47:58,489 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: PP-R管 <http://www.lesso.com//product/25>
+2017-06-08 14:47:58,494 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: 钢塑复合管 <http://www.lesso.com//product/25>
+2017-06-08 14:47:58,499 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: PB给水管 (灰色) <http://www.lesso.com//product/25>
+2017-06-08 14:47:58,500 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: PE-RT给水管 <http://www.lesso.com//product/25>
+2017-06-08 14:47:58,500 download_items_from_redis.py[line:93] INFO [lesso:items] Processing item: PVC-C冷热饮水管 <http://www.lesso.com//product/25>

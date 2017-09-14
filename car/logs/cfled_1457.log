@@ -1,0 +1,10 @@
+2017-06-05 14:57:44,466 spiders.py[line:68] INFO Reading start URLs from redis key 'cfled:start_urls' (batch size: 16, encoding: utf-8
+2017-06-05 14:57:47,016 spiders.py[line:95] DEBUG Read 1 requests from 'cfled:start_urls'
+2017-06-05 14:57:55,632 spider_cfled.py[line:51] INFO step into layer1, url is: http://www.cfled.com/product.aspx.
+2017-06-05 14:58:00,312 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=27.
+2017-06-05 14:58:08,433 spider_cfled.py[line:97] ERROR layer2 failed, url is:(http://www.cfled.com/product1.aspx?CateId=27), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 81, in parse2
+    clstmp = re.sub("<.*?>|\r|\n|\t| ", "", "".join(clstmp))
+UnboundLocalError: local variable 'clstmp' referenced before assignment
+)
+2017-06-05 14:58:09,065 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=28.

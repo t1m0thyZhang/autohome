@@ -1,0 +1,9 @@
+2017-05-25 11:35:05,562 spiders.py[line:68] INFO Reading start URLs from redis key 'xww:start_urls' (batch size: 16, encoding: utf-8
+2017-05-25 11:35:08,525 spiders.py[line:95] DEBUG Read 1 requests from 'xww:start_urls'
+2017-05-25 11:35:08,729 xww.py[line:56] INFO step into layer1, url is: http://www.xawinway.com/front/product_type.shtml?productTypeId=cd1c0c8b8f0446cfb4ee4edfa482056b&productTypeName=%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%BC%B8%E5%AD%94%E7%B2%BE%E9%95%97%E5%88%80.
+2017-05-25 11:35:13,697 xww.py[line:74] INFO step into layer2, url is: http://www.xawinway.com:80/front/product_type.shtml?productTypeId=cd1c0c8b8f0446cfb4ee4edfa482056b&productTypeName=%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%BC%B8%E5%AD%94%E7%B2%BE%E9%95%97%E5%88%80.
+2017-05-25 11:35:20,566 xww.py[line:82] INFO request url: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=11956f0fc04c48a5af232f38616186d1.
+2017-05-25 11:35:20,723 xww.py[line:74] INFO step into layer2, url is: http://www.xawinway.com:80/front/product_type.shtml?productTypeId=94409d1ed98e4e9db326b932a51899d5&productTypeName=%E5%88%80%E7%89%87.
+2017-05-25 11:35:25,627 xww.py[line:74] INFO step into layer2, url is: http://www.xawinway.com:80/front/product_type.shtml?productTypeId=1d6dc74104614e5c993c620c0936b8e7&productTypeName=%E6%B1%BD%E8%BD%A6.
+2017-05-25 11:35:29,316 xww.py[line:82] INFO request url: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=ce024d2979964087ad5c6c36e86b051c.
+2017-05-25 11:35:29,505 xww.py[line:74] INFO step into layer2, url is: http://www.xawinway.com:80/front/product_type.shtml?productTypeId=397948f7b28c478cb30ef124b7b5b0ca&productTypeName=%E8%88%AA%E7%A9%BA.

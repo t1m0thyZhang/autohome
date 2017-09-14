@@ -1,0 +1,9 @@
+2017-06-02 11:43:34,996 spiders.py[line:68] INFO Reading start URLs from redis key 'opple:start_urls' (batch size: 16, encoding: utf-8
+2017-06-02 11:43:36,578 __init__.py[line:47] DEBUG Resuming crawl (7 requests scheduled)
+2017-06-02 11:43:37,621 spiders.py[line:95] DEBUG Read 2 requests from 'opple:start_urls'
+2017-06-02 11:43:39,523 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/297/?type=home.
+2017-06-02 11:44:20,786 spider_opple.py[line:126] ERROR layer1 failed, url is:(http://www.opple.com.cn/product/d/2/297/?type=home), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_opple.py", line 104, in parse2
+    level1 = response.meta["level1"]
+KeyError: 'level1'
+)

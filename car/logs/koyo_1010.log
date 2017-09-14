@@ -1,0 +1,11 @@
+2017-05-31 10:10:31,392 spiders.py[line:68] INFO Reading start URLs from redis key 'koyo:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 10:10:33,920 spiders.py[line:95] DEBUG Read 1 requests from 'koyo:start_urls'
+2017-05-31 10:10:34,186 spider_koyo.py[line:51] INFO step into layer1, url is: http://www.koyo.tw/a/chanpinxinxi/.
+2017-05-31 10:10:34,203 spider_koyo.py[line:85] ERROR layer1 failed, url is:(http://www.koyo.tw/a/chanpinxinxi/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_koyo.py", line 79, in parse
+    items.appent(item)
+AttributeError: 'list' object has no attribute 'appent'
+)
+2017-05-31 10:10:46,809 spiders.py[line:68] INFO Reading start URLs from redis key 'koyo:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 10:10:49,250 spiders.py[line:95] DEBUG Read 1 requests from 'koyo:start_urls'
+2017-05-31 10:10:49,436 spider_koyo.py[line:51] INFO step into layer1, url is: http://www.koyo.tw/a/chanpinxinxi/.

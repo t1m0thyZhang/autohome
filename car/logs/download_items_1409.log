@@ -1,0 +1,33 @@
+2017-06-06 14:09:27,974 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'sun:items' (server: localhost, port: 6379)
+2017-06-06 14:09:28,986 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 直线电机 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=583>
+2017-06-06 14:09:28,989 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 直线电机 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=583>
+2017-06-06 14:09:28,993 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 直线电机 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=583>
+2017-06-06 14:09:28,996 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 波峰焊 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=370>
+2017-06-06 14:09:28,999 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 波峰焊 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=372>
+2017-06-06 14:09:29,002 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 波峰焊 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=373>
+2017-06-06 14:09:29,005 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 波峰焊 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=573>
+2017-06-06 14:09:29,007 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 全自动PCB上料装置 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=385>
+2017-06-06 14:09:29,010 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 全自动PCB下料装置 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=386>
+2017-06-06 14:09:29,013 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 接驳台/接驳检查装置 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=402>
+2017-06-06 14:09:29,016 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 平行移载机 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=387>
+2017-06-06 14:09:29,019 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 储板机 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=388>
+2017-06-06 14:09:29,022 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: NG/OK 缓存机 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=391>
+2017-06-06 14:09:29,025 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: H系列-全自动高精度印刷机 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=343>
+2017-06-06 14:09:29,029 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: S系列-全自动视觉印刷机 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=348>
+2017-06-06 14:09:29,030 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: T系列-全自动视觉印刷机 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=349>
+2017-06-06 14:09:29,033 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 在线式高速点胶机 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=376>
+2017-06-06 14:09:29,036 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 在线式高速点胶机 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=377>
+2017-06-06 14:09:29,039 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 台式点胶机 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=382>
+2017-06-06 14:09:29,042 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 台式点胶机 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=383>
+2017-06-06 14:09:29,045 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 台式点胶机 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=384>
+2017-06-06 14:09:29,048 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 在线式高速点胶机 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=572>
+2017-06-06 14:09:29,049 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 在线式电磁泵选择性波峰焊 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=401>
+2017-06-06 14:09:29,052 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 在线式独立焊接机 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=597>
+2017-06-06 14:09:29,055 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: T系列-全自动视觉印刷机 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=571>
+2017-06-06 14:09:29,059 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 回流炉 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=394>
+2017-06-06 14:09:29,062 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 回流炉 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=398>
+2017-06-06 14:09:29,066 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 回流炉 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=399>
+2017-06-06 14:09:29,069 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 回流炉 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=400>
+2017-06-06 14:09:29,075 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 回流炉 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=419>
+2017-06-06 14:09:29,082 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 回流焊 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=574>
+2017-06-06 14:15:46,423 download_items_from_redis.py[line:93] INFO [sun:items] Processing item: 波峰焊 <http://www.suneast.com.cn/index.php?ac=article&at=read&did=370>

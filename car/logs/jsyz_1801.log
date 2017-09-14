@@ -1,0 +1,6 @@
+2017-06-06 18:01:10,737 spiders.py[line:68] INFO Reading start URLs from redis key 'jsyz:start_urls' (batch size: 16, encoding: utf-8
+2017-06-06 18:01:12,233 __init__.py[line:47] DEBUG Resuming crawl (1 requests scheduled)
+2017-06-06 18:01:13,306 spiders.py[line:95] DEBUG Read 1 requests from 'jsyz:start_urls'
+2017-06-06 18:01:13,707 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3627.
+2017-06-06 18:02:14,928 spider_jsyz.py[line:53] INFO step into layer1, url is: http://www.jiangsuyz.com/product.asp?page=1.
+2017-06-06 18:02:20,665 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3639.

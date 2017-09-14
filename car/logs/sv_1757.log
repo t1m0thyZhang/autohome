@@ -1,0 +1,10 @@
+2017-05-25 17:57:08,519 spiders.py[line:68] INFO Reading start URLs from redis key 'sv:start_urls' (batch size: 16, encoding: utf-8
+2017-05-25 17:57:11,395 spiders.py[line:95] DEBUG Read 11 requests from 'sv:start_urls'
+2017-05-25 17:57:14,046 spider_sv.py[line:66] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/drilling-tools.aspx.
+2017-05-25 17:57:16,664 spider_sv.py[line:66] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/digital-machining.aspx.
+2017-05-25 17:57:21,131 spider_sv.py[line:66] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/boring-and-reaming-tools.aspx.
+2017-05-25 17:57:26,358 spider_sv.py[line:66] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/turning-tools.aspx.
+2017-05-25 17:57:30,187 spider_sv.py[line:66] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/tooling-systems.aspx.
+2017-05-25 17:57:36,161 spider_sv.py[line:66] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/industrysolutions/small_part_machining/pages/default.aspx.
+2017-05-25 17:57:41,269 spider_sv.py[line:66] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/solid-round-tools.aspx.
+2017-05-25 17:57:44,127 spider_sv.py[line:66] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/Parting-and-grooving-tools.aspx.

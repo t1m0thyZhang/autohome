@@ -1,0 +1,9 @@
+2017-06-08 16:28:37,760 spiders.py[line:68] INFO Reading start URLs from redis key 'zjkx:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 16:28:40,471 spiders.py[line:95] DEBUG Read 1 requests from 'zjkx:start_urls'
+2017-06-08 16:28:41,094 spider_kluke.py[line:53] INFO url is: http://www.kluke.com.cn/chanpinzhanshi/index.aspx.
+2017-06-08 16:28:55,608 spider_kluke.py[line:68] INFO url is: http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/gangxingqingzaiqizhongxitong/index.aspx.
+2017-06-08 16:29:06,628 spider_kluke.py[line:68] INFO url is: http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/xuanbiqizhongxitong/index.aspx.
+2017-06-08 16:29:08,535 spider_kluke.py[line:68] INFO url is: http://www.kluke.com.cn/chanpinzhanshi/hulu/diandonghulu/index.aspx.
+2017-06-08 16:29:12,743 spider_kluke.py[line:68] INFO url is: http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/tongyongqiaoshiqizhongji/index.aspx.
+2017-06-08 16:29:17,897 spider_kluke.py[line:68] INFO url is: http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/zhinengpinghengxitongjijiaju/index.aspx.
+2017-06-08 16:29:24,006 spider_kluke.py[line:68] INFO url is: http://www.kluke.com.cn/chanpinzhanshi/hulu/qidonghulu/index.aspx.

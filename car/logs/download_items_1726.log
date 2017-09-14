@@ -1,0 +1,11 @@
+2017-06-08 17:26:53,990 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'pst:items' (server: localhost, port: 6379)
+2017-06-08 17:26:55,030 download_items_from_redis.py[line:93] INFO [pst:items] Processing item: 毛细管 <http://www.pousto.com.cn/pros_show-252-1156.aspx>
+2017-06-08 17:26:55,033 download_items_from_redis.py[line:93] INFO [pst:items] Processing item: 毛细管 <http://www.pousto.com.cn/pros_show-252-1156.aspx>
+2017-06-08 17:26:55,038 download_items_from_redis.py[line:93] INFO [pst:items] Processing item: 在线咨询 <http://www.pousto.com.cn/pros_show-39-499.aspx>
+2017-06-08 17:26:55,040 download_items_from_redis.py[line:93] INFO [pst:items] Processing item: 立式液压千斤顶 <http://www.pousto.com.cn/pros_show-223-742.aspx>
+2017-06-08 17:26:55,043 download_items_from_redis.py[line:93] INFO [pst:items] Processing item: 在线咨询 <http://www.pousto.com.cn/pros_show-212-915.aspx>
+2017-06-08 17:30:26,058 download_items_from_redis.py[line:93] INFO [pst:items] Processing item: 样 <http://www.pousto.com.cn/pros_show-252-1156.aspx>
+2017-06-08 17:30:31,203 download_items_from_redis.py[line:93] INFO [pst:items] Processing item: 防 <http://www.pousto.com.cn/pros_show-39-499.aspx>
+2017-06-08 17:30:33,901 download_items_from_redis.py[line:93] INFO [pst:items] Processing item: 机 <http://www.pousto.com.cn/pros_show-212-915.aspx>
+2017-06-08 17:30:37,769 download_items_from_redis.py[line:93] INFO [pst:items] Processing item: 千 <http://www.pousto.com.cn/pros_show-223-742.aspx>
+2017-06-08 17:30:42,536 download_items_from_redis.py[line:93] INFO [pst:items] Processing item: 样 <http://www.pousto.com.cn/pros_show-252-1156.aspx>

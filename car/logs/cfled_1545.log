@@ -1,0 +1,10 @@
+2017-06-05 15:45:29,381 spiders.py[line:68] INFO Reading start URLs from redis key 'cfled:start_urls' (batch size: 16, encoding: utf-8
+2017-06-05 15:45:30,920 __init__.py[line:47] DEBUG Resuming crawl (6 requests scheduled)
+2017-06-05 15:45:32,013 spiders.py[line:95] DEBUG Read 1 requests from 'cfled:start_urls'
+2017-06-05 15:45:32,707 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=444.
+2017-06-05 15:46:05,762 spider_cfled.py[line:97] ERROR layer2 failed, url is:(http://www.cfled.com/product1.aspx?CateId=444), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 86, in parse2
+    detail = level[1]
+IndexError: string index out of range
+)
+2017-06-05 15:46:06,269 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=445.

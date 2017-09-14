@@ -1,0 +1,4 @@
+2017-05-31 11:31:20,861 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'tmd:items' (server: localhost, port: 6379)
+2017-05-31 11:31:53,352 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'tmb:items' (server: localhost, port: 6379)
+2017-05-31 11:31:54,369 download_items_from_redis.py[line:93] INFO [tmb:items] Processing item: 深沟球轴承 <http://www.tmb.net.cn/products_detail/productId=21.html>
+2017-05-31 11:33:20,256 download_items_from_redis.py[line:93] INFO [tmb:items] Processing item: 深沟球轴承 <http://www.tmb.net.cn/products_detail/productId=21.html>

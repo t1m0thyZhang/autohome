@@ -1,0 +1,2 @@
+2017-06-05 10:35:52,226 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'osram:items' (server: localhost, port: 6379)
+2017-06-05 10:35:53,240 download_items_from_redis.py[line:93] INFO [osram:items] Processing item: PrevaLED Core AC PRO <http://www.osram.com.cn/osram_cn/products/led-technology/light-engines-and-modules/spot-%2c-down-and-wallmount-light-engines-and-modules/prevaled-core-ac-pro/index.jsp>

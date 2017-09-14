@@ -1,0 +1,4 @@
+2017-06-07 11:40:11,901 spiders.py[line:68] INFO Reading start URLs from redis key 'huarun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 11:40:14,437 spiders.py[line:95] DEBUG Read 1 requests from 'huarun:start_urls'
+2017-06-07 11:40:14,729 spider_huarun.py[line:67] INFO url is: http://www.huarun.com/product/productWall/?t=26.
+2017-06-07 11:47:34,460 spider_huarun.py[line:90] INFO url is: http://www.huarun.com/product/productDetail/?p=187.

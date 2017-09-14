@@ -1,0 +1,6 @@
+2017-06-08 17:15:09,773 spiders.py[line:68] INFO Reading start URLs from redis key 'pst:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 17:15:14,687 spiders.py[line:95] DEBUG Read 16 requests from 'pst:start_urls'
+2017-06-08 17:15:14,789 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-3.aspx.
+2017-06-08 17:15:22,595 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-76.aspx.
+2017-06-08 17:15:31,596 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-100.aspx.
+2017-06-08 17:15:34,210 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-11.aspx.

@@ -1,0 +1,18 @@
+2017-05-31 10:44:12,381 spiders.py[line:68] INFO Reading start URLs from redis key 'nsk:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 10:44:14,923 spiders.py[line:95] DEBUG Read 1 requests from 'nsk:start_urls'
+2017-05-31 10:44:15,798 spider_nsk.py[line:53] INFO step into layer1, url is: http://www.cn.nsk.com/products/epsteel.html.
+2017-05-31 10:44:19,270 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/ballbearing/deepgroove/.
+2017-05-31 10:44:57,762 spider_nsk.py[line:100] ERROR layer3 failed: failed to write into item, url is:(http://www.cn.nsk.com/products/ballbearing/deepgroove/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_nsk.py", line 81, in parse2
+    clstmp = response.xpath("//title()").extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //title()
+)

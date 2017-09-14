@@ -1,0 +1,20 @@
+2017-05-31 14:16:03,186 spiders.py[line:68] INFO Reading start URLs from redis key 'ruili:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 14:16:05,740 spiders.py[line:95] DEBUG Read 1 requests from 'ruili:start_urls'
+2017-05-31 14:16:06,927 spider_ruili.py[line:55] INFO step into layer1, url is: http://www.rljc.net/product_148.html.
+2017-05-31 14:16:10,855 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_50_148.html.
+2017-05-31 14:16:26,630 spider_ruili.py[line:102] ERROR layer1 failed, url is:(http://www.rljc.net/product_view_50_148.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ruili.py", line 79, in parse2
+    detail = detail.split("规格型号")[0]
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe8 in position 0: ordinal not in range(128)
+)
+2017-05-31 14:16:26,832 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_46_148.html.
+2017-05-31 14:16:51,496 spiders.py[line:68] INFO Reading start URLs from redis key 'ruili:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 14:16:53,941 spiders.py[line:95] DEBUG Read 1 requests from 'ruili:start_urls'
+2017-05-31 14:16:54,269 spider_ruili.py[line:55] INFO step into layer1, url is: http://www.rljc.net/product_148.html.
+2017-05-31 14:16:59,207 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_46_148.html.
+2017-05-31 14:17:05,091 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_47_148.html.
+2017-05-31 14:17:09,920 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_50_148.html.
+2017-05-31 14:17:14,875 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_48_148.html.
+2017-05-31 14:17:19,834 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_49_148.html.
+2017-05-31 14:17:23,954 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_51_148.html.
+2017-05-31 14:17:29,862 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_52_148.html.

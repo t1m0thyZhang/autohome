@@ -1,0 +1,19 @@
+2017-05-25 11:26:10,617 download_items_from_redis.py[line:112] INFO [process id 0] start to download items in 'xww:items' (server: localhost, port: 6379)
+2017-05-25 11:26:11,641 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:26:12,671 download_items_from_redis.py[line:48] ERROR failed to download image(url: http://125.76.249.115:8085/wwweb/upload/images/1485056109448.jpg ), retry_num:1 reason:<urlopen error timed out>
+2017-05-25 11:26:13,683 download_items_from_redis.py[line:48] ERROR failed to download image(url: http://125.76.249.115:8085/wwweb/upload/images/1485056109448.jpg ), retry_num:2 reason:<urlopen error timed out>
+2017-05-25 11:26:14,683 download_items_from_redis.py[line:48] ERROR failed to download image(url: http://125.76.249.115:8085/wwweb/upload/images/1485056109448.jpg ), retry_num:3 reason:<urlopen error timed out>
+2017-05-25 11:26:14,683 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:26:14,996 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:26:15,338 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:26:15,542 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:26:15,730 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:30:25,539 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:30:26,539 download_items_from_redis.py[line:48] ERROR failed to download image(url: http://125.76.249.115:8085/wwweb/upload/images/1485056109448.jpg ), retry_num:1 reason:<urlopen error timed out>
+2017-05-25 11:30:27,546 download_items_from_redis.py[line:48] ERROR failed to download image(url: http://125.76.249.115:8085/wwweb/upload/images/1485056109448.jpg ), retry_num:2 reason:<urlopen error timed out>
+2017-05-25 11:30:28,562 download_items_from_redis.py[line:48] ERROR failed to download image(url: http://125.76.249.115:8085/wwweb/upload/images/1485056109448.jpg ), retry_num:3 reason:<urlopen error timed out>
+2017-05-25 11:30:29,556 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:30:35,217 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:30:41,177 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:30:45,757 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:30:51,690 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>

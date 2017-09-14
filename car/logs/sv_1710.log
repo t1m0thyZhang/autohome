@@ -1,0 +1,14 @@
+2017-05-25 17:10:25,500 spiders.py[line:68] INFO Reading start URLs from redis key 'sv:start_urls' (batch size: 16, encoding: utf-8
+2017-05-25 17:10:28,326 spiders.py[line:95] DEBUG Read 1 requests from 'sv:start_urls'
+2017-05-25 17:10:30,273 spider_sv.py[line:55] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/turning-tools.aspx.
+2017-05-25 17:10:33,858 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/external-turning-tools.aspx.
+2017-05-25 17:10:39,589 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/heavy-turning-tools.aspx.
+2017-05-25 17:10:45,476 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/internal-turning-tools.aspx.
+2017-05-25 17:10:51,112 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/multi-task-machining-tools.aspx.
+2017-05-25 17:10:55,773 spider_sv.py[line:92] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_prime/Pages/default.aspx.
+2017-05-25 17:11:01,250 spider_sv.py[line:92] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx.
+2017-05-25 17:11:05,323 spider_sv.py[line:92] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_prime/Pages/default.aspx.
+2017-05-25 17:11:10,846 spider_sv.py[line:92] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx.
+2017-05-25 17:11:16,256 spider_sv.py[line:92] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx.
+2017-05-25 17:11:20,010 spider_sv.py[line:92] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_300/pages/default.aspx.
+2017-05-25 17:11:25,164 spider_sv.py[line:92] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx.

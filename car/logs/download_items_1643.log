@@ -1,0 +1,5 @@
+2017-06-06 16:43:17,364 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'eyc:items' (server: localhost, port: 6379)
+2017-06-06 16:43:18,382 download_items_from_redis.py[line:93] INFO [eyc:items] Processing item: ZCB-B系列齿轮泵 <http://www.eyc.cn/pro_det.asp?info_kind=001003001&ID=44&cp_id=1711>
+2017-06-06 16:43:18,384 download_items_from_redis.py[line:93] INFO [eyc:items] Processing item: GPA系列内啮合齿轮泵 <http://www.eyc.cn/pro_det.asp?info_kind=001006001&ID=77&cp_id=1745>
+2017-06-06 16:43:18,385 download_items_from_redis.py[line:93] INFO [eyc:items] Processing item: CVT摆线齿轮泵 <http://www.eyc.cn/pro_det.asp?info_kind=001004001&ID=56&cp_id=1727>
+2017-06-06 16:43:18,387 download_items_from_redis.py[line:93] INFO [eyc:items] Processing item: ZCB45/50 内啮合齿轮泵 <http://www.eyc.cn/pro_det.asp?info_kind=001005001&ID=67&cp_id=1736>

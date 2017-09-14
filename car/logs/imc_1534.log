@@ -1,0 +1,21 @@
+2017-05-24 15:34:03,421 spiders.py[line:68] INFO Reading start URLs from redis key 'imc:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 15:34:03,857 spiders.py[line:95] DEBUG Read 1 requests from 'imc:start_urls'
+2017-05-24 15:34:05,183 spider_imc.py[line:64] INFO layer1 url is: http://www.imc-companies.com/taegutec/ttkCatalog/Applications.aspx?mapp=IS.
+2017-05-24 15:34:09,256 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=24.
+2017-05-24 15:34:14,451 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=25.
+2017-05-24 15:34:19,153 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=137.
+2017-05-24 15:34:23,520 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=315.
+2017-05-24 15:34:29,233 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=22.
+2017-05-24 15:34:32,726 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=23.
+2017-05-24 15:34:38,405 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=33.
+2017-05-24 15:34:43,664 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=80.
+2017-05-24 15:34:49,563 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=82.
+2017-05-24 15:34:55,572 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=138.
+2017-05-24 15:34:58,413 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=267.
+2017-05-24 15:35:04,325 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=302.
+2017-05-24 15:35:10,223 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=310.
+2017-05-24 15:35:14,561 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=314.
+2017-05-24 15:35:19,086 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=31.
+2017-05-24 15:35:24,878 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=142.
+2017-05-24 15:35:31,306 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=12.
+2017-05-24 15:35:35,128 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=117&mapp=IS&app=24&GFSTYP=M.

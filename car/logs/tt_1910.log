@@ -1,0 +1,156 @@
+2017-06-05 19:10:29,029 spiders.py[line:68] INFO Reading start URLs from redis key 'tt:start_urls' (batch size: 16, encoding: utf-8
+2017-06-05 19:10:31,599 spiders.py[line:95] DEBUG Read 15 requests from 'tt:start_urls'
+2017-06-05 19:10:31,796 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=tltiaoxingunzi.
+2017-06-05 19:10:34,990 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=tltiaoxingunzi), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS(executable_path='E:\python27\Lib\site-packages\selenium\webdriver\phantomjs')  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 86, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable may have wrong permissions. 
+
+)
+2017-06-05 19:10:36,822 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=tlyuanzhugunzi.
+2017-06-05 19:10:36,829 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=tlyuanzhugunzi), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS(executable_path='E:\python27\Lib\site-packages\selenium\webdriver\phantomjs')  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 86, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable may have wrong permissions. 
+
+)
+2017-06-05 19:10:42,065 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=jiaojiechuqiu.
+2017-06-05 19:10:42,078 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=jiaojiechuqiu), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS(executable_path='E:\python27\Lib\site-packages\selenium\webdriver\phantomjs')  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 86, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable may have wrong permissions. 
+
+)
+2017-06-05 19:10:47,891 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=tiaoxingunzi.
+2017-06-05 19:10:47,898 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=tiaoxingunzi), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS(executable_path='E:\python27\Lib\site-packages\selenium\webdriver\phantomjs')  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 86, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable may have wrong permissions. 
+
+)
+2017-06-05 19:10:51,154 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=fujian.
+2017-06-05 19:10:51,165 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=fujian), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS(executable_path='E:\python27\Lib\site-packages\selenium\webdriver\phantomjs')  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 86, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable may have wrong permissions. 
+
+)
+2017-06-05 19:10:56,226 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=yjgunzi.
+2017-06-05 19:10:56,232 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=yjgunzi), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS(executable_path='E:\python27\Lib\site-packages\selenium\webdriver\phantomjs')  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 86, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable may have wrong permissions. 
+
+)
+2017-06-05 19:11:00,948 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=waiquan.
+2017-06-05 19:11:00,957 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=waiquan), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS(executable_path='E:\python27\Lib\site-packages\selenium\webdriver\phantomjs')  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 86, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable may have wrong permissions. 
+
+)
+2017-06-05 19:11:06,605 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=neiquan.
+2017-06-05 19:11:06,608 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=neiquan), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS(executable_path='E:\python27\Lib\site-packages\selenium\webdriver\phantomjs')  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 86, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable may have wrong permissions. 
+
+)
+2017-06-05 19:11:11,167 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=yzgunzi.
+2017-06-05 19:11:11,171 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=yzgunzi), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS(executable_path='E:\python27\Lib\site-packages\selenium\webdriver\phantomjs')  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 86, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable may have wrong permissions. 
+
+)
+2017-06-05 19:11:15,253 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=KOYOyzyzgunzi.
+2017-06-05 19:11:15,259 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=KOYOyzyzgunzi), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS(executable_path='E:\python27\Lib\site-packages\selenium\webdriver\phantomjs')  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 86, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable may have wrong permissions. 
+
+)
+2017-06-05 19:11:19,066 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=waiqiumian.
+2017-06-05 19:11:19,078 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=waiqiumian), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS(executable_path='E:\python27\Lib\site-packages\selenium\webdriver\phantomjs')  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 86, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable may have wrong permissions. 
+
+)
+2017-06-05 19:11:24,948 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=shengouqiu.
+2017-06-05 19:11:24,963 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=shengouqiu), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS(executable_path='E:\python27\Lib\site-packages\selenium\webdriver\phantomjs')  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 86, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable may have wrong permissions. 
+
+)
+2017-06-05 19:11:29,377 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=NTNyzyzgunzi.
+2017-06-05 19:11:29,385 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=NTNyzyzgunzi), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS(executable_path='E:\python27\Lib\site-packages\selenium\webdriver\phantomjs')  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 86, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable may have wrong permissions. 
+
+)
+2017-06-05 19:11:35,121 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=3000xl.
+2017-06-05 19:11:35,125 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=3000xl), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS(executable_path=r'E:\python27\Lib\site-packages\selenium\webdriver\phantomjs')  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 86, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable may have wrong permissions. 
+
+)

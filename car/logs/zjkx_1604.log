@@ -1,0 +1,21 @@
+2017-06-08 16:04:54,342 spiders.py[line:68] INFO Reading start URLs from redis key 'zjkx:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 16:04:57,105 spiders.py[line:95] DEBUG Read 3 requests from 'zjkx:start_urls'
+2017-06-08 16:04:57,585 spider_zjkx.py[line:55] INFO url is: http://www.kaixun.com.cn/htm/Products/qz/.
+2017-06-08 16:05:03,085 spider_zjkx.py[line:55] INFO url is: http://www.kaixun.com.cn/htm/Products/km/.
+2017-06-08 16:05:08,808 spider_zjkx.py[line:55] INFO url is: http://www.kaixun.com.cn/htm/Products/jr/.
+2017-06-08 16:06:25,838 spider_zjkx.py[line:71] INFO class url is: http://www.kaixun.com.cn/htm/Products/qz/hc/.
+2017-06-08 16:06:30,716 spider_zjkx.py[line:71] INFO class url is: http://www.kaixun.com.cn/htm/Products/qz/hx/.
+2017-06-08 16:06:36,576 spider_zjkx.py[line:71] INFO class url is: http://www.kaixun.com.cn/htm/Products/qz/p1/.
+2017-06-08 16:06:42,015 spider_zjkx.py[line:71] INFO class url is: http://www.kaixun.com.cn/htm/Products/qz/p2/.
+2017-06-08 16:06:46,434 spider_zjkx.py[line:71] INFO class url is: http://www.kaixun.com.cn/htm/Products/qz/p3/.
+2017-06-08 16:06:51,760 spider_zjkx.py[line:71] INFO class url is: http://www.kaixun.com.cn/htm/Products/qz/p5/.
+2017-06-08 16:06:57,201 spider_zjkx.py[line:71] INFO class url is: http://www.kaixun.com.cn/htm/Products/qz/ts/.
+2017-06-08 16:07:02,586 spider_zjkx.py[line:71] INFO class url is: http://www.kaixun.com.cn/htm/Products/qz/ddhl/.
+2017-06-08 16:07:06,621 spider_zjkx.py[line:71] INFO class url is: http://www.kaixun.com.cn/htm/Products/qz/ddxc/.
+2017-06-08 16:07:12,865 spider_zjkx.py[line:71] INFO class url is: http://www.kaixun.com.cn/htm/Products/qz/xdhl/.
+2017-06-08 16:07:17,990 spider_zjkx.py[line:71] INFO class url is: http://www.kaixun.com.cn/htm/Products/qz/ddjyj/.
+2017-06-08 16:07:28,273 spider_zjkx.py[line:71] INFO class url is: http://www.kaixun.com.cn/htm/Products/qz/gj/.
+2017-06-08 16:07:30,607 spider_zjkx.py[line:71] INFO class url is: http://www.kaixun.com.cn/htm/Products/qz/p4/.
+2017-06-08 16:07:33,865 spider_zjkx.py[line:71] INFO class url is: http://www.kaixun.com.cn/htm/Products/qz/yy/.
+2017-06-08 16:07:37,645 spider_zjkx.py[line:71] INFO class url is: http://www.kaixun.com.cn/htm/Products/qz/jzjyj/.
+2017-06-08 16:07:42,430 spider_zjkx.py[line:71] INFO class url is: http://www.kaixun.com.cn/htm/Products/km/p10/.

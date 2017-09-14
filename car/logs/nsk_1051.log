@@ -1,0 +1,8 @@
+2017-05-31 10:51:08,410 spiders.py[line:68] INFO Reading start URLs from redis key 'nsk:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 10:51:10,954 spiders.py[line:95] DEBUG Read 1 requests from 'nsk:start_urls'
+2017-05-31 10:51:11,186 spider_nsk.py[line:53] INFO step into layer1, url is: http://www.cn.nsk.com/products/epsteel.html.
+2017-05-31 10:51:16,019 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/ballbearing/deepgroove/.
+2017-05-31 10:51:45,427 spiders.py[line:68] INFO Reading start URLs from redis key 'nsk:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 10:51:47,989 spiders.py[line:95] DEBUG Read 1 requests from 'nsk:start_urls'
+2017-05-31 10:51:48,543 spider_nsk.py[line:53] INFO step into layer1, url is: http://www.cn.nsk.com/products/epsteel.html.
+2017-05-31 10:51:53,426 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/ballbearing/deepgroove/.

@@ -1,0 +1,143 @@
+2017-05-31 15:30:53,078 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'okuma:items' (server: localhost, port: 6379)
+2017-05-31 15:30:54,095 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: GI-10NⅡ <http://www.okuma.co.jp/chinese/product/ncig/index.html>
+2017-05-31 15:30:54,099 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: GI-20NⅡ <http://www.okuma.co.jp/chinese/product/ncig/index.html>
+2017-05-31 15:30:54,104 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MA-12500H <http://www.okuma.co.jp/chinese/product/hmc/index6.html>
+2017-05-31 15:30:54,108 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MB-10000H <http://www.okuma.co.jp/chinese/product/hmc/index4.html>
+2017-05-31 15:30:54,114 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: OSP suite <http://www.okuma.co.jp/chinese/onlyone/osp-suite/index.html>
+2017-05-31 15:30:57,786 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: 2SP-35H/HG <http://www.okuma.co.jp/chinese/product/p2s/index2.html>
+2017-05-31 15:31:00,730 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: 2SP-V760EX <http://www.okuma.co.jp/chinese/product/vcl/index4.html>
+2017-05-31 15:31:06,474 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MA-500HⅡ <http://www.okuma.co.jp/chinese/product/hmc/index5.html>
+2017-05-31 15:31:11,809 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MA-600HⅡ <http://www.okuma.co.jp/chinese/product/hmc/index5.html>
+2017-05-31 15:31:13,479 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MB-46VA/VB <http://www.okuma.co.jp/chinese/product/vmc/index.html>
+2017-05-31 15:31:17,473 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MB-56VA/VB <http://www.okuma.co.jp/chinese/product/vmc/index.html>
+2017-05-31 15:31:22,131 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MB-66VA/VB <http://www.okuma.co.jp/chinese/product/vmc/index.html>
+2017-05-31 15:31:25,085 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MCR-A5CⅡ <http://www.okuma.co.jp/chinese/product/dcmc2/index.html>
+2017-05-31 15:31:31,648 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MF-46VA/VB <http://www.okuma.co.jp/chinese/product/vmc/index.html>
+2017-05-31 15:31:35,348 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 33T <http://www.okuma.co.jp/chinese/product/mm2/index.html>
+2017-05-31 15:31:40,234 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: VTM-1200YB <http://www.okuma.co.jp/chinese/product/mm2/index3.html>
+2017-05-31 15:31:47,476 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: VTM-2000YB <http://www.okuma.co.jp/chinese/product/mm2/index3.html>
+2017-05-31 15:31:49,065 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: GP/GA14/15W <http://www.okuma.co.jp/chinese/product/nccg/index2.html>
+2017-05-31 15:31:53,881 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LB2000EXⅡ <http://www.okuma.co.jp/chinese/product/2acl/index.html>
+2017-05-31 15:32:02,009 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LB2500EXⅡ <http://www.okuma.co.jp/chinese/product/2acl/index.html>
+2017-05-31 15:32:04,138 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LB3000EXⅡ <http://www.okuma.co.jp/chinese/product/2acl/index.html>
+2017-05-31 15:32:09,315 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LB4000EXⅡ <http://www.okuma.co.jp/chinese/product/2acl/index.html>
+2017-05-31 15:32:12,704 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MACTURN 550 <http://www.okuma.co.jp/chinese/product/mm/index2.html>
+2017-05-31 15:32:19,072 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 33TU <http://www.okuma.co.jp/chinese/product/mm2/index.html>
+2017-05-31 15:32:24,220 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MULTUS B550 <http://www.okuma.co.jp/chinese/product/mm/index3.html>
+2017-05-31 15:32:26,845 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MULTUS B750 <http://www.okuma.co.jp/chinese/product/mm/index3.html>
+2017-05-31 15:32:33,536 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: GENOS M560-V <http://www.okuma.co.jp/chinese/product/vmc/index5.html>
+2017-05-31 15:32:38,365 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: GP/GA25/26W  <http://www.okuma.co.jp/chinese/product/nccg/index.html>
+2017-05-31 15:32:44,703 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: GENOS M460-VE <http://www.okuma.co.jp/chinese/product/vmc/index5.html>
+2017-05-31 15:32:47,992 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 44HⅡ <http://www.okuma.co.jp/chinese/product/hmc/index2.html>
+2017-05-31 15:32:51,716 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 44VⅡ <http://www.okuma.co.jp/chinese/product/vmc/index2.html>
+2017-05-31 15:32:55,480 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 55HⅡ <http://www.okuma.co.jp/chinese/product/hmc/index2.html>
+2017-05-31 15:33:02,436 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 468VⅡ <http://www.okuma.co.jp/chinese/product/vmc/index3.html>
+2017-05-31 15:33:06,323 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 561VⅡ <http://www.okuma.co.jp/chinese/product/vmc/index3.html>
+2017-05-31 15:33:12,990 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 611VⅡ <http://www.okuma.co.jp/chinese/product/vmc/index3.html>
+2017-05-31 15:33:15,938 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 761VⅡ <http://www.okuma.co.jp/chinese/product/vmc/index3.html>
+2017-05-31 15:33:21,463 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 852VⅡ <http://www.okuma.co.jp/chinese/product/vmc/index3.html>
+2017-05-31 15:33:26,632 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MULTUS B300Ⅱ <http://www.okuma.co.jp/chinese/product/mm/index.html>
+2017-05-31 15:33:31,568 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MULTUS B400Ⅱ <http://www.okuma.co.jp/chinese/product/mm/index.html>
+2017-05-31 15:33:36,750 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: GP/GA-34/44FⅡ <http://www.okuma.co.jp/chinese/product/nccg/index2.html>
+2017-05-31 15:33:42,974 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: GP/GA-36/47FⅡ <http://www.okuma.co.jp/chinese/product/nccg/index2.html>
+2017-05-31 15:33:46,562 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 1052VⅡ <http://www.okuma.co.jp/chinese/product/vmc/index3.html>
+2017-05-31 15:33:53,786 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: 3D-CAM后处理程序 <http://www.okuma.co.jp/chinese/product/3dcam/index.html>
+2017-05-31 15:33:59,842 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MU-4000V <http://www.okuma.co.jp/chinese/product/5avmc/index.html>
+2017-05-31 15:34:07,039 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MU-5000V <http://www.okuma.co.jp/chinese/product/5avmc/index.html>
+2017-05-31 15:34:13,155 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MU-6300V <http://www.okuma.co.jp/chinese/product/5avmc/index.html>
+2017-05-31 15:34:15,867 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MU-8000V <http://www.okuma.co.jp/chinese/product/5avmc/index.html>
+2017-05-31 15:34:21,003 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MU-S600V <http://www.okuma.co.jp/chinese/product/5avmc/index5.html>
+2017-05-31 15:34:26,257 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MU-10000H <http://www.okuma.co.jp/chinese/product/5avmc/index4.html>
+2017-05-31 15:34:30,967 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MU-400VⅡ <http://www.okuma.co.jp/chinese/product/5avmc/index.html>
+2017-05-31 15:34:36,865 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MULTUS B550 <http://www.okuma.co.jp/chinese/product/mm/index3.html>
+2017-05-31 15:34:39,892 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MULTUS B750 <http://www.okuma.co.jp/chinese/product/mm/index3.html>
+2017-05-31 15:34:45,250 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 800VH <http://www.okuma.co.jp/chinese/product/5avmc/index2.html>
+2017-05-31 15:34:50,213 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MULTUS U3000 <http://www.okuma.co.jp/chinese/product/mm/index4.html>
+2017-05-31 15:34:54,684 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MULTUS U4000 <http://www.okuma.co.jp/chinese/product/mm/index4.html>
+2017-05-31 15:34:58,940 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MULTUS U5000 <http://www.okuma.co.jp/chinese/product/mm/index4.html>
+2017-05-31 15:35:03,362 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 1000VH <http://www.okuma.co.jp/chinese/product/5avmc/index2.html>
+2017-05-31 15:35:10,385 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MULTUS B200Ⅱ <http://www.okuma.co.jp/chinese/product/mm/index.html>
+2017-05-31 15:35:16,709 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MULTUS B300Ⅱ <http://www.okuma.co.jp/chinese/product/mm/index.html>
+2017-05-31 15:35:22,407 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: V40R <http://www.okuma.co.jp/chinese/product/vcl/index.html>
+2017-05-31 15:35:25,573 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: HJ250 <http://www.okuma.co.jp/chinese/product/2acl/index4.html>
+2017-05-31 15:35:32,526 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: HL-20 <http://www.okuma.co.jp/chinese/product/2acl/index2.html>
+2017-05-31 15:35:35,868 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: HL-35 <http://www.okuma.co.jp/chinese/product/2acl/index2.html>
+2017-05-31 15:35:40,549 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MCR-C <http://www.okuma.co.jp/chinese/product/dcmc2/index.html>
+2017-05-31 15:35:43,996 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: SV250 <http://www.okuma.co.jp/chinese/product/vcl/index3.html>
+2017-05-31 15:35:47,611 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: V100R <http://www.okuma.co.jp/chinese/product/vcl/index.html>
+2017-05-31 15:35:51,621 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LAW-2S <http://www.okuma.co.jp/chinese/product/awa/index.html>
+2017-05-31 15:35:55,473 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MCR-AF <http://www.okuma.co.jp/chinese/product/dcmc/index.html>
+2017-05-31 15:36:02,438 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MP-46V <http://www.okuma.co.jp/chinese/product/vmc/index6.html>
+2017-05-31 15:36:04,926 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: V760EX <http://www.okuma.co.jp/chinese/product/vcl/index4.html>
+2017-05-31 15:36:11,355 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: V920EX <http://www.okuma.co.jp/chinese/product/vcl/index4.html>
+2017-05-31 15:36:12,898 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: VTM-65 <http://www.okuma.co.jp/chinese/product/mm3/index.html>
+2017-05-31 15:36:20,230 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: 2SP-V40 <http://www.okuma.co.jp/chinese/product/vcl/index2.html>
+2017-05-31 15:36:22,157 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LAW-V24 <http://www.okuma.co.jp/chinese/product/awa/index.html>
+2017-05-31 15:36:27,582 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LB35Ⅲ <http://www.okuma.co.jp/chinese/product/2acl/index3.html>
+2017-05-31 15:36:33,055 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LB45Ⅲ <http://www.okuma.co.jp/chinese/product/2acl/index3.html>
+2017-05-31 15:36:40,234 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LU35Ⅱ <http://www.okuma.co.jp/chinese/product/4acl/index2.html>
+2017-05-31 15:36:43,795 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LU45Ⅱ <http://www.okuma.co.jp/chinese/product/4acl/index2.html>
+2017-05-31 15:36:50,569 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: OSP-VPS <http://www.okuma.co.jp/chinese/product/new/osp_vps/index.html>
+2017-05-31 15:36:56,604 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: SPL-200 <http://www.okuma.co.jp/chinese/product/4acl/index5.html>
+2017-05-31 15:36:59,384 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: VTM-100 <http://www.okuma.co.jp/chinese/product/mm3/index.html>
+2017-05-31 15:37:04,596 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: VTM-200 <http://www.okuma.co.jp/chinese/product/mm3/index.html>
+2017-05-31 15:37:09,957 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: 2SP-10HG <http://www.okuma.co.jp/chinese/product/p2s/index2.html>
+2017-05-31 15:37:12,233 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: 2SP-150H <http://www.okuma.co.jp/chinese/product/p2s/index.html>
+2017-05-31 15:37:19,355 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: 2SP-250H <http://www.okuma.co.jp/chinese/product/p2s/index.html>
+2017-05-31 15:37:22,375 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: GI-2N-SP <http://www.okuma.co.jp/chinese/product/ncig/index.html>
+2017-05-31 15:37:27,015 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LAW-FⅡ <http://www.okuma.co.jp/chinese/product/awa/index.html>
+2017-05-31 15:37:32,128 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LT2000EX <http://www.okuma.co.jp/chinese/product/mm4/index2.html>
+2017-05-31 15:37:38,279 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LT3000EX <http://www.okuma.co.jp/chinese/product/mm4/index2.html>
+2017-05-31 15:37:40,769 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LU-S1600 <http://www.okuma.co.jp/chinese/product/4acl/index4.html>
+2017-05-31 15:37:47,539 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LU3000EX <http://www.okuma.co.jp/chinese/product/4acl/index3.html>
+2017-05-31 15:37:50,941 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LU4000EX <http://www.okuma.co.jp/chinese/product/4acl/index3.html>
+2017-05-31 15:37:55,232 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MA-400HA <http://www.okuma.co.jp/chinese/product/hmc/index.html>
+2017-05-31 15:37:58,326 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MB-4000H <http://www.okuma.co.jp/chinese/product/hmc/index4.html>
+2017-05-31 15:38:05,186 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MB-5000H <http://www.okuma.co.jp/chinese/product/hmc/index4.html>
+2017-05-31 15:38:10,397 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MB-8000H <http://www.okuma.co.jp/chinese/product/hmc/index4.html>
+2017-05-31 15:38:15,405 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MCR-BⅢ <http://www.okuma.co.jp/chinese/product/dcmc2/index.html>
+2017-05-31 15:38:19,536 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MCV-AⅡ <http://www.okuma.co.jp/chinese/product/dcmc/index.html>
+2017-05-31 15:38:23,921 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: VTM-80YB <http://www.okuma.co.jp/chinese/product/mm2/index2.html>
+2017-05-31 15:38:28,846 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: VTR-160A <http://www.okuma.co.jp/chinese/product/mm3/index2.html>
+2017-05-31 15:38:34,073 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: VTR-350A <http://www.okuma.co.jp/chinese/product/mm3/index2.html>
+2017-05-31 15:38:38,145 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: ECO suite <http://www.okuma.co.jp/chinese/ecosuite/index.html>
+2017-05-31 15:38:44,812 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: GI-10NⅡ <http://www.okuma.co.jp/chinese/product/ncig/index.html>
+2017-05-31 15:38:51,003 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: GI-20NⅡ <http://www.okuma.co.jp/chinese/product/ncig/index.html>
+2017-05-31 15:38:53,990 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MA-12500H <http://www.okuma.co.jp/chinese/product/hmc/index6.html>
+2017-05-31 15:38:59,747 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MB-10000H <http://www.okuma.co.jp/chinese/product/hmc/index4.html>
+2017-05-31 15:39:03,016 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: OSP suite <http://www.okuma.co.jp/chinese/onlyone/osp-suite/index.html>
+2017-05-31 15:39:07,730 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: 2SP-35H/HG <http://www.okuma.co.jp/chinese/product/p2s/index2.html>
+2017-05-31 15:39:11,815 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: 2SP-V760EX <http://www.okuma.co.jp/chinese/product/vcl/index4.html>
+2017-05-31 15:39:15,707 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MA-500HⅡ <http://www.okuma.co.jp/chinese/product/hmc/index5.html>
+2017-05-31 15:39:22,808 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MA-600HⅡ <http://www.okuma.co.jp/chinese/product/hmc/index5.html>
+2017-05-31 15:39:26,200 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MB-46VA/VB <http://www.okuma.co.jp/chinese/product/vmc/index.html>
+2017-05-31 15:39:31,079 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MB-56VA/VB <http://www.okuma.co.jp/chinese/product/vmc/index.html>
+2017-05-31 15:39:36,578 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MB-66VA/VB <http://www.okuma.co.jp/chinese/product/vmc/index.html>
+2017-05-31 15:39:39,326 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MCR-A5CⅡ <http://www.okuma.co.jp/chinese/product/dcmc2/index.html>
+2017-05-31 15:39:43,562 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MF-46VA/VB <http://www.okuma.co.jp/chinese/product/vmc/index.html>
+2017-05-31 15:39:50,615 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 33T <http://www.okuma.co.jp/chinese/product/mm2/index.html>
+2017-05-31 15:39:54,111 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: VTM-1200YB <http://www.okuma.co.jp/chinese/product/mm2/index3.html>
+2017-05-31 15:39:58,677 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: VTM-2000YB <http://www.okuma.co.jp/chinese/product/mm2/index3.html>
+2017-05-31 15:40:01,035 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: GP/GA14/15W <http://www.okuma.co.jp/chinese/product/nccg/index2.html>
+2017-05-31 15:40:08,128 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LB2000EXⅡ <http://www.okuma.co.jp/chinese/product/2acl/index.html>
+2017-05-31 15:40:10,877 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LB2500EXⅡ <http://www.okuma.co.jp/chinese/product/2acl/index.html>
+2017-05-31 15:40:16,464 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LB3000EXⅡ <http://www.okuma.co.jp/chinese/product/2acl/index.html>
+2017-05-31 15:40:22,039 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: LB4000EXⅡ <http://www.okuma.co.jp/chinese/product/2acl/index.html>
+2017-05-31 15:40:24,650 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MACTURN 550 <http://www.okuma.co.jp/chinese/product/mm/index2.html>
+2017-05-31 15:40:31,338 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 33TU <http://www.okuma.co.jp/chinese/product/mm2/index.html>
+2017-05-31 15:40:35,148 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: GENOS M560-V <http://www.okuma.co.jp/chinese/product/vmc/index5.html>
+2017-05-31 15:40:39,815 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: GP/GA25/26W  <http://www.okuma.co.jp/chinese/product/nccg/index.html>
+2017-05-31 15:40:47,137 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: GENOS M460-VE <http://www.okuma.co.jp/chinese/product/vmc/index5.html>
+2017-05-31 15:40:52,927 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 44HⅡ <http://www.okuma.co.jp/chinese/product/hmc/index2.html>
+2017-05-31 15:40:58,730 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 44VⅡ <http://www.okuma.co.jp/chinese/product/vmc/index2.html>
+2017-05-31 15:41:04,315 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 55HⅡ <http://www.okuma.co.jp/chinese/product/hmc/index2.html>
+2017-05-31 15:41:07,555 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 468VⅡ <http://www.okuma.co.jp/chinese/product/vmc/index3.html>
+2017-05-31 15:41:14,007 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 561VⅡ <http://www.okuma.co.jp/chinese/product/vmc/index3.html>
+2017-05-31 15:41:17,881 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 611VⅡ <http://www.okuma.co.jp/chinese/product/vmc/index3.html>
+2017-05-31 15:41:23,368 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 761VⅡ <http://www.okuma.co.jp/chinese/product/vmc/index3.html>
+2017-05-31 15:41:30,293 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 852VⅡ <http://www.okuma.co.jp/chinese/product/vmc/index3.html>
+2017-05-31 15:41:36,154 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MULTUS B400Ⅱ <http://www.okuma.co.jp/chinese/product/mm/index.html>
+2017-05-31 15:41:39,023 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: GP/GA-34/44FⅡ <http://www.okuma.co.jp/chinese/product/nccg/index2.html>
+2017-05-31 15:41:44,709 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: GP/GA-36/47FⅡ <http://www.okuma.co.jp/chinese/product/nccg/index2.html>
+2017-05-31 15:41:48,174 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: MILLAC 1052VⅡ <http://www.okuma.co.jp/chinese/product/vmc/index3.html>
+2017-05-31 15:41:55,038 download_items_from_redis.py[line:93] INFO [okuma:items] Processing item: 3D-CAM后处理程序 <http://www.okuma.co.jp/chinese/product/3dcam/index.html>

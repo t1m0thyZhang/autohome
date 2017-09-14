@@ -1,0 +1,20 @@
+2017-06-05 15:53:09,601 spiders.py[line:68] INFO Reading start URLs from redis key 'cfled:start_urls' (batch size: 16, encoding: utf-8
+2017-06-05 15:53:11,121 __init__.py[line:47] DEBUG Resuming crawl (6 requests scheduled)
+2017-06-05 15:53:12,167 spiders.py[line:95] DEBUG Read 1 requests from 'cfled:start_urls'
+2017-06-05 15:53:12,813 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=445.
+2017-06-05 15:53:18,161 spider_cfled.py[line:99] ERROR layer2 failed, url is:(http://www.cfled.com/product1.aspx?CateId=445), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 83, in parse2
+    detail1 = clstmp[0].split("产品型号")
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 0: ordinal not in range(128)
+)
+2017-06-05 15:53:19,138 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=446.
+2017-06-05 15:53:56,272 spiders.py[line:68] INFO Reading start URLs from redis key 'cfled:start_urls' (batch size: 16, encoding: utf-8
+2017-06-05 15:53:58,815 spiders.py[line:95] DEBUG Read 1 requests from 'cfled:start_urls'
+2017-06-05 15:53:59,563 spider_cfled.py[line:51] INFO step into layer1, url is: http://www.cfled.com/product.aspx.
+2017-06-05 15:54:05,138 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=27.
+2017-06-05 15:54:17,756 spider_cfled.py[line:100] ERROR layer2 failed, url is:(http://www.cfled.com/product1.aspx?CateId=27), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 84, in parse2
+    detail1 = detail1.split("产品型号")
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 0: ordinal not in range(128)
+)
+2017-06-05 15:54:18,210 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=28.

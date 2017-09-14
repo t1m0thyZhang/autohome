@@ -1,0 +1,16 @@
+2017-06-06 10:12:43,884 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'dglx:items' (server: localhost, port: 6379)
+2017-06-06 10:12:44,905 download_items_from_redis.py[line:93] INFO [dglx:items] Processing item: 带装立式零件成型机 电子元件 自动化设备 <http://www.lxtpc.com.cn/offer/1255440698.html>
+2017-06-06 10:12:44,911 download_items_from_redis.py[line:93] INFO [dglx:items] Processing item: 供应电感成型切脚机 <http://www.lxtpc.com.cn/offer/468219904.html>
+2017-06-06 10:43:22,648 download_items_from_redis.py[line:93] INFO [dglx:items] Processing item: 供应LED切脚机 <http://www.lxtpc.com.cn/offer/468229197.html>
+2017-06-06 10:43:24,641 download_items_from_redis.py[line:93] INFO [dglx:items] Processing item: 供应电容成型切脚机 <http://www.lxtpc.com.cn/offer/478701029.html>
+2017-06-06 10:43:26,552 download_items_from_redis.py[line:93] INFO [dglx:items] Processing item: 供应电感切脚机 <http://www.lxtpc.com.cn/offer/478743283.html>
+2017-06-06 10:43:31,562 download_items_from_redis.py[line:93] INFO [dglx:items] Processing item: 供应大拍电容切脚机 <http://www.lxtpc.com.cn/offer/550110244.html>
+2017-06-06 10:43:37,832 download_items_from_redis.py[line:93] INFO [dglx:items] Processing item: 供应全自动成型切脚机 <http://www.lxtpc.com.cn/offer/591299048.html>
+2017-06-06 10:43:41,450 download_items_from_redis.py[line:93] INFO [dglx:items] Processing item: 提供电解电容成型切脚加工 <http://www.lxtpc.com.cn/offer/804081490.html>
+2017-06-06 10:43:44,286 download_items_from_redis.py[line:93] INFO [dglx:items] Processing item: 全自动成型切脚机 <http://www.lxtpc.com.cn/offer/1231800748.html>
+2017-06-06 10:43:48,927 download_items_from_redis.py[line:93] INFO [dglx:items] Processing item: 立式元件弯脚机 成型电子元件切脚机 <http://www.lxtpc.com.cn/offer/1235336468.html>
+2017-06-06 10:43:53,967 download_items_from_redis.py[line:93] INFO [dglx:items] Processing item: 带装立式零件成型机 电子元件 自动化设备 <http://www.lxtpc.com.cn/offer/1255440698.html>
+2017-06-06 10:44:27,941 download_items_from_redis.py[line:93] INFO [dglx:items] Processing item: 带装立式零件成型机 电子元件 自动化设备 <http://www.lxtpc.com.cn/offer/1255440698.html>
+2017-06-06 10:44:32,344 download_items_from_redis.py[line:93] INFO [dglx:items] Processing item: 供应电感切脚机 <http://www.lxtpc.com.cn/offer/478743283.html>
+2017-06-06 10:44:37,551 download_items_from_redis.py[line:93] INFO [dglx:items] Processing item: 供应大拍电容切脚机 <http://www.lxtpc.com.cn/offer/550110244.html>
+2017-06-06 10:44:42,901 download_items_from_redis.py[line:93] INFO [dglx:items] Processing item: 供应全自动成型切脚机 <http://www.lxtpc.com.cn/offer/591299048.html>

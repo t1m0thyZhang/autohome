@@ -1,0 +1,2 @@
+2017-08-16 19:41:25,048 spiders.py[line:68] INFO Reading start URLs from redis key 'autohome:start_urls' (batch size: 1, encoding: utf-8
+2017-08-16 19:41:37,019 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'

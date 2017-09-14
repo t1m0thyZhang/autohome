@@ -1,0 +1,21 @@
+2017-08-17 20:33:12,658 spiders.py[line:68] INFO Reading start URLs from redis key 'autohome:start_urls' (batch size: 1, encoding: utf-8
+2017-08-17 20:33:15,884 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 20:33:15,992 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/509/.
+2017-08-17 20:33:16,026 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 20:33:21,924 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/2738/.
+2017-08-17 20:33:22,309 spider_autohome.py[line:71] INFO layer 2 url is: http://k.autohome.com.cn/2738/7979/.
+2017-08-17 20:33:22,334 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 20:33:26,276 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/4325/.
+2017-08-17 20:33:26,313 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 20:33:30,717 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/538/.
+2017-08-17 20:33:30,976 spider_autohome.py[line:71] INFO layer 2 url is: http://k.autohome.com.cn/538/8823/.
+2017-08-17 20:33:31,003 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 20:33:36,417 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/370/.
+2017-08-17 20:33:37,122 spider_autohome.py[line:71] INFO layer 2 url is: http://k.autohome.com.cn/370/9219/.
+2017-08-17 20:33:37,163 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 20:33:41,743 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/2736/.
+2017-08-17 20:33:42,548 spider_autohome.py[line:71] INFO layer 2 url is: http://k.autohome.com.cn/2736/9042/.
+2017-08-17 20:33:42,582 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 20:33:46,323 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/471/.
+2017-08-17 20:33:50,710 spider_autohome.py[line:71] INFO layer 2 url is: http://k.autohome.com.cn/471/9318/.
+2017-08-17 20:33:58,618 spider_autohome.py[line:93] INFO url is: http://k.autohome.com.cn/471/9318/?gradeenum=0.

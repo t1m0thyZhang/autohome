@@ -1,0 +1,6 @@
+2017-06-02 10:05:24,683 spiders.py[line:68] INFO Reading start URLs from redis key 'osram:start_urls' (batch size: 16, encoding: utf-8
+2017-06-02 10:05:27,167 spiders.py[line:95] DEBUG Read 1 requests from 'osram:start_urls'
+2017-06-02 10:05:30,332 spider_osram.py[line:51] INFO step into layer1, url is: http://www.osram.com.cn/osram_cn/.
+2017-06-02 10:05:38,617 spider_osram.py[line:65] INFO step into layer2, url is: http://www.osram.com.cn/osram_cn/products/led-technology/light-engines-and-modules/index.jsp.
+2017-06-02 10:05:44,273 spider_osram.py[line:80] INFO step into layer3, url is: http://www.osram.com.cn/osram_cn/products/led-technology/light-engines-and-modules/spot-%2c-down-and-wallmount-light-engines-and-modules/index.jsp.
+2017-06-02 10:05:51,862 spider_osram.py[line:94] INFO step into layer4, url is: http://www.osram.com.cn/osram_cn/products/led-technology/light-engines-and-modules/spot-%2c-down-and-wallmount-light-engines-and-modules/prevaled-core-ac-pro/index.jsp.

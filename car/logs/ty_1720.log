@@ -1,0 +1,187 @@
+2017-05-31 17:20:13,390 spiders.py[line:68] INFO Reading start URLs from redis key 'ty:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 17:20:15,868 spiders.py[line:95] DEBUG Read 1 requests from 'ty:start_urls'
+2017-05-31 17:20:16,079 spider_ty.py[line:49] INFO step into layer1, url is: http://www.wuxitaiyuan.com/.
+2017-05-31 17:20:21,319 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/dgspwj.html.
+2017-05-31 17:20:26,575 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/ldspwj.html.
+2017-05-31 17:20:31,410 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/tgspwj.html.
+2017-05-31 17:20:36,081 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/ztspwj.html.
+2017-05-31 17:20:39,239 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/wslxymj.html.
+2017-05-31 17:20:42,161 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/qingxiji.html.
+2017-05-31 17:20:45,785 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/psj.html.
+2017-05-31 17:20:50,888 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/sdj.html.
+2017-05-31 17:20:56,062 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/csymj.html.
+2017-05-31 17:21:00,861 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/gtymj.html.
+2017-05-31 17:21:05,575 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/qtcpjs.html.
+2017-05-31 17:21:09,444 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/lxzdymj.html.
+2017-05-31 17:21:14,762 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/mlmyglj.html.
+2017-05-31 17:21:18,201 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/swlsymj.html.
+2017-05-31 17:21:23,714 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_4yk0x.html.
+2017-05-31 17:21:29,364 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_61nB1.html.
+2017-05-31 17:21:29,369 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_61nB1.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:21:34,142 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_A6rG5.html.
+2017-05-31 17:21:39,996 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_B7sH6.html.
+2017-05-31 17:21:44,407 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_C8uI8.html.
+2017-05-31 17:21:44,411 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_C8uI8.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:21:49,905 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_UPBZO.html.
+2017-05-31 17:21:49,907 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_UPBZO.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:21:53,219 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_jeQpd.html.
+2017-05-31 17:21:58,382 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_94pE3.html.
+2017-05-31 17:21:58,384 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_94pE3.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:22:03,809 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_TNAYN.html.
+2017-05-31 17:22:03,811 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_TNAYN.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:22:09,605 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_3xk9x.html.
+2017-05-31 17:22:09,607 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_3xk9x.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:22:14,427 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_D9uJ8.html.
+2017-05-31 17:22:14,431 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_D9uJ8.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:22:18,581 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_HCzNC.html.
+2017-05-31 17:22:18,582 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_HCzNC.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:22:24,484 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_KF2PE.html.
+2017-05-31 17:22:28,500 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_KF2QE.html.
+2017-05-31 17:22:28,507 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_KF2QE.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:22:33,798 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_RM9XL.html.
+2017-05-31 17:22:38,312 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_UPCaP.html.
+2017-05-31 17:22:38,315 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_UPCaP.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:22:43,930 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_ZUGfT.html.
+2017-05-31 17:22:48,398 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_bWJhW.html.
+2017-05-31 17:22:51,923 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_dYKjX.html.
+2017-05-31 17:22:51,926 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_dYKjX.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:22:56,148 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_niUsh.html.
+2017-05-31 17:22:56,151 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_niUsh.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:23:02,255 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_wqd2q.html.
+2017-05-31 17:23:07,690 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_wrd3q.html.
+2017-05-31 17:23:07,691 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_wrd3q.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:23:12,927 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_zug6t.html.
+2017-05-31 17:23:12,930 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_zug6t.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:23:18,329 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_A5rF5.html.
+2017-05-31 17:23:18,335 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_A5rF5.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:23:23,895 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_JE1PD.html.
+2017-05-31 17:23:28,096 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_QL8WK.html.
+2017-05-31 17:23:28,101 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_QL8WK.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:23:33,210 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_UOBZO.html.
+2017-05-31 17:23:36,138 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_ZUHfU.html.
+2017-05-31 17:23:36,141 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_ZUHfU.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:23:41,117 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_eZMkZ.html.
+2017-05-31 17:23:41,119 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_eZMkZ.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:23:47,026 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_jdQod.html.
+2017-05-31 17:23:52,368 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_kfRqe.html.
+2017-05-31 17:23:56,240 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_nhUsh.html.
+2017-05-31 17:24:01,664 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_qlXvk.html.
+2017-05-31 17:24:01,667 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_qlXvk.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:24:07,608 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_qlYwl.html.
+2017-05-31 17:24:13,150 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_tobzo.html.
+2017-05-31 17:24:13,155 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_tobzo.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:24:17,786 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_xre3r.html.
+2017-05-31 17:24:23,644 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_IDzOC.html.
+2017-05-31 17:24:29,154 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_UPBaO.html.
+2017-05-31 17:24:29,155 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_UPBaO.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:24:33,663 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_zug5t.html.
+2017-05-31 17:24:33,665 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_zug5t.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:24:38,299 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_C8tI7.html.
+2017-05-31 17:24:44,266 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_rmYxl.html.
+2017-05-31 17:24:49,315 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_aVIgV.html.
+2017-05-31 17:24:49,318 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_aVIgV.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:24:52,217 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_eZLkY.html.
+2017-05-31 17:24:57,075 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_mhTsg.html.
+2017-05-31 17:24:57,076 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_mhTsg.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)
+2017-05-31 17:25:02,572 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_wre3r.html.
+2017-05-31 17:25:02,573 spider_ty.py[line:107] ERROR layer1 failed, url is:(http://www.wuxitaiyuan.com/products/product_wre3r.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ty.py", line 85, in parse3
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[0]+details[1]+details[2])
+IndexError: list index out of range
+)

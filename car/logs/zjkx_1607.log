@@ -1,0 +1,20 @@
+2017-06-08 16:07:56,865 spiders.py[line:68] INFO Reading start URLs from redis key 'zjkx:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 16:07:58,441 __init__.py[line:47] DEBUG Resuming crawl (46 requests scheduled)
+2017-06-08 16:07:58,677 spider_zjkx.py[line:85] INFO detail is being parsed, url is: http://www.kaixun.com.cn/htm/Products/qz/p3/2012_0615_157.html.
+2017-06-08 16:08:04,323 spider_zjkx.py[line:85] INFO detail is being parsed, url is: http://www.kaixun.com.cn/htm/Products/qz/p4/2012_0607_59.html.
+2017-06-08 16:08:08,401 spider_zjkx.py[line:85] INFO detail is being parsed, url is: http://www.kaixun.com.cn/htm/Products/qz/p4/2012_0607_60.html.
+2017-06-08 16:08:13,538 spider_zjkx.py[line:85] INFO detail is being parsed, url is: http://www.kaixun.com.cn/htm/Products/qz/p5/2012_0607_52.html.
+2017-06-08 16:08:18,835 spider_zjkx.py[line:85] INFO detail is being parsed, url is: http://www.kaixun.com.cn/htm/Products/qz/p5/2012_0607_53.html.
+2017-06-08 16:08:24,371 spider_zjkx.py[line:85] INFO detail is being parsed, url is: http://www.kaixun.com.cn/htm/Products/qz/p5/2012_0615_158.html.
+2017-06-08 16:08:28,515 spider_zjkx.py[line:85] INFO detail is being parsed, url is: http://www.kaixun.com.cn/htm/Products/qz/ts/ts56.html.
+2017-06-08 16:08:34,056 spider_zjkx.py[line:85] INFO detail is being parsed, url is: http://www.kaixun.com.cn/htm/Products/qz/ts/ts57.html.
+2017-06-08 16:08:36,887 spider_zjkx.py[line:85] INFO detail is being parsed, url is: http://www.kaixun.com.cn/htm/Products/qz/ts/ts58.html.
+2017-06-08 16:08:42,188 spider_zjkx.py[line:85] INFO detail is being parsed, url is: http://www.kaixun.com.cn/htm/Products/qz/yy/yy66.html.
+2017-06-08 16:08:46,341 spider_zjkx.py[line:85] INFO detail is being parsed, url is: http://www.kaixun.com.cn/htm/Products/km/p10/2012_0608_87.html.
+2017-06-08 16:08:52,265 spider_zjkx.py[line:85] INFO detail is being parsed, url is: http://www.kaixun.com.cn/htm/Products/km/p10/2012_0608_88.html.
+2017-06-08 16:08:55,230 spider_zjkx.py[line:85] INFO detail is being parsed, url is: http://www.kaixun.com.cn/htm/Products/km/p10/2012_0608_89.html.
+2017-06-08 16:08:59,726 spider_zjkx.py[line:85] INFO detail is being parsed, url is: http://www.kaixun.com.cn/htm/Products/km/p10/2012_0608_90.html.
+2017-06-08 16:09:03,430 spider_zjkx.py[line:85] INFO detail is being parsed, url is: http://www.kaixun.com.cn/htm/Products/km/p10/2012_0608_91.html.
+2017-06-08 16:09:06,503 spider_zjkx.py[line:85] INFO detail is being parsed, url is: http://www.kaixun.com.cn/htm/Products/km/p10/2012_0608_92.html.
+2017-06-08 16:09:12,443 spider_zjkx.py[line:85] INFO detail is being parsed, url is: http://www.kaixun.com.cn/htm/Products/km/p10/2012_0608_93.html.
+2017-06-08 16:09:16,987 spider_zjkx.py[line:85] INFO detail is being parsed, url is: http://www.kaixun.com.cn/htm/Products/km/p10/2012_0608_94.html.

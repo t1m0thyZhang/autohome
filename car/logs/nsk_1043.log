@@ -1,0 +1,11 @@
+2017-05-31 10:43:24,055 spiders.py[line:68] INFO Reading start URLs from redis key 'nsk:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 10:43:26,618 spiders.py[line:95] DEBUG Read 1 requests from 'nsk:start_urls'
+2017-05-31 10:43:27,539 spider_nsk.py[line:53] INFO step into layer1, url is: http://www.cn.nsk.com/products/epsteel.html.
+2017-05-31 10:43:31,128 spider_nsk.py[line:69] INFO --------layer3, url is: http://www.cn.nsk.com/products/ballbearing/deepgroove/.
+2017-05-31 10:43:48,848 spider_nsk.py[line:100] ERROR layer3 failed: failed to write into item, url is:(http://www.cn.nsk.com/products/ballbearing/deepgroove/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_nsk.py", line 78, in parse2
+    details = re.sub("<.*?>|\r|\n|\t|\xa0|\xae", "", details)
+  File "E:\python27\lib\re.py", line 155, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+TypeError: expected string or buffer
+)

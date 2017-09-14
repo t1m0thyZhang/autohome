@@ -1,0 +1,350 @@
+2017-06-07 18:25:04,657 spiders.py[line:68] INFO Reading start URLs from redis key 'huarun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 18:25:07,246 spiders.py[line:95] DEBUG Read 1 requests from 'huarun:start_urls'
+2017-06-07 18:25:07,661 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 97, in parse
+    image = self.home_page + ret['msg']['bimg']
+TypeError: string indices must be integers
+)
+2017-06-07 18:25:37,026 spiders.py[line:68] INFO Reading start URLs from redis key 'huarun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 18:25:39,845 spiders.py[line:95] DEBUG Read 16 requests from 'huarun:start_urls'
+2017-06-07 18:25:43,105 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=44), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)
+2017-06-07 18:25:45,961 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=390), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)
+2017-06-07 18:25:57,704 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=28), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)
+2017-06-07 18:26:02,125 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=395), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)
+2017-06-07 18:26:07,808 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=8), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)
+2017-06-07 18:26:10,015 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=40), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)
+2017-06-07 18:26:18,551 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=26), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)
+2017-06-07 18:26:24,177 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=112), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)
+2017-06-07 18:26:33,980 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=42), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)
+2017-06-07 18:26:34,335 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=1), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)
+2017-06-07 18:26:48,042 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=69), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)
+2017-06-07 18:26:58,489 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=111), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)
+2017-06-07 18:26:58,519 spiders.py[line:95] DEBUG Read 16 requests from 'huarun:start_urls'
+2017-06-07 18:27:07,749 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=22), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)
+2017-06-07 18:27:12,848 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=29), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)
+2017-06-07 18:27:18,221 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=64), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)
+2017-06-07 18:27:27,174 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=77), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)
+2017-06-07 18:27:28,989 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=79), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)
+2017-06-07 18:27:52,505 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=301), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)
+2017-06-07 18:28:06,726 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=373), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)
+2017-06-07 18:28:09,757 spider_huarun.py[line:118] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=375), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 90, in parse
+    response2 = urllib2.urlopen(req)  # 接受反馈的信息
+  File "E:\python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "E:\python27\lib\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "E:\python27\lib\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "E:\python27\lib\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "E:\python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "E:\python27\lib\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 500: Internal Server Error
+)

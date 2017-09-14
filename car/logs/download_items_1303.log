@@ -1,0 +1,3 @@
+2017-05-25 13:03:41,681 download_items_from_redis.py[line:114] INFO [process id 0] start to download items in 'xww:items' (server: localhost, port: 6379)
+2017-05-25 13:03:42,713 download_items_from_redis.py[line:93] INFO [xww:items] Processing item: 低成本高效铣削加工 <http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=b7df4d6f3c52463dbf36829a1c13ce3f>
+2017-05-25 13:03:42,910 download_items_from_redis.py[line:93] INFO [xww:items] Processing item: 成型插铣刀-高效高精度 <http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=3e24c7fec35b4a5e91b13d669815b251>

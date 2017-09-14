@@ -1,0 +1,5 @@
+2017-05-31 11:29:04,128 spiders.py[line:68] INFO Reading start URLs from redis key 'tmb:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 11:40:41,177 spiders.py[line:95] DEBUG Read 1 requests from 'tmb:start_urls'
+2017-05-31 11:40:43,128 spider_tmb.py[line:51] INFO step into layer1, url is: http://www.tmb.net.cn/products_list.html.
+2017-05-31 11:40:46,821 spider_tmb.py[line:66] INFO step into layer2, url is: http://www.tmb.net.cn/products_list/pmcId=22.html.
+2017-05-31 11:40:50,667 spider_tmb.py[line:84] INFO --------layer3, url is: http://www.tmb.net.cn/products_detail/productId=21.html.

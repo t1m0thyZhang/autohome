@@ -1,0 +1,9 @@
+2017-05-24 17:04:36,482 spiders.py[line:68] INFO Reading start URLs from redis key 'ctz:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 17:04:36,921 __init__.py[line:46] DEBUG Resuming crawl (71 requests scheduled)
+2017-05-24 17:04:38,572 spider_ctz.py[line:74] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=86.
+2017-05-24 17:04:49,993 spider_ctz.py[line:103] ERROR layer 3 failed: failed to write into item, url is:(http://www.ceratizit.com/products/metal-cutting/list/detail/?product=86), error info is:(Traceback (most recent call last):
+  File "C:\Users\yunsom\Desktop\product\product\spiders\spider_ctz.py", line 95, in parse2
+    level1 = clstmp.split(u'：')[0]
+AttributeError: 'list' object has no attribute 'split'
+)
+2017-05-24 17:04:51,602 spider_ctz.py[line:74] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=87.

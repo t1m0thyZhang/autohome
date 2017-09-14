@@ -1,0 +1,4 @@
+2017-05-31 14:33:01,348 spiders.py[line:68] INFO Reading start URLs from redis key 'juwei:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 14:33:03,913 spiders.py[line:95] DEBUG Read 1 requests from 'juwei:start_urls'
+2017-05-31 14:33:04,733 spider_juwei.py[line:53] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/index.asp?class=&nclass=&key=&Page=1.
+2017-05-31 14:33:32,674 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=765.

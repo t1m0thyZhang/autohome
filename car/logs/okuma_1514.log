@@ -1,0 +1,5 @@
+2017-05-31 15:14:10,298 spiders.py[line:68] INFO Reading start URLs from redis key 'okuma:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 15:14:11,786 __init__.py[line:47] DEBUG Resuming crawl (14 requests scheduled)
+2017-05-31 15:14:12,865 spiders.py[line:95] DEBUG Read 1 requests from 'okuma:start_urls'
+2017-05-31 15:14:13,242 spider_okuma.py[line:67] INFO step into layer1, url is: http://www.okuma.co.jp/chinese/product/nccg/index.html.
+2017-05-31 15:14:47,811 spider_okuma.py[line:67] INFO step into layer1, url is: http://www.okuma.co.jp/chinese/product/vmc/index5.html.

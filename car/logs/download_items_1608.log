@@ -1,0 +1,32 @@
+2017-05-31 16:08:59,038 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'sodick:items' (server: localhost, port: 6379)
+2017-05-31 16:09:00,048 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: UH430L LN4X NEW! <http://www.sodick.co.jp/cn/product/tool/machining/uh430l_ln4x.html>
+2017-05-31 16:09:00,049 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: DiproSOLID Loran <http://www.sodick.co.jp/cn/product/tool/cad/loran.html>
+2017-05-31 16:09:00,049 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: PF100S / PF300S <http://www.sodick.co.jp/cn/product/tool/beam/index.html>
+2017-05-31 16:09:00,052 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: AP1L (Premium) <http://www.sodick.co.jp/cn/product/tool/dedm/ap1l.html>
+2017-05-31 16:09:05,792 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: AP3L <http://www.sodick.co.jp/cn/product/tool/dedm/ap3l.html>
+2017-05-31 16:09:13,095 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: AG40LP NEW! <http://www.sodick.co.jp/cn/product/tool/dedm/ag40lp.html>
+2017-05-31 16:09:19,835 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: AG40L / AG60L <http://www.sodick.co.jp/cn/product/tool/dedm/ag40l_ag60l.html>
+2017-05-31 16:09:25,571 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: AQ15L / AQ20L <http://www.sodick.co.jp/cn/product/tool/dedm/aq15l_aq20l.html>
+2017-05-31 16:09:33,653 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: AG80L / AG100L <http://www.sodick.co.jp/cn/product/tool/dedm/ag80l_ag100l.html>
+2017-05-31 16:09:35,599 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: AG360L <http://www.sodick.co.jp/cn/product/tool/wedm/ag360l.html>
+2017-05-31 16:09:53,165 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: AQ750L / AQ900L <http://www.sodick.co.jp/cn/product/tool/wedm/aq750l_aq900l.html>
+2017-05-31 16:10:12,378 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: AQ1200L / AQ1500L <http://www.sodick.co.jp/cn/product/tool/wedm/aq1200l_aq1500l.html>
+2017-05-31 16:10:17,506 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: DiProWIN <http://www.sodick.co.jp/cn/product/tool/cad/win.html>
+2017-05-31 16:10:25,059 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: DiproSOLID Loran <http://www.sodick.co.jp/cn/product/tool/cad/loran.html>
+2017-05-31 16:10:25,668 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: PF100S / PF300S <http://www.sodick.co.jp/cn/product/tool/beam/index.html>
+2017-05-31 16:10:32,502 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: AZ250 <http://www.sodick.co.jp/cn/product/tool/nano/index.html>
+2017-05-31 16:10:34,440 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: AP250L(oil) <http://www.sodick.co.jp/cn/product/tool/wedm/ap250l.html>
+2017-05-31 16:10:40,576 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: AP650L(oil) <http://www.sodick.co.jp/cn/product/tool/wedm/ap650l.html>
+2017-05-31 16:10:45,246 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: DiproSOLID 电火花放电CAM <http://www.sodick.co.jp/cn/product/tool/cad/cad_dedm.html>
+2017-05-31 16:10:50,661 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: DiproSOLID 线切割放电CAM <http://www.sodick.co.jp/cn/product/tool/cad/cad_wedm.html>
+2017-05-31 16:10:55,000 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: K1C <http://www.sodick.co.jp/cn/product/tool/drilling/k1c.html>
+2017-05-31 16:11:05,700 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: EXC100L <http://www.sodick.co.jp/cn/product/tool/wedm/exc100l.html>
+2017-05-31 16:11:15,403 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: K1BL <http://www.sodick.co.jp/cn/product/tool/drilling/k1bl.html>
+2017-05-31 16:11:15,526 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: K3BL <http://www.sodick.co.jp/cn/product/tool/drilling/k3bl.html>
+2017-05-31 16:11:23,647 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: K3HS NEW! <http://www.sodick.co.jp/cn/product/tool/drilling/k3hs.html>
+2017-05-31 16:11:27,328 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: AP450L(oil) NEW! <http://www.sodick.co.jp/cn/product/tool/wedm/ap450l_oil.html>
+2017-05-31 16:11:35,417 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: Sodick IoT <http://www.sodick.co.jp/cn/product/tool/iot/index.html>
+2017-05-31 16:11:36,154 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: Sodick IoT <http://www.sodick.co.jp/cn/product/tool/iot/index.html>
+2017-05-31 16:11:44,030 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: Sodick IoT <http://www.sodick.co.jp/cn/product/tool/iot/index.html>
+2017-05-31 16:11:52,032 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: TT1-400A <http://www.sodick.co.jp/cn/product/tool/machining/tt1-400a.html>
+2017-05-31 16:11:56,834 download_items_from_redis.py[line:93] INFO [sodick:items] Processing item: UH430L LN4X NEW! <http://www.sodick.co.jp/cn/product/tool/machining/uh430l_ln4x.html>

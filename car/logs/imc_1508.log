@@ -1,0 +1,5 @@
+2017-05-24 15:08:01,640 spiders.py[line:68] INFO Reading start URLs from redis key 'imc:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 15:08:02,092 spiders.py[line:95] DEBUG Read 1 requests from 'imc:start_urls'
+2017-05-24 15:08:07,084 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.imc-companies.com/taegutec/ttkCatalog/Applications.aspx?mapp=IS>, failed reason:User timeout caused connection failure: Getting http://www.imc-companies.com/taegutec/ttkCatalog/Applications.aspx?mapp=IS took longer than 5.0 seconds..
+2017-05-24 15:08:07,302 spiders.py[line:95] DEBUG Read 1 requests from 'imc:start_urls'
+2017-05-24 15:08:08,522 spider_imc.py[line:64] INFO layer1 url is: http://www.imc-companies.com/taegutec/ttkCatalog/Applications.aspx?mapp=IS.

@@ -1,0 +1,17 @@
+2017-05-31 16:13:38,884 spiders.py[line:68] INFO Reading start URLs from redis key 'sodick:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 16:13:41,382 spiders.py[line:95] DEBUG Read 5 requests from 'sodick:start_urls'
+2017-05-31 16:14:16,707 spider_sodick.py[line:55] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/food/.
+2017-05-31 16:14:18,732 spider_sodick.py[line:55] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/motion/.
+2017-05-31 16:14:23,371 spider_sodick.py[line:55] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/consumables/.
+2017-05-31 16:14:26,782 spider_sodick.py[line:55] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/tool/.
+2017-05-31 16:14:30,743 spider_sodick.py[line:55] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/injection/.
+2017-05-31 16:15:55,753 spider_sodick.py[line:70] INFO step into layer1, url is: http://www.sodick.co.jp/index.html.
+2017-05-31 16:16:00,585 spider_sodick.py[line:70] INFO step into layer1, url is: http://www.sodick.co.jp/index.html.
+2017-05-31 16:16:04,740 spider_sodick.py[line:70] INFO step into layer1, url is: http://www.sodick.co.jp/index.html.
+2017-05-31 16:16:09,582 spider_sodick.py[line:70] INFO step into layer1, url is: http://www.sodick.co.jp/index.html.
+2017-05-31 16:16:17,760 spider_sodick.py[line:70] INFO step into layer1, url is: http://www.sodick.co.jp/index.html.
+2017-05-31 16:16:21,151 spider_sodick.py[line:70] INFO step into layer1, url is: http://www.sodick.co.jp/index.html.
+2017-05-31 16:16:22,805 spider_sodick.py[line:70] INFO step into layer1, url is: http://www.sodick.co.jp/index.html.
+2017-05-31 16:16:28,030 spider_sodick.py[line:70] INFO step into layer1, url is: http://www.sodick.co.jp/index.html.
+2017-05-31 16:16:33,434 spider_sodick.py[line:70] INFO step into layer1, url is: http://www.sodick.co.jp/index.html.
+2017-05-31 16:16:38,289 spider_sodick.py[line:70] INFO step into layer1, url is: http://www.sodick.co.jp/index.html.

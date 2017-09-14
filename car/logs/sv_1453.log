@@ -1,0 +1,8 @@
+2017-05-25 14:53:25,355 spiders.py[line:68] INFO Reading start URLs from redis key 'sv:start_urls' (batch size: 16, encoding: utf-8
+2017-05-25 14:53:28,265 spiders.py[line:95] DEBUG Read 1 requests from 'sv:start_urls'
+2017-05-25 14:53:30,068 spider_sv.py[line:55] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/turning-tools.aspx.
+2017-05-25 14:53:33,918 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/external-turning-tools.aspx.
+2017-05-25 14:53:38,469 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/heavy-turning-tools.aspx.
+2017-05-25 14:53:42,503 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/internal-turning-tools.aspx.
+2017-05-25 14:53:48,502 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/multi-task-machining-tools.aspx.
+2017-05-25 14:53:53,211 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_prime/Pages/default.aspx.

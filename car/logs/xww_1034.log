@@ -1,0 +1,3 @@
+2017-05-25 10:34:51,799 spiders.py[line:68] INFO Reading start URLs from redis key 'xww:start_urls' (batch size: 16, encoding: utf-8
+2017-05-25 10:34:54,782 spiders.py[line:95] DEBUG Read 1 requests from 'xww:start_urls'
+2017-05-25 10:34:55,032 xww.py[line:66] INFO step into layer1, url is: http://www.xawinway.com/front/product.shtml.

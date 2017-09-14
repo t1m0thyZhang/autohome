@@ -1,0 +1,10 @@
+2017-06-08 14:08:12,653 spiders.py[line:68] INFO Reading start URLs from redis key 'lesso:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 14:08:15,308 spiders.py[line:95] DEBUG Read 1 requests from 'lesso:start_urls'
+2017-06-08 14:08:16,746 spider_lesso.py[line:50] INFO url is: http://www.lesso.com/.
+2017-06-08 14:08:20,835 spider_lesso.py[line:65] INFO url is: http://www.lesso.com//product/piping/.
+2017-06-08 14:08:26,180 spider_lesso.py[line:78] INFO url is: http://www.lesso.com//product/25.
+2017-06-08 14:09:13,174 spider_lesso.py[line:110] ERROR failed, url is:(http://www.lesso.com//product/25), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_lesso.py", line 103, in parse3
+    items.append(item)
+AttributeError: 'tuple' object has no attribute 'append'
+)

@@ -1,0 +1,31 @@
+2017-08-17 10:48:08,026 spiders.py[line:68] INFO Reading start URLs from redis key 'autohome:start_urls' (batch size: 1, encoding: utf-8
+2017-08-17 10:48:11,523 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 10:48:11,632 spider_autohome.py[line:55] INFO url is: http://www.autohome.com.cn/4325/.
+2017-08-17 10:48:11,680 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 10:48:16,105 spider_autohome.py[line:55] INFO url is: http://www.autohome.com.cn/370/.
+2017-08-17 10:48:16,418 spider_autohome.py[line:68] INFO layer 2 url is: http://k.autohome.com.cn/370/9219/.
+2017-08-17 10:48:16,434 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 10:48:19,461 spider_autohome.py[line:55] INFO url is: http://www.autohome.com.cn/538/.
+2017-08-17 10:48:21,599 spider_autohome.py[line:68] INFO layer 2 url is: http://k.autohome.com.cn/538/8823/.
+2017-08-17 10:48:21,631 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 10:48:22,691 spider_autohome.py[line:55] INFO url is: http://www.autohome.com.cn/471/.
+2017-08-17 10:48:27,575 spider_autohome.py[line:68] INFO layer 2 url is: http://k.autohome.com.cn/471/9318/.
+2017-08-17 10:48:37,016 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/471/9318/?gradeenum=0.
+2017-08-17 10:48:40,901 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/471/9318/index_2.html?GradeEnum=0.
+2017-08-17 10:48:46,269 spider_autohome.py[line:103] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1653657_1.html?st=1&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 10:48:46,269 spider_autohome.py[line:141] ERROR layer 3 failed:  url is:(http://k.autohome.com.cn/spec/28681/view_1653657_1.html?st=1&piap=0|471|9318|0|1|0|0|0|0|0|1), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\spider_car\car\spiders\spider_autohome.py", line 111, in parse4
+    item[comment_title] = comment_title
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 66, in __setitem__
+    (self.__class__.__name__, key))
+KeyError: u'CarItem does not support field: \u534a\u5e74\u7504\u9009\u7f18\u4efd\u4f7f\u7136\u79d2\u63d0\u5c0f43000\u516c\u91cc\u7528\u8f66\u611f\u53d7'
+)
+2017-08-17 10:48:50,427 spider_autohome.py[line:103] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1667981_1.html?st=16&piap=0|471|9318|0|1|0|0|0|0|0|1.
+2017-08-17 10:48:50,427 spider_autohome.py[line:141] ERROR layer 3 failed:  url is:(http://k.autohome.com.cn/spec/28681/view_1667981_1.html?st=16&piap=0|471|9318|0|1|0|0|0|0|0|1), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\spider_car\car\spiders\spider_autohome.py", line 111, in parse4
+    item[comment_title] = comment_title
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 66, in __setitem__
+    (self.__class__.__name__, key))
+KeyError: u'CarItem does not support field: \u4e00\u4e2a\u7537\u4eba\u5bf9\u65c5\u884c\u8f66\u7684\u60c5\u6000\uff0c\u4e3a\u4e86\u989c\u8272\u653e\u5f03\u914d\u7f6e'
+)
+2017-08-17 10:48:50,444 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'

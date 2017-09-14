@@ -1,0 +1,1 @@
+2017-06-02 10:35:10,688 spiders.py[line:68] INFO Reading start URLs from redis key 'osram:start_urls' (batch size: 16, encoding: utf-8

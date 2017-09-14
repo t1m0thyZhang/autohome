@@ -1,0 +1,5 @@
+2017-06-02 11:34:17,223 spiders.py[line:68] INFO Reading start URLs from redis key 'opple:start_urls' (batch size: 16, encoding: utf-8
+2017-06-02 11:34:19,763 spiders.py[line:95] DEBUG Read 2 requests from 'opple:start_urls'
+2017-06-02 11:34:20,075 spider_opple.py[line:70] INFO step into layer1, url is: http://www.opple.com.cn/product/index/2?type=home&classid=2.
+2017-06-02 11:34:38,515 spider_opple.py[line:70] INFO step into layer1, url is: http://www.opple.com.cn/product/index/1?type=home&classid=2.
+2017-06-02 11:34:44,042 spider_opple.py[line:84] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/272/?type=home.

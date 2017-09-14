@@ -1,0 +1,5 @@
+2017-05-29 18:01:35,092 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'knt:items' (server: localhost, port: 6379)
+2017-05-29 18:01:36,109 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: KM-CLS • Square Shank <https://www.kennametal.com/zh/products/20478624/2664259/40856549/40856554/41339355/100016624.html>
+2017-05-29 18:01:36,109 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: NT-K <https://www.kennametal.com/zh/products/20478624/62318451/56148232/56148278/56148748/100003252.html>
+2017-05-29 18:01:36,125 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: UKDV • 四刃 • 公制 <https://www.kennametal.com/zh/products/20478624/57493250/1522849/100085230/100085231/100075165.html>
+2017-05-29 18:01:36,125 download_items_from_redis.py[line:93] INFO [knt:items] Processing item:  <https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745065/63840303/63840318/55735598/100003623.html>

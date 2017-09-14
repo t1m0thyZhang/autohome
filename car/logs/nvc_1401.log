@@ -1,0 +1,19 @@
+2017-06-02 14:01:08,237 spiders.py[line:68] INFO Reading start URLs from redis key 'nvc:start_urls' (batch size: 16, encoding: utf-8
+2017-06-02 14:01:10,819 spiders.py[line:95] DEBUG Read 1 requests from 'nvc:start_urls'
+2017-06-02 14:01:11,022 spider_nvc.py[line:62] INFO step into layer1, url is: http://www.nvc-lighting.com.cn/productCategory.html?fixedAttributeId=1000000000010201&fixedAttributeValue=%E5%AE%A2%E5%8E%85%E7%85%A7%E6%98%8E%E4%B8%93%E5%8C%BA.
+2017-06-02 14:01:54,206 spider_nvc.py[line:95] ERROR layer1 failed, url is:(http://www.nvc-lighting.com.cn/productCategory.html?fixedAttributeId=1000000000010201&fixedAttributeValue=%E5%AE%A2%E5%8E%85%E7%85%A7%E6%98%8E%E4%B8%93%E5%8C%BA), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_nvc.py", line 70, in parse
+    tmp = driver.find_element_by_xpath("//img[@class='productImg']/@src")
+  File "E:\python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 309, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "E:\python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "E:\python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "E:\python27\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+InvalidSelectorException: Message: invalid selector: The result of the xpath expression "//img[@class='productImg']/@src" is: [object Attr]. It should be an element.
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10240 x86_64)
+
+)

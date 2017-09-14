@@ -1,0 +1,23 @@
+2017-06-12 10:24:04,163 spiders.py[line:68] INFO Reading start URLs from redis key 'easun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 10:24:05,842 __init__.py[line:47] DEBUG Resuming crawl (122 requests scheduled)
+2017-06-12 10:24:06,313 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=142.html.
+2017-06-12 10:24:06,323 spider_easun.py[line:117] ERROR layer 2 failed: failed to write into item, url is:(http://www.china-easun.com/products_detail/productId=142.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_easun.py", line 111, in parse3
+    pname = pname.split(r'产品名称：')
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 0: ordinal not in range(128)
+)
+2017-06-12 10:24:22,289 spiders.py[line:68] INFO Reading start URLs from redis key 'easun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 10:24:23,990 __init__.py[line:47] DEBUG Resuming crawl (105 requests scheduled)
+2017-06-12 10:24:24,428 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=99.html.
+2017-06-12 10:24:27,239 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=138.html.
+2017-06-12 10:24:32,872 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=186.html.
+2017-06-12 10:24:38,857 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=65.html.
+2017-06-12 10:24:44,233 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=157.html.
+2017-06-12 10:24:49,865 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=160.html.
+2017-06-12 10:24:54,994 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=172.html.
+2017-06-12 10:24:59,654 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=42.html.
+2017-06-12 10:25:05,591 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=124.html.
+2017-06-12 10:25:09,759 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=123.html.
+2017-06-12 10:25:14,516 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=86.html.
+2017-06-12 10:25:20,030 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=121.html.
+2017-06-12 10:25:25,700 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=127.html.

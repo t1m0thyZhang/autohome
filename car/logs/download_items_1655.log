@@ -1,0 +1,31 @@
+2017-05-24 16:55:30,778 download_items_from_redis.py[line:112] INFO [process id 0] start to download items in 'ctz:items' (server: localhost, port: 6379)
+2017-05-24 16:55:30,798 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:55:30,808 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:55:32,088 download_items_from_redis.py[line:48] ERROR failed to download image(url: http://www.ceratizit.com/uploads/tx_extproduct/1005391750/Carbide_hobs.jpg ), retry_num:1 reason:timed out
+2017-05-24 16:55:33,358 download_items_from_redis.py[line:48] ERROR failed to download image(url: http://www.ceratizit.com/uploads/tx_extproduct/1005391750/Carbide_hobs.jpg ), retry_num:2 reason:timed out
+2017-05-24 16:55:34,635 download_items_from_redis.py[line:48] ERROR failed to download image(url: http://www.ceratizit.com/uploads/tx_extproduct/1005391750/Carbide_hobs.jpg ), retry_num:3 reason:timed out
+2017-05-24 16:55:34,635 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:55:37,206 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:55:38,315 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:55:40,635 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:55:42,006 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:55:46,355 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:55:48,186 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:55:50,115 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:55:52,036 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:55:53,595 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:55:55,786 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:55:57,977 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:56:00,717 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:56:04,267 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:56:07,249 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:56:08,888 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:56:09,989 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:56:11,908 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:56:13,049 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:56:14,418 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:56:16,878 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:56:20,428 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:56:23,364 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:56:26,380 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>
+2017-05-24 16:56:31,437 download_items_from_redis.py[line:92] INFO [ctz:items] Processing item: None <None>

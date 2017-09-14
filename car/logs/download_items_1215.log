@@ -1,0 +1,4 @@
+2017-08-17 12:15:43,637 download_items_from_redis.py[line:92] INFO [process id 0] start to download items in 'autohome:items' (server: localhost, port: 6379)
+2017-08-17 12:15:44,667 download_items_from_redis.py[line:78] INFO [autohome:items] Processing item: None <http://k.autohome.com.cn/spec/25706/view_1574373_1.html?st=1&piap=0|78|8369|0|1|0|0|0|0|0|1>
+2017-08-17 19:58:48,342 download_items_from_redis.py[line:78] INFO [autohome:items] Processing item: None <http://k.autohome.com.cn/spec/25706/view_1574373_1.html?st=1&piap=0|78|8369|0|1|0|0|0|0|0|1>
+2017-08-17 20:01:02,802 download_items_from_redis.py[line:78] INFO [autohome:items] Processing item: None <http://k.autohome.com.cn/spec/25706/view_1574373_1.html?st=1&piap=0|78|8369|0|1|0|0|0|0|0|1>

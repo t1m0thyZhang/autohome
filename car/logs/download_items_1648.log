@@ -1,0 +1,25 @@
+2017-06-08 16:48:28,289 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'jsnd:items' (server: localhost, port: 6379)
+2017-06-08 16:48:29,312 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 自动化立体仓库 <http://www.nj-road.com/Product/2310591448.html>
+2017-06-08 16:48:29,315 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: RTM系列 中量Ⅱ型货架 <http://www.nj-road.com/Product/6425032147.html>
+2017-06-08 16:48:29,315 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 贯通式货架  <http://www.nj-road.com/Product/7901581259.html>
+2017-06-08 16:48:29,318 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 刀具车 / 刀具柜 <http://www.nj-road.com/Product/8164071022.html>
+2017-06-08 16:48:29,319 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: RTH系列重量型横梁式货架 <http://www.nj-road.com/Product/8193651949.html>
+2017-06-08 16:48:29,321 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: RTL系列轻量型货架 <http://www.nj-road.com/Product/8934012618.html>
+2017-06-08 16:48:29,322 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: RTM系列中量Ⅰ型货架 <http://www.nj-road.com/Product/9286042329.html>
+2017-06-08 16:48:29,322 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 钢结构平台 <http://www.nj-road.com/Product/053642225.html>
+2017-06-08 16:48:29,323 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 阁楼式货架&amp;钢结构平台 <http://www.nj-road.com/Product/104659134.html>
+2017-06-08 16:48:29,325 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 压入式货架 <http://www.nj-road.com/Product/207195563.html>
+2017-06-08 16:48:29,325 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 穿梭车货架 <http://www.nj-road.com/Product/504273923.html>
+2017-06-08 16:48:29,326 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 低成本托盘 <http://www.nj-road.com/Product/0735291924.html>
+2017-06-08 16:48:29,328 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 塑料托盘 <http://www.nj-road.com/Product/1380241815.html>
+2017-06-08 16:48:29,328 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 钢结构平台 <http://www.nj-road.com/Product/053642225.html>
+2017-06-08 16:48:33,138 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 阁楼式货架&amp;钢结构平台 <http://www.nj-road.com/Product/104659134.html>
+2017-06-08 16:48:38,638 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 压入式货架 <http://www.nj-road.com/Product/207195563.html>
+2017-06-08 16:48:43,505 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 穿梭车货架 <http://www.nj-road.com/Product/504273923.html>
+2017-06-08 16:48:49,344 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 阁楼式货架 <http://www.nj-road.com/Product/972045425.html>
+2017-06-08 16:48:52,973 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 悬臂式货架 <http://www.nj-road.com/Product/3916255031.html>
+2017-06-08 16:48:56,414 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 重力式货架 <http://www.nj-road.com/Product/7153465419.html>
+2017-06-08 16:49:00,207 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 移动式货架 <http://www.nj-road.com/Product/8125473837.html>
+2017-06-08 16:49:04,533 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 抽屉式货架 <http://www.nj-road.com/Product/9102344242.html>
+2017-06-08 16:49:09,203 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 流利式货架 <http://www.nj-road.com/Product/0793253612.html>
+2017-06-08 16:49:13,992 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 低成本托盘 <http://www.nj-road.com/Product/0735291924.html>

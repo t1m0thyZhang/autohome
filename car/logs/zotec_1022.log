@@ -1,0 +1,14 @@
+2017-06-14 10:22:50,874 spiders.py[line:68] INFO Reading start URLs from redis key 'zotec:start_urls' (batch size: 16, encoding: utf-8
+2017-06-14 10:22:53,513 spiders.py[line:95] DEBUG Read 4 requests from 'zotec:start_urls'
+2017-06-14 10:22:53,872 spider_zotec.py[line:56] INFO url is: http://www.zotec-china.com.cn/Product.php?Fid=11.
+2017-06-14 10:23:00,107 spider_zotec.py[line:56] INFO url is: http://www.zotec-china.com.cn/Product.php?Fid=10.
+2017-06-14 10:23:05,404 spider_zotec.py[line:56] INFO url is: http://www.zotec-china.com.cn/Product.php?Fid=9.
+2017-06-14 10:23:10,088 spider_zotec.py[line:56] INFO url is: http://www.zotec-china.com.cn/Product.php?Fid=2.
+2017-06-14 10:23:14,471 spider_zotec.py[line:71] INFO url is: http://www.zotec-china.com.cn/Product.php?Fid=11&Sid=11001.
+2017-06-14 10:23:20,755 spider_zotec.py[line:71] INFO url is: http://www.zotec-china.com.cn/Product.php?Fid=10&Sid=10001.
+2017-06-14 10:23:25,250 spider_zotec.py[line:71] INFO url is: http://www.zotec-china.com.cn/Product.php?Fid=9&Sid=9001.
+2017-06-14 10:23:29,059 spider_zotec.py[line:71] INFO url is: http://www.zotec-china.com.cn/Product.php?Fid=2&Sid=2001.
+2017-06-14 10:23:34,407 spider_zotec.py[line:87] INFO detail is being parsed, url is: http://www.zotec-china.com.cn/Pro_Info.php?id=353&Sid=11001&Tid=13.
+2017-06-14 10:23:40,582 spider_zotec.py[line:87] INFO detail is being parsed, url is: http://www.zotec-china.com.cn/Pro_Info.php?id=292&Sid=10001&Tid=0.
+2017-06-14 10:23:43,871 spider_zotec.py[line:87] INFO detail is being parsed, url is: http://www.zotec-china.com.cn/Pro_Info.php?id=336&Sid=9001&Tid=9.
+2017-06-14 10:23:49,453 spider_zotec.py[line:87] INFO detail is being parsed, url is: http://www.zotec-china.com.cn/Pro_Info.php?id=269&Sid=2001&Tid=4.

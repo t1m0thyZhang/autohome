@@ -1,0 +1,26 @@
+2017-06-08 16:31:02,155 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'kluke:items' (server: localhost, port: 6379)
+2017-06-08 16:31:03,203 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: 气动小车 <http://www.kluke.com.cn/chanpinzhanshi/hulu/qidonghulu/20150707/139.aspx>
+2017-06-08 16:31:03,207 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: YAL型气动环链葫芦 <http://www.kluke.com.cn/chanpinzhanshi/hulu/qidonghulu/20150707/140.aspx>
+2017-06-08 16:31:03,210 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: RPA-气动钢丝绳卷扬机 <http://www.kluke.com.cn/chanpinzhanshi/hulu/qidonghulu/20150707/141.aspx>
+2017-06-08 16:31:03,213 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: Lodestar Air XL 气动环链葫芦 <http://www.kluke.com.cn/chanpinzhanshi/hulu/qidonghulu/20150707/142.aspx>
+2017-06-08 16:31:03,216 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: KALC-气动环链葫芦 <http://www.kluke.com.cn/chanpinzhanshi/hulu/qidonghulu/20150707/143.aspx>
+2017-06-08 16:31:03,217 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: CPA 气动环链葫芦 <http://www.kluke.com.cn/chanpinzhanshi/hulu/qidonghulu/20150707/144.aspx>
+2017-06-08 16:31:03,219 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: CPA气动环链葫芦 <http://www.kluke.com.cn/chanpinzhanshi/hulu/qidonghulu/20150707/146.aspx>
+2017-06-08 16:31:03,221 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: CPA 气动环链葫芦 <http://www.kluke.com.cn/chanpinzhanshi/hulu/qidonghulu/20150707/145.aspx>
+2017-06-08 16:31:03,223 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: CPA Mini 型气动环链葫芦 <http://www.kluke.com.cn/chanpinzhanshi/hulu/qidonghulu/20150707/147.aspx>
+2017-06-08 16:31:03,236 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: Shopstar电动环链葫芦 <http://www.kluke.com.cn/chanpinzhanshi/hulu/diandonghulu/20150707/155.aspx>
+2017-06-08 16:31:03,237 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: KELC <http://www.kluke.com.cn/chanpinzhanshi/hulu/diandonghulu/20150707/156.aspx>
+2017-06-08 16:31:03,239 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: 维护门-非标产品 <http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/gangxingqingzaiqizhongxitong/20150722/183.aspx>
+2017-06-08 16:31:03,240 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: 无横梁式-非标产品 <http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/gangxingqingzaiqizhongxitong/20150722/184.aspx>
+2017-06-08 16:31:04,747 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: 超低净空式-非标产品 <http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/gangxingqingzaiqizhongxitong/20150722/185.aspx>
+2017-06-08 16:31:09,398 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: 伸缩梁式-非标产品 <http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/gangxingqingzaiqizhongxitong/20150722/186.aspx>
+2017-06-08 16:31:15,558 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: 道岔-非标产品 <http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/gangxingqingzaiqizhongxitong/20150722/187.aspx>
+2017-06-08 16:31:20,289 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: 刚性系统优势 <http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/gangxingqingzaiqizhongxitong/20150722/188.aspx>
+2017-06-08 16:31:25,901 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: 悬臂起重系统 <http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/xuanbiqizhongxitong/20150722/189.aspx>
+2017-06-08 16:31:31,448 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: 轨道式悬臂起重机 <http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/xuanbiqizhongxitong/20150722/190.aspx>
+2017-06-08 16:31:36,428 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: 其他结构形式 <http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/xuanbiqizhongxitong/20150722/192.aspx>
+2017-06-08 16:31:40,940 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: 汽动葫芦 <http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/zhinengpinghengxitongjijiaju/20150723/193.aspx>
+2017-06-08 16:31:46,022 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: LIFTRONIC系列-悬臂起重机 <http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/zhinengpinghengxitongjijiaju/20150723/194.aspx>
+2017-06-08 16:31:51,928 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: PN系列-悬臂吊价格 <http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/zhinengpinghengxitongjijiaju/20150723/195.aspx>
+2017-06-08 16:31:57,697 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: 夹具-进口葫芦 <http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/zhinengpinghengxitongjijiaju/20150723/196.aspx>
+2017-06-08 16:32:00,687 download_items_from_redis.py[line:93] INFO [kluke:items] Processing item: 偏载式起重机-KBK轨道 <http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/tongyongqiaoshiqizhongji/20150723/199.aspx>

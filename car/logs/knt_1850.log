@@ -1,0 +1,26 @@
+2017-05-24 18:50:58,591 spiders.py[line:68] INFO Reading start URLs from redis key 'knt:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 18:51:03,910 spiders.py[line:95] DEBUG Read 1 requests from 'knt:start_urls'
+2017-05-24 18:51:08,934 rotate_retry.py[line:16] INFO no need to retry, request is:<GET https://www.kennametal.com/zh/products/20478624/57493250.html>, failed reason:User timeout caused connection failure: Getting https://www.kennametal.com/zh/products/20478624/57493250.html took longer than 5.0 seconds..
+2017-05-24 18:51:09,151 spiders.py[line:95] DEBUG Read 1 requests from 'knt:start_urls'
+2017-05-24 18:51:14,614 rotate_retry.py[line:16] INFO no need to retry, request is:<GET https://www.kennametal.com/zh/products/20478624/57493250.html>, failed reason:User timeout caused connection failure: Getting https://www.kennametal.com/zh/products/20478624/57493250.html took longer than 5.0 seconds..
+2017-05-24 18:51:17,750 spiders.py[line:95] DEBUG Read 1 requests from 'knt:start_urls'
+2017-05-24 18:51:22,773 rotate_retry.py[line:16] INFO no need to retry, request is:<GET https://www.kennametal.com/zh/products/20478624/57493250.html>, failed reason:User timeout caused connection failure: Getting https://www.kennametal.com/zh/products/20478624/57493250.html took longer than 5.0 seconds..
+2017-05-24 18:51:22,990 spiders.py[line:95] DEBUG Read 1 requests from 'knt:start_urls'
+2017-05-24 18:51:28,013 rotate_retry.py[line:16] INFO no need to retry, request is:<GET https://www.kennametal.com/zh/products/20478624/57493250.html>, failed reason:User timeout caused connection failure: Getting https://www.kennametal.com/zh/products/20478624/57493250.html took longer than 5.0 seconds..
+2017-05-24 18:51:28,233 spiders.py[line:95] DEBUG Read 1 requests from 'knt:start_urls'
+2017-05-24 18:51:33,645 rotate_retry.py[line:16] INFO no need to retry, request is:<GET https://www.kennametal.com/zh/products/20478624/57493250.html>, failed reason:User timeout caused connection failure: Getting https://www.kennametal.com/zh/products/20478624/57493250.html took longer than 5.0 seconds..
+2017-05-24 18:51:38,903 spiders.py[line:95] DEBUG Read 1 requests from 'knt:start_urls'
+2017-05-24 18:51:43,924 rotate_retry.py[line:16] INFO no need to retry, request is:<GET https://www.kennametal.com/zh/products/20478624/57493250.html>, failed reason:User timeout caused connection failure: Getting https://www.kennametal.com/zh/products/20478624/57493250.html took longer than 5.0 seconds..
+2017-05-24 18:51:44,141 spiders.py[line:95] DEBUG Read 1 requests from 'knt:start_urls'
+2017-05-24 18:51:49,604 rotate_retry.py[line:16] INFO no need to retry, request is:<GET https://www.kennametal.com/zh/products/20478624/57493250.html>, failed reason:User timeout caused connection failure: Getting https://www.kennametal.com/zh/products/20478624/57493250.html took longer than 5.0 seconds..
+2017-05-24 18:51:49,822 spiders.py[line:95] DEBUG Read 1 requests from 'knt:start_urls'
+2017-05-24 18:51:55,572 rotate_retry.py[line:16] INFO no need to retry, request is:<GET https://www.kennametal.com/zh/products/20478624/57493250.html>, failed reason:User timeout caused connection failure: Getting https://www.kennametal.com/zh/products/20478624/57493250.html took longer than 5.0 seconds..
+2017-05-24 18:51:55,792 spiders.py[line:95] DEBUG Read 1 requests from 'knt:start_urls'
+2017-05-24 18:52:01,150 rotate_retry.py[line:16] INFO no need to retry, request is:<GET https://www.kennametal.com/zh/products/20478624/57493250.html>, failed reason:User timeout caused connection failure: Getting https://www.kennametal.com/zh/products/20478624/57493250.html took longer than 5.0 seconds..
+2017-05-24 18:52:01,368 spiders.py[line:95] DEBUG Read 1 requests from 'knt:start_urls'
+2017-05-24 18:52:07,904 spider_knt.py[line:63] INFO layer1 url is: https://www.kennametal.com/zh/products/20478624/57493250.html.
+2017-05-24 18:53:44,868 spider_knt.py[line:76] ERROR layer1 parsing failed, url is:(https://www.kennametal.com/zh/products/20478624/57493250.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\yunsom\Desktop\product\product\spiders\spider_knt.py", line 72, in parse
+    request = Request(fullurl, callback=self.parse2, dont_filter=True)
+AttributeError: 'KntSpider' object has no attribute 'parse2'
+)

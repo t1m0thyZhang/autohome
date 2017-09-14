@@ -1,0 +1,31 @@
+2017-06-06 12:51:07,428 spiders.py[line:68] INFO Reading start URLs from redis key 'dglx:start_urls' (batch size: 16, encoding: utf-8
+2017-06-06 12:51:08,934 __init__.py[line:47] DEBUG Resuming crawl (57 requests scheduled)
+2017-06-06 12:51:09,642 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/591299048.html.
+2017-06-06 12:51:14,076 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/804081490.html.
+2017-06-06 12:51:19,036 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/1231800748.html.
+2017-06-06 12:51:24,266 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/1235336468.html.
+2017-06-06 12:51:27,901 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/1255440698.html.
+2017-06-06 12:51:32,288 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/468224399.html.
+2017-06-06 12:51:38,286 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/468229197.html.
+2017-06-06 12:51:43,765 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/478701029.html.
+2017-06-06 12:51:48,183 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/478743283.html.
+2017-06-06 12:51:53,775 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/550110244.html.
+2017-06-06 12:51:59,496 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/591299048.html.
+2017-06-06 12:52:05,365 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/804081490.html.
+2017-06-06 12:52:10,529 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/1231800748.html.
+2017-06-06 12:52:15,622 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/1235336468.html.
+2017-06-06 12:52:21,069 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/1255440698.html.
+2017-06-06 12:52:27,176 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/468219904.html.
+2017-06-06 12:52:33,042 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/468224399.html.
+2017-06-06 12:52:38,503 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/468229197.html.
+2017-06-06 12:52:44,265 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/478701029.html.
+2017-06-06 12:52:49,747 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/478743283.html.
+2017-06-06 12:52:55,336 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/550110244.html.
+2017-06-06 12:53:00,171 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/591299048.html.
+2017-06-06 12:53:04,984 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/804081490.html.
+2017-06-06 12:53:09,854 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/1231800748.html.
+2017-06-06 12:53:14,267 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/1235336468.html.
+2017-06-06 12:53:20,191 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/1255440698.html.
+2017-06-06 12:53:25,892 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/468224399.html.
+2017-06-06 12:53:30,509 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/468229197.html.
+2017-06-06 12:53:34,005 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/478701029.html.

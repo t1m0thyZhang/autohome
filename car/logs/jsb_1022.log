@@ -1,0 +1,12 @@
+2017-06-08 10:22:12,061 spiders.py[line:68] INFO Reading start URLs from redis key 'jsb:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 10:22:14,654 spiders.py[line:95] DEBUG Read 5 requests from 'jsb:start_urls'
+2017-06-08 10:22:16,720 spider_jsb.py[line:54] INFO url is: http://www.hbjieshibao.com/product_2041.html.
+2017-06-08 10:22:22,338 spider_jsb.py[line:54] INFO url is: http://www.hbjieshibao.com/product_2036.html.
+2017-06-08 10:22:26,368 spider_jsb.py[line:54] INFO url is: http://www.hbjieshibao.com/product_2037.html.
+2017-06-08 10:22:31,766 spider_jsb.py[line:54] INFO url is: http://www.hbjieshibao.com/product_2038.html.
+2017-06-08 10:22:36,641 spider_jsb.py[line:54] INFO url is: http://www.hbjieshibao.com/product_2039.html.
+2017-06-08 10:22:42,224 spider_jsb.py[line:69] INFO url is: http://www.hbjieshibao.com/product_view_11430.html.
+2017-06-08 10:22:46,779 spider_jsb.py[line:69] INFO url is: http://www.hbjieshibao.com/product_view_12385.html.
+2017-06-08 10:22:51,960 spider_jsb.py[line:69] INFO url is: http://www.hbjieshibao.com/product_view_11886.html.
+2017-06-08 10:22:57,809 spider_jsb.py[line:69] INFO url is: http://www.hbjieshibao.com/product_view_11869.html.
+2017-06-08 10:23:03,002 spider_jsb.py[line:69] INFO url is: http://www.hbjieshibao.com/product_view_11872.html.

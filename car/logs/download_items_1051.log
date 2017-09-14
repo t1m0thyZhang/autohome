@@ -1,0 +1,6 @@
+2017-06-08 10:51:21,676 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'fsjr:items' (server: localhost, port: 6379)
+2017-06-08 10:51:22,693 download_items_from_redis.py[line:93] INFO [fsjr:items] Processing item:  KT-L-￠30*M8龄纹底 <http://www.fsjr.cn/pro_Show.asp?id=579>
+2017-06-08 10:51:22,697 download_items_from_redis.py[line:93] INFO [fsjr:items] Processing item:  YTX-￠16MM <http://www.fsjr.cn/pro_Show.asp?id=530>
+2017-06-08 10:51:22,700 download_items_from_redis.py[line:93] INFO [fsjr:items] Processing item:  GJS-76XH30 <http://www.fsjr.cn/pro_Show.asp?id=265>
+2017-06-08 10:51:22,706 download_items_from_redis.py[line:93] INFO [fsjr:items] Processing item:  ￠6小头胶钉 <http://www.fsjr.cn/pro_Show.asp?id=624>
+2017-06-08 10:51:25,338 download_items_from_redis.py[line:93] INFO [fsjr:items] Processing item:  CC-Φ34Φ35Φ38Φ40Φ42Φ50  <http://www.fsjr.cn/pro_Show.asp?id=253>

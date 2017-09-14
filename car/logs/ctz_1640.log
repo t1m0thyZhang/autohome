@@ -1,0 +1,4 @@
+2017-05-24 16:40:09,118 spiders.py[line:68] INFO Reading start URLs from redis key 'ctz:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 16:40:09,558 __init__.py[line:46] DEBUG Resuming crawl (67 requests scheduled)
+2017-05-24 16:40:14,970 spider_ctz.py[line:74] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=87.
+2017-05-24 16:40:46,131 spider_ctz.py[line:74] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=88.

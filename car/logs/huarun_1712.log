@@ -1,0 +1,14 @@
+2017-06-07 17:12:53,604 spiders.py[line:68] INFO Reading start URLs from redis key 'huarun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 17:12:56,332 spiders.py[line:95] DEBUG Read 1 requests from 'huarun:start_urls'
+2017-06-07 17:12:56,651 spider_huarun.py[line:73] INFO url is: http://www.huarun.com/product/productWall/?t=26.
+2017-06-07 17:13:19,338 spider_huarun.py[line:138] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 118, in parse2
+    tmp = re.sub("\\\\", "\\", tmp)
+  File "E:\python27\lib\re.py", line 155, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "E:\python27\lib\re.py", line 286, in _subx
+    template = _compile_repl(template, pattern)
+  File "E:\python27\lib\re.py", line 273, in _compile_repl
+    raise error, v # invalid expression
+error: bogus escape (end of line)
+)

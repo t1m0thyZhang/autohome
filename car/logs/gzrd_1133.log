@@ -1,0 +1,21 @@
+2017-06-08 11:33:58,631 spiders.py[line:68] INFO Reading start URLs from redis key 'gzrd:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 11:34:01,303 spiders.py[line:95] DEBUG Read 1 requests from 'gzrd:start_urls'
+2017-06-08 11:34:02,032 spider_gzrd.py[line:50] INFO url is: http://www.gzronda.com.cn/.
+2017-06-08 11:34:05,815 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/suliaoping.shtml.
+2017-06-08 11:34:11,381 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/PEsuliaopingxilie.shtml.
+2017-06-08 11:34:16,552 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/PETsuliaopingxilie.shtml.
+2017-06-08 11:34:20,311 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/pvcsuliaopingxilie.shtml.
+2017-06-08 11:34:24,572 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/huazhuangpinsuliaopi.shtml.
+2017-06-08 11:34:30,267 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/maorongliaosuliaopin.shtml.
+2017-06-08 11:34:34,263 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/rihuaxianchanpinsuli.shtml.
+2017-06-08 11:34:39,361 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/zhuanyemeifachanpins.shtml.
+2017-06-08 11:34:44,723 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/xihulei.shtml.
+2017-06-08 11:34:48,750 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/rihuasuliaoping.shtml.
+2017-06-08 11:34:53,614 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/meifaleisuliaoping.shtml.
+2017-06-08 11:34:59,459 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/ranfaleisuliaoping.shtml.
+2017-06-08 11:35:05,118 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/jinghuasusuliaoping.shtml.
+2017-06-08 11:35:10,674 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/juyouguansuliaoping.shtml.
+2017-06-08 11:35:14,700 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/shentiyousuliaoping.shtml.
+2017-06-08 11:35:20,598 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/tangfaleisuliaoping.shtml.
+2017-06-08 11:35:23,736 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/ximiannaisuliaoping.shtml.
+2017-06-08 11:35:29,631 spider_gzrd.py[line:84] INFO url is: http://www.gzronda.com.cn/xihulei/changjiazhixiao600ML.html.

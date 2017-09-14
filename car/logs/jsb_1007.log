@@ -1,0 +1,5 @@
+2017-06-08 10:07:53,348 spiders.py[line:68] INFO Reading start URLs from redis key 'jsb:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 10:07:55,969 spiders.py[line:95] DEBUG Read 5 requests from 'jsb:start_urls'
+2017-06-08 10:07:58,188 spider_jsb.py[line:54] INFO url is: http://www.hbjieshibao.com/product_2037.html.
+2017-06-08 10:08:17,072 spider_jsb.py[line:54] INFO url is: http://www.hbjieshibao.com/product_2038.html.
+2017-06-08 10:08:22,683 spider_jsb.py[line:54] INFO url is: http://www.hbjieshibao.com/product_2041.html.

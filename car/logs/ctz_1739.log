@@ -1,0 +1,18 @@
+2017-05-24 17:39:01,802 spiders.py[line:68] INFO Reading start URLs from redis key 'ctz:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 17:39:03,190 spiders.py[line:95] DEBUG Read 4 requests from 'ctz:start_urls'
+2017-05-24 17:39:06,154 spider_ctz.py[line:59] INFO layer1 url is: http://www.ceratizit.com/products/metal-cutting/list/?category=3.
+2017-05-24 17:39:11,022 spider_ctz.py[line:59] INFO layer1 url is: http://www.ceratizit.com/products/metal-cutting/list/?category=4.
+2017-05-24 17:39:14,453 spider_ctz.py[line:59] INFO layer1 url is: http://www.ceratizit.com/products/metal-cutting/list/?category=2.
+2017-05-24 17:39:17,979 spider_ctz.py[line:59] INFO layer1 url is: http://www.ceratizit.com/products/metal-cutting/list/?category=1.
+2017-05-24 17:39:22,892 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=48.
+2017-05-24 17:39:22,924 spider_ctz.py[line:103] ERROR layer 3 failed: failed to write into item, url is:(http://www.ceratizit.com/products/metal-cutting/list/detail/?product=48), error info is:(Traceback (most recent call last):
+  File "C:\Users\yunsom\Desktop\product\product\spiders\spider_ctz.py", line 95, in parse2
+    level1 = re.sub(";",level1)
+TypeError: sub() takes at least 3 arguments (2 given)
+)
+2017-05-24 17:39:26,901 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=45.
+2017-05-24 17:39:26,901 spider_ctz.py[line:103] ERROR layer 3 failed: failed to write into item, url is:(http://www.ceratizit.com/products/metal-cutting/list/detail/?product=45), error info is:(Traceback (most recent call last):
+  File "C:\Users\yunsom\Desktop\product\product\spiders\spider_ctz.py", line 95, in parse2
+    level1 = re.sub(";",level1)
+TypeError: sub() takes at least 3 arguments (2 given)
+)

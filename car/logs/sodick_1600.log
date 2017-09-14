@@ -1,0 +1,9 @@
+2017-05-31 16:00:21,463 spiders.py[line:68] INFO Reading start URLs from redis key 'sodick:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 16:00:24,019 spiders.py[line:95] DEBUG Read 1 requests from 'sodick:start_urls'
+2017-05-31 16:00:27,252 spider_sodick.py[line:55] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/tool/.
+2017-05-31 16:00:37,960 spider_sodick.py[line:70] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/tool/dedm/ap1l.html.
+2017-05-31 16:01:25,265 spider_sodick.py[line:104] ERROR layer1 failed, url is:(http://www.sodick.co.jp/cn/product/tool/dedm/ap1l.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_sodick.py", line 82, in parse2
+    item["detail"] = detail1 + detail2
+TypeError: can only concatenate list (not "unicode") to list
+)

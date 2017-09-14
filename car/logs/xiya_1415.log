@@ -1,0 +1,36 @@
+2017-06-12 14:15:56,835 spiders.py[line:68] INFO Reading start URLs from redis key 'xiya:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 14:15:59,476 spiders.py[line:95] DEBUG Read 1 requests from 'xiya:start_urls'
+2017-06-12 14:16:00,089 spider_xiya.py[line:53] INFO url is: http://www.compressor-xy.com/products_index.html.
+2017-06-12 14:16:05,967 spider_xiya.py[line:68] INFO url is: http://www.compressor-xy.com/products_list/pmcId=39.html.
+2017-06-12 14:16:10,961 spider_xiya.py[line:68] INFO url is: http://www.compressor-xy.com/products_list/pmcId=21.html.
+2017-06-12 14:16:14,042 spider_xiya.py[line:68] INFO url is: http://www.compressor-xy.com/products_list/pmcId=24.html.
+2017-06-12 14:16:19,966 spider_xiya.py[line:68] INFO url is: http://www.compressor-xy.com/products_list/pmcId=25.html.
+2017-06-12 14:16:25,000 spider_xiya.py[line:68] INFO url is: http://www.compressor-xy.com/products_list/pmcId=27.html.
+2017-06-12 14:16:30,908 spider_xiya.py[line:68] INFO url is: http://www.compressor-xy.com/products_list/pmcId=31.html.
+2017-06-12 14:16:36,269 spider_xiya.py[line:68] INFO url is: http://www.compressor-xy.com/products_list/pmcId=32.html.
+2017-06-12 14:16:39,572 spider_xiya.py[line:68] INFO url is: http://www.compressor-xy.com/products_list/pmcId=34.html.
+2017-06-12 14:16:43,351 spider_xiya.py[line:68] INFO url is: http://www.compressor-xy.com/products_list/pmcId=42.html.
+2017-06-12 14:16:49,282 spider_xiya.py[line:68] INFO url is: http://www.compressor-xy.com/products_list/pmcId=46.html.
+2017-06-12 14:16:54,361 spider_xiya.py[line:68] INFO url is: http://www.compressor-xy.com/products_list/pmcId=23.html.
+2017-06-12 14:16:58,486 spider_xiya.py[line:68] INFO url is: http://www.compressor-xy.com/products_list/pmcId=26.html.
+2017-06-12 14:17:04,262 spider_xiya.py[line:68] INFO url is: http://www.compressor-xy.com/products_list/pmcId=28.html.
+2017-06-12 14:17:09,332 spider_xiya.py[line:68] INFO url is: http://www.compressor-xy.com/products_list/pmcId=29.html.
+2017-06-12 14:17:15,114 spider_xiya.py[line:68] INFO url is: http://www.compressor-xy.com/products_list/pmcId=30.html.
+2017-06-12 14:17:19,385 spider_xiya.py[line:68] INFO url is: http://www.compressor-xy.com/products_list/pmcId=33.html.
+2017-06-12 14:17:24,732 spider_xiya.py[line:68] INFO url is: http://www.compressor-xy.com/products_list/pmcId=35.html.
+2017-06-12 14:17:30,259 spider_xiya.py[line:86] INFO detail is being parsed, url is: http://www.compressor-xy.com/products_detail/productId=45.html.
+2017-06-12 14:17:32,055 spider_xiya.py[line:86] INFO detail is being parsed, url is: http://www.compressor-xy.com/products_detail/productId=45.html.
+2017-06-12 14:17:35,710 spider_xiya.py[line:86] INFO detail is being parsed, url is: http://www.compressor-xy.com/products_detail/productId=22.html.
+2017-06-12 14:17:40,782 spider_xiya.py[line:86] INFO detail is being parsed, url is: http://www.compressor-xy.com/products_detail/productId=22.html.
+2017-06-12 14:17:52,055 spider_xiya.py[line:86] INFO detail is being parsed, url is: http://www.compressor-xy.com/products_detail/productId=33.html.
+2017-06-12 14:17:57,437 spider_xiya.py[line:86] INFO detail is being parsed, url is: http://www.compressor-xy.com/products_detail/productId=33.html.
+2017-06-12 14:18:01,937 spider_xiya.py[line:86] INFO detail is being parsed, url is: http://www.compressor-xy.com/products_detail/productId=45.html.
+2017-06-12 14:18:06,821 spider_xiya.py[line:86] INFO detail is being parsed, url is: http://www.compressor-xy.com/products_detail/productId=22.html.
+2017-06-12 14:18:11,948 spider_xiya.py[line:86] INFO detail is being parsed, url is: http://www.compressor-xy.com/products_detail/productId=26.html.
+2017-06-12 14:18:16,976 spider_xiya.py[line:86] INFO detail is being parsed, url is: http://www.compressor-xy.com/products_detail/productId=26.html.
+2017-06-12 14:18:22,269 spider_xiya.py[line:86] INFO detail is being parsed, url is: http://www.compressor-xy.com/products_detail/productId=43.html.
+2017-06-12 14:18:26,944 spider_xiya.py[line:86] INFO detail is being parsed, url is: http://www.compressor-xy.com/products_detail/productId=25.html.
+2017-06-12 14:18:32,009 spider_xiya.py[line:86] INFO detail is being parsed, url is: http://www.compressor-xy.com/products_detail/productId=38.html.
+2017-06-12 14:18:38,029 spider_xiya.py[line:86] INFO detail is being parsed, url is: http://www.compressor-xy.com/products_detail/productId=36.html.
+2017-06-12 14:18:52,543 spider_xiya.py[line:86] INFO detail is being parsed, url is: http://www.compressor-xy.com/products_detail/productId=34.html.
+2017-06-12 14:18:56,996 spider_xiya.py[line:86] INFO detail is being parsed, url is: http://www.compressor-xy.com/products_detail/productId=38.html.

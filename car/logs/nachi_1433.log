@@ -1,0 +1,541 @@
+2017-05-24 14:33:51,858 spiders.py[line:68] INFO Reading start URLs from redis key 'nachi:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 14:33:52,201 __init__.py[line:46] DEBUG Resuming crawl (6 requests scheduled)
+2017-05-24 14:33:52,249 spiders.py[line:95] DEBUG Read 8 requests from 'nachi:start_urls'
+2017-05-24 14:33:55,961 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../gsxmill-vl-hard_a.htm.
+2017-05-24 14:33:57,848 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../gsxmill-vl-long_a.htm.
+2017-05-24 14:34:02,953 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../gsxmill-roughing_a.htm.
+2017-05-24 14:34:07,354 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../../indexable/wmnwex_a.htm.
+2017-05-24 14:34:12,611 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../gsxmill-vl-roughing_a.htm.
+2017-05-24 14:34:18,493 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../regrind_recoat/index.htm/../factory.htm.
+2017-05-24 14:34:22,783 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:34:27,338 spider_nachi.py[line:63] INFO layer1 url is: http://www.nachi-china.com.cn/yua/index.htm.
+2017-05-24 14:34:31,101 spider_nachi.py[line:63] INFO layer1 url is: http://www.nachi-china.com.cn/kou/index.htm.
+2017-05-24 14:34:36,578 spider_nachi.py[line:63] INFO layer1 url is: http://www.nachi-china.com.cn/sgs/index.htm.
+2017-05-24 14:34:42,413 spider_nachi.py[line:63] INFO layer1 url is: http://www.nachi-china.com.cn/coa/index.htm.
+2017-05-24 14:34:48,171 spider_nachi.py[line:63] INFO layer1 url is: http://www.nachi-china.com.cn/tool/index.htm.
+2017-05-24 14:34:53,332 spider_nachi.py[line:63] INFO layer1 url is: http://www.nachi-china.com.cn/rob/index.htm.
+2017-05-24 14:34:58,835 spider_nachi.py[line:63] INFO layer1 url is: http://www.nachi-china.com.cn/jik/index.htm.
+2017-05-24 14:35:04,122 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/yua/index.htm/../pump/index.htm.
+2017-05-24 14:35:09,640 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/yua/index.htm/../unit/index.htm.
+2017-05-24 14:35:14,773 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/yua/index.htm/../motor/index.htm.
+2017-05-24 14:35:20,773 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/yua/index.htm/../rotary/index.htm.
+2017-05-24 14:35:26,134 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm.
+2017-05-24 14:35:30,401 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_car.htm.
+2017-05-24 14:35:33,976 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ken.htm.
+2017-05-24 14:35:38,670 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm.
+2017-05-24 14:35:42,476 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/kou/index.htm/../mag/mag_a.htm.
+2017-05-24 14:35:46,747 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/kou/index.htm/../jiku/index.htm.
+2017-05-24 14:35:51,845 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/kou/index.htm/../goukin/index.htm.
+2017-05-24 14:35:56,734 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/kou/index.htm/../kousoku/show01a.htm.
+2017-05-24 14:36:02,493 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/kou/index.htm/../kousoku/show03a.htm.
+2017-05-24 14:36:08,151 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/coa/index.htm/../kakou/index.htm.
+2017-05-24 14:36:13,157 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/kou/index.htm/../kousoku/show04a.htm.
+2017-05-24 14:36:18,273 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/kou/index.htm/../shouketu/therm01a.htm.
+2017-05-24 14:36:22,572 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/jik/index.htm/../pranma/index.htm.
+2017-05-24 14:36:25,548 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/jik/index.htm/../bearing/index.htm.
+2017-05-24 14:36:29,740 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/jik/index.htm/../menshin/index.htm.
+2017-05-24 14:36:34,096 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/jik/index.htm/../slust_k/index.htm.
+2017-05-24 14:36:38,184 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/jik/index.htm/../slust_t/index.htm.
+2017-05-24 14:36:44,025 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/jik/index.htm/../tokutei/index.htm.
+2017-05-24 14:36:48,141 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/jik/index.htm/../radial_k/index.htm.
+2017-05-24 14:36:54,121 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/kou/index.htm/../fm_alloy/index.htm.
+2017-05-24 14:36:57,272 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/rob/index.htm/../ark/index.htm.
+2017-05-24 14:37:01,924 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/rob/index.htm/../sup/index.htm.
+2017-05-24 14:37:07,329 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/rob/index.htm/../hand/index.htm.
+2017-05-24 14:37:11,980 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/rob/index.htm/../contr/index.htm.
+2017-05-24 14:37:17,632 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/rob/index.htm/../grass/index.htm.
+2017-05-24 14:37:22,211 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/rob/index.htm/../juryo/index.htm.
+2017-05-24 14:37:26,779 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/rob/index.htm/../option/index.htm.
+2017-05-24 14:37:32,487 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/rob/index.htm/../pallet/index.htm.
+2017-05-24 14:37:36,177 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/sgs/index.htm/../doc/index.htm.
+2017-05-24 14:37:41,776 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/tool/index.htm/../gear/index.htm.
+2017-05-24 14:37:46,457 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm.
+2017-05-24 14:37:49,997 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/tool/index.htm/../tap_c/index.htm.
+2017-05-24 14:37:53,944 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/tool/index.htm/../cutoff/index.htm.
+2017-05-24 14:37:58,927 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm.
+2017-05-24 14:38:04,040 spider_nachi.py[line:80] INFO layer2 url is: http://www.nachi-china.com.cn/tool/index.htm/../regrind_recoat/index.htm.
+2017-05-24 14:38:09,430 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../pump/index.htm/../iph01.htm.
+2017-05-24 14:38:14,259 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../pump/index.htm/../pz01a.htm.
+2017-05-24 14:38:19,627 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../ark/index.htm/../nb-nv_a.htm.
+2017-05-24 14:38:24,155 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../pump/index.htm/../pvd01a.htm.
+2017-05-24 14:38:29,460 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../hand/index.htm/../es06a.htm.
+2017-05-24 14:38:35,407 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../hand/index.htm/../ez03a.htm.
+2017-05-24 14:38:41,007 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../hand/index.htm/../mc20a.htm.
+2017-05-24 14:38:46,813 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../hand/index.htm/../mc50a.htm.
+2017-05-24 14:38:52,250 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../hand/index.htm/../mr20a.htm.
+2017-05-24 14:38:59,118 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../hand/index.htm/../mr50a.htm.
+2017-05-24 14:39:01,253 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../hand/index.htm/../mz04a.htm.
+2017-05-24 14:39:07,102 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../hand/index.htm/../mz07a.htm.
+2017-05-24 14:39:12,749 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../hand/index.htm/../st210a.htm.
+2017-05-24 14:39:17,927 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../hand/index.htm/../mc10s_a.htm.
+2017-05-24 14:39:23,655 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../hand/index.htm/../../spot/sra166a.htm.
+2017-05-24 14:39:29,599 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../pump/index.htm/../pvk01a.htm.
+2017-05-24 14:39:34,404 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../pump/index.htm/../pvs01a.htm.
+2017-05-24 14:39:39,773 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../pump/index.htm/../pzs01a.htm.
+2017-05-24 14:39:44,454 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../pump/index.htm/../uvn01a.htm.
+2017-05-24 14:39:49,134 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../unit/index.htm/../nn-01a.htm.
+2017-05-24 14:39:54,543 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../unit/index.htm/../na2-01a.htm.
+2017-05-24 14:39:59,068 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../unit/index.htm/../nbp-01a.htm.
+2017-05-24 14:40:04,312 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../unit/index.htm/../inv-nsp_a.htm.
+2017-05-24 14:40:07,157 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../unit/index.htm/../power-fit_a.htm.
+2017-05-24 14:40:11,967 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../contr/index.htm/../cfd_a.htm.
+2017-05-24 14:40:17,530 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../contr/index.htm/../fd01a.htm.
+2017-05-24 14:40:21,378 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../contr/index.htm/../rmu_a.htm.
+2017-05-24 14:40:25,043 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../contr/index.htm/../robot-sim_a.htm.
+2017-05-24 14:40:30,661 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../grass/index.htm/../sc400a.htm.
+2017-05-24 14:40:36,450 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../juryo/index.htm/../mc350a.htm.
+2017-05-24 14:40:41,678 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../juryo/index.htm/../mc600a.htm.
+2017-05-24 14:40:47,664 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../juryo/index.htm/../sc700a.htm.
+2017-05-24 14:40:52,296 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../juryo/index.htm/../mc400l_a.htm.
+2017-05-24 14:40:57,818 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../gear/index.htm/../skiving_a.htm.
+2017-05-24 14:41:01,608 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../gear/index.htm/../internal_a.htm.
+2017-05-24 14:41:05,618 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../gear/index.htm/../dual_ex_hob_a.htm.
+2017-05-24 14:41:10,471 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../gear/index.htm/../hyperdual_sp_hob_a.htm.
+2017-05-24 14:41:15,703 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../motor/index.htm/../pcr_01a.htm.
+2017-05-24 14:41:21,315 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../motor/index.htm/../phv_01a.htm.
+2017-05-24 14:41:27,016 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../pranma/index.htm/../0701a.htm.
+2017-05-24 14:41:32,812 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../option/index.htm/../endlessa.htm.
+2017-05-24 14:41:38,378 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../option/index.htm/../nv-pro_a.htm.
+2017-05-24 14:41:43,880 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../option/index.htm/../flexiblea.htm.
+2017-05-24 14:41:49,719 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../option/index.htm/../sealing_a.htm.
+2017-05-24 14:41:55,187 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../option/index.htm/../fd-timer_a.htm.
+2017-05-24 14:42:00,881 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../option/index.htm/../direct-teach_a.htm.
+2017-05-24 14:42:06,163 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../pallet/index.htm/../lp130a.htm.
+2017-05-24 14:42:11,490 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../pallet/index.htm/../lp130f_a.htm.
+2017-05-24 14:42:14,836 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../pallet/index.htm/../mc470p_a.htm.
+2017-05-24 14:42:18,680 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/rob/index.htm/../pallet/index.htm/../mc500p_a.htm.
+2017-05-24 14:42:24,405 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../0201a.htm.
+2017-05-24 14:42:28,694 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../0204a.htm.
+2017-05-24 14:42:34,500 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../0205a.htm.
+2017-05-24 14:42:38,496 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../0206a.htm.
+2017-05-24 14:42:43,953 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../0501a.htm.
+2017-05-24 14:42:48,851 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../0503a.htm.
+2017-05-24 14:42:53,920 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../aquaex_a.htm.
+2017-05-24 14:42:59,747 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../aquafc_a.htm.
+2017-05-24 14:43:05,164 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../aquad3f_a.htm.
+2017-05-24 14:43:11,127 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../aquanwdx_a.htm.
+2017-05-24 14:43:13,895 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../aqua_ex-vf_a.htm.
+2017-05-24 14:43:19,806 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../aqua_ex_rn_a.htm.
+2017-05-24 14:43:25,775 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../crystal-dia_a.htm.
+2017-05-24 14:43:31,619 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../aqua_ex_flat_a.htm.
+2017-05-24 14:43:35,880 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../aqua_ex_oilhole_a.htm.
+2017-05-24 14:43:40,427 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../aqua_ex_starting_a.htm.
+2017-05-24 14:43:46,094 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../aqua_ex_flat-long_a.htm.
+2017-05-24 14:43:51,865 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../aqua_ex_long-pilot_a.htm.
+2017-05-24 14:43:56,594 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../aqua_ex_power-feed_a.htm.
+2017-05-24 14:44:02,062 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../aqua_ex_3flutes-hard_a.htm.
+2017-05-24 14:44:05,624 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../aqua_ex_flat-oilhole_a.htm.
+2017-05-24 14:44:09,408 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../aqua_ex_oilhole-small_a.htm.
+2017-05-24 14:44:15,051 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../aqua_ex_3flutes-regular_a.htm.
+2017-05-24 14:44:19,750 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../drill/index.htm/../aqua_ex_oilhole-3flutes_a.htm.
+2017-05-24 14:44:24,427 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../tap_c/index.htm/../n-tap_a.htm.
+2017-05-24 14:44:30,058 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../tap_c/index.htm/../hyper-z_a.htm.
+2017-05-24 14:44:35,844 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../tap_c/index.htm/../sg_pt-tap_a.htm.
+2017-05-24 14:44:40,976 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../tap_c/index.htm/../sg_sp-tap_a.htm.
+2017-05-24 14:44:44,220 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../tap_c/index.htm/../sg_sp-tap_sc_a.htm.
+2017-05-24 14:44:49,542 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../tap_c/index.htm/../sg_sp-tap_ti_a.htm.
+2017-05-24 14:44:55,338 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../rotary/index.htm/../rotary_a.htm.
+2017-05-24 14:45:01,012 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../bearing/index.htm/../0601a.htm.
+2017-05-24 14:45:05,924 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../menshin/index.htm/../mag_a.htm.
+2017-05-24 14:45:11,868 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../slust_k/index.htm/../0401a.htm.
+2017-05-24 14:45:17,690 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../slust_t/index.htm/../0301a.htm.
+2017-05-24 14:45:22,657 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../slust_t/index.htm/../0302a.htm.
+2017-05-24 14:45:28,338 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../slust_t/index.htm/../0304a.htm.
+2017-05-24 14:45:33,927 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../tokutei/index.htm/../0501a.htm.
+2017-05-24 14:45:39,911 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../tokutei/index.htm/../0502a.htm.
+2017-05-24 14:45:45,125 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../tokutei/index.htm/../0503a.htm.
+2017-05-24 14:45:50,424 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../tokutei/index.htm/../0505a.htm.
+2017-05-24 14:45:55,125 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../tokutei/index.htm/../0506a.htm.
+2017-05-24 14:46:00,355 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../tokutei/index.htm/../0507a.htm.
+2017-05-24 14:46:04,354 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../tokutei/index.htm/../0508a.htm.
+2017-05-24 14:46:09,157 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../tokutei/index.htm/../05041a.htm.
+2017-05-24 14:46:14,887 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../tokutei/index.htm/../05042a.htm.
+2017-05-24 14:46:18,634 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../tokutei/index.htm/../05045a.htm.
+2017-05-24 14:46:21,867 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../tokutei/index.htm/../05046a.htm.
+2017-05-24 14:46:27,713 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../tokutei/index.htm/../05047a.htm.
+2017-05-24 14:46:31,069 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../tokutei/index.htm/../../slust_t/0304a.htm.
+2017-05-24 14:46:35,914 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../tokutei/index.htm/../../radial_k/0202a.htm.
+2017-05-24 14:46:41,520 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../cutoff/index.htm/../tsmd_a.htm.
+2017-05-24 14:46:45,016 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../cutoff/index.htm/../tscnc_a.htm.
+2017-05-24 14:46:50,108 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../0310a.htm.
+2017-05-24 14:46:53,674 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../0502a.htm.
+2017-05-24 14:46:57,016 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../0504a.htm.
+2017-05-24 14:47:00,671 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../0505a.htm.
+2017-05-24 14:47:03,811 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../0508a.htm.
+2017-05-24 14:47:09,484 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../gsmh_a.htm.
+2017-05-24 14:47:15,467 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../gsmhb_a.htm.
+2017-05-24 14:47:20,423 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../gsmhv_a.htm.
+2017-05-24 14:47:26,200 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../gsmln_a.htm.
+2017-05-24 14:47:29,588 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../gsmsl_a.htm.
+2017-05-24 14:47:33,938 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../gsmlrf_a.htm.
+2017-05-24 14:47:39,203 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../gsxmill_a.htm.
+2017-05-24 14:47:43,599 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../gsxmill-vl_a.htm.
+2017-05-24 14:47:48,644 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../gsxmill-ball_a.htm.
+2017-05-24 14:47:51,977 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../gsxmill-vl-x6_a.htm.
+2017-05-24 14:47:57,519 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../gsxmill-vl-hard_a.htm.
+2017-05-24 14:48:02,483 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../gsxmill-vl-long_a.htm.
+2017-05-24 14:48:08,332 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../gsxmill-roughing_a.htm.
+2017-05-24 14:48:14,181 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../../indexable/wmnwex_a.htm.
+2017-05-24 14:48:18,063 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../endmil/index.htm/../gsxmill-vl-roughing_a.htm.
+2017-05-24 14:48:23,625 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../radial_k/index.htm/../0201a.htm.
+2017-05-24 14:48:28,503 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../radial_k/index.htm/../0202a.htm.
+2017-05-24 14:48:34,092 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../radial_k/index.htm/../0203a.htm.
+2017-05-24 14:48:38,898 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../radial_k/index.htm/../0204a.htm.
+2017-05-24 14:48:44,418 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/jik/index.htm/../radial_k/index.htm/../0205a.htm.
+2017-05-24 14:48:48,911 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm/../../pump/pvs01a.htm.
+2017-05-24 14:48:54,813 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm/../../pump/uvn01a.htm.
+2017-05-24 14:49:00,595 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm/../../unit/nn-01a.htm.
+2017-05-24 14:49:05,976 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm/../../valve/saw_a.htm.
+2017-05-24 14:49:11,019 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm/../../valve/scw_a.htm.
+2017-05-24 14:49:13,500 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm/../../unit/na2-01a.htm.
+2017-05-24 14:49:17,760 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm/../../unit/nbp-01a.htm.
+2017-05-24 14:49:21,703 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm/../../valve/mv-g01a.htm.
+2017-05-24 14:49:27,614 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm/../../valve/mv-g03a.htm.
+2017-05-24 14:49:33,086 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm/../../valve/ow-g01a.htm.
+2017-05-24 14:49:38,678 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm/../../valve/sa-g01a.htm.
+2017-05-24 14:49:44,444 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm/../../valve/sa-g03a.htm.
+2017-05-24 14:49:49,960 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm/../../valve/sl-g01a.htm.
+2017-05-24 14:49:55,115 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm/../../valve/ss-g01a.htm.
+2017-05-24 14:50:00,448 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm/../../valve/ss-g03a.htm.
+2017-05-24 14:50:05,569 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm/../../valve/dss-g04a.htm.
+2017-05-24 14:50:11,528 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm/../../valve/esd-g01a.htm.
+2017-05-24 14:50:16,236 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm/../../valve/esh-g01a.htm.
+2017-05-24 14:50:22,115 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ko.htm/../../valve/n_ow-g01a.htm.
+2017-05-24 14:50:26,492 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_car.htm/../../valve/car02a.htm.
+2017-05-24 14:50:31,528 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_car.htm/../../valve/car03a.htm.
+2017-05-24 14:50:36,729 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_car.htm/../../valve/car04a.htm.
+2017-05-24 14:50:42,186 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ken.htm/../../pump/pvd01a.htm.
+2017-05-24 14:50:45,927 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ken.htm/../../pump/pvk01a.htm.
+2017-05-24 14:50:51,667 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ken.htm/../../motor/pcr_01a.htm.
+2017-05-24 14:50:55,897 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ken.htm/../../motor/phv_01a.htm.
+2017-05-24 14:51:01,266 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ken.htm/../../valve/sa-g01a.htm.
+2017-05-24 14:51:07,197 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ken.htm/../../valve/sa-g03a.htm.
+2017-05-24 14:51:12,667 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ken.htm/../../valve/sk-g01a.htm.
+2017-05-24 14:51:18,361 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ken.htm/../../valve/dpk-t04a.htm.
+2017-05-24 14:51:23,885 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_ken.htm/../../rotary/rotary_a.htm.
+2017-05-24 14:51:29,690 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../pump/pz01a.htm.
+2017-05-24 14:51:34,312 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../pump/pvs01a.htm.
+2017-05-24 14:51:36,990 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../pump/pzs01a.htm.
+2017-05-24 14:51:41,773 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../unit/nn-01a.htm.
+2017-05-24 14:51:45,098 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../valve/saw_a.htm.
+2017-05-24 14:51:48,980 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../valve/scw_a.htm.
+2017-05-24 14:51:54,510 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../valve/snh_a.htm.
+2017-05-24 14:51:57,496 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../unit/na2-01a.htm.
+2017-05-24 14:52:01,147 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../unit/nbp-01a.htm.
+2017-05-24 14:52:06,956 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../valve/mv-g01a.htm.
+2017-05-24 14:52:12,635 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../valve/mv-g03a.htm.
+2017-05-24 14:52:18,563 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../valve/ow-g01a.htm.
+2017-05-24 14:52:24,086 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../valve/sa-g01a.htm.
+2017-05-24 14:52:28,109 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../valve/sa-g03a.htm.
+2017-05-24 14:52:31,200 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../valve/ss-g01a.htm.
+2017-05-24 14:52:37,112 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../valve/ss-g03a.htm.
+2017-05-24 14:52:42,727 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../valve/dss-g04a.htm.
+2017-05-24 14:52:48,315 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../valve/esd-g01a.htm.
+2017-05-24 14:52:51,434 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../valve/esh-g01a.htm.
+2017-05-24 14:52:55,839 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/yua/index.htm/../bunya/index_sei.htm/../../valve/n_ow-g01a.htm.
+2017-05-24 14:53:00,859 spider_nachi.py[line:95] INFO layer3 url is: http://www.nachi-china.com.cn/tool/index.htm/../regrind_recoat/index.htm/../factory.htm.
+2017-05-24 14:53:00,872 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:53:06,450 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:53:06,558 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:53:11,828 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:53:11,951 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:53:16,654 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:53:16,763 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:53:22,141 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:53:22,249 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:53:27,928 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:53:28,042 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:53:32,283 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:53:32,392 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:53:36,437 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:53:36,546 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:53:42,155 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:53:42,265 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:53:47,859 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:53:47,967 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:53:53,283 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:53:53,391 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:53:58,786 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:53:58,894 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:54:04,572 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:54:04,687 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:54:08,951 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:54:09,061 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:54:13,200 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:54:13,308 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:54:18,296 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:54:18,410 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:54:23,088 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:54:23,198 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:54:28,901 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:54:29,009 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:54:33,280 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:54:33,390 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:54:36,081 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:54:36,191 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:54:39,756 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:54:39,865 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:54:45,565 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:54:45,678 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:54:50,946 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:54:51,053 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:54:56,576 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:54:56,687 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:55:01,806 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:55:01,915 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:55:07,023 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:55:07,148 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:55:09,444 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:55:09,551 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:55:14,801 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:55:14,910 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:55:20,467 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:55:20,576 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:55:26,059 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:55:26,168 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:55:29,927 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:55:30,036 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:55:33,752 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:55:33,861 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:55:37,822 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:55:37,931 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:55:40,522 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:55:40,631 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:55:46,374 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:55:46,483 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:55:50,259 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:55:50,385 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:55:54,006 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:55:54,115 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:55:58,049 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:55:58,157 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:56:02,969 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:56:03,078 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:56:07,941 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:56:08,051 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:56:13,453 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:56:13,562 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:56:19,220 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:56:19,328 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:56:24,694 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:56:24,802 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:56:30,546 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:56:30,657 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:56:34,785 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:56:34,894 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:56:38,684 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:56:38,793 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:56:43,947 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:56:44,055 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:56:48,473 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:56:48,582 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:56:54,167 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:56:54,276 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:56:59,634 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:56:59,744 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:57:04,750 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:57:04,858 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:57:09,484 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:57:09,594 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:57:13,015 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:57:13,124 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:57:18,358 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:57:18,467 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:57:23,604 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:57:23,713 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:57:28,618 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:57:28,727 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:57:34,490 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:57:34,599 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:57:40,286 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:57:40,394 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:57:44,816 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:57:44,926 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:57:50,164 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:57:50,273 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:57:54,914 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:57:55,025 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:57:59,700 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:57:59,809 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:58:04,943 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:58:05,052 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:58:10,322 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:58:10,447 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:58:16,164 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:58:16,273 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:58:21,091 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:58:21,216 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:58:27,092 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:58:27,247 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:58:32,723 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:58:32,832 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:58:38,355 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:58:38,464 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:58:44,243 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:58:44,354 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:58:50,038 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:58:50,147 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:58:55,374 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:58:55,483 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:58:58,730 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:58:58,855 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:59:04,440 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:59:04,549 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:59:10,184 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:59:10,292 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:59:14,614 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:59:14,755 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:59:18,483 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:59:18,592 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:59:24,273 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:59:24,381 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:59:29,194 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:59:29,303 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:59:34,595 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:59:34,703 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:59:39,624 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:59:39,733 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:59:44,424 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:59:44,532 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:59:49,223 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:59:49,332 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:59:54,752 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:59:54,861 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 14:59:59,885 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 14:59:59,994 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:00:02,898 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:00:03,006 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:00:08,470 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:00:08,578 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:00:12,394 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:00:12,503 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:00:17,403 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:00:17,543 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:00:21,381 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:00:21,484 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:00:26,648 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:00:26,757 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:00:32,266 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:00:32,375 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:00:37,134 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:00:37,243 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:00:42,676 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:00:42,785 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:00:48,259 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:00:48,384 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:00:54,036 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:00:54,145 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:00:59,638 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:00:59,746 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:01:03,618 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:01:03,726 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:01:08,767 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:01:08,877 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:01:14,042 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:01:14,151 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:01:19,907 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:01:20,017 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:01:22,849 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:01:22,966 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:01:26,858 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:01:26,967 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:01:31,338 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:01:31,448 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:01:36,194 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:01:36,309 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:01:41,450 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:01:41,558 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:01:47,427 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:01:47,536 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:01:51,714 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:01:51,825 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:01:56,071 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:01:56,180 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:02:00,717 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:02:00,825 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:02:06,365 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:02:08,298 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:02:12,377 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:02:12,486 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:02:17,332 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:02:17,441 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:02:23,052 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:02:23,161 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:02:29,059 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:02:29,167 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:02:33,592 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:02:33,701 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:02:36,276 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:02:36,392 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:02:41,596 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:02:41,707 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:02:46,448 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:02:46,558 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:02:52,161 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:02:52,269 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:02:56,638 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:02:56,746 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:03:01,085 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:03:01,194 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:03:06,908 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:03:07,017 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:03:11,292 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:03:11,401 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:03:17,158 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:03:17,267 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:03:22,338 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:03:22,447 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:03:26,786 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:03:26,895 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:03:32,765 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:03:32,874 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:03:35,780 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:03:35,890 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:03:41,615 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:03:41,723 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:03:47,480 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:03:47,589 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:03:51,052 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:03:51,161 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:03:56,716 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:03:56,825 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:04:01,835 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:04:01,944 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:04:07,108 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:04:07,217 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:04:11,388 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:04:11,497 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:04:16,418 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:04:16,528 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:04:22,052 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:04:22,160 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:04:27,094 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:04:27,204 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:04:32,400 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:04:32,507 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:04:36,733 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:04:36,861 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:04:42,438 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:04:42,548 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:04:45,792 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:04:45,901 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:04:51,392 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:04:51,502 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:04:56,526 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:04:56,634 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:05:02,158 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:05:02,267 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:05:06,217 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:05:06,325 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:05:11,164 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:05:11,273 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:05:16,719 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:05:16,828 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:05:21,992 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:05:22,101 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:05:26,484 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:05:26,594 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:05:30,727 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:05:30,836 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'
+2017-05-24 15:05:36,016 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.nachi-china.com.cn/tool/index.htmhttp://www.nachi-china.com.cn/kos/index.htm>, failed reason:404 Not Found
+2017-05-24 15:05:36,128 spiders.py[line:95] DEBUG Read 1 requests from 'nachi:start_urls'

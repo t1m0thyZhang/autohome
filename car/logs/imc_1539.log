@@ -1,0 +1,7 @@
+2017-05-24 15:39:28,838 spiders.py[line:68] INFO Reading start URLs from redis key 'imc:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 15:39:29,181 __init__.py[line:46] DEBUG Resuming crawl (120 requests scheduled)
+2017-05-24 15:39:30,507 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=113&mapp=IS&app=23&GFSTYP=M.
+2017-05-24 15:39:34,582 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=125&mapp=IS&app=23&GFSTYP=M.
+2017-05-24 15:39:52,838 spiders.py[line:68] INFO Reading start URLs from redis key 'imc:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 15:39:53,243 __init__.py[line:46] DEBUG Resuming crawl (102 requests scheduled)
+2017-05-24 15:39:54,556 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=10113&mapp=IS&app=24&GFSTYP=M.

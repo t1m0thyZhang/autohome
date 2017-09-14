@@ -1,0 +1,5 @@
+2017-06-06 15:15:56,003 spiders.py[line:68] INFO Reading start URLs from redis key 'smc:start_urls' (batch size: 16, encoding: utf-8
+2017-06-06 15:15:58,595 spiders.py[line:95] DEBUG Read 1 requests from 'smc:start_urls'
+2017-06-06 15:16:01,184 spider_smc.py[line:51] INFO step into layer1, url is: http://www.smc.com.cn/cnnew/newproinfo.aspx?Htype=news&NID=8844.
+2017-06-06 15:16:07,680 spider_smc.py[line:65] INFO step into layer2, url is: http://www.smc.com.cn/PDF/subchoice01.htm.
+2017-06-06 15:16:35,763 spider_smc.py[line:82] INFO step into layer2, url is: http://www.smc.com.cn/PDF/docs/directional/pilot45/pilot45.htm.

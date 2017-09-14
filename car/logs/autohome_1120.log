@@ -1,0 +1,15 @@
+2017-08-17 11:20:01,104 spiders.py[line:68] INFO Reading start URLs from redis key 'autohome:start_urls' (batch size: 1, encoding: utf-8
+2017-08-17 11:20:04,436 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 11:20:04,546 spider_autohome.py[line:106] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1667981_1.html?st=16&piap=0%7C471%7C9318%7C0%7C1%7C0%7C0%7C0%7C0%7C0%7C1.
+2017-08-17 11:20:30,368 spider_autohome.py[line:158] ERROR layer 3 failed:  url is:(http://k.autohome.com.cn/spec/28681/view_1667981_1.html?st=16&piap=0%7C471%7C9318%7C0%7C1%7C0%7C0%7C0%7C0%7C0%7C1), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\spider_car\car\spiders\spider_autohome.py", line 136, in parse
+    key = common_tools.data_cleaning(key[0])
+IndexError: list index out of range
+)
+2017-08-17 11:21:17,821 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 11:21:18,086 spider_autohome.py[line:106] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1667981_1.html?st=16&piap=0%7C471%7C9318%7C0%7C1%7C0%7C0%7C0%7C0%7C0%7C1.
+2017-08-17 11:21:42,986 spider_autohome.py[line:158] ERROR layer 3 failed:  url is:(http://k.autohome.com.cn/spec/28681/view_1667981_1.html?st=16&piap=0%7C471%7C9318%7C0%7C1%7C0%7C0%7C0%7C0%7C0%7C1), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\spider_car\car\spiders\spider_autohome.py", line 136, in parse
+    if key:
+IndexError: list index out of range
+)

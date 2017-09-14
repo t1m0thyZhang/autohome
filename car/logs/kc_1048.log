@@ -1,0 +1,4 @@
+2017-05-26 10:48:37,678 spiders.py[line:68] INFO Reading start URLs from redis key 'kc:start_urls' (batch size: 16, encoding: utf-8
+2017-05-26 10:48:40,614 spiders.py[line:95] DEBUG Read 1 requests from 'kc:start_urls'
+2017-05-26 10:48:41,148 spider_kc1.py[line:54] INFO step into layer1, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/.
+2017-05-26 10:48:46,364 spider_kc1.py[line:70] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/holder/.

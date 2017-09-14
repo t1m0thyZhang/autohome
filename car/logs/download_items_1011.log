@@ -1,0 +1,9 @@
+2017-06-12 10:11:49,578 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'easun:items' (server: localhost, port: 6379)
+2017-06-12 10:11:50,592 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 产品名称：FA型附件 <http://www.china-easun.com/products_detail/productId=143.html>
+2017-06-12 10:11:50,595 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 产品名称：塑料消声器PSL <http://www.china-easun.com/products_detail/productId=164.html>
+2017-06-12 10:11:50,598 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 产品名称：隔板直通EPM/APM <http://www.china-easun.com/products_detail/productId=200.html>
+2017-06-12 10:11:50,601 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 产品名称：磁性开关和接线图 <http://www.china-easun.com/products_detail/productId=131.html>
+2017-06-12 10:11:50,607 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 产品名称：磁性开关ES-09系列 <http://www.china-easun.com/products_detail/productId=177.html>
+2017-06-12 10:11:52,532 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 产品名称：ECQ2系列薄型气缸 <http://www.china-easun.com/products_detail/productId=119.html>
+2017-06-12 10:11:57,634 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 产品名称：EMALE铝合金迷你气缸（返回可调型） <http://www.china-easun.com/products_detail/productId=106.html>
+2017-06-12 10:12:03,073 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 产品名称：4ES1系列二位五通/三位五通电磁阀 <http://www.china-easun.com/products_detail/productId=37.html>

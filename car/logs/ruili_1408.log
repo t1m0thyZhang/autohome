@@ -1,0 +1,35 @@
+2017-05-31 14:08:10,816 spiders.py[line:68] INFO Reading start URLs from redis key 'ruili:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 14:08:13,259 spiders.py[line:95] DEBUG Read 4 requests from 'ruili:start_urls'
+2017-05-31 14:08:13,618 spider_ruili.py[line:55] INFO step into layer1, url is: http://www.rljc.net/product_164.html.
+2017-05-31 14:08:19,036 spider_ruili.py[line:55] INFO step into layer1, url is: http://www.rljc.net/product_109.html.
+2017-05-31 14:08:24,075 spider_ruili.py[line:55] INFO step into layer1, url is: http://www.rljc.net/product_163.html.
+2017-05-31 14:08:29,454 spider_ruili.py[line:55] INFO step into layer1, url is: http://www.rljc.net/product_148.html.
+2017-05-31 14:08:32,687 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_75_164.html.
+2017-05-31 14:08:37,381 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_69_164.html.
+2017-05-31 14:08:43,065 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_70_164.html.
+2017-05-31 14:08:48,065 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_71_164.html.
+2017-05-31 14:08:52,861 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_72_164.html.
+2017-05-31 14:08:56,803 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_73_164.html.
+2017-05-31 14:09:00,226 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_74_164.html.
+2017-05-31 14:09:05,407 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_55_109.html.
+2017-05-31 14:09:10,801 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_56_109.html.
+2017-05-31 14:09:16,243 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_57_109.html.
+2017-05-31 14:09:22,157 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_58_109.html.
+2017-05-31 14:09:28,148 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_59_109.html.
+2017-05-31 14:09:34,141 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_60_109.html.
+2017-05-31 14:09:39,904 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_61_109.html.
+2017-05-31 14:09:45,211 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_54_109.html.
+2017-05-31 14:09:50,099 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_62_109.html.
+2017-05-31 14:09:55,621 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_63_109.html.
+2017-05-31 14:10:00,513 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_64_109.html.
+2017-05-31 14:10:05,697 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_46_148.html.
+2017-05-31 14:10:09,282 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_47_148.html.
+2017-05-31 14:10:14,734 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_48_148.html.
+2017-05-31 14:10:18,954 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_49_148.html.
+2017-05-31 14:10:24,289 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_50_148.html.
+2017-05-31 14:10:29,803 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_51_148.html.
+2017-05-31 14:10:33,269 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_52_148.html.
+2017-05-31 14:10:38,747 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_65_163.html.
+2017-05-31 14:10:42,542 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_66_163.html.
+2017-05-31 14:10:48,469 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_67_163.html.
+2017-05-31 14:10:52,184 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_68_163.html.

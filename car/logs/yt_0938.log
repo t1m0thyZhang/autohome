@@ -1,0 +1,11 @@
+2017-06-07 09:38:06,006 spiders.py[line:68] INFO Reading start URLs from redis key 'yt:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 09:38:08,598 spiders.py[line:95] DEBUG Read 8 requests from 'yt:start_urls'
+2017-06-07 09:38:10,279 spider_yt.py[line:57] INFO url is: http://www.yuantie.com.cn/product.asp?type=8.
+2017-06-07 09:38:29,290 spider_yt.py[line:57] INFO url is: http://www.yuantie.com.cn/product.asp?type=5.
+2017-06-07 09:38:42,253 spider_yt.py[line:57] INFO url is: http://www.yuantie.com.cn/product.asp?type=6.
+2017-06-07 09:38:47,112 spider_yt.py[line:57] INFO url is: http://www.yuantie.com.cn/product.asp?type=9&keywords=&p=1.
+2017-06-07 09:38:52,130 spider_yt.py[line:57] INFO url is: http://www.yuantie.com.cn/product.asp?type=10&keywords=&p=1.
+2017-06-07 09:38:57,638 spider_yt.py[line:57] INFO url is: http://www.yuantie.com.cn/product.asp?type=7.
+2017-06-07 09:39:01,562 spider_yt.py[line:57] INFO url is: http://www.yuantie.com.cn/product.asp?type=9&keywords=&p=2.
+2017-06-07 09:39:05,805 spider_yt.py[line:57] INFO url is: http://www.yuantie.com.cn/product.asp?type=10&keywords=&p=2.
+2017-06-07 09:39:09,719 spider_yt.py[line:71] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=17.

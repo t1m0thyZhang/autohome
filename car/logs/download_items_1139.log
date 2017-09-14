@@ -1,0 +1,1 @@
+2017-06-08 11:39:08,392 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'gdrd:items' (server: localhost, port: 6379)

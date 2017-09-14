@@ -1,0 +1,1 @@
+2017-06-14 11:21:06,874 spiders.py[line:68] INFO Reading start URLs from redis key 'yfazz:start_urls' (batch size: 16, encoding: utf-8

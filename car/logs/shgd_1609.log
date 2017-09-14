@@ -1,0 +1,40 @@
+2017-06-06 16:09:12,588 spiders.py[line:68] INFO Reading start URLs from redis key 'shgd:start_urls' (batch size: 16, encoding: utf-8
+2017-06-06 16:09:14,119 __init__.py[line:47] DEBUG Resuming crawl (8 requests scheduled)
+2017-06-06 16:09:15,247 spiders.py[line:95] DEBUG Read 3 requests from 'shgd:start_urls'
+2017-06-06 16:09:17,279 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-15.html.
+2017-06-06 16:09:41,802 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail/baixianciluan.html.
+2017-06-06 16:09:45,255 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-21.html.
+2017-06-06 16:09:50,233 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-22.html.
+2017-06-06 16:09:53,677 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-23.html.
+2017-06-06 16:09:59,576 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-24.html.
+2017-06-06 16:10:04,648 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-25.html.
+2017-06-06 16:10:09,434 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-29.html.
+2017-06-06 16:10:14,746 spider_shgd.py[line:53] INFO step into layer1, url is: http://www.shgaodong.com/product/list.aspx?page=1.
+2017-06-06 16:10:20,674 spider_shgd.py[line:53] INFO step into layer1, url is: http://www.shgaodong.com/product/list.aspx?page=2.
+2017-06-06 16:10:25,289 spider_shgd.py[line:53] INFO step into layer1, url is: http://www.shgaodong.com/product/list.aspx?page=3.
+2017-06-06 16:10:30,690 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-1.html.
+2017-06-06 16:10:35,566 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-4.html.
+2017-06-06 16:10:41,263 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-5.html.
+2017-06-06 16:10:45,851 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-6.html.
+2017-06-06 16:10:51,543 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-7.html.
+2017-06-06 16:10:56,401 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-8.html.
+2017-06-06 16:11:01,858 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-12.html.
+2017-06-06 16:11:07,401 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-13.html.
+2017-06-06 16:11:13,338 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-15.html.
+2017-06-06 16:11:18,441 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail/baixianciluan.html.
+2017-06-06 16:11:21,250 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-2.html.
+2017-06-06 16:11:25,803 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-14.html.
+2017-06-06 16:11:31,572 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-16.html.
+2017-06-06 16:11:37,453 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-3.html.
+2017-06-06 16:11:43,165 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-11.html.
+2017-06-06 16:11:48,507 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-17.html.
+2017-06-06 16:11:54,081 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-18.html.
+2017-06-06 16:11:57,055 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-19.html.
+2017-06-06 16:12:00,742 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-20.html.
+2017-06-06 16:12:10,095 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-21.html.
+2017-06-06 16:12:15,842 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-22.html.
+2017-06-06 16:12:20,881 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-23.html.
+2017-06-06 16:12:24,483 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-24.html.
+2017-06-06 16:12:30,234 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-25.html.
+2017-06-06 16:12:35,953 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-29.html.
+2017-06-06 16:12:39,842 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/404.aspx?aspxerrorpath=/product/detail/LUC-100X1Q/TC.html.

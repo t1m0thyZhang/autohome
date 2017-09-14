@@ -1,0 +1,37 @@
+2017-05-25 16:39:55,434 spiders.py[line:68] INFO Reading start URLs from redis key 'sv:start_urls' (batch size: 16, encoding: utf-8
+2017-05-25 16:39:58,250 spiders.py[line:95] DEBUG Read 1 requests from 'sv:start_urls'
+2017-05-25 16:40:00,075 spider_sv.py[line:55] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/turning-tools.aspx.
+2017-05-25 16:40:03,487 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/external-turning-tools.aspx.
+2017-05-25 16:40:07,513 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/internal-turning-tools.aspx.
+2017-05-25 16:40:11,375 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/heavy-turning-tools.aspx.
+2017-05-25 16:40:16,392 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/multi-task-machining-tools.aspx.
+2017-05-25 16:40:21,703 spider_sv.py[line:90] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_prime/Pages/default.aspx.
+2017-05-25 16:40:21,720 spider_sv.py[line:120] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_prime/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 115, in parse3
+    item["category_info"] = cinfo
+UnboundLocalError: local variable 'cinfo' referenced before assignment
+)
+2017-05-25 16:40:25,987 spider_sv.py[line:90] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx.
+2017-05-25 16:40:26,003 spider_sv.py[line:120] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 115, in parse3
+    item["category_info"] = cinfo
+UnboundLocalError: local variable 'cinfo' referenced before assignment
+)
+2017-05-25 16:40:30,509 spider_sv.py[line:90] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx.
+2017-05-25 16:40:30,539 spider_sv.py[line:120] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 115, in parse3
+    item["category_info"] = cinfo
+UnboundLocalError: local variable 'cinfo' referenced before assignment
+)
+2017-05-25 16:40:34,710 spider_sv.py[line:90] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_xs/Pages/default.aspx.
+2017-05-25 16:40:34,726 spider_sv.py[line:120] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corocut_xs/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 115, in parse3
+    item["category_info"] = cinfo
+UnboundLocalError: local variable 'cinfo' referenced before assignment
+)
+2017-05-25 16:40:39,543 spider_sv.py[line:90] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx.
+2017-05-25 16:40:39,559 spider_sv.py[line:120] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 115, in parse3
+    item["category_info"] = cinfo
+UnboundLocalError: local variable 'cinfo' referenced before assignment
+)

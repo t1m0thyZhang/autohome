@@ -1,0 +1,4 @@
+2017-06-12 09:52:10,006 spiders.py[line:68] INFO Reading start URLs from redis key 'easun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 09:52:12,734 spiders.py[line:95] DEBUG Read 1 requests from 'easun:start_urls'
+2017-06-12 09:52:13,088 spider_easun.py[line:53] INFO url is: http://www.china-easun.com/products_list/FrontColumns_navigation01-1433831337863FirstColumnId=3&&FrontColumns_navigation01-1433831337863FirstColumnId=3.html.
+2017-06-12 09:52:23,625 spider_easun.py[line:71] INFO url is: http://www.china-easun.com/products_list/pmcId=15.html.

@@ -1,0 +1,19 @@
+2017-06-02 14:52:46,171 spiders.py[line:68] INFO Reading start URLs from redis key 'qg:start_urls' (batch size: 16, encoding: utf-8
+2017-06-02 14:52:48,746 spiders.py[line:95] DEBUG Read 1 requests from 'qg:start_urls'
+2017-06-02 14:52:50,486 spider_qg.py[line:52] INFO step into layer1, url is: http://www.qgjhdj.com/product.asp?pid=1.
+2017-06-02 14:52:57,308 spider_qg.py[line:66] INFO step into layer2, url is: http://www.qgjhdj.com/product.asp?pid=1.
+2017-06-02 14:53:02,312 spider_qg.py[line:83] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=1.
+2017-06-02 14:53:12,785 spider_qg.py[line:113] ERROR layer3 failed, url is:(http://www.qgjhdj.com/product.asp?id=1), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_qg.py", line 89, in parse3
+    details = response.xpath("").extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in 
+)

@@ -1,0 +1,25 @@
+2017-05-31 13:06:22,209 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'jnzm:items' (server: localhost, port: 6379)
+2017-05-31 13:06:23,223 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: 四点角接触球轴承 <http://www.jnzys.com/a/chanpinzhongxin/tuiliqiuzhoucheng/55.html>
+2017-05-31 13:06:23,229 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: TR外球面轴承 <http://www.jnzys.com/a/chanpinzhongxin/trwaiqiumianzhoucheng/47.html>
+2017-05-31 13:06:23,233 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: 推力球轴承 <http://www.jnzys.com/a/chanpinzhongxin/tuiliqiuzhoucheng/54.html>
+2017-05-31 13:06:23,236 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: 轴承智能加热器 <http://www.jnzys.com/a/chanpinzhongxin/trwaiqiumianzhoucheng/52.html>
+2017-05-31 13:06:23,242 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: 轴承润滑脂 <http://www.jnzys.com/a/chanpinzhongxin/zhouchengrunhuazhi/53.html>
+2017-05-31 13:06:23,244 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: TR外球面轴承 <http://www.jnzys.com/a/chanpinzhongxin/trwaiqiumianzhoucheng/88.html>
+2017-05-31 13:06:23,249 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: 真空轴承 <http://www.jnzys.com/a/chanpinzhongxin/shengouqiuzhoucheng/68.html>
+2017-05-31 13:06:24,450 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: 哈轴6205深沟球轴承 <http://www.jnzys.com/a/chanpinzhongxin/shengouqiuzhoucheng/69.html>
+2017-05-31 13:06:30,253 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: 双列圆柱滚子轴承 <http://www.jnzys.com/a/chanpinzhongxin/yuanzhugunzizhoucheng/66.html>
+2017-05-31 13:06:35,115 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: 深沟球轴承 <http://www.jnzys.com/a/chanpinzhongxin/shengouqiuzhoucheng/67.html>
+2017-05-31 13:06:40,482 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: 单列角接触球轴承 <http://www.jnzys.com/a/chanpinzhongxin/jiaojiechuqiuzhoucheng/56.html>
+2017-05-31 13:06:43,739 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: 真空轴承 <http://www.jnzys.com/a/chanpinzhongxin/jiaojiechuqiuzhoucheng/57.html>
+2017-05-31 13:06:49,624 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: 调心球轴承 <http://www.jnzys.com/a/chanpinzhongxin/tiaoxinqiuzhoucheng/58.html>
+2017-05-31 13:06:54,479 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: 调心滚子轴承 <http://www.jnzys.com/a/chanpinzhongxin/tiaoxingunzizhoucheng/59.html>
+2017-05-31 13:06:59,959 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: 推力调心滚子轴承 <http://www.jnzys.com/a/chanpinzhongxin/tiaoxingunzizhoucheng/60.html>
+2017-05-31 13:07:05,825 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: TR轴承 <http://www.jnzys.com/a/chanpinzhongxin/trwaiqiumianzhoucheng/48.html>
+2017-05-31 13:07:10,417 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: TR轴承 <http://www.jnzys.com/a/chanpinzhongxin/trwaiqiumianzhoucheng/49.html>
+2017-05-31 13:07:14,858 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: TR轴承 <http://www.jnzys.com/a/chanpinzhongxin/trwaiqiumianzhoucheng/50.html>
+2017-05-31 13:07:17,835 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: 轴承加热器 <http://www.jnzys.com/a/chanpinzhongxin/zhouchengjiareqi/51.html>
+2017-05-31 13:07:21,776 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: 单列调心滚子轴承 <http://www.jnzys.com/a/chanpinzhongxin/tiaoxingunzizhoucheng/61.html>
+2017-05-31 13:07:25,538 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: 双列圆锥滚子轴承 <http://www.jnzys.com/a/chanpinzhongxin/yuanzhuigunzizhoucheng/62.html>
+2017-05-31 13:07:30,766 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: 单列圆锥滚子轴承 <http://www.jnzys.com/a/chanpinzhongxin/yuanzhuigunzizhoucheng/63.html>
+2017-05-31 13:07:35,871 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: 抗硫轴承 <http://www.jnzys.com/a/chanpinzhongxin/yuanzhuigunzizhoucheng/64.html>
+2017-05-31 13:07:41,329 download_items_from_redis.py[line:93] INFO [jnzm:items] Processing item: 单列圆柱滚子轴承 <http://www.jnzys.com/a/chanpinzhongxin/yuanzhugunzizhoucheng/65.html>

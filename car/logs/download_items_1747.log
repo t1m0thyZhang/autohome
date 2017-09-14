@@ -1,0 +1,2 @@
+2017-05-29 17:47:58,311 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'knt:items' (server: localhost, port: 6379)
+2017-05-29 17:47:59,326 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: UKDV • 四刃 • 公制 <https://www.kennametal.com/zh/products/20478624/57493250/1522849/100085230/100085231/100075165.html>

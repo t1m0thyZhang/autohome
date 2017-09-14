@@ -1,0 +1,2 @@
+2017-06-08 16:03:32,530 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'zjkx:items' (server: localhost, port: 6379)
+2017-06-08 16:03:33,546 download_items_from_redis.py[line:93] INFO [zjkx:items] Processing item: PA200A-PA1200A <http://www.kaixun.com.cn/htm/Products/qz/p2/2012_0606_43.html>

@@ -1,0 +1,9 @@
+2017-06-08 16:25:42,387 spiders.py[line:68] INFO Reading start URLs from redis key 'zjkx:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 16:25:45,078 spiders.py[line:95] DEBUG Read 1 requests from 'zjkx:start_urls'
+2017-06-08 16:25:46,194 spider_kluke.py[line:53] INFO url is: http://www.kluke.com.cn/chanpinzhanshi/index.aspx.
+2017-06-08 16:26:01,052 spider_kluke.py[line:67] ERROR failed, url is:(http://www.kluke.com.cn/chanpinzhanshi/index.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kluke.py", line 62, in parse
+    image = self.home_page + images[i]
+IndexError: list index out of range
+)
+2017-06-08 16:26:01,640 spider_kluke.py[line:70] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/gangxingqingzaiqizhongxitong/index.aspx.

@@ -1,0 +1,2 @@
+2017-06-08 10:44:27,198 spiders.py[line:68] INFO Reading start URLs from redis key 'fsjr:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 10:44:29,842 spiders.py[line:95] DEBUG Read 1 requests from 'fsjr:start_urls'

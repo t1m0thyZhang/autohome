@@ -1,0 +1,41 @@
+2017-05-26 11:23:21,142 spiders.py[line:68] INFO Reading start URLs from redis key 'kc1:start_urls' (batch size: 16, encoding: utf-8
+2017-05-26 11:23:22,871 __init__.py[line:47] DEBUG Resuming crawl (28 requests scheduled)
+2017-05-26 11:23:23,621 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/pseries/.
+2017-05-26 11:23:28,361 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/diamond/kbn475/.
+2017-05-26 11:23:28,361 spider_kc1.py[line:119] ERROR layer3 failed: failed to write into item, url is:(http://www.kyocera.com.cn/prdct/cuttingtool/product/diamond/kbn475/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kc1.py", line 105, in parse3
+    print cinfo
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u30fb' in position 19: illegal multibyte sequence
+)
+2017-05-26 11:23:32,493 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/diamond/pdl025/.
+2017-05-26 11:23:32,493 spider_kc1.py[line:119] ERROR layer3 failed: failed to write into item, url is:(http://www.kyocera.com.cn/prdct/cuttingtool/product/diamond/pdl025/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kc1.py", line 105, in parse3
+    print cinfo
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u30fb' in position 19: illegal multibyte sequence
+)
+2017-05-26 11:23:38,378 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/diamond/ks6030_6040/.
+2017-05-26 11:23:38,378 spider_kc1.py[line:119] ERROR layer3 failed: failed to write into item, url is:(http://www.kyocera.com.cn/prdct/cuttingtool/product/diamond/ks6030_6040/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kc1.py", line 105, in parse3
+    print cinfo
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u30fb' in position 19: illegal multibyte sequence
+)
+2017-05-26 11:23:42,186 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/diamond/ks6050_cs7050/.
+2017-05-26 11:23:42,186 spider_kc1.py[line:119] ERROR layer3 failed: failed to write into item, url is:(http://www.kyocera.com.cn/prdct/cuttingtool/product/diamond/ks6050_cs7050/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kc1.py", line 105, in parse3
+    print cinfo
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u30fb' in position 19: illegal multibyte sequence
+)
+2017-05-26 11:23:46,963 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mec/.
+2017-05-26 11:23:51,558 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mew/.
+2017-05-26 11:23:56,765 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mfk/.
+2017-05-26 11:23:56,765 spider_kc1.py[line:119] ERROR layer3 failed: failed to write into item, url is:(http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mfk/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kc1.py", line 112, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u30fb' in position 5: illegal multibyte sequence
+)
+2017-05-26 11:24:02,180 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mrw/.
+2017-05-26 11:24:06,548 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mrx/.
+2017-05-26 11:24:12,496 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mfpn/.
+2017-05-26 11:24:16,453 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mfwn/.
+2017-05-26 11:25:22,545 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mfk-sf/.
+2017-05-26 11:25:23,053 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/msrs90/.

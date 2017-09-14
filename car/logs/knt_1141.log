@@ -1,0 +1,9 @@
+2017-05-28 11:41:33,967 spiders.py[line:68] INFO Reading start URLs from redis key 'knt:start_urls' (batch size: 16, encoding: utf-8
+2017-05-28 11:41:36,960 spiders.py[line:95] DEBUG Read 1 requests from 'knt:start_urls'
+2017-05-28 11:41:40,283 spider_knt.py[line:59] INFO layer1 url is: https://www.kennametal.com/zh/products/20478624/57493250.html.
+2017-05-28 11:41:43,460 spider_knt.py[line:76] INFO layer2 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849.html.
+2017-05-28 11:41:48,522 spider_knt.py[line:76] INFO layer2 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247.html.
+2017-05-28 11:41:53,401 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814260.html.
+2017-05-28 11:41:56,696 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814627.html.
+2017-05-28 11:42:02,431 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632.html.
+2017-05-28 11:42:05,311 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814637.html.

@@ -1,0 +1,35 @@
+2017-06-06 16:10:27,875 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'shgd:items' (server: localhost, port: 6379)
+2017-06-06 16:10:28,928 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: 大流量滤油车 <http://www.shgaodong.com/product/detail-14.html>
+2017-06-06 16:10:28,934 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: DLB-160B大流量油泵 <http://www.shgaodong.com/product/detail-15.html>
+2017-06-06 16:10:28,937 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BB－B4~125型摆线齿轮油泵 <http://www.shgaodong.com/product/detail/baixianciluan.html>
+2017-06-06 16:10:28,940 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BB型直流电机油泵组 <http://www.shgaodong.com/product/detail-21.html>
+2017-06-06 16:10:28,943 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BB-B16A船用摆线齿轮油泵 <http://www.shgaodong.com/product/detail-22.html>
+2017-06-06 16:10:28,944 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BB-B32A船用摆线齿轮油泵 <http://www.shgaodong.com/product/detail-23.html>
+2017-06-06 16:10:28,947 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BB-B10D船用摆线齿轮油泵 <http://www.shgaodong.com/product/detail-24.html>
+2017-06-06 16:10:28,950 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BB-B25A-1船用摆线齿轮油泵 <http://www.shgaodong.com/product/detail-25.html>
+2017-06-06 16:10:28,951 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BB-B50A-3 <http://www.shgaodong.com/product/detail-29.html>
+2017-06-06 16:10:30,696 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BB－B4~B10KN型摆线齿轮油泵 <http://www.shgaodong.com/product/detail-1.html>
+2017-06-06 16:10:35,572 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: GDB6.3Y~250Y型高粘度摆线齿轮油泵 <http://www.shgaodong.com/product/detail-4.html>
+2017-06-06 16:10:41,273 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: 1~3KNB可逆式型摆线齿轮油泵 <http://www.shgaodong.com/product/detail-5.html>
+2017-06-06 16:10:45,871 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: RHB1~4型润滑摆线齿轮油泵 <http://www.shgaodong.com/product/detail-6.html>
+2017-06-06 16:10:51,551 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BB－B1~2.5型小流量摆线齿轮油泵 <http://www.shgaodong.com/product/detail-7.html>
+2017-06-06 16:10:56,411 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BB－B4Y~125Y型摆线齿轮油泵 <http://www.shgaodong.com/product/detail-8.html>
+2017-06-06 16:11:01,864 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: 手提便携式滤油加油机 <http://www.shgaodong.com/product/detail-12.html>
+2017-06-06 16:11:07,423 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: 高粘度油滤油车 <http://www.shgaodong.com/product/detail-13.html>
+2017-06-06 16:11:13,349 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: DLB-160B大流量油泵 <http://www.shgaodong.com/product/detail-15.html>
+2017-06-06 16:11:18,448 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BB－B4~125型摆线齿轮油泵 <http://www.shgaodong.com/product/detail/baixianciluan.html>
+2017-06-06 16:11:21,256 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: LUC16~125双向运转滤油车 <http://www.shgaodong.com/product/detail-2.html>
+2017-06-06 16:11:25,815 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: 大流量滤油车 <http://www.shgaodong.com/product/detail-14.html>
+2017-06-06 16:11:31,592 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BK16防爆滤油车 <http://www.shgaodong.com/product/detail-16.html>
+2017-06-06 16:11:37,463 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: DLB100~250系列大流量摆线齿轮油泵 <http://www.shgaodong.com/product/detail-3.html>
+2017-06-06 16:11:43,187 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: DJG动静压轴承供油装置 <http://www.shgaodong.com/product/detail-11.html>
+2017-06-06 16:11:48,522 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BB-BY电机泵组（卧式安装} <http://www.shgaodong.com/product/detail-17.html>
+2017-06-06 16:11:54,088 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: RHB润滑油泵电机组 <http://www.shgaodong.com/product/detail-18.html>
+2017-06-06 16:11:57,062 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: GDB高粘度油泵电机泵组（卧式安装） <http://www.shgaodong.com/product/detail-19.html>
+2017-06-06 16:12:00,746 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BB- BY防爆电机泵组 <http://www.shgaodong.com/product/detail-20.html>
+2017-06-06 16:12:10,111 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BB型直流电机油泵组 <http://www.shgaodong.com/product/detail-21.html>
+2017-06-06 16:12:15,851 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BB-B16A船用摆线齿轮油泵 <http://www.shgaodong.com/product/detail-22.html>
+2017-06-06 16:12:20,904 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BB-B32A船用摆线齿轮油泵 <http://www.shgaodong.com/product/detail-23.html>
+2017-06-06 16:12:24,503 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BB-B10D船用摆线齿轮油泵 <http://www.shgaodong.com/product/detail-24.html>
+2017-06-06 16:12:30,240 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BB-B25A-1船用摆线齿轮油泵 <http://www.shgaodong.com/product/detail-25.html>
+2017-06-06 16:12:35,960 download_items_from_redis.py[line:93] INFO [shgd:items] Processing item: BB-B50A-3 <http://www.shgaodong.com/product/detail-29.html>

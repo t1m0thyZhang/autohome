@@ -1,0 +1,8 @@
+2017-05-31 17:18:13,608 spiders.py[line:68] INFO Reading start URLs from redis key 'ty:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 17:18:16,164 spiders.py[line:95] DEBUG Read 1 requests from 'ty:start_urls'
+2017-05-31 17:18:20,259 spider_ty.py[line:49] INFO step into layer1, url is: http://www.wuxitaiyuan.com/.
+2017-05-31 17:18:21,890 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/qingxiji.html.
+2017-05-31 17:18:27,315 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_XSEdR.html.
+2017-05-31 17:19:27,901 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_uBN43.html.
+2017-05-31 17:19:33,421 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_72nB1.html.
+2017-05-31 17:19:37,414 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_IDzNC.html.

@@ -1,0 +1,18 @@
+2017-08-17 09:57:06,720 spiders.py[line:68] INFO Reading start URLs from redis key 'autohome:start_urls' (batch size: 1, encoding: utf-8
+2017-08-17 09:57:16,154 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 09:57:16,263 spider_autohome.py[line:55] INFO url is: http://www.autohome.com.cn/4288/.
+2017-08-17 09:57:16,295 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 09:57:23,190 spider_autohome.py[line:55] INFO url is: http://www.autohome.com.cn/146/.
+2017-08-17 09:57:23,592 spider_autohome.py[line:68] INFO detail is being parsed, url is: http://k.autohome.com.cn/146/9437/.
+2017-08-17 09:57:23,624 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 09:57:25,128 spider_autohome.py[line:55] INFO url is: http://www.autohome.com.cn/2734/.
+2017-08-17 09:57:29,536 spider_autohome.py[line:68] INFO detail is being parsed, url is: http://k.autohome.com.cn/2734/7970/.
+2017-08-17 09:57:29,566 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 09:57:30,207 spider_autohome.py[line:55] INFO url is: http://www.autohome.com.cn/3170/.
+2017-08-17 09:57:33,196 spider_autohome.py[line:68] INFO detail is being parsed, url is: http://k.autohome.com.cn/3170/9871/.
+2017-08-17 09:57:41,967 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/3170/9871/?gradeenum=0.
+2017-08-17 09:57:47,719 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/3170/9871/index_2.html?GradeEnum=0.
+2017-08-17 09:57:52,062 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/3170/9871/index_3.html?GradeEnum=0.
+2017-08-17 09:57:56,559 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/3170/9871/index_4.html?GradeEnum=0.
+2017-08-17 09:58:00,085 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/3170/9871/index_5.html?GradeEnum=0.
+2017-08-17 09:58:04,109 spider_autohome.py[line:103] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/30307/view_1680611_1.html?st=1&piap=0|3170|9871|0|1|0|0|0|0|0|1.

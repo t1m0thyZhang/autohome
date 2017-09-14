@@ -1,0 +1,7 @@
+2017-06-06 14:02:35,765 spiders.py[line:68] INFO Reading start URLs from redis key 'sun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-06 14:02:38,316 spiders.py[line:95] DEBUG Read 7 requests from 'sun:start_urls'
+2017-06-06 14:02:38,540 spider_sun.py[line:57] INFO step into layer1, url is: http://www.suneast.com.cn/index.php?ac=article&at=list&tid=139.
+2017-06-06 14:02:53,282 spiders.py[line:68] INFO Reading start URLs from redis key 'sun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-06 14:02:55,937 spiders.py[line:95] DEBUG Read 1 requests from 'sun:start_urls'
+2017-06-06 14:02:56,187 spider_sun.py[line:57] INFO step into layer1, url is: http://www.suneast.com.cn/index.php?ac=article&at=list&tid=135.
+2017-06-06 14:03:01,407 spider_sun.py[line:72] INFO step into layer2, url is: http://www.suneast.com.cn/index.php?ac=article&at=read&did=583.

@@ -1,0 +1,2 @@
+2017-06-02 15:04:57,767 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'qg:items' (server: localhost, port: 6379)
+2017-06-02 15:04:58,782 download_items_from_redis.py[line:93] INFO [qg:items] Processing item: ·吸顶式斜边净化灯 <http://www.qgjhdj.com/product.asp?id=1>

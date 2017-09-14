@@ -1,0 +1,16 @@
+2017-06-07 16:59:00,322 spiders.py[line:68] INFO Reading start URLs from redis key 'huarun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 16:59:03,046 spiders.py[line:95] DEBUG Read 1 requests from 'huarun:start_urls'
+2017-06-07 16:59:06,355 spider_huarun.py[line:74] INFO url is: http://www.huarun.com/product/productWall/?t=26.
+2017-06-07 16:59:10,812 spider_huarun.py[line:86] ERROR failed, url is:(http://www.huarun.com/product/productWall/?t=26), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 82, in parse
+    request = Request(fullurl, callback=self.parse2, dont_filter=True) #
+AttributeError: 'HuarunSpider' object has no attribute 'parse2'
+)
+2017-06-07 16:59:38,496 spiders.py[line:68] INFO Reading start URLs from redis key 'huarun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 16:59:41,174 spiders.py[line:95] DEBUG Read 1 requests from 'huarun:start_urls'
+2017-06-07 16:59:44,474 spider_huarun.py[line:74] INFO url is: http://www.huarun.com/product/productWall/?t=26.
+2017-06-07 17:00:58,084 spider_huarun.py[line:132] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 111, in parse2
+    tmp = the_page.split("\"productsFeature\":\"\\")[1]
+IndexError: list index out of range
+)

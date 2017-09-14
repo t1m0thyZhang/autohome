@@ -1,0 +1,11 @@
+2017-06-07 13:01:05,377 spiders.py[line:68] INFO Reading start URLs from redis key 'tt:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 13:01:08,010 spiders.py[line:95] DEBUG Read 15 requests from 'tt:start_urls'
+2017-06-07 13:01:09,687 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=waiquan.
+2017-06-07 13:02:51,020 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=Nachiyzgunzi.
+2017-06-07 13:02:57,450 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=jiaojiechuqiu.
+2017-06-07 13:03:03,654 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=yjgunzi.
+2017-06-07 13:03:12,601 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=tltiaoxingunzi.
+2017-06-07 13:03:18,246 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=shengouqiu.
+2017-06-07 13:03:52,647 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=3000xl.
+2017-06-07 13:04:00,168 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=waiqiumian.
+2017-06-07 13:04:17,760 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=fujian.

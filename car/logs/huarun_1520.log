@@ -1,0 +1,13 @@
+2017-06-07 15:20:36,881 spiders.py[line:68] INFO Reading start URLs from redis key 'huarun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 15:20:39,678 spiders.py[line:95] DEBUG Read 1 requests from 'huarun:start_urls'
+2017-06-07 15:20:47,016 spider_huarun.py[line:94] ERROR failed, url is:(http://www.huarun.com/product/productDetail/?p=193), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 92, in parse
+    FormRequest(url,formdata=formdata, callback=self.product_detail, dont_filter=True)
+  File "E:\python27\lib\site-packages\scrapy\http\request\form.py", line 31, in __init__
+    querystr = _urlencode(items, self.encoding)
+  File "E:\python27\lib\site-packages\scrapy\http\request\form.py", line 67, in _urlencode
+    for v in (vs if is_listlike(vs) else [vs])]
+  File "E:\python27\lib\site-packages\scrapy\utils\python.py", line 117, in to_bytes
+    'object, got %s' % type(text).__name__)
+TypeError: to_bytes must receive a unicode, str or bytes object, got int
+)

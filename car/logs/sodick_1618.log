@@ -1,0 +1,7 @@
+2017-05-31 16:18:06,068 spiders.py[line:68] INFO Reading start URLs from redis key 'sodick:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 16:18:07,569 __init__.py[line:47] DEBUG Resuming crawl (44 requests scheduled)
+2017-05-31 16:18:21,931 spider_sodick.py[line:69] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/tool/wedm/asx300l.html.
+2017-05-31 16:18:22,875 spider_sodick.py[line:69] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/tool/drilling/k1c.html.
+2017-05-31 16:18:51,601 spiders.py[line:68] INFO Reading start URLs from redis key 'sodick:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 16:18:54,174 spiders.py[line:95] DEBUG Read 5 requests from 'sodick:start_urls'
+2017-05-31 16:19:03,729 spider_sodick.py[line:54] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/motion/.

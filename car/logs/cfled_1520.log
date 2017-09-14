@@ -1,0 +1,827 @@
+2017-06-05 15:20:23,433 spiders.py[line:68] INFO Reading start URLs from redis key 'cfled:start_urls' (batch size: 16, encoding: utf-8
+2017-06-05 15:20:25,098 __init__.py[line:47] DEBUG Resuming crawl (29 requests scheduled)
+2017-06-05 15:20:54,252 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=421.
+2017-06-05 15:20:54,262 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=421), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:20:56,984 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=560.
+2017-06-05 15:20:56,987 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=560), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:20:59,053 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=557.
+2017-06-05 15:20:59,056 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=557), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:21:05,276 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=561.
+2017-06-05 15:21:10,698 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=559.
+2017-06-05 15:21:10,701 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=559), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:21:15,982 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=556.
+2017-06-05 15:21:15,984 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=556), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:21:21,566 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=558.
+2017-06-05 15:21:21,571 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=558), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:21:25,507 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=445.
+2017-06-05 15:21:30,279 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=446.
+2017-06-05 15:21:33,944 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=447.
+2017-06-05 15:21:39,335 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=466.
+2017-06-05 15:21:44,750 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=489.
+2017-06-05 15:21:50,578 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=490.
+2017-06-05 15:21:54,655 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=60.
+2017-06-05 15:21:54,658 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=60), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:21:58,822 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=418.
+2017-06-05 15:21:58,825 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=418), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:22:02,522 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=546.
+2017-06-05 15:22:07,803 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=369.
+2017-06-05 15:22:13,378 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=580.
+2017-06-05 15:22:13,391 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=580), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:22:17,605 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=422.
+2017-06-05 15:22:17,608 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=422), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:22:23,671 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=420.
+2017-06-05 15:22:23,674 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=420), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:22:29,009 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=211.
+2017-06-05 15:22:33,568 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=387.
+2017-06-05 15:22:38,177 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=444.
+2017-06-05 15:22:43,188 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=442.
+2017-06-05 15:22:47,069 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=372.
+2017-06-05 15:22:52,188 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=380.
+2017-06-05 15:22:57,010 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=381.
+2017-06-05 15:23:03,065 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=447.
+2017-06-05 15:23:03,068 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=447), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:23:08,316 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=448.
+2017-06-05 15:23:08,328 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=448), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:23:12,411 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=449.
+2017-06-05 15:23:12,414 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=449), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:23:17,423 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=450.
+2017-06-05 15:23:17,424 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=450), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:23:22,026 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=446.
+2017-06-05 15:23:27,390 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=586.
+2017-06-05 15:23:27,398 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=586), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:23:32,062 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=587.
+2017-06-05 15:23:32,065 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=587), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:23:36,203 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=588.
+2017-06-05 15:23:36,210 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=588), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:23:41,285 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=589.
+2017-06-05 15:23:41,288 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=589), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:23:45,608 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=590.
+2017-06-05 15:23:50,216 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=591.
+2017-06-05 15:23:54,835 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=549.
+2017-06-05 15:23:59,506 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=551.
+2017-06-05 15:23:59,513 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=551), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:24:05,802 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=370.
+2017-06-05 15:24:09,115 spiders.py[line:95] DEBUG Read 1 requests from 'cfled:start_urls'
+2017-06-05 15:24:09,213 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=250.
+2017-06-05 15:24:15,266 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=371.
+2017-06-05 15:24:20,694 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=550.
+2017-06-05 15:24:20,701 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=550), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:24:25,276 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=373.
+2017-06-05 15:24:25,289 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=373), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:24:30,996 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=374.
+2017-06-05 15:24:31,016 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=374), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:24:35,799 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=375.
+2017-06-05 15:24:35,809 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=375), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:24:41,273 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=376.
+2017-06-05 15:24:41,282 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=376), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:24:46,010 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=377.
+2017-06-05 15:24:46,015 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=377), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:24:51,494 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=378.
+2017-06-05 15:24:51,500 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=378), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:24:57,783 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=379.
+2017-06-05 15:24:57,793 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=379), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:25:02,934 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=210.
+2017-06-05 15:25:06,967 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=386.
+2017-06-05 15:25:09,124 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=355.
+2017-06-05 15:25:12,941 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=352.
+2017-06-05 15:25:16,987 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=366.
+2017-06-05 15:25:22,983 spider_cfled.py[line:51] INFO step into layer1, url is: http://www.cfled.com/product.aspx.
+2017-06-05 15:25:28,653 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=572.
+2017-06-05 15:25:32,474 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=575.
+2017-06-05 15:25:32,477 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=575), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:25:36,592 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=574.
+2017-06-05 15:25:36,594 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=574), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:25:42,519 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=569.
+2017-06-05 15:25:42,522 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=569), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:25:48,290 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=573.
+2017-06-05 15:25:48,292 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=573), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:25:54,223 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=571.
+2017-06-05 15:25:54,226 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=571), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:26:00,134 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=552.
+2017-06-05 15:26:00,141 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=552), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:26:06,109 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=553.
+2017-06-05 15:26:06,114 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=553), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:26:11,670 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=249.
+2017-06-05 15:26:11,673 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=249), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:26:16,130 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=248.
+2017-06-05 15:26:18,713 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=581.
+2017-06-05 15:26:24,049 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=577.
+2017-06-05 15:26:24,055 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=577), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:26:29,818 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=576.
+2017-06-05 15:26:29,819 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=576), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:26:34,644 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=89.
+2017-06-05 15:26:40,009 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=582.
+2017-06-05 15:26:44,877 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=584.
+2017-06-05 15:26:44,878 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=584), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:26:49,589 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=585.
+2017-06-05 15:26:49,595 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=585), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:26:55,095 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=583.
+2017-06-05 15:26:55,098 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=583), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:27:00,637 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=27.
+2017-06-05 15:27:05,323 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=28.
+2017-06-05 15:27:08,746 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=207.
+2017-06-05 15:27:12,339 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=208.
+2017-06-05 15:27:15,563 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=210.
+2017-06-05 15:27:19,190 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=211.
+2017-06-05 15:27:23,973 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=352.
+2017-06-05 15:27:29,358 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=355.
+2017-06-05 15:27:33,594 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=366.
+2017-06-05 15:27:37,826 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=386.
+2017-06-05 15:27:42,293 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=387.
+2017-06-05 15:27:47,608 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=440.
+2017-06-05 15:27:52,835 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=441.
+2017-06-05 15:27:56,000 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=442.
+2017-06-05 15:28:01,470 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=444.
+2017-06-05 15:28:07,168 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=445.
+2017-06-05 15:28:12,233 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=446.
+2017-06-05 15:28:18,111 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=60.
+2017-06-05 15:28:18,125 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=60), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:28:23,924 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=546.
+2017-06-05 15:28:29,183 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=547.
+2017-06-05 15:28:29,184 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=547), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:28:34,005 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=568.
+2017-06-05 15:28:34,013 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=568), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:28:38,003 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=571.
+2017-06-05 15:28:38,006 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=571), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:28:42,601 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=549.
+2017-06-05 15:28:47,990 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=89.
+2017-06-05 15:28:52,726 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=551.
+2017-06-05 15:28:52,733 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=551), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:28:58,000 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=577.
+2017-06-05 15:28:58,009 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=577), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:29:02,849 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=249.
+2017-06-05 15:29:02,857 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=249), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:29:08,825 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=576.
+2017-06-05 15:29:08,828 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=576), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:29:14,523 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=581.
+2017-06-05 15:29:19,045 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=250.
+2017-06-05 15:29:22,358 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=370.
+2017-06-05 15:29:26,098 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=371.
+2017-06-05 15:29:31,335 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=382.
+2017-06-05 15:29:36,283 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=380.
+2017-06-05 15:29:40,836 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=248.
+2017-06-05 15:29:45,687 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=550.
+2017-06-05 15:29:45,691 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=550), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:29:50,000 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=567.
+2017-06-05 15:29:50,003 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=567), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:29:55,269 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=575.
+2017-06-05 15:29:55,270 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=575), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:30:00,167 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=572.
+2017-06-05 15:30:06,095 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=565.
+2017-06-05 15:30:06,098 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=565), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:30:11,750 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=369.
+2017-06-05 15:30:15,940 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=372.
+2017-06-05 15:30:21,697 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=373.
+2017-06-05 15:30:21,701 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=373), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:30:26,578 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=374.
+2017-06-05 15:30:26,582 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=374), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:30:32,075 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=375.
+2017-06-05 15:30:32,078 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=375), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:30:35,661 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=376.
+2017-06-05 15:30:35,664 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=376), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:30:41,525 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=377.
+2017-06-05 15:30:41,532 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=377), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:30:49,671 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=378.
+2017-06-05 15:30:49,676 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=378), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:30:51,058 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=379.
+2017-06-05 15:30:51,062 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=379), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:30:55,940 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=574.
+2017-06-05 15:30:55,946 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=574), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:31:02,418 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=569.
+2017-06-05 15:31:02,427 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=569), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:31:04,770 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=584.
+2017-06-05 15:31:04,775 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=584), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:31:09,213 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=585.
+2017-06-05 15:31:09,217 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=585), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:31:12,867 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=602.
+2017-06-05 15:31:17,707 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=545.
+2017-06-05 15:31:17,721 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=545), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:31:22,260 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=548.
+2017-06-05 15:31:22,272 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=548), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:31:26,819 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=573.
+2017-06-05 15:31:26,822 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=573), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:31:30,088 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=564.
+2017-06-05 15:31:35,680 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=582.
+2017-06-05 15:31:38,253 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=583.
+2017-06-05 15:31:38,256 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=583), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:31:43,979 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=552.
+2017-06-05 15:31:43,983 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=552), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:31:48,661 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=397.
+2017-06-05 15:31:48,664 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=397), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:31:54,275 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=553.
+2017-06-05 15:31:54,278 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=553), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:31:59,607 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=560.
+2017-06-05 15:31:59,609 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=560), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:32:05,526 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=557.
+2017-06-05 15:32:05,529 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=557), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:32:11,470 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=561.
+2017-06-05 15:32:16,792 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=559.
+2017-06-05 15:32:16,795 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=559), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:32:22,232 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=556.
+2017-06-05 15:32:22,236 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=556), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:32:26,990 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=558.
+2017-06-05 15:32:27,002 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=558), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:32:31,750 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=447.
+2017-06-05 15:32:37,338 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=462.
+2017-06-05 15:32:43,479 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=465.
+2017-06-05 15:32:47,971 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=466.
+2017-06-05 15:32:53,207 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=489.
+2017-06-05 15:32:57,144 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=490.
+2017-06-05 15:33:03,240 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=381.
+2017-06-05 15:33:07,664 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=578.
+2017-06-05 15:33:13,658 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=579.
+2017-06-05 15:33:13,663 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=579), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:33:18,917 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=580.
+2017-06-05 15:33:18,923 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=580), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:33:22,349 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=416.
+2017-06-05 15:33:26,365 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=417.
+2017-06-05 15:33:26,371 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=417), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:33:31,526 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=419.
+2017-06-05 15:33:31,529 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=419), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:33:36,674 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=418.
+2017-06-05 15:33:36,676 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=418), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:33:42,384 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=420.
+2017-06-05 15:33:42,387 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=420), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:33:46,099 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=421.
+2017-06-05 15:33:46,105 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=421), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:33:51,980 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=423.
+2017-06-05 15:33:51,982 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=423), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:33:57,596 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=422.
+2017-06-05 15:33:57,598 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=422), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:34:02,766 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=447.
+2017-06-05 15:34:02,769 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=447), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:34:08,255 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=448.
+2017-06-05 15:34:08,256 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=448), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:34:11,252 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=449.
+2017-06-05 15:34:11,253 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=449), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:34:16,075 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=450.
+2017-06-05 15:34:16,078 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=450), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:34:20,891 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=446.
+2017-06-05 15:34:26,382 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=586.
+2017-06-05 15:34:26,384 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=586), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:34:32,289 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=587.
+2017-06-05 15:34:32,293 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=587), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:34:35,746 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=588.
+2017-06-05 15:34:35,749 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=588), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:34:39,522 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=589.
+2017-06-05 15:34:39,526 spider_cfled.py[line:119] ERROR layer3 failed, url is:(http://www.cfled.com/product1_show.aspx?ProId=589), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 111, in parse3
+    pname = item["product_name"]
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 59, in __getitem__
+    return self._values[key]
+KeyError: 'product_name'
+)
+2017-06-05 15:34:45,145 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=590.
+2017-06-05 15:34:50,198 spider_cfled.py[line:99] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=591.

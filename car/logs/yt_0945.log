@@ -1,0 +1,4 @@
+2017-06-07 09:45:52,454 spiders.py[line:68] INFO Reading start URLs from redis key 'yt:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 09:45:55,036 spiders.py[line:95] DEBUG Read 1 requests from 'yt:start_urls'
+2017-06-07 09:45:55,703 spider_yt.py[line:57] INFO url is: http://www.yuantie.com.cn/product.asp?type=9&keywords=&p=1.
+2017-06-07 09:46:02,112 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=34.

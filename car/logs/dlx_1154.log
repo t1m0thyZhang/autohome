@@ -1,0 +1,28 @@
+2017-06-12 11:54:12,809 spiders.py[line:68] INFO Reading start URLs from redis key 'dlx:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 11:54:15,625 spiders.py[line:95] DEBUG Read 16 requests from 'dlx:start_urls'
+2017-06-12 11:54:15,723 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=35.
+2017-06-12 11:54:20,973 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=193.
+2017-06-12 11:54:25,051 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=345.
+2017-06-12 11:54:30,332 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=177.
+2017-06-12 11:54:36,444 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=87.
+2017-06-12 11:54:41,456 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=493.
+2017-06-12 11:54:47,312 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=16.
+2017-06-12 11:54:52,130 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=323.
+2017-06-12 11:54:57,115 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=278.
+2017-06-12 11:55:02,677 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=485.
+2017-06-12 11:55:07,381 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=252.
+2017-06-12 11:55:12,257 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=382.
+2017-06-12 11:55:17,460 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=43.
+2017-06-12 11:55:22,809 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=64.
+2017-06-12 11:55:28,101 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=228.
+2017-06-12 11:55:30,694 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=284.
+2017-06-12 11:55:30,746 spiders.py[line:95] DEBUG Read 16 requests from 'dlx:start_urls'
+2017-06-12 11:55:36,529 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=2.
+2017-06-12 11:55:39,999 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=18.
+2017-06-12 11:55:42,562 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=20.
+2017-06-12 11:55:47,487 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=39.
+2017-06-12 11:55:51,980 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=52.
+2017-06-12 11:55:56,746 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=77.
+2017-06-12 11:56:01,387 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=112.
+2017-06-12 11:56:07,309 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=122.
+2017-06-12 11:56:09,678 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=148.

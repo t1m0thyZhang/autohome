@@ -1,0 +1,5 @@
+2017-06-08 16:49:23,658 spiders.py[line:68] INFO Reading start URLs from redis key 'jsnd:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 16:49:25,262 __init__.py[line:47] DEBUG Resuming crawl (7 requests scheduled)
+2017-06-08 16:49:26,338 spiders.py[line:95] DEBUG Read 3 requests from 'jsnd:start_urls'
+2017-06-08 16:49:26,471 spider_jsnd.py[line:70] INFO detail is being parsed, url is: http://www.nj-road.com/Product/2310591448.html.
+2017-06-08 16:49:53,055 spiders.py[line:68] INFO Reading start URLs from redis key 'jsnd:start_urls' (batch size: 16, encoding: utf-8

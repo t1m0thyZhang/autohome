@@ -1,0 +1,1 @@
+2017-06-07 18:28:57,727 spiders.py[line:68] INFO Reading start URLs from redis key 'huarun:start_urls' (batch size: 16, encoding: utf-8

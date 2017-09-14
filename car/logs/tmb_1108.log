@@ -1,0 +1,14 @@
+2017-05-31 11:08:10,674 spiders.py[line:68] INFO Reading start URLs from redis key 'tmb:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 11:08:13,459 spiders.py[line:95] DEBUG Read 1 requests from 'tmb:start_urls'
+2017-05-31 11:08:13,999 spider_tmb.py[line:52] INFO step into layer1, url is: http://www.tmb.net.cn/products_list.html.
+2017-05-31 11:08:19,293 spider_tmb.py[line:68] INFO step into layer1, url is: http://www.tmb.net.cn/products_list/pmcId=22.html.
+2017-05-31 11:08:23,555 spider_tmb.py[line:68] INFO step into layer1, url is: http://www.tmb.net.cn/products_list/pmcId=23.html.
+2017-05-31 11:08:28,852 spider_tmb.py[line:68] INFO step into layer1, url is: http://www.tmb.net.cn/products_list/pmcId=24.html.
+2017-05-31 11:08:33,562 spider_tmb.py[line:68] INFO step into layer1, url is: http://www.tmb.net.cn/products_list/pmcId=26.html.
+2017-05-31 11:08:39,250 spider_tmb.py[line:68] INFO step into layer1, url is: http://www.tmb.net.cn/products_list/pmcId=27.html.
+2017-05-31 11:08:44,706 spider_tmb.py[line:68] INFO step into layer1, url is: http://www.tmb.net.cn/products_list/pmcId=28.html.
+2017-05-31 11:08:48,092 spider_tmb.py[line:68] INFO step into layer1, url is: http://www.tmb.net.cn/products_list/pmcId=29.html.
+2017-05-31 11:08:53,828 spider_tmb.py[line:68] INFO step into layer1, url is: http://www.tmb.net.cn/products_list/pmcId=30.html.
+2017-05-31 11:08:59,619 spider_tmb.py[line:68] INFO step into layer1, url is: http://www.tmb.net.cn/products_list/pmcId=31.html.
+2017-05-31 11:09:02,546 spider_tmb.py[line:68] INFO step into layer1, url is: http://www.tmb.net.cn/products_list/pmcId=32.html.
+2017-05-31 11:09:10,418 spider_tmb.py[line:82] INFO --------layer3, url is: http://www.tmb.net.cn/products_detail/productId=21.html.

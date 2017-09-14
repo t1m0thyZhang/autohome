@@ -1,0 +1,2 @@
+2017-06-07 11:20:58,627 spiders.py[line:68] INFO Reading start URLs from redis key 'huarun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 11:21:01,174 spiders.py[line:95] DEBUG Read 15 requests from 'huarun:start_urls'

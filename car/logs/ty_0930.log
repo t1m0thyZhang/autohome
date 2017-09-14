@@ -1,0 +1,23 @@
+2017-06-01 09:30:06,282 spiders.py[line:68] INFO Reading start URLs from redis key 'ty:start_urls' (batch size: 16, encoding: utf-8
+2017-06-01 09:30:08,816 spiders.py[line:95] DEBUG Read 1 requests from 'ty:start_urls'
+2017-06-01 09:30:09,426 spider_ty.py[line:49] INFO step into layer1, url is: http://www.wuxitaiyuan.com/.
+2017-06-01 09:30:14,417 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/qingxiji.html.
+2017-06-01 09:30:19,384 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/psj.html.
+2017-06-01 09:30:24,609 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/sdj.html.
+2017-06-01 09:30:28,055 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/csymj.html.
+2017-06-01 09:30:32,763 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/gtymj.html.
+2017-06-01 09:30:37,542 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/dgspwj.html.
+2017-06-01 09:30:41,703 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/ldspwj.html.
+2017-06-01 09:30:47,206 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/qtcpjs.html.
+2017-06-01 09:30:52,737 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/tgspwj.html.
+2017-06-01 09:30:57,642 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/ztspwj.html.
+2017-06-01 09:31:02,378 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/lxzdymj.html.
+2017-06-01 09:31:05,081 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/mlmyglj.html.
+2017-06-01 09:31:10,720 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/swlsymj.html.
+2017-06-01 09:31:15,808 spider_ty.py[line:63] INFO step into layer2, url is: http://www.wuxitaiyuan.com/wslxymj.html.
+2017-06-01 09:31:20,234 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_uBN43.html.
+2017-06-01 09:31:46,908 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_72nB1.html.
+2017-06-01 09:31:54,813 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_IDzNC.html.
+2017-06-01 09:32:00,092 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_XSEdR.html.
+2017-06-01 09:32:05,345 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_3xk9x.html.
+2017-06-01 09:34:32,690 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_D9uJ8.html.

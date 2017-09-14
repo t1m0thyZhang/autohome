@@ -1,0 +1,5 @@
+2017-06-14 10:23:29,089 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'zotec:items' (server: localhost, port: 6379)
+2017-06-14 10:23:35,417 download_items_from_redis.py[line:93] INFO [zotec:items] Processing item: Iepco微型喷砂设备PEENMATIC850ZDA <http://www.zotec-china.com.cn/Pro_Info.php?id=353&Sid=11001&Tid=13>
+2017-06-14 10:23:40,582 download_items_from_redis.py[line:93] INFO [zotec:items] Processing item: InfiniteFocusSL <http://www.zotec-china.com.cn/Pro_Info.php?id=292&Sid=10001&Tid=0>
+2017-06-14 10:23:43,871 download_items_from_redis.py[line:93] INFO [zotec:items] Processing item: Elma双槽模块化清洗设备 <http://www.zotec-china.com.cn/Pro_Info.php?id=336&Sid=9001&Tid=9>
+2017-06-14 10:23:49,469 download_items_from_redis.py[line:93] INFO [zotec:items] Processing item: CFStandard系列 <http://www.zotec-china.com.cn/Pro_Info.php?id=269&Sid=2001&Tid=4>

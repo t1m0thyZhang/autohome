@@ -1,0 +1,13 @@
+2017-06-12 13:27:30,387 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'dlx:items' (server: localhost, port: 6379)
+2017-06-12 13:36:26,371 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: YBM-40.5（12）/0.69风电专用箱式升压变电站(欧式风电箱变) <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=24>
+2017-06-12 13:39:54,714 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: YBM-40.5（12）/0.69风电专用箱式升压变电站(欧式风电箱变) <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=24>
+2017-06-12 13:39:58,602 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: SG(B)10H型绝缘干式配电变压器 <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=38>
+2017-06-12 13:40:23,454 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: YB6系列预装式变电站（美式箱变） <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=140>
+2017-06-12 13:40:29,076 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: YB□22-12系列预装式变电站（欧式箱变） <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=142>
+2017-06-12 13:41:04,670 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: SR系列全密封β液变压器 <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=40>
+2017-06-12 13:42:33,002 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: SC(B)系列F级树脂浇注干式配电变压器 <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=39>
+2017-06-12 13:42:38,953 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: S系列35KV油浸式电力变压器 <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=44>
+2017-06-12 13:45:39,380 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: YBM-40.5（12）/0.69风电专用箱式升压变电站(欧式风电箱变) <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=24>
+2017-06-12 13:45:43,112 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: SCBH15F级树脂浇注非晶合金干式配电变压器 <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=37>
+2017-06-12 13:45:48,289 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: SG(B)10H型绝缘干式配电变压器 <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=38>
+2017-06-12 13:49:38,644 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: 德力西专有型号-VHD1-12型户内高压交流固封极柱真空断路器 <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=143>

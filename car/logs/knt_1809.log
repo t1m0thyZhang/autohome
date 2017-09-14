@@ -1,0 +1,386 @@
+2017-05-29 18:09:19,357 spiders.py[line:68] INFO Reading start URLs from redis key 'knt:start_urls' (batch size: 16, encoding: utf-8
+2017-05-29 18:09:22,217 spiders.py[line:95] DEBUG Read 6 requests from 'knt:start_urls'
+2017-05-29 18:09:25,171 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249.html.
+2017-05-29 18:09:28,421 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/100050788.html.
+2017-05-29 18:09:34,096 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/47535256.html.
+2017-05-29 18:09:38,950 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250.html.
+2017-05-29 18:09:43,967 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451.html.
+2017-05-29 18:09:49,710 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259.html.
+2017-05-29 18:09:49,757 spiders.py[line:95] DEBUG Read 16 requests from 'knt:start_urls'
+2017-05-29 18:09:54,421 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453.html.
+2017-05-29 18:09:58,046 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924455.html.
+2017-05-29 18:10:03,430 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924457.html.
+2017-05-29 18:10:09,647 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924459.html.
+2017-05-29 18:10:11,788 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247.html.
+2017-05-29 18:10:15,426 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510.html.
+2017-05-29 18:10:19,868 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41357960.html.
+2017-05-29 18:10:25,862 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919.html.
+2017-05-29 18:10:30,885 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849.html.
+2017-05-29 18:10:36,029 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131.html.
+2017-05-29 18:10:40,043 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012.html.
+2017-05-29 18:10:45,359 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935.html.
+2017-05-29 18:10:50,063 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100108114.html.
+2017-05-29 18:10:55,864 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063.html.
+2017-05-29 18:10:59,105 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/47492387.html.
+2017-05-29 18:11:04,296 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/100050788/100074334.html.
+2017-05-29 18:11:09,164 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/100050788/100074334.html.
+2017-05-29 18:11:10,240 spiders.py[line:95] DEBUG Read 16 requests from 'knt:start_urls'
+2017-05-29 18:11:13,654 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7824534.html.
+2017-05-29 18:11:17,948 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261.html.
+2017-05-29 18:11:21,964 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038.html.
+2017-05-29 18:11:26,286 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/42799511.html.
+2017-05-29 18:11:28,667 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54478782.html.
+2017-05-29 18:11:31,591 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54481549.html.
+2017-05-29 18:11:37,250 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814260.html.
+2017-05-29 18:11:43,996 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814659.html.
+2017-05-29 18:11:48,743 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/100108679.html.
+2017-05-29 18:11:53,832 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/100090993.html.
+2017-05-29 18:11:59,750 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382.html.
+2017-05-29 18:12:05,654 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100008808.html.
+2017-05-29 18:12:11,006 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092183.html.
+2017-05-29 18:12:16,625 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092188.html.
+2017-05-29 18:12:22,687 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/47492387/100037345.html.
+2017-05-29 18:12:27,793 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/47492387/100037356.html.
+2017-05-29 18:12:32,755 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100008808.html.
+2017-05-29 18:12:37,108 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092183.html.
+2017-05-29 18:12:43,190 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092188.html.
+2017-05-29 18:12:43,263 spiders.py[line:95] DEBUG Read 16 requests from 'knt:start_urls'
+2017-05-29 18:12:47,990 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7799958.html.
+2017-05-29 18:12:52,691 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924455/7860034.html.
+2017-05-29 18:12:56,604 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924457/7852148.html.
+2017-05-29 18:13:12,598 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/100049620.html.
+2017-05-29 18:13:13,404 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123.html.
+2017-05-29 18:13:13,948 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54473731.html.
+2017-05-29 18:13:17,141 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/100085303.html.
+2017-05-29 18:13:21,184 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/47492387/62343988.html.
+2017-05-29 18:13:25,904 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092189.html.
+2017-05-29 18:13:29,717 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854469.html.
+2017-05-29 18:13:33,536 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493.html.
+2017-05-29 18:13:40,855 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50334404.html.
+2017-05-29 18:13:44,983 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/42799511/42799659.html.
+2017-05-29 18:13:50,065 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/42799511/42800076.html.
+2017-05-29 18:13:57,825 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54478782/100004456.html.
+2017-05-29 18:14:01,512 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/100090993/100091007.html.
+2017-05-29 18:14:05,463 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092189.html.
+2017-05-29 18:14:12,865 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54478782/100004456.html.
+2017-05-29 18:14:12,913 spiders.py[line:95] DEBUG Read 16 requests from 'knt:start_urls'
+2017-05-29 18:14:16,382 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/47535256/63745081.html.
+2017-05-29 18:14:20,687 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7824532.html.
+2017-05-29 18:14:27,229 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100008600.html.
+2017-05-29 18:14:31,993 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092186.html.
+2017-05-29 18:14:37,782 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7799958/100022529.html.
+2017-05-29 18:14:45,671 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7799958/100022531.html.
+2017-05-29 18:14:49,325 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373640.html.
+2017-05-29 18:14:54,088 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54473731/100104472.html.
+2017-05-29 18:15:00,905 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54481549/100041497.html.
+2017-05-29 18:15:05,417 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100004110.html.
+2017-05-29 18:15:09,308 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100004666.html.
+2017-05-29 18:15:16,263 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/100108679/100103054.html.
+2017-05-29 18:15:19,673 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854469/100002088.html.
+2017-05-29 18:15:22,196 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493/100000794.html.
+2017-05-29 18:15:30,210 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493/100005200.html.
+2017-05-29 18:15:34,680 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50334404/100004905.html.
+2017-05-29 18:15:36,115 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100008600.html.
+2017-05-29 18:15:40,891 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092186.html.
+2017-05-29 18:15:46,779 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7799958/100022529.html.
+2017-05-29 18:15:51,624 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7799958/100022531.html.
+2017-05-29 18:15:57,502 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54481549/100041497.html.
+2017-05-29 18:16:02,782 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100004110.html.
+2017-05-29 18:16:07,033 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100004666.html.
+2017-05-29 18:16:11,533 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/100108679/100103054.html.
+2017-05-29 18:16:15,739 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854469/100002088.html.
+2017-05-29 18:16:21,677 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493/100000794.html.
+2017-05-29 18:16:26,927 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493/100005200.html.
+2017-05-29 18:16:31,861 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50334404/100004905.html.
+2017-05-29 18:16:31,921 spiders.py[line:95] DEBUG Read 16 requests from 'knt:start_urls'
+2017-05-29 18:16:35,740 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7800149.html.
+2017-05-29 18:16:40,849 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/42808591.html.
+2017-05-29 18:16:45,256 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41357960/41358597.html.
+2017-05-29 18:16:49,990 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54479289.html.
+2017-05-29 18:16:54,430 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745067.html.
+2017-05-29 18:16:59,884 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092182.html.
+2017-05-29 18:17:04,591 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471.html.
+2017-05-29 18:17:10,332 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7824532/100001313.html.
+2017-05-29 18:17:12,020 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373820.html.
+2017-05-29 18:17:17,737 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54478782/100023404.html.
+2017-05-29 18:17:22,690 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100012104.html.
+2017-05-29 18:17:26,775 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100016178.html.
+2017-05-29 18:17:33,378 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493/100000790.html.
+2017-05-29 18:17:38,842 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493/100000797.html.
+2017-05-29 18:17:42,153 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373640/100004562.html.
+2017-05-29 18:17:45,878 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/42799511/42799659/100005117.html.
+2017-05-29 18:17:47,996 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092182.html.
+2017-05-29 18:17:51,848 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7824532/100001313.html.
+2017-05-29 18:17:57,003 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54478782/100023404.html.
+2017-05-29 18:18:03,101 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100012104.html.
+2017-05-29 18:18:08,288 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100016178.html.
+2017-05-29 18:18:13,828 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493/100000790.html.
+2017-05-29 18:18:19,168 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493/100000797.html.
+2017-05-29 18:18:24,421 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373640/100004562.html.
+2017-05-29 18:18:26,543 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/42799511/42799659/100005117.html.
+2017-05-29 18:18:26,591 spiders.py[line:95] DEBUG Read 16 requests from 'knt:start_urls'
+2017-05-29 18:18:31,142 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924459/7833702.html.
+2017-05-29 18:18:35,987 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/64633594.html.
+2017-05-29 18:18:41,078 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/64166027.html.
+2017-05-29 18:18:46,611 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745069.html.
+2017-05-29 18:18:51,891 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745071.html.
+2017-05-29 18:18:56,970 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/47492387/54057559.html.
+2017-05-29 18:19:02,721 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483.html.
+2017-05-29 18:19:07,938 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924457/7852148/50950924.html.
+2017-05-29 18:19:15,128 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7824532/100001314.html.
+2017-05-29 18:19:18,444 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41357960/41358597/49299580.html.
+2017-05-29 18:19:24,387 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100004146.html.
+2017-05-29 18:19:28,818 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854469/100003618.html.
+2017-05-29 18:19:33,721 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50334404/100004608.html.
+2017-05-29 18:19:37,362 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373640/100004566.html.
+2017-05-29 18:19:42,023 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373820/100035968.html.
+2017-05-29 18:19:48,026 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54473731/100104472/100102768.html.
+2017-05-29 18:19:54,384 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7824532/100001314.html.
+2017-05-29 18:19:58,415 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100004146.html.
+2017-05-29 18:20:02,200 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854469/100003618.html.
+2017-05-29 18:20:05,186 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50334404/100004608.html.
+2017-05-29 18:20:10,176 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373640/100004566.html.
+2017-05-29 18:20:14,631 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373820/100035968.html.
+2017-05-29 18:20:19,976 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54473731/100104472/100102768.html.
+2017-05-29 18:20:20,020 spiders.py[line:95] DEBUG Read 16 requests from 'knt:start_urls'
+2017-05-29 18:20:24,990 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/40856549.html.
+2017-05-29 18:20:30,706 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/41339515.html.
+2017-05-29 18:20:36,530 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814647.html.
+2017-05-29 18:20:41,631 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108381.html.
+2017-05-29 18:20:47,051 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/47535256/63745081/100072673.html.
+2017-05-29 18:20:52,799 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/42922981.html.
+2017-05-29 18:20:56,566 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373182.html.
+2017-05-29 18:21:02,457 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41357960/41358597/49299603.html.
+2017-05-29 18:21:06,101 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/100049620/100049618.html.
+2017-05-29 18:21:11,243 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100015039.html.
+2017-05-29 18:21:15,865 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471/100000804.html.
+2017-05-29 18:21:21,140 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471/100001539.html.
+2017-05-29 18:21:26,661 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100001582.html.
+2017-05-29 18:21:31,049 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100004913.html.
+2017-05-29 18:21:36,563 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924457/7852148/50950924/100003844.html.
+2017-05-29 18:21:42,457 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54473731/100104472/100102771.html.
+2017-05-29 18:21:44,818 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/100049620/100049618.html.
+2017-05-29 18:21:50,892 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100015039.html.
+2017-05-29 18:21:55,960 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471/100000804.html.
+2017-05-29 18:22:00,506 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471/100001539.html.
+2017-05-29 18:22:03,813 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100001582.html.
+2017-05-29 18:22:09,743 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100004913.html.
+2017-05-29 18:22:15,706 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/556249/3924457/7852148/50950924/100003844.html.
+2017-05-29 18:22:21,845 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54473731/100104472/100102771.html.
+2017-05-29 18:22:21,877 spiders.py[line:95] DEBUG Read 16 requests from 'knt:start_urls'
+2017-05-29 18:22:23,578 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42025499.html.
+2017-05-29 18:22:29,134 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7825088.html.
+2017-05-29 18:22:34,926 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100008605.html.
+2017-05-29 18:22:40,693 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092185.html.
+2017-05-29 18:22:45,964 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924455/7860034/7860036.html.
+2017-05-29 18:22:54,615 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7824534/100000637.html.
+2017-05-29 18:22:55,394 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41357960/41358597/49299595.html.
+2017-05-29 18:23:00,625 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814647/44815195.html.
+2017-05-29 18:23:06,967 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54481549/100023615.html.
+2017-05-29 18:23:13,476 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54481549/100028299.html.
+2017-05-29 18:23:14,365 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745071/63840683.html.
+2017-05-29 18:23:20,328 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/100108679/100103171.html.
+2017-05-29 18:23:22,868 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386.html.
+2017-05-29 18:23:28,522 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/47492387/100037345/100037351.html.
+2017-05-29 18:23:33,092 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100002357.html.
+2017-05-29 18:23:39,388 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373182/100004909.html.
+2017-05-29 18:23:45,721 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100008605.html.
+2017-05-29 18:23:50,023 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092185.html.
+2017-05-29 18:23:55,802 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7824534/100000637.html.
+2017-05-29 18:24:02,003 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54481549/100023615.html.
+2017-05-29 18:24:07,506 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54481549/100028299.html.
+2017-05-29 18:24:09,345 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/100108679/100103171.html.
+2017-05-29 18:24:16,908 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100002357.html.
+2017-05-29 18:24:19,285 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373182/100004909.html.
+2017-05-29 18:24:19,348 spiders.py[line:95] DEBUG Read 16 requests from 'knt:start_urls'
+2017-05-29 18:24:22,908 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924457/7858196.html.
+2017-05-29 18:24:28,066 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/2189920.html.
+2017-05-29 18:24:34,190 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100008693.html.
+2017-05-29 18:24:38,364 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/47492387/100033617.html.
+2017-05-29 18:24:45,052 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41357960/41358597/49299607.html.
+2017-05-29 18:24:50,693 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54481549/100023621.html.
+2017-05-29 18:24:54,766 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745069/63840418.html.
+2017-05-29 18:25:08,979 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100003742.html.
+2017-05-29 18:25:12,950 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100004920.html.
+2017-05-29 18:25:13,122 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854469/100002371.html.
+2017-05-29 18:25:18,897 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/42922981/100057024.html.
+2017-05-29 18:25:23,940 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41357960/41358597/49299603/100001702.html.
+2017-05-29 18:25:25,595 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54473731/100104472/100102755.html.
+2017-05-29 18:25:31,703 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108412.html.
+2017-05-29 18:25:36,423 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108413.html.
+2017-05-29 18:25:42,595 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100008693.html.
+2017-05-29 18:25:48,108 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54481549/100023621.html.
+2017-05-29 18:25:54,766 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100003742.html.
+2017-05-29 18:25:56,703 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100004920.html.
+2017-05-29 18:26:02,947 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854469/100002371.html.
+2017-05-29 18:26:07,265 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100012103.html.
+2017-05-29 18:26:12,763 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/42922981/100057024.html.
+2017-05-29 18:26:16,085 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/41357960/41358597/49299603/100001702.html.
+2017-05-29 18:26:19,434 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54473731/100104472/100102755.html.
+2017-05-29 18:26:24,648 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100012103.html.
+2017-05-29 18:26:24,710 spiders.py[line:95] DEBUG Read 16 requests from 'knt:start_urls'
+2017-05-29 18:26:29,016 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924463.html.
+2017-05-29 18:26:34,552 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924457/44754998.html.
+2017-05-29 18:26:40,335 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/43712608.html.
+2017-05-29 18:26:44,092 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/54813501.html.
+2017-05-29 18:26:53,640 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/64166027/100072167.html.
+2017-05-29 18:26:53,671 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7825088/100004307.html.
+2017-05-29 18:26:58,802 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745067/63840373.html.
+2017-05-29 18:27:03,153 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745067/63840383.html.
+2017-05-29 18:27:08,691 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745071/63841053.html.
+2017-05-29 18:27:14,051 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854469/100000285.html.
+2017-05-29 18:27:17,437 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471/100002058.html.
+2017-05-29 18:27:22,630 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373182/100002290.html.
+2017-05-29 18:27:26,286 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373182/100004902.html.
+2017-05-29 18:27:31,161 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108414.html.
+2017-05-29 18:27:37,369 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108416.html.
+2017-05-29 18:27:44,484 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108413/100094973.html.
+2017-05-29 18:27:47,898 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/64166027/100072167.html.
+2017-05-29 18:27:56,269 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854469/100000285.html.
+2017-05-29 18:28:00,272 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7825088/100004307.html.
+2017-05-29 18:28:00,848 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471/100002058.html.
+2017-05-29 18:28:05,584 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373182/100002290.html.
+2017-05-29 18:28:10,566 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373182/100004902.html.
+2017-05-29 18:28:18,039 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108413/100094973.html.
+2017-05-29 18:28:18,101 spiders.py[line:95] DEBUG Read 16 requests from 'knt:start_urls'
+2017-05-29 18:28:21,226 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/100050788/100049618.html.
+2017-05-29 18:28:26,039 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/50001994.html.
+2017-05-29 18:28:30,058 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42025499/42025503.html.
+2017-05-29 18:28:37,082 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473.html.
+2017-05-29 18:28:42,342 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924459/7833702/63232488.html.
+2017-05-29 18:28:47,503 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/42799511/48766183.html.
+2017-05-29 18:28:52,108 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/54813501/55056851.html.
+2017-05-29 18:28:57,809 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/43712608/100003336.html.
+2017-05-29 18:29:03,342 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/43712608/100018582.html.
+2017-05-29 18:29:08,000 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/47492387/100033617/100033620.html.
+2017-05-29 18:29:13,017 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100004912.html.
+2017-05-29 18:29:17,653 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100004917.html.
+2017-05-29 18:29:21,170 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745067/63840373/100004312.html.
+2017-05-29 18:29:25,105 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745067/63840373/100004335.html.
+2017-05-29 18:29:31,785 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108412/100094961.html.
+2017-05-29 18:29:35,660 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108412/100094969.html.
+2017-05-29 18:29:39,944 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/100050788/100049618.html.
+2017-05-29 18:29:43,582 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/43712608/100003336.html.
+2017-05-29 18:29:49,976 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/43712608/100018582.html.
+2017-05-29 18:29:53,270 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100004912.html.
+2017-05-29 18:29:57,562 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100004917.html.
+2017-05-29 18:30:01,957 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745067/63840373/100004312.html.
+2017-05-29 18:30:04,563 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745067/63840373/100004335.html.
+2017-05-29 18:30:10,454 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108412/100094961.html.
+2017-05-29 18:30:15,579 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108412/100094969.html.
+2017-05-29 18:30:15,611 spiders.py[line:95] DEBUG Read 16 requests from 'knt:start_urls'
+2017-05-29 18:30:17,301 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7813126.html.
+2017-05-29 18:30:22,286 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54478106.html.
+2017-05-29 18:30:28,282 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100008700.html.
+2017-05-29 18:30:33,486 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7825088/100012219.html.
+2017-05-29 18:30:39,517 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/50001994/100055628.html.
+2017-05-29 18:30:44,108 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42025499/42025503/54190788.html.
+2017-05-29 18:30:51,421 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/43712608/100003125.html.
+2017-05-29 18:30:56,098 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/43712608/100003135.html.
+2017-05-29 18:31:09,984 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924455/7860034/7860036/100004517.html.
+2017-05-29 18:31:10,871 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/100108679/100103136.html.
+2017-05-29 18:31:14,253 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50334404/100004606.html.
+2017-05-29 18:31:20,549 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373182/100002293.html.
+2017-05-29 18:31:25,581 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814647/44815195/100003447.html.
+2017-05-29 18:31:30,994 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745067/63840373/100004327.html.
+2017-05-29 18:31:36,509 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108417.html.
+2017-05-29 18:31:41,158 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100008700.html.
+2017-05-29 18:31:46,391 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7825088/100012219.html.
+2017-05-29 18:31:50,980 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/50001994/100055628.html.
+2017-05-29 18:31:56,591 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/43712608/100003125.html.
+2017-05-29 18:32:00,799 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/43712608/100003135.html.
+2017-05-29 18:32:06,677 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/556249/3924455/7860034/7860036/100004517.html.
+2017-05-29 18:32:12,884 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/100108679/100103136.html.
+2017-05-29 18:32:17,223 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100004098.html.
+2017-05-29 18:32:21,861 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50334404/100004606.html.
+2017-05-29 18:32:27,040 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373182/100002293.html.
+2017-05-29 18:32:31,269 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814647/44815195/100003447.html.
+2017-05-29 18:32:35,553 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745067/63840373/100004327.html.
+2017-05-29 18:32:39,342 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100004098.html.
+2017-05-29 18:32:39,388 spiders.py[line:95] DEBUG Read 16 requests from 'knt:start_urls'
+2017-05-29 18:32:42,161 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42034258.html.
+2017-05-29 18:32:44,753 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/64633596.html.
+2017-05-29 18:32:49,121 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/100085230.html.
+2017-05-29 18:32:56,486 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100009129.html.
+2017-05-29 18:33:01,960 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100012101.html.
+2017-05-29 18:33:05,653 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924455/7860034/7860036/100004516.html.
+2017-05-29 18:33:09,372 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471/100000279.html.
+2017-05-29 18:33:14,433 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471/100000282.html.
+2017-05-29 18:33:19,463 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471/100002064.html.
+2017-05-29 18:33:25,209 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100000138.html.
+2017-05-29 18:33:27,783 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100000810.html.
+2017-05-29 18:33:32,411 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100000823.html.
+2017-05-29 18:33:38,875 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100004932.html.
+2017-05-29 18:33:43,440 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493/100001379.html.
+2017-05-29 18:33:49,313 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745067/63840373/100004320.html.
+2017-05-29 18:33:56,029 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108416/100046843.html.
+2017-05-29 18:33:58,512 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100009129.html.
+2017-05-29 18:34:05,401 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100012101.html.
+2017-05-29 18:34:10,520 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/556249/3924455/7860034/7860036/100004516.html.
+2017-05-29 18:34:16,783 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471/100000279.html.
+2017-05-29 18:34:21,460 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471/100000282.html.
+2017-05-29 18:34:26,473 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471/100002064.html.
+2017-05-29 18:34:32,457 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100000138.html.
+2017-05-29 18:34:37,073 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100000810.html.
+2017-05-29 18:34:41,788 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100000823.html.
+2017-05-29 18:34:44,581 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100004932.html.
+2017-05-29 18:34:49,499 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493/100001379.html.
+2017-05-29 18:34:56,036 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745067/63840373/100004320.html.
+2017-05-29 18:35:01,217 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108416/100046843.html.
+2017-05-29 18:35:01,233 spiders.py[line:95] DEBUG Read 16 requests from 'knt:start_urls'
+2017-05-29 18:35:04,815 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/40856549/41339375.html.
+2017-05-29 18:35:09,107 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814627.html.
+2017-05-29 18:35:16,769 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092184.html.
+2017-05-29 18:35:19,690 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/42799511/42800130.html.
+2017-05-29 18:35:27,469 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54481549/100105961.html.
+2017-05-29 18:35:29,815 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745069/63840393.html.
+2017-05-29 18:35:33,480 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745069/64093559.html.
+2017-05-29 18:35:38,221 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854469/100003615.html.
+2017-05-29 18:35:43,584 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100000079.html.
+2017-05-29 18:35:48,193 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100002699.html.
+2017-05-29 18:35:54,371 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100003689.html.
+2017-05-29 18:36:00,061 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50334404/100001816.html.
+2017-05-29 18:36:05,391 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/54813501/55056851/100022714.html.
+2017-05-29 18:36:09,575 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745067/63840373/100004300.html.
+2017-05-29 18:36:16,615 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108413/100094994.html.
+2017-05-29 18:36:21,122 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108413/100102634.html.
+2017-05-29 18:36:27,219 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092184.html.
+2017-05-29 18:36:32,522 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54481549/100105961.html.
+2017-05-29 18:36:34,836 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854469/100003615.html.
+2017-05-29 18:36:38,700 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100000079.html.
+2017-05-29 18:36:44,700 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100002699.html.
+2017-05-29 18:36:49,496 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100003689.html.
+2017-05-29 18:36:56,368 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50334404/100001816.html.
+2017-05-29 18:37:01,678 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/54813501/55056851/100022714.html.
+2017-05-29 18:37:06,438 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745067/63840373/100004300.html.
+2017-05-29 18:37:14,269 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108413/100094994.html.
+2017-05-29 18:37:17,888 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108413/100102634.html.
+2017-05-29 18:37:17,941 spiders.py[line:95] DEBUG Read 16 requests from 'knt:start_urls'
+2017-05-29 18:37:23,378 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42034258/42844808.html.
+2017-05-29 18:37:28,542 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924457/7852148/7857448.html.
+2017-05-29 18:37:34,171 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7799958/100003651.html.
+2017-05-29 18:37:40,078 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7825088/100004295.html.
+2017-05-29 18:37:44,799 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7825088/100022533.html.
+2017-05-29 18:37:48,102 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924457/44754998/44755012.html.
+2017-05-29 18:37:52,891 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/40856549/41339375/42009783.html.
+2017-05-29 18:37:58,437 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42025499/42025503/54188171.html.
+2017-05-29 18:38:04,586 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/100055142.html.
+2017-05-29 18:38:07,897 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/43712608/100003333.html.
+2017-05-29 18:38:13,000 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54481549/100105948.html.
+2017-05-29 18:38:16,875 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/47492387/100037356/100037358.html.
+2017-05-29 18:38:23,423 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100001710.html.
+2017-05-29 18:38:27,454 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493/100004988.html.
+2017-05-29 18:38:32,903 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373182/100002510.html.
+2017-05-29 18:38:38,221 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/41357960/41358597/49299595/100001697.html.
+2017-05-29 18:38:43,017 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7799958/100003651.html.
+2017-05-29 18:38:50,099 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7825088/100004295.html.
+2017-05-29 18:38:53,404 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7825088/100022533.html.
+2017-05-29 18:38:59,506 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/41339510/43712608/100003333.html.
+2017-05-29 18:39:02,424 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/42041919/54481549/100105948.html.
+2017-05-29 18:39:07,776 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100001710.html.
+2017-05-29 18:39:13,835 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493/100004988.html.
+2017-05-29 18:39:18,805 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373182/100002510.html.
+2017-05-29 18:39:23,717 spider_knt.py[line:81] INFO detail is being parsed, url is: https://www.kennametal.com/zh/products/20478624/2664259/41357960/41358597/49299595/100001697.html.
+2017-05-29 18:39:23,776 spiders.py[line:95] DEBUG Read 16 requests from 'knt:start_urls'
+2017-05-29 18:39:27,450 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/2664259/100108114/50308304.html.
+2017-05-29 18:39:34,627 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/556249/3924453/7800149/100003633.html.

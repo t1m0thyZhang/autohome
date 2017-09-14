@@ -1,0 +1,3 @@
+2017-05-26 10:17:19,594 spiders.py[line:68] INFO Reading start URLs from redis key 'su:start_urls' (batch size: 16, encoding: utf-8
+2017-05-26 10:17:22,568 spiders.py[line:95] DEBUG Read 1 requests from 'su:start_urls'
+2017-05-26 10:17:27,098 spider_sk.py[line:52] INFO step into layer1, url is: https://cn.schunk.com/cn_en/gripping-systems/.

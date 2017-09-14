@@ -1,0 +1,4 @@
+2017-05-31 16:46:49,913 spiders.py[line:68] INFO Reading start URLs from redis key 'by:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 16:46:51,470 __init__.py[line:47] DEBUG Resuming crawl (8 requests scheduled)
+2017-05-31 16:46:52,530 spiders.py[line:95] DEBUG Read 1 requests from 'by:start_urls'
+2017-05-31 16:46:53,109 spider_by.py[line:66] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs_11dlc-dlsfhcxzx.html.

@@ -1,0 +1,12 @@
+2017-06-06 15:20:15,553 spiders.py[line:68] INFO Reading start URLs from redis key 'smc:start_urls' (batch size: 16, encoding: utf-8
+2017-06-06 15:20:18,121 spiders.py[line:95] DEBUG Read 1 requests from 'smc:start_urls'
+2017-06-06 15:20:22,076 spider_smc.py[line:51] INFO step into layer1, url is: http://www.smc.com.cn/cnnew/newproinfo.aspx?Htype=news&NID=8844.
+2017-06-06 15:20:23,918 spider_smc.py[line:65] INFO step into layer2, url is: http://www.smc.com.cn/PDF/subchoice01.htm.
+2017-06-06 15:20:29,648 spider_smc.py[line:82] INFO step into layer2, url is: http://www.smc.com.cn/PDF/docs/directional/pilot45/pilot45.htm.
+2017-06-06 15:21:34,589 spider_smc.py[line:82] INFO step into layer2, url is: http://www.smc.com.cn/PDF/docs/directional/pilot3/pilot3.htm.
+2017-06-06 15:21:40,832 spider_smc.py[line:82] INFO step into layer2, url is: http://www.smc.com.cn/PDF/docs/directional/pilot45/pilot45.htm.
+2017-06-06 15:21:45,536 spider_smc.py[line:82] INFO step into layer2, url is: http://www.smc.com.cn/PDF/docs/directional/air/air.htm.
+2017-06-06 15:21:49,983 spider_smc.py[line:82] INFO step into layer2, url is: http://www.smc.com.cn/PDF/docs/directional/serial/serial.htm.
+2017-06-06 15:21:56,000 spider_smc.py[line:82] INFO step into layer2, url is: http://www.smc.com.cn/PDF/docs/directional/direct345/direct345.htm.
+2017-06-06 15:22:01,387 spider_smc.py[line:82] INFO step into layer2, url is: http://www.smc.com.cn/PDF/docs/directional/power/power.htm.
+2017-06-06 15:22:08,260 spider_smc.py[line:82] INFO step into layer2, url is: http://www.smc.com.cn/PDF/docs/directional/mechanical/mechanical.htm.

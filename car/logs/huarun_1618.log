@@ -1,0 +1,15 @@
+2017-06-07 16:18:16,917 spiders.py[line:68] INFO Reading start URLs from redis key 'huarun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 16:18:19,494 spiders.py[line:95] DEBUG Read 1 requests from 'huarun:start_urls'
+2017-06-07 16:18:22,918 spider_huarun.py[line:85] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 81, in parse
+    data_json = json.load(response)
+  File "E:\python27\lib\json\__init__.py", line 291, in load
+    **kw)
+  File "E:\python27\lib\json\__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "E:\python27\lib\json\decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "E:\python27\lib\json\decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+)

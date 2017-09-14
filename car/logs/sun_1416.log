@@ -1,0 +1,13 @@
+2017-06-06 14:16:25,056 spiders.py[line:68] INFO Reading start URLs from redis key 'sun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-06 14:16:26,635 __init__.py[line:47] DEBUG Resuming crawl (2 requests scheduled)
+2017-06-06 14:16:27,733 spiders.py[line:95] DEBUG Read 7 requests from 'sun:start_urls'
+2017-06-06 14:16:28,042 spider_sun.py[line:57] INFO step into layer1, url is: http://www.suneast.com.cn/index.php?ac=article&at=list&tid=139.
+2017-06-06 14:16:30,969 spider_sun.py[line:57] INFO step into layer1, url is: http://www.suneast.com.cn/index.php?ac=article&at=list&tid=142.
+2017-06-06 14:16:36,608 spider_sun.py[line:57] INFO step into layer1, url is: http://www.suneast.com.cn/index.php?ac=article&at=list&tid=135.
+2017-06-06 14:16:40,974 spider_sun.py[line:57] INFO step into layer1, url is: http://www.suneast.com.cn/index.php?ac=article&at=list&tid=139.
+2017-06-06 14:16:46,621 spider_sun.py[line:57] INFO step into layer1, url is: http://www.suneast.com.cn/index.php?ac=article&at=list&tid=138.
+2017-06-06 14:16:49,493 spider_sun.py[line:57] INFO step into layer1, url is: http://www.suneast.com.cn/index.php?ac=article&at=list&tid=141.
+2017-06-06 14:16:54,766 spider_sun.py[line:57] INFO step into layer1, url is: http://www.suneast.com.cn/index.php?ac=article&at=list&tid=146.
+2017-06-06 14:16:59,796 spider_sun.py[line:57] INFO step into layer1, url is: http://www.suneast.com.cn/index.php?ac=article&at=list&tid=142.
+2017-06-06 14:17:05,426 spider_sun.py[line:57] INFO step into layer1, url is: http://www.suneast.com.cn/index.php?ac=article&at=list&tid=137.
+2017-06-06 14:17:11,164 spider_sun.py[line:72] INFO step into layer2, url is: http://www.suneast.com.cn/index.php?ac=article&at=read&did=401.

@@ -1,0 +1,10 @@
+2017-05-31 11:58:07,523 spiders.py[line:68] INFO Reading start URLs from redis key 'jnzm:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 11:58:10,134 spiders.py[line:95] DEBUG Read 1 requests from 'jnzm:start_urls'
+2017-05-31 11:58:10,369 spider_jnzm.py[line:55] INFO step into layer1, url is: http://www.jnzys.com/a/chanpinzhongxin/list_8_1.html.
+2017-05-31 11:58:14,519 spider_jnzm.py[line:74] INFO step into layer1, url is: http://www.jnzys.com/a/chanpinzhongxin/trwaiqiumianzhoucheng/88.html.
+2017-05-31 11:59:03,898 spider_jnzm.py[line:100] ERROR layer1 failed, url is:(http://www.jnzys.com/a/chanpinzhongxin/trwaiqiumianzhoucheng/88.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_jnzm.py", line 83, in parse2
+    item["detail"] = detail
+UnboundLocalError: local variable 'detail' referenced before assignment
+)
+2017-05-31 11:59:04,446 spider_jnzm.py[line:74] INFO step into layer1, url is: http://www.jnzys.com/a/chanpinzhongxin/shengouqiuzhoucheng/68.html.

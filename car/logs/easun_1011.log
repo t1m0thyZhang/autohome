@@ -1,0 +1,10 @@
+2017-06-12 10:11:25,869 spiders.py[line:68] INFO Reading start URLs from redis key 'easun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 10:11:27,453 __init__.py[line:47] DEBUG Resuming crawl (76 requests scheduled)
+2017-06-12 10:11:27,982 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=143.html.
+2017-06-12 10:11:33,493 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=164.html.
+2017-06-12 10:11:38,384 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=200.html.
+2017-06-12 10:11:44,532 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=131.html.
+2017-06-12 10:11:48,966 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=177.html.
+2017-06-12 10:11:52,470 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=119.html.
+2017-06-12 10:11:57,611 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=106.html.
+2017-06-12 10:12:03,048 spider_easun.py[line:90] INFO detail is being parsed, url is: http://www.china-easun.com/products_detail/productId=37.html.

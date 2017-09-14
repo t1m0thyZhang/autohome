@@ -1,0 +1,2 @@
+2017-05-25 12:38:11,003 download_items_from_redis.py[line:114] INFO [process id 0] start to download items in 'xww:items' (server: localhost, port: 6379)
+2017-05-25 12:38:12,062 download_items_from_redis.py[line:93] INFO [xww:items] Processing item: None <None>

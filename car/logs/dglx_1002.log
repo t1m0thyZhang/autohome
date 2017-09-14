@@ -1,0 +1,9 @@
+2017-06-06 10:02:13,586 spiders.py[line:68] INFO Reading start URLs from redis key 'dglx:start_urls' (batch size: 16, encoding: utf-8
+2017-06-06 10:02:16,447 spiders.py[line:95] DEBUG Read 7 requests from 'dglx:start_urls'
+2017-06-06 10:02:18,553 spider_dglx.py[line:54] INFO step into layer1, url is: http://www.lxtpc.com.cn/offerlist/41418.htm?spm=a262gm.8761431.0.0.0UZygC7.html.
+2017-06-06 10:02:34,979 spider_dglx.py[line:54] INFO step into layer1, url is: http://www.lxtpc.com.cn/offerlist/41418.htm?spm=a262gm.8761431.0.0.0UZygC5.html.
+2017-06-06 10:02:40,476 spider_dglx.py[line:54] INFO step into layer1, url is: http://www.lxtpc.com.cn/offerlist/41418.htm?spm=a262gm.8761431.0.0.0UZygC4.html.
+2017-06-06 10:02:45,882 spider_dglx.py[line:54] INFO step into layer1, url is: http://www.lxtpc.com.cn/offerlist/41418.htm?spm=a262gm.8761431.0.0.0UZygC1.html.
+2017-06-06 10:02:51,276 spider_dglx.py[line:54] INFO step into layer1, url is: http://www.lxtpc.com.cn/offerlist/41418.htm?spm=a262gm.8761431.0.0.0UZygC3.html.
+2017-06-06 10:02:55,206 spider_dglx.py[line:54] INFO step into layer1, url is: http://www.lxtpc.com.cn/offerlist/41418.htm?spm=a262gm.8761431.0.0.0UZygC6.html.
+2017-06-06 10:03:00,530 spider_dglx.py[line:54] INFO step into layer1, url is: http://www.lxtpc.com.cn/offerlist/41418.htm?spm=a262gm.8761431.0.0.0UZygC2.html.

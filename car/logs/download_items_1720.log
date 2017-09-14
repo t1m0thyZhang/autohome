@@ -1,0 +1,21 @@
+2017-05-31 17:20:47,088 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'ty:items' (server: localhost, port: 6379)
+2017-05-31 17:21:24,739 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: Q37系列吊钩式抛丸清理机 <http://www.wuxitaiyuan.com/products/product_4yk0x.html>
+2017-05-31 17:21:34,158 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: Q378D双吊钩抛丸清理机 <http://www.wuxitaiyuan.com/products/product_A6rG5.html>
+2017-05-31 17:21:40,007 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: Q376双吊钩式抛丸机 <http://www.wuxitaiyuan.com/products/product_B7sH6.html>
+2017-05-31 17:21:53,224 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: Q375(电动葫芦)吊钩抛丸清理机 <http://www.wuxitaiyuan.com/products/product_jeQpd.html>
+2017-05-31 17:22:24,500 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: 6050A喷砂机 <http://www.wuxitaiyuan.com/products/product_KF2PE.html>
+2017-05-31 17:22:33,813 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: 9060B(6050B7660B)喷砂机 <http://www.wuxitaiyuan.com/products/product_RM9XL.html>
+2017-05-31 17:22:43,950 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: 7660E（9060E）喷砂机 <http://www.wuxitaiyuan.com/products/product_ZUGfT.html>
+2017-05-31 17:22:48,401 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: 7660（9060）A喷砂机 <http://www.wuxitaiyuan.com/products/product_bWJhW.html>
+2017-05-31 17:23:02,269 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: 9070W湿喷砂机 <http://www.wuxitaiyuan.com/products/product_wqd2q.html>
+2017-05-31 17:23:23,905 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: 台式砂带机(550W) <http://www.wuxitaiyuan.com/products/product_JE1PD.html>
+2017-05-31 17:23:33,223 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: SSMO1双头砂带机（改进型） <http://www.wuxitaiyuan.com/products/product_UOBZO.html>
+2017-05-31 17:23:47,038 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: SSM05双头砂带机 <http://www.wuxitaiyuan.com/products/product_jdQod.html>
+2017-05-31 17:23:52,374 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: WSM02无心砂带磨床 <http://www.wuxitaiyuan.com/products/product_kfRqe.html>
+2017-05-31 17:23:56,253 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: SSM05双头砂带机 <http://www.wuxitaiyuan.com/products/product_nhUsh.html>
+2017-05-31 17:24:07,612 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: DSM01单头砂带磨床 <http://www.wuxitaiyuan.com/products/product_qlYwl.html>
+2017-05-31 17:24:17,792 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: 台式砂带机(375W) <http://www.wuxitaiyuan.com/products/product_xre3r.html>
+2017-05-31 17:24:23,664 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: WMJ1000槽式研磨机 <http://www.wuxitaiyuan.com/products/product_IDzOC.html>
+2017-05-31 17:24:38,309 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: DMW100-500六角滚桶研磨机 <http://www.wuxitaiyuan.com/products/product_C8tI7.html>
+2017-05-31 17:24:44,286 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: DMW500回转式研磨机(八角滚桶) <http://www.wuxitaiyuan.com/products/product_rmYxl.html>
+2017-05-31 17:24:52,220 download_items_from_redis.py[line:93] INFO [ty:items] Processing item: QPL30履带式抛丸清理机 <http://www.wuxitaiyuan.com/products/product_eZLkY.html>

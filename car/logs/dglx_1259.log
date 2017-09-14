@@ -1,0 +1,20 @@
+2017-06-06 12:59:42,946 spiders.py[line:68] INFO Reading start URLs from redis key 'dglx:start_urls' (batch size: 16, encoding: utf-8
+2017-06-06 12:59:44,447 __init__.py[line:47] DEBUG Resuming crawl (12 requests scheduled)
+2017-06-06 12:59:46,033 spider_dglx.py[line:68] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/1235336468.html.
+2017-06-06 12:59:46,046 spider_dglx.py[line:81] ERROR layer2 failed, url is:(http://www.lxtpc.com.cn/offer/1235336468.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_dglx.py", line 73, in parse2
+    level = re.sub("<.*?>|\r|\n|\t| ", "", level[0])
+IndexError: list index out of range
+)
+2017-06-06 12:59:49,052 spider_dglx.py[line:68] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/1255440698.html.
+2017-06-06 12:59:49,058 spider_dglx.py[line:81] ERROR layer2 failed, url is:(http://www.lxtpc.com.cn/offer/1255440698.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_dglx.py", line 73, in parse2
+    level = re.sub("<.*?>|\r|\n|\t| ", "", level[0])
+IndexError: list index out of range
+)
+2017-06-06 12:59:54,770 spider_dglx.py[line:68] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/468224399.html.
+2017-06-06 12:59:54,786 spider_dglx.py[line:81] ERROR layer2 failed, url is:(http://www.lxtpc.com.cn/offer/468224399.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_dglx.py", line 73, in parse2
+    level = re.sub("<.*?>|\r|\n|\t| ", "", level[0])
+IndexError: list index out of range
+)

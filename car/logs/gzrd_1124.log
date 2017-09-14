@@ -1,0 +1,9 @@
+2017-06-08 11:24:16,292 spiders.py[line:68] INFO Reading start URLs from redis key 'gzrd:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 11:24:18,907 spiders.py[line:95] DEBUG Read 1 requests from 'gzrd:start_urls'
+2017-06-08 11:24:19,611 spider_gzrd.py[line:50] INFO url is: http://www.gzronda.com.cn/.
+2017-06-08 11:24:19,654 spider_gzrd.py[line:66] ERROR failed, url is:(http://www.gzronda.com.cn/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_gzrd.py", line 61, in parse
+    url = urls1[i]
+IndexError: list index out of range
+)
+2017-06-08 11:24:23,839 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/suliaoping.shtml.

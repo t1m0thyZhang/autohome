@@ -1,0 +1,5 @@
+2017-06-14 10:16:54,388 spiders.py[line:68] INFO Reading start URLs from redis key 'test:start_urls' (batch size: 16, encoding: utf-8
+2017-06-14 10:16:57,065 spiders.py[line:95] DEBUG Read 1 requests from 'test:start_urls'
+2017-06-14 10:17:00,482 spider_test.py[line:56] INFO url is: http://www.zotec-china.com.cn/Product.php?Fid=2.
+2017-06-14 10:17:02,884 spider_test.py[line:71] INFO url is: http://www.zotec-china.com.cn/Product.php?Fid=2&Sid=2001.
+2017-06-14 10:17:10,290 spider_test.py[line:87] INFO detail is being parsed, url is: http://www.zotec-china.com.cn/Pro_Info.php?id=269&Sid=2001&Tid=4.

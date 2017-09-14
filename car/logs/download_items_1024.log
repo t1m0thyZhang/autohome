@@ -1,0 +1,14 @@
+2017-06-12 10:24:47,395 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'easun:items' (server: localhost, port: 6379)
+2017-06-12 10:24:48,413 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: ESFD标准气缸 <http://www.china-easun.com/products_detail/productId=99.html>
+2017-06-12 10:24:48,417 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: LB型附件 <http://www.china-easun.com/products_detail/productId=138.html>
+2017-06-12 10:24:48,421 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 磁性开关ES-33系列 <http://www.china-easun.com/products_detail/productId=186.html>
+2017-06-12 10:24:48,424 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 2V-ZQ010系列二位二通电磁阀 <http://www.china-easun.com/products_detail/productId=65.html>
+2017-06-12 10:24:48,428 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 尼龙聚氨酯气管 <http://www.china-easun.com/products_detail/productId=157.html>
+2017-06-12 10:24:49,872 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 微型消声器BSLM <http://www.china-easun.com/products_detail/productId=160.html>
+2017-06-12 10:24:55,002 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 气动球型振动器 <http://www.china-easun.com/products_detail/productId=172.html>
+2017-06-12 10:24:59,677 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 螺纹直通EPC/APC/ZPC <http://www.china-easun.com/products_detail/productId=42.html>
+2017-06-12 10:25:05,618 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: ECXS平行双杆气缸 <http://www.china-easun.com/products_detail/productId=124.html>
+2017-06-12 10:25:09,773 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: ERTB系列回转气缸 <http://www.china-easun.com/products_detail/productId=123.html>
+2017-06-12 10:25:14,542 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: ESC标准气缸 <http://www.china-easun.com/products_detail/productId=86.html>
+2017-06-12 10:25:20,061 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: EHDS系列Y型气爪 <http://www.china-easun.com/products_detail/productId=121.html>
+2017-06-12 10:25:25,714 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: FA型附件 <http://www.china-easun.com/products_detail/productId=127.html>

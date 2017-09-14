@@ -1,0 +1,1 @@
+2017-06-06 12:50:58,381 spiders.py[line:68] INFO Reading start URLs from redis key 'dglx:start_urls' (batch size: 16, encoding: utf-8

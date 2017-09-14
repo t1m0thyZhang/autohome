@@ -1,0 +1,3 @@
+2017-05-24 15:06:40,799 spiders.py[line:68] INFO Reading start URLs from redis key 'imc:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 15:06:41,250 spiders.py[line:95] DEBUG Read 1 requests from 'imc:start_urls'
+2017-05-24 15:06:42,673 spider_imc.py[line:64] INFO layer1 url is: http://www.imc-companies.com/taegutec/ttkCatalog/Applications.aspx?mapp=IS.

@@ -1,0 +1,14 @@
+2017-06-19 14:03:06,653 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'timber:items' (server: localhost, port: 6379)
+2017-06-19 14:03:07,677 download_items_from_redis.py[line:93] INFO [timber:items] Processing item: None <None>
+2017-06-19 14:03:07,693 download_items_from_redis.py[line:93] INFO [timber:items] Processing item: None <None>
+2017-06-19 14:03:07,693 download_items_from_redis.py[line:93] INFO [timber:items] Processing item: None <None>
+2017-06-19 14:03:07,693 download_items_from_redis.py[line:93] INFO [timber:items] Processing item: None <None>
+2017-06-19 14:03:07,693 download_items_from_redis.py[line:93] INFO [timber:items] Processing item: None <None>
+2017-06-19 14:03:07,707 download_items_from_redis.py[line:93] INFO [timber:items] Processing item: None <None>
+2017-06-19 14:03:07,707 download_items_from_redis.py[line:93] INFO [timber:items] Processing item: None <None>
+2017-06-19 14:03:07,707 download_items_from_redis.py[line:93] INFO [timber:items] Processing item: None <None>
+2017-06-19 14:03:07,707 download_items_from_redis.py[line:93] INFO [timber:items] Processing item: None <None>
+2017-06-19 14:03:10,631 download_items_from_redis.py[line:93] INFO [timber:items] Processing item: None <None>
+2017-06-19 14:03:16,605 download_items_from_redis.py[line:93] INFO [timber:items] Processing item: None <None>
+2017-06-19 14:03:20,539 download_items_from_redis.py[line:93] INFO [timber:items] Processing item: None <None>
+2017-06-19 14:03:26,411 download_items_from_redis.py[line:93] INFO [timber:items] Processing item: None <None>

@@ -1,0 +1,5 @@
+2017-06-12 15:58:04,634 spiders.py[line:68] INFO Reading start URLs from redis key 'clamptek:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 15:58:07,415 spiders.py[line:95] DEBUG Read 1 requests from 'clamptek:start_urls'
+2017-06-12 15:58:08,921 spider_clamptek.py[line:53] INFO url is: http://www.clamptek.com/products-show.php.
+2017-06-12 15:58:15,361 spider_clamptek.py[line:68] INFO url is: http://www.clamptek.com/products.php?CateId=13.
+2017-06-12 15:58:24,467 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=18.

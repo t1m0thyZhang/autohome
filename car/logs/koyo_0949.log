@@ -1,0 +1,19 @@
+2017-05-31 09:49:03,609 spiders.py[line:68] INFO Reading start URLs from redis key 'koyo:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 09:49:06,157 spiders.py[line:95] DEBUG Read 1 requests from 'koyo:start_urls'
+2017-05-31 09:49:06,483 koyo.py[line:52] INFO step into layer1, url is: http://www.koyo.tw/a/chanpinxinxi/.
+2017-05-31 09:49:26,907 spiders.py[line:68] INFO Reading start URLs from redis key 'koyo:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 09:49:29,496 spiders.py[line:95] DEBUG Read 1 requests from 'koyo:start_urls'
+2017-05-31 09:49:29,697 koyo.py[line:52] INFO step into layer1, url is: http://www.koyo.tw/a/chanpinxinxi/.
+2017-05-31 09:49:40,312 koyo.py[line:90] ERROR layer1 failed, url is:(http://www.koyo.tw/a/chanpinxinxi/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\koyo.py", line 81, in parse
+    cinfo = "{\"first_level\":\"" + "".join(level1) + "\"," + "\"second_level\":\"" + "".join(level2) + "\"}"
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe8 in position 16: ordinal not in range(128)
+)
+2017-05-31 09:49:55,678 spiders.py[line:68] INFO Reading start URLs from redis key 'koyo:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 09:49:58,194 spiders.py[line:95] DEBUG Read 1 requests from 'koyo:start_urls'
+2017-05-31 09:49:58,382 koyo.py[line:52] INFO step into layer1, url is: http://www.koyo.tw/a/chanpinxinxi/.
+2017-05-31 09:50:12,466 koyo.py[line:90] ERROR layer1 failed, url is:(http://www.koyo.tw/a/chanpinxinxi/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\koyo.py", line 81, in parse
+    cinfo = "{\"first_level\":\"" + "".join(level1) + "\"," + "\"second_level\":\"" + "".join(level2) + "\"}"
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe8 in position 16: ordinal not in range(128)
+)

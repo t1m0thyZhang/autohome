@@ -1,0 +1,2 @@
+2017-05-31 09:55:53,720 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'koyo:items' (server: localhost, port: 6379)
+2017-05-31 09:55:54,727 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 产业机械用驱动轴 <http://www.koyo.tw/24.html >

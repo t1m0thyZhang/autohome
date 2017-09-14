@@ -1,0 +1,14 @@
+2017-05-25 11:36:37,246 download_items_from_redis.py[line:112] INFO [process id 0] start to download items in 'xww:items' (server: localhost, port: 6379)
+2017-05-25 11:36:49,931 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:36:50,948 download_items_from_redis.py[line:48] ERROR failed to download image(url: http://125.76.249.115:8085/wwweb/upload/images/1485056109448.jpg ), retry_num:1 reason:<urlopen error timed out>
+2017-05-25 11:36:51,950 download_items_from_redis.py[line:48] ERROR failed to download image(url: http://125.76.249.115:8085/wwweb/upload/images/1485056109448.jpg ), retry_num:2 reason:<urlopen error timed out>
+2017-05-25 11:36:52,954 download_items_from_redis.py[line:48] ERROR failed to download image(url: http://125.76.249.115:8085/wwweb/upload/images/1485056109448.jpg ), retry_num:3 reason:<urlopen error timed out>
+2017-05-25 11:36:53,993 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:36:59,002 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:37:04,608 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:37:10,397 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:37:15,418 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:37:21,213 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:37:25,576 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:37:31,390 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:37:37,190 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>

@@ -1,0 +1,13 @@
+2017-06-08 11:59:30,956 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'gzrd:items' (server: localhost, port: 6379)
+2017-06-08 11:59:31,963 download_items_from_redis.py[line:93] INFO [gzrd:items] Processing item: 供应婴儿沐浴塑料瓶 <http://www.gzronda.com.cn/xihulei/gongyingyingeryusuli.html>
+2017-06-08 11:59:31,966 download_items_from_redis.py[line:93] INFO [gzrd:items] Processing item: PE <http://www.gzronda.com.cn/Products/PEsuliaopingH028.html>
+2017-06-08 12:00:46,421 download_items_from_redis.py[line:93] INFO [gzrd:items] Processing item: 【洗发水塑料瓶厂家】500ML塑料瓶 <http://www.gzronda.com.cn/xihulei/xifashuisuliaopingch.html>
+2017-06-08 12:00:50,200 download_items_from_redis.py[line:93] INFO [gzrd:items] Processing item: 【厂家直销】600ML高档洗发水塑料瓶 <http://www.gzronda.com.cn/xihulei/changjiazhixiao600ML.html>
+2017-06-08 12:00:55,056 download_items_from_redis.py[line:93] INFO [gzrd:items] Processing item: 【洗发水塑料瓶厂家】500ML塑料瓶 <http://www.gzronda.com.cn/xihulei/xifashuisuliaopingch.html>
+2017-06-08 12:00:59,131 download_items_from_redis.py[line:93] INFO [gzrd:items] Processing item: 广州PET塑料瓶生产厂家 <http://www.gzronda.com.cn/xihulei/guangzhouPETsuliaopi.html>
+2017-06-08 12:01:03,703 download_items_from_redis.py[line:93] INFO [gzrd:items] Processing item: PVC塑料瓶G001 <http://www.gzronda.com.cn/Products/PVCsuliaopingG001.html>
+2017-06-08 12:01:09,306 download_items_from_redis.py[line:93] INFO [gzrd:items] Processing item: PE毛茸料塑料瓶 <http://www.gzronda.com.cn/Products/PEmaorongliaosuliaop.html>
+2017-06-08 12:01:14,828 download_items_from_redis.py[line:93] INFO [gzrd:items] Processing item: PET塑料瓶H040 <http://www.gzronda.com.cn/shentiyousuliaoping/PETsuliaopingH040.html>
+2017-06-08 12:01:19,795 download_items_from_redis.py[line:93] INFO [gzrd:items] Processing item: 毛绒料塑料瓶E007 <http://www.gzronda.com.cn/Products/maorongliaosuliaopin.html>
+2017-06-08 12:01:25,015 download_items_from_redis.py[line:93] INFO [gzrd:items] Processing item: PE塑料瓶E097 <http://www.gzronda.com.cn/Products/PEsuliaopingE097.html>
+2017-06-08 12:01:30,299 download_items_from_redis.py[line:93] INFO [gzrd:items] Processing item: 【洗发水塑料瓶厂家】500ML塑料瓶 <http://www.gzronda.com.cn/xihulei/xifashuisuliaopingch.html>

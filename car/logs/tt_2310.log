@@ -1,0 +1,3 @@
+2017-05-29 23:10:48,273 spiders.py[line:68] INFO Reading start URLs from redis key 'tt:start_urls' (batch size: 16, encoding: utf-8
+2017-05-29 23:10:51,375 spiders.py[line:95] DEBUG Read 1 requests from 'tt:start_urls'
+2017-05-29 23:10:51,805 spider_tt.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=neiquan.

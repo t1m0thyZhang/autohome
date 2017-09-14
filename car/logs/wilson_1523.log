@@ -1,0 +1,9 @@
+2017-06-12 15:23:32,789 spiders.py[line:68] INFO Reading start URLs from redis key 'wilson:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 15:23:35,611 spiders.py[line:95] DEBUG Read 1 requests from 'wilson:start_urls'
+2017-06-12 15:23:36,726 spider_wilson.py[line:56] INFO url is: http://global.wilsontool.com/Mandarin/ProductDivision_punching_cn.aspx.
+2017-06-12 15:23:52,894 spider_wilson.py[line:71] INFO url is: http://global.wilsontool.com/Mandarin/ProductFamily_punching_cn_p_std_cn_p_std_thick_cn.aspx.
+2017-06-12 15:24:00,683 spider_wilson.py[line:85] ERROR failed, url is:(http://global.wilsontool.com/Mandarin/ProductFamily_punching_cn_p_std_cn_p_std_thick_cn.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_wilson.py", line 80, in parse2
+    image = self.home_page = images[i]
+IndexError: list index out of range
+)

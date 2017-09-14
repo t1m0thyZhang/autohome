@@ -1,0 +1,167 @@
+2017-06-05 19:12:30,828 spiders.py[line:68] INFO Reading start URLs from redis key 'tt:start_urls' (batch size: 16, encoding: utf-8
+2017-06-05 19:12:33,510 spiders.py[line:95] DEBUG Read 15 requests from 'tt:start_urls'
+2017-06-05 19:12:33,733 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=NTNyzyzgunzi.
+2017-06-05 19:12:35,852 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=NTNyzyzgunzi), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS()  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 81, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable needs to be in PATH. 
+
+)
+2017-06-05 19:12:39,565 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=neiquan.
+2017-06-05 19:12:39,585 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=neiquan), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS()  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 81, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable needs to be in PATH. 
+
+)
+2017-06-05 19:12:44,391 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=KOYOyzyzgunzi.
+2017-06-05 19:12:44,397 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=KOYOyzyzgunzi), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS()  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 81, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable needs to be in PATH. 
+
+)
+2017-06-05 19:12:48,990 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=Nachiyzgunzi.
+2017-06-05 19:12:49,003 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=Nachiyzgunzi), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS()  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 81, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable needs to be in PATH. 
+
+)
+2017-06-05 19:12:54,177 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=3000xl.
+2017-06-05 19:12:54,183 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=3000xl), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS()  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 81, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable needs to be in PATH. 
+
+)
+2017-06-05 19:12:58,844 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=waiquan.
+2017-06-05 19:12:58,848 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=waiquan), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS()  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 81, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable needs to be in PATH. 
+
+)
+2017-06-05 19:13:04,447 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=yjgunzi.
+2017-06-05 19:13:04,457 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=yjgunzi), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS()  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 81, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable needs to be in PATH. 
+
+)
+2017-06-05 19:13:09,808 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=tltiaoxingunzi.
+2017-06-05 19:13:09,813 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=tltiaoxingunzi), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS()  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 81, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable needs to be in PATH. 
+
+)
+2017-06-05 19:13:15,161 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=fujian.
+2017-06-05 19:13:15,168 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=fujian), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS()  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 81, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable needs to be in PATH. 
+
+)
+2017-06-05 19:13:20,096 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=shengouqiu.
+2017-06-05 19:13:20,101 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=shengouqiu), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS()  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 81, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable needs to be in PATH. 
+
+)
+2017-06-05 19:13:25,904 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=jiaojiechuqiu.
+2017-06-05 19:13:25,907 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=jiaojiechuqiu), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS()  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 81, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable needs to be in PATH. 
+
+)
+2017-06-05 19:13:30,677 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=yzgunzi.
+2017-06-05 19:13:30,688 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=yzgunzi), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS()  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 81, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable needs to be in PATH. 
+
+)
+2017-06-05 19:13:35,878 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=tiaoxingunzi.
+2017-06-05 19:13:35,881 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=tiaoxingunzi), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS()  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 81, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable needs to be in PATH. 
+
+)
+2017-06-05 19:13:41,617 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=tlyuanzhugunzi.
+2017-06-05 19:13:41,625 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=tlyuanzhugunzi), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS()  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 81, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable needs to be in PATH. 
+
+)
+2017-06-05 19:13:47,342 spider_tt_v2.py[line:71] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=waiqiumian.
+2017-06-05 19:13:47,355 spider_tt_v2.py[line:94] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=waiqiumian), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt_v2.py", line 76, in parse
+    driver = webdriver.PhantomJS()  # 得到浏览器
+  File "E:\python27\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py", line 52, in __init__
+    self.service.start()
+  File "E:\python27\lib\site-packages\selenium\webdriver\common\service.py", line 81, in start
+    os.path.basename(self.path), self.start_error_message)
+WebDriverException: Message: 'phantomjs' executable needs to be in PATH. 
+
+)

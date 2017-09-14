@@ -1,0 +1,6 @@
+2017-05-25 17:36:22,426 download_items_from_redis.py[line:112] INFO [process id 0] start to download items in 'sv:items' (server: localhost, port: 6379)
+2017-05-25 17:36:23,434 download_items_from_redis.py[line:92] INFO [sv:items] Processing item: CoroTurn TR <http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx>
+2017-05-25 17:36:30,263 download_items_from_redis.py[line:47] ERROR failed to download image(url: http://www.sandvik.coromant.com/SiteCollectionImages/tools/turning/external-turning-profiling-coroturn-tr.jpg ), retry_num:1 reason:<urlopen error timed out>
+2017-05-25 17:36:31,420 download_items_from_redis.py[line:47] ERROR failed to download image(url: http://www.sandvik.coromant.com/SiteCollectionImages/tools/turning/external-turning-profiling-coroturn-tr.jpg ), retry_num:2 reason:timed out
+2017-05-25 17:37:59,134 download_items_from_redis.py[line:47] ERROR failed to download image(url: http://www.sandvik.coromant.com/SiteCollectionImages/tools/turning/external-turning-profiling-coroturn-tr.jpg ), retry_num:3 reason:timed out
+2017-05-25 17:37:59,137 download_items_from_redis.py[line:92] INFO [sv:items] Processing item: CoroCut 1-2 <http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx>

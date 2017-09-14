@@ -1,0 +1,7 @@
+2017-05-29 18:07:40,292 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'knt:items' (server: localhost, port: 6379)
+2017-05-29 18:07:41,336 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Solid Carbide Drills <https://www.kennametal.com/zh/products/20478624/100050788/100049618.html>
+2017-05-29 18:07:41,336 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能整体硬质合金钻 <https://www.kennametal.com/zh/products/20478624/556249/3924453/64633594/100005224.html>
+2017-05-29 18:07:41,351 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 螺纹加工 <https://www.kennametal.com/zh/products/20478624/62318451/56148232/56148278/56148748/100003252.html>
+2017-05-29 18:07:41,351 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: KM-LOC™ Clamping Units <https://www.kennametal.com/zh/products/20478624/2664259/40856549/40856554/41339355/100016624.html>
+2017-05-29 18:07:41,351 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能 DUO-λOCK® 模块化立铣刀 • HARVI™ <https://www.kennametal.com/zh/products/20478624/57493250/1522849/100085230/100085231/100075165.html>
+2017-05-29 18:07:41,368 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: ISO 硬质合金刀片 <https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745065/63840303/63840318/55735598/100003623.html>

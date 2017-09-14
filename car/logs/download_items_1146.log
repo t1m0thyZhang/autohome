@@ -1,0 +1,14 @@
+2017-06-12 11:46:31,769 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'dlx:items' (server: localhost, port: 6379)
+2017-06-12 11:46:46,967 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: CDJXF1-1系列低压配电箱 <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=13>
+2017-06-12 11:46:48,516 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: XGN2-12型箱型固定式交流金属封闭开关设备 <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=9>
+2017-06-12 11:46:53,479 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: 自动化控制装置 <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=17>
+2017-06-12 11:46:59,750 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: 智能信息箱 <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=18>
+2017-06-12 11:47:02,638 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: KYN18-12型铠装移开式金属封闭开关设备 <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=8>
+2017-06-12 11:47:08,029 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: CDPZ30A系列终端照明配电箱 <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=16>
+2017-06-12 11:47:13,374 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: 综合配电装置 <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=19>
+2017-06-12 11:47:18,566 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: CDXL1系列低压配电柜 <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=12>
+2017-06-12 11:47:22,665 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: LW8-40.5户外高压六氟化硫断路器 <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=2>
+2017-06-12 11:47:26,621 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: KYN61A-40.5铠装式金属封闭开关设备 <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=4>
+2017-06-12 11:47:30,536 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: KYN28A-7.2(F-C)户内铠装型移开式交流金属封闭开关设备 <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=7>
+2017-06-12 11:47:35,332 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: HXGN17-12型箱型固定式环网高压开关设备 <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=10>
+2017-06-12 11:47:40,625 download_items_from_redis.py[line:93] INFO [dlx:items] Processing item: ZF10-126（L）气体绝缘金属封闭开关设备（GIS） <http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=3>

@@ -1,0 +1,30 @@
+2017-06-12 17:24:49,282 spiders.py[line:68] INFO Reading start URLs from redis key 'woz:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 17:24:51,944 spiders.py[line:95] DEBUG Read 2 requests from 'woz:start_urls'
+2017-06-12 17:24:52,733 spider_woz.py[line:53] INFO url is: http://www.woznc.com/index.php?_m=mod_product&_a=prdlist.
+2017-06-12 17:24:57,345 spider_woz.py[line:53] INFO url is: http://www.woznc.com/index.php?_m=mod_product&_a=prdlist&p=2.
+2017-06-12 17:25:03,486 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=220.
+2017-06-12 17:25:06,178 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=199.
+2017-06-12 17:25:10,476 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=217.
+2017-06-12 17:25:15,332 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=196.
+2017-06-12 17:25:21,111 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=194.
+2017-06-12 17:25:25,555 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=205.
+2017-06-12 17:25:29,816 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=201.
+2017-06-12 17:25:34,910 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=218.
+2017-06-12 17:25:40,438 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=200.
+2017-06-12 17:25:45,789 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=232.
+2017-06-12 17:25:48,213 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=230.
+2017-06-12 17:25:53,352 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=221.
+2017-06-12 17:25:59,023 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=225.
+2017-06-12 17:26:03,595 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=195.
+2017-06-12 17:26:07,398 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=227.
+2017-06-12 17:26:12,819 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=216.
+2017-06-12 17:26:17,976 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=203.
+2017-06-12 17:26:23,467 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=204.
+2017-06-12 17:26:25,959 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=226.
+2017-06-12 17:26:30,892 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=228.
+2017-06-12 17:26:36,779 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=198.
+2017-06-12 17:26:42,509 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=219.
+2017-06-12 17:26:49,828 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=223.
+2017-06-12 17:26:52,236 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=229.
+2017-06-12 17:26:56,792 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=222.
+2017-06-12 17:27:02,059 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=224.

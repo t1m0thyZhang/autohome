@@ -1,0 +1,22 @@
+2017-06-07 09:57:57,184 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'yt:items' (server: localhost, port: 6379)
+2017-06-07 09:57:58,198 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-5000 <http://www.yuantie.com.cn/productsshow.asp?id=34>
+2017-06-07 09:57:58,203 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-7103 <http://www.yuantie.com.cn/productsshow.asp?id=18>
+2017-06-07 09:57:58,204 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-7104 <http://www.yuantie.com.cn/productsshow.asp?id=19>
+2017-06-07 09:57:59,627 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-7325 <http://www.yuantie.com.cn/productsshow.asp?id=20>
+2017-06-07 09:58:06,496 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-7320 <http://www.yuantie.com.cn/productsshow.asp?id=21>
+2017-06-07 09:58:11,905 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-7408 <http://www.yuantie.com.cn/productsshow.asp?id=22>
+2017-06-07 09:58:17,484 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-7306/YT-7313小款式 <http://www.yuantie.com.cn/productsshow.asp?id=23>
+2017-06-07 09:58:21,598 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-7601（YT-7313往复锉） <http://www.yuantie.com.cn/productsshow.asp?id=24>
+2017-06-07 09:58:27,914 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-R8033-1 <http://www.yuantie.com.cn/productsshow.asp?id=25>
+2017-06-07 09:58:32,255 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-R8033-2 <http://www.yuantie.com.cn/productsshow.asp?id=26>
+2017-06-07 09:58:38,992 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-7465 <http://www.yuantie.com.cn/productsshow.asp?id=2>
+2017-06-07 09:58:42,839 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-7488 <http://www.yuantie.com.cn/productsshow.asp?id=10>
+2017-06-07 09:58:49,025 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-7488W <http://www.yuantie.com.cn/productsshow.asp?id=12>
+2017-06-07 09:58:54,400 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-7460 <http://www.yuantie.com.cn/productsshow.asp?id=3>
+2017-06-07 09:59:00,293 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-17407 <http://www.yuantie.com.cn/productsshow.asp?id=4>
+2017-06-07 09:59:05,107 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-7435 <http://www.yuantie.com.cn/productsshow.asp?id=5>
+2017-06-07 09:59:11,038 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-7432套装 <http://www.yuantie.com.cn/productsshow.asp?id=6>
+2017-06-07 09:59:15,220 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-7432 <http://www.yuantie.com.cn/productsshow.asp?id=7>
+2017-06-07 09:59:20,765 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-7431套装 <http://www.yuantie.com.cn/productsshow.asp?id=8>
+2017-06-07 09:59:26,559 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-7431 <http://www.yuantie.com.cn/productsshow.asp?id=9>
+2017-06-07 09:59:35,266 download_items_from_redis.py[line:93] INFO [yt:items] Processing item: YT-7462 <http://www.yuantie.com.cn/productsshow.asp?id=66>

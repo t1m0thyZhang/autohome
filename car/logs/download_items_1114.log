@@ -1,0 +1,19 @@
+2017-06-06 11:14:23,483 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'cfled:items' (server: localhost, port: 6379)
+2017-06-06 11:14:24,496 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: T8K灯管（G13） <http://www.cfled.com/product1_show.aspx?ProId=60>
+2017-06-06 11:14:24,502 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: T8灯管（pc） <http://www.cfled.com/product1_show.aspx?ProId=546>
+2017-06-06 11:14:24,506 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: T8灯管（pc三高） <http://www.cfled.com/product1_show.aspx?ProId=547>
+2017-06-06 11:14:24,509 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: 防眩天花筒灯（三高） <http://www.cfled.com/product1_show.aspx?ProId=568>
+2017-06-06 11:14:24,513 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: 吸顶灯（洁白月） <http://www.cfled.com/product1_show.aspx?ProId=571>
+2017-06-06 11:14:24,517 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: 球泡灯（PC灯杯） <http://www.cfled.com/product1_show.aspx?ProId=549>
+2017-06-06 11:14:24,523 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: 3W蜡烛灯 <http://www.cfled.com/product1_show.aspx?ProId=89>
+2017-06-06 11:14:24,526 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: A60球泡灯 <http://www.cfled.com/product1_show.aspx?ProId=551>
+2017-06-06 11:14:24,530 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: 15W/30WCOB导轨灯 <http://www.cfled.com/product1_show.aspx?ProId=577>
+2017-06-06 11:14:24,535 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: 12W帕灯 <http://www.cfled.com/product1_show.aspx?ProId=249>
+2017-06-06 11:14:24,536 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: 30WCOB导轨灯 <http://www.cfled.com/product1_show.aspx?ProId=576>
+2017-06-06 11:14:24,539 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: 厨卫灯（圆形） <http://www.cfled.com/product1_show.aspx?ProId=578>
+2017-06-06 11:14:24,542 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: 3W格栅射灯 <http://www.cfled.com/product1_show.aspx?ProId=416>
+2017-06-06 11:14:24,545 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: 3W*2格栅射灯 <http://www.cfled.com/product1_show.aspx?ProId=417>
+2017-06-06 11:14:24,548 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: 厨卫灯（方形） <http://www.cfled.com/product1_show.aspx?ProId=579>
+2017-06-06 11:14:24,551 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: φ8MM草帽 <http://www.cfled.com/product1_show.aspx?ProId=370>
+2017-06-06 11:14:24,553 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: 50WCOB导轨灯 <http://www.cfled.com/product1_show.aspx?ProId=581>
+2017-06-06 11:14:24,555 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: 3WLED射灯 <http://www.cfled.com/product1_show.aspx?ProId=250>

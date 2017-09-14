@@ -1,0 +1,9 @@
+2017-05-24 18:39:54,029 spiders.py[line:68] INFO Reading start URLs from redis key 'knt:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 18:56:34,326 spiders.py[line:95] DEBUG Read 1 requests from 'knt:start_urls'
+2017-05-24 18:56:39,351 rotate_retry.py[line:16] INFO no need to retry, request is:<GET https://www.kennametal.com/zh/products/20478624/57493250.html>, failed reason:User timeout caused connection failure: Getting https://www.kennametal.com/zh/products/20478624/57493250.html took longer than 5.0 seconds..
+2017-05-24 18:56:39,569 spiders.py[line:95] DEBUG Read 1 requests from 'knt:start_urls'
+2017-05-24 18:56:44,951 rotate_retry.py[line:16] INFO no need to retry, request is:<GET https://www.kennametal.com/zh/products/20478624/57493250.html>, failed reason:User timeout caused connection failure: Getting https://www.kennametal.com/zh/products/20478624/57493250.html took longer than 5.0 seconds..
+2017-05-24 18:56:45,170 spiders.py[line:95] DEBUG Read 1 requests from 'knt:start_urls'
+2017-05-24 18:56:50,194 rotate_retry.py[line:16] INFO no need to retry, request is:<GET https://www.kennametal.com/zh/products/20478624/57493250.html>, failed reason:User timeout caused connection failure: Getting https://www.kennametal.com/zh/products/20478624/57493250.html took longer than 5.0 seconds..
+2017-05-24 18:56:50,411 spiders.py[line:95] DEBUG Read 1 requests from 'knt:start_urls'
+2017-05-24 18:56:55,438 rotate_retry.py[line:16] INFO no need to retry, request is:<GET https://www.kennametal.com/zh/products/20478624/57493250.html>, failed reason:User timeout caused connection failure: Getting https://www.kennametal.com/zh/products/20478624/57493250.html took longer than 5.0 seconds..

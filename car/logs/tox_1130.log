@@ -1,0 +1,26 @@
+2017-05-27 11:30:18,223 spiders.py[line:68] INFO Reading start URLs from redis key 'tox:start_urls' (batch size: 16, encoding: utf-8
+2017-05-27 11:30:21,062 spiders.py[line:95] DEBUG Read 1 requests from 'tox:start_urls'
+2017-05-27 11:30:22,926 spider_tox.py[line:52] INFO step into layer1, url is: https://www.tox-cn.com/product-overview/.
+2017-05-27 11:30:28,233 spider_tox.py[line:68] INFO step into layer2, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/overview/.
+2017-05-27 11:30:34,898 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/lineq/.
+2017-05-27 11:30:39,424 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/line-x/.
+2017-05-27 11:30:44,628 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/type-rz/.
+2017-05-27 11:30:44,628 spider_tox.py[line:120] ERROR layer3 failed: failed to write into item, url is:(https://www.tox-cn.com/products/drives/pneumohydraulic-drives/type-rz/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tox.py", line 93, in parse3
+    print details
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xae' in position 249: illegal multibyte sequence
+)
+2017-05-27 11:30:48,098 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/x-kt-system/.
+2017-05-27 11:30:50,105 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/type-s-type-k/.
+2017-05-27 11:30:55,960 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/special-solutions/.
+2017-05-27 11:30:55,976 spider_tox.py[line:120] ERROR layer3 failed: failed to write into item, url is:(https://www.tox-cn.com/products/drives/pneumohydraulic-drives/special-solutions/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tox.py", line 93, in parse3
+    print details
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xae' in position 107: illegal multibyte sequence
+)
+2017-05-27 11:31:02,003 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/powerpackage-accessories/.
+2017-05-27 11:31:02,019 spider_tox.py[line:120] ERROR layer3 failed: failed to write into item, url is:(https://www.tox-cn.com/products/drives/pneumohydraulic-drives/powerpackage-accessories/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tox.py", line 93, in parse3
+    print details
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xae' in position 172: illegal multibyte sequence
+)

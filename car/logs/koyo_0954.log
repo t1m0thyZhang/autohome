@@ -1,0 +1,8 @@
+2017-05-31 09:54:32,148 spiders.py[line:68] INFO Reading start URLs from redis key 'koyo:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 09:54:34,625 spiders.py[line:95] DEBUG Read 1 requests from 'koyo:start_urls'
+2017-05-31 09:54:34,996 koyo.py[line:52] INFO step into layer1, url is: http://www.koyo.tw/a/chanpinxinxi/.
+2017-05-31 09:54:35,023 koyo.py[line:87] ERROR layer1 failed, url is:(http://www.koyo.tw/a/chanpinxinxi/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\koyo.py", line 67, in parse
+    print details
+UnicodeEncodeError: 'gbk' codec can't encode character u'\uff65' in position 5: illegal multibyte sequence
+)

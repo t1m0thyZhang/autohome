@@ -1,0 +1,9 @@
+2017-05-26 11:15:39,006 spiders.py[line:68] INFO Reading start URLs from redis key 'kc:start_urls' (batch size: 16, encoding: utf-8
+2017-05-26 11:15:40,953 __init__.py[line:47] DEBUG Resuming crawl (27 requests scheduled)
+2017-05-26 11:15:41,585 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/solid/.
+2017-05-26 11:15:46,276 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/holder/.
+2017-05-26 11:15:51,043 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/s_tool/.
+2017-05-26 11:15:56,881 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/ceratip/.
+2017-05-26 11:16:03,526 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/diamond/.
+2017-05-26 11:16:08,753 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/milling/.
+2017-05-26 11:16:12,858 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/grooving/.

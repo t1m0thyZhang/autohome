@@ -1,0 +1,6 @@
+2017-06-06 16:07:14,362 spiders.py[line:68] INFO Reading start URLs from redis key 'shgd:start_urls' (batch size: 16, encoding: utf-8
+2017-06-06 16:07:16,983 spiders.py[line:95] DEBUG Read 3 requests from 'shgd:start_urls'
+2017-06-06 16:07:17,614 spider_shgd.py[line:53] INFO step into layer1, url is: http://www.shgaodong.com/product/list.aspx?page=2.
+2017-06-06 16:07:25,500 spider_shgd.py[line:53] INFO step into layer1, url is: http://www.shgaodong.com/product/list.aspx?page=1.
+2017-06-06 16:07:31,131 spider_shgd.py[line:53] INFO step into layer1, url is: http://www.shgaodong.com/product/list.aspx?page=3.
+2017-06-06 16:07:37,196 spider_shgd.py[line:67] INFO step into layer2, url is: http://www.shgaodong.com/product/detail-14.html.

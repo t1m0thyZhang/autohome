@@ -1,0 +1,1 @@
+2017-06-02 15:02:58,878 spiders.py[line:68] INFO Reading start URLs from redis key 'qg:start_urls' (batch size: 16, encoding: utf-8

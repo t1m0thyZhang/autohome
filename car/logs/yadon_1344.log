@@ -1,0 +1,4 @@
+2017-05-31 13:44:18,549 spiders.py[line:68] INFO Reading start URLs from redis key 'yadon:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 13:44:21,210 spiders.py[line:95] DEBUG Read 1 requests from 'yadon:start_urls'
+2017-05-31 13:44:21,588 spider_yadon.py[line:55] INFO step into layer1, url is: http://www.duanya.com.cn/jixieview.asp?ID=238&SortID=107.
+2017-05-31 13:44:25,372 spider_yadon.py[line:70] INFO step into layer1, url is: http://www.duanya.com.cn/jixieview.asp?ID=238&SortID=107.

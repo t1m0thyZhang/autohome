@@ -1,0 +1,12 @@
+2017-05-25 14:29:39,611 spiders.py[line:68] INFO Reading start URLs from redis key 'sv:start_urls' (batch size: 16, encoding: utf-8
+2017-05-25 14:29:42,605 spiders.py[line:95] DEBUG Read 1 requests from 'sv:start_urls'
+2017-05-25 14:29:44,371 spider_sv.py[line:55] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/turning-tools.aspx.
+2017-05-25 14:29:44,387 spider_sv.py[line:67] ERROR layer1 failed, url is:(http://www.sandvik.coromant.com/zh-cn/products/Pages/turning-tools.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 63, in parse
+    request = Request(urls[i], callback=self.parse2, dont_filter=True)
+  File "E:\python27\lib\site-packages\scrapy\http\request\__init__.py", line 25, in __init__
+    self._set_url(url)
+  File "E:\python27\lib\site-packages\scrapy\http\request\__init__.py", line 58, in _set_url
+    raise ValueError('Missing scheme in request url: %s' % self._url)
+ValueError: Missing scheme in request url: /zh-cn/products/Pages/external-turning-tools.aspx
+)

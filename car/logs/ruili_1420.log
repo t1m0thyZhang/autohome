@@ -1,0 +1,10 @@
+2017-05-31 14:20:46,269 spiders.py[line:68] INFO Reading start URLs from redis key 'ruili:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 14:20:48,854 spiders.py[line:95] DEBUG Read 1 requests from 'ruili:start_urls'
+2017-05-31 14:20:49,234 spider_ruili.py[line:55] INFO step into layer1, url is: http://www.rljc.net/product_148.html.
+2017-05-31 14:20:55,075 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_46_148.html.
+2017-05-31 14:21:01,778 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_47_148.html.
+2017-05-31 14:21:08,993 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_48_148.html.
+2017-05-31 14:21:11,967 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_49_148.html.
+2017-05-31 14:21:17,651 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_50_148.html.
+2017-05-31 14:21:21,371 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_51_148.html.
+2017-05-31 14:21:25,134 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_52_148.html.

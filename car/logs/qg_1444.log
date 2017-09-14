@@ -1,0 +1,8 @@
+2017-06-02 14:44:39,022 spiders.py[line:68] INFO Reading start URLs from redis key 'qg:start_urls' (batch size: 16, encoding: utf-8
+2017-06-02 14:44:41,596 spiders.py[line:95] DEBUG Read 1 requests from 'qg:start_urls'
+2017-06-02 14:44:42,052 spider_qg.py[line:52] INFO step into layer1, url is: http://www.qgjhdj.com/product.asp?pid=1.
+2017-06-02 14:44:45,342 spider_qg.py[line:66] INFO step into layer1, url is: http://www.qgjhdj.com/product.asp?pid=1.
+2017-06-02 14:44:50,628 spider_qg.py[line:66] INFO step into layer1, url is: http://www.qgjhdj.com/product.asp?id=31.
+2017-06-02 14:44:55,667 spider_qg.py[line:66] INFO step into layer1, url is: http://www.qgjhdj.com/product.asp?pid=2.
+2017-06-02 14:44:58,976 spider_qg.py[line:66] INFO step into layer1, url is: http://www.qgjhdj.com/product.asp?pid=3.
+2017-06-02 14:45:03,815 spider_qg.py[line:66] INFO step into layer1, url is: http://www.qgjhdj.com/product.asp?pid=4.

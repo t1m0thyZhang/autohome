@@ -1,0 +1,6 @@
+2017-06-12 17:21:55,246 spiders.py[line:68] INFO Reading start URLs from redis key 'woz:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 17:21:58,114 spiders.py[line:95] DEBUG Read 2 requests from 'woz:start_urls'
+2017-06-12 17:21:58,875 spider_woz.py[line:53] INFO url is: http://www.woznc.com/index.php?_m=mod_product&_a=prdlist.
+2017-06-12 17:22:20,973 spider_woz.py[line:53] INFO url is: http://www.woznc.com/index.php?_m=mod_product&_a=prdlist&p=2.
+2017-06-12 17:22:22,430 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=194.
+2017-06-12 17:22:38,871 spider_woz.py[line:80] INFO detail is being parsed, url is: http://www.woznc.com/index.php?_m=mod_product&_a=view&p_id=203.

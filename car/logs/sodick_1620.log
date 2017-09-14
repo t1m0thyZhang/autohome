@@ -1,0 +1,10 @@
+2017-05-31 16:20:06,907 spiders.py[line:68] INFO Reading start URLs from redis key 'sodick:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 16:20:09,486 spiders.py[line:95] DEBUG Read 1 requests from 'sodick:start_urls'
+2017-05-31 16:20:23,539 spider_sodick.py[line:50] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/tool/.
+2017-05-31 16:21:05,091 spider_sodick.py[line:65] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/tool/dedm/ap1l.html.
+2017-05-31 16:21:10,802 spider_sodick.py[line:65] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/tool/dedm/ap3l.html.
+2017-05-31 16:21:14,273 spider_sodick.py[line:65] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/tool/dedm/ag40lp.html.
+2017-05-31 16:21:21,914 spider_sodick.py[line:65] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/tool/dedm/ag40l_ag60l.html.
+2017-05-31 16:21:29,470 spider_sodick.py[line:65] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/tool/dedm/ad35l_ad55l.html.
+2017-05-31 16:22:03,934 spider_sodick.py[line:65] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/tool/dedm/aq15l_aq20l.html.
+2017-05-31 16:22:16,214 spider_sodick.py[line:65] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/tool/wedm/aln400q_aln600q.html.

@@ -1,0 +1,5 @@
+2017-06-08 14:42:30,015 spiders.py[line:68] INFO Reading start URLs from redis key 'lesso:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 14:42:32,661 spiders.py[line:95] DEBUG Read 1 requests from 'lesso:start_urls'
+2017-06-08 14:42:33,121 spider_lesso.py[line:50] INFO url is: http://www.lesso.com/.
+2017-06-08 14:42:35,210 spider_lesso.py[line:65] INFO url is: http://www.lesso.com//product/piping/.
+2017-06-08 14:42:40,875 spider_lesso.py[line:78] INFO url is: http://www.lesso.com//product/25.

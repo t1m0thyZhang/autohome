@@ -1,0 +1,3 @@
+2017-05-26 11:06:56,348 spiders.py[line:68] INFO Reading start URLs from redis key 'kc:start_urls' (batch size: 16, encoding: utf-8
+2017-05-26 11:06:58,543 __init__.py[line:47] DEBUG Resuming crawl (46 requests scheduled)
+2017-05-26 11:07:03,217 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/3afk/.

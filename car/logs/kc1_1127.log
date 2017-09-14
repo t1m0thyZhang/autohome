@@ -1,0 +1,168 @@
+2017-05-26 11:27:27,839 spiders.py[line:68] INFO Reading start URLs from redis key 'kc1:start_urls' (batch size: 16, encoding: utf-8
+2017-05-26 11:27:29,630 __init__.py[line:47] DEBUG Resuming crawl (1 requests scheduled)
+2017-05-26 11:27:30,707 spiders.py[line:95] DEBUG Read 1 requests from 'kc1:start_urls'
+2017-05-26 11:27:31,266 spider_kc1.py[line:52] INFO step into layer1, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/.
+2017-05-26 11:27:33,270 spider_kc1.py[line:52] INFO step into layer1, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/.
+2017-05-26 11:27:36,023 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/ceratip/.
+2017-05-26 11:27:42,000 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/holder/.
+2017-05-26 11:27:45,359 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/grooving/.
+2017-05-26 11:27:50,637 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/drill/.
+2017-05-26 11:27:55,170 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/s_tool/.
+2017-05-26 11:28:00,953 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/diamond/.
+2017-05-26 11:28:05,517 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/milling/.
+2017-05-26 11:28:10,940 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/solid/.
+2017-05-26 11:28:15,881 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/specially/.
+2017-05-26 11:28:19,326 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/ceratip/.
+2017-05-26 11:28:25,302 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/holder/.
+2017-05-26 11:28:30,423 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/diamond/.
+2017-05-26 11:28:36,171 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/grooving/.
+2017-05-26 11:28:40,638 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/drill/.
+2017-05-26 11:28:44,805 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/s_tool/.
+2017-05-26 11:28:49,892 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/milling/.
+2017-05-26 11:28:54,959 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/solid/.
+2017-05-26 11:29:00,926 spider_kc1.py[line:68] INFO step into layer2, url is: http://www.kyocera.com.cn/prdct/cuttingtool/category/product/specially/.
+2017-05-26 11:29:06,035 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/holder/dm/.
+2017-05-26 11:29:10,630 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/holder/w_cramp/.
+2017-05-26 11:29:16,381 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/drill/dra/.
+2017-05-26 11:29:19,786 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/drill/drc/.
+2017-05-26 11:29:24,163 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/drill/drv/.
+2017-05-26 11:29:26,956 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/ld/.
+2017-05-26 11:29:31,766 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/2seb/.
+2017-05-26 11:29:34,815 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/2zdk/.
+2017-05-26 11:29:39,447 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/3afk/.
+2017-05-26 11:29:43,104 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/3zfk/.
+2017-05-26 11:29:46,536 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/4jer/.
+2017-05-26 11:29:52,091 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/4tfk4tfr/.
+2017-05-26 11:29:57,503 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/drill/dra/.
+2017-05-26 11:30:02,236 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/drill/drc/.
+2017-05-26 11:30:08,118 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/drill/drv/.
+2017-05-26 11:30:12,372 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/2seb/.
+2017-05-26 11:30:17,756 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/2zdk/.
+2017-05-26 11:30:22,354 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/3afk/.
+2017-05-26 11:30:25,674 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/3zfk/.
+2017-05-26 11:30:31,062 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/4jer/.
+2017-05-26 11:30:37,056 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/4tfk4tfr/.
+2017-05-26 11:30:42,033 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/6pfk8pfk/.
+2017-05-26 11:30:46,970 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/solid/4mfk_4mfr/.
+2017-05-26 11:30:52,528 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/holder/dm/.
+2017-05-26 11:30:55,299 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/holder/w_cramp/.
+2017-05-26 11:30:59,661 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/ld/.
+2017-05-26 11:31:04,973 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/ezb/.
+2017-05-26 11:31:08,734 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/gbf/.
+2017-05-26 11:31:14,305 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/kgd/.
+2017-05-26 11:31:19,086 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/sph/.
+2017-05-26 11:31:24,967 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/ktkf/.
+2017-05-26 11:31:29,693 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/shap/.
+2017-05-26 11:31:35,551 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/tkfb/.
+2017-05-26 11:31:37,819 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/flange/.
+2017-05-26 11:31:43,161 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/ktkf-jct/.
+2017-05-26 11:31:48,470 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/s_tool/megacoatsmall/.
+2017-05-26 11:31:53,767 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/vc/.
+2017-05-26 11:31:58,769 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/wp/.
+2017-05-26 11:32:04,335 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/ppb/.
+2017-05-26 11:32:10,075 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/ca45/.
+2017-05-26 11:32:10,084 spider_kc1.py[line:121] ERROR layer3 failed: failed to write into item, url is:(http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/ca45/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kc1.py", line 114, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u30fb' in position 4: illegal multibyte sequence
+)
+2017-05-26 11:32:14,380 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/we-wf/.
+2017-05-26 11:32:17,785 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/cermet/.
+2017-05-26 11:32:17,785 spider_kc1.py[line:121] ERROR layer3 failed: failed to write into item, url is:(http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/cermet/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kc1.py", line 114, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u30fb' in position 1: illegal multibyte sequence
+)
+2017-05-26 11:32:22,964 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/pr1535/.
+2017-05-26 11:32:27,631 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/pr13_sw/.
+2017-05-26 11:32:31,303 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/pseries/.
+2017-05-26 11:32:36,611 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/ca3series/.
+2017-05-26 11:32:41,607 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/ca5series/.
+2017-05-26 11:32:46,272 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/ceratip/tn620pv720/.
+2017-05-26 11:32:51,266 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/diamond/kbn475/.
+2017-05-26 11:32:51,276 spider_kc1.py[line:121] ERROR layer3 failed: failed to write into item, url is:(http://www.kyocera.com.cn/prdct/cuttingtool/product/diamond/kbn475/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kc1.py", line 105, in parse3
+    print cinfo
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u30fb' in position 19: illegal multibyte sequence
+)
+2017-05-26 11:32:56,141 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/diamond/pdl025/.
+2017-05-26 11:32:56,150 spider_kc1.py[line:121] ERROR layer3 failed: failed to write into item, url is:(http://www.kyocera.com.cn/prdct/cuttingtool/product/diamond/pdl025/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kc1.py", line 105, in parse3
+    print cinfo
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u30fb' in position 19: illegal multibyte sequence
+)
+2017-05-26 11:33:01,032 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/diamond/ks6030_6040/.
+2017-05-26 11:33:01,032 spider_kc1.py[line:121] ERROR layer3 failed: failed to write into item, url is:(http://www.kyocera.com.cn/prdct/cuttingtool/product/diamond/ks6030_6040/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kc1.py", line 105, in parse3
+    print cinfo
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u30fb' in position 19: illegal multibyte sequence
+)
+2017-05-26 11:33:06,186 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/diamond/ks6050_cs7050/.
+2017-05-26 11:33:06,188 spider_kc1.py[line:121] ERROR layer3 failed: failed to write into item, url is:(http://www.kyocera.com.cn/prdct/cuttingtool/product/diamond/ks6050_cs7050/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kc1.py", line 105, in parse3
+    print cinfo
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u30fb' in position 19: illegal multibyte sequence
+)
+2017-05-26 11:33:12,576 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mec/.
+2017-05-26 11:33:17,282 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mew/.
+2017-05-26 11:33:22,753 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mfk/.
+2017-05-26 11:33:22,765 spider_kc1.py[line:121] ERROR layer3 failed: failed to write into item, url is:(http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mfk/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kc1.py", line 114, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u30fb' in position 5: illegal multibyte sequence
+)
+2017-05-26 11:33:29,996 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mrw/.
+2017-05-26 11:33:39,720 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mfwn/.
+2017-05-26 11:33:40,417 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mrx/.
+2017-05-26 11:33:42,423 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mfpn/.
+2017-05-26 11:33:45,256 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mfk-sf/.
+2017-05-26 11:33:50,983 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/msrs90/.
+2017-05-26 11:33:56,888 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/x-tream/.
+2017-05-26 11:34:00,821 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/mfh-series/.
+2017-05-26 11:34:07,512 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/ca6535_PR1535/.
+2017-05-26 11:34:07,515 spider_kc1.py[line:121] ERROR layer3 failed: failed to write into item, url is:(http://www.kyocera.com.cn/prdct/cuttingtool/product/milling/ca6535_PR1535/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kc1.py", line 114, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u30fb' in position 4: illegal multibyte sequence
+)
+2017-05-26 11:34:08,621 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/grooving/tf/.
+2017-05-26 11:34:08,621 spider_kc1.py[line:121] ERROR layer3 failed: failed to write into item, url is:(http://www.kyocera.com.cn/prdct/cuttingtool/product/grooving/tf/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kc1.py", line 105, in parse3
+    print cinfo
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u30fb' in position 18: illegal multibyte sequence
+)
+2017-05-26 11:34:13,612 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/grooving/tq/.
+2017-05-26 11:34:13,612 spider_kc1.py[line:121] ERROR layer3 failed: failed to write into item, url is:(http://www.kyocera.com.cn/prdct/cuttingtool/product/grooving/tq/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kc1.py", line 105, in parse3
+    print cinfo
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u30fb' in position 18: illegal multibyte sequence
+)
+2017-05-26 11:34:19,364 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/grooving/gba/.
+2017-05-26 11:34:19,364 spider_kc1.py[line:121] ERROR layer3 failed: failed to write into item, url is:(http://www.kyocera.com.cn/prdct/cuttingtool/product/grooving/gba/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kc1.py", line 105, in parse3
+    print cinfo
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u30fb' in position 18: illegal multibyte sequence
+)
+2017-05-26 11:34:24,426 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/grooving/kgdi/.
+2017-05-26 11:34:24,426 spider_kc1.py[line:121] ERROR layer3 failed: failed to write into item, url is:(http://www.kyocera.com.cn/prdct/cuttingtool/product/grooving/kgdi/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kc1.py", line 105, in parse3
+    print cinfo
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u30fb' in position 18: illegal multibyte sequence
+)
+2017-05-26 11:34:29,269 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/grooving/sige/.
+2017-05-26 11:34:29,269 spider_kc1.py[line:121] ERROR layer3 failed: failed to write into item, url is:(http://www.kyocera.com.cn/prdct/cuttingtool/product/grooving/sige/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kc1.py", line 105, in parse3
+    print cinfo
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u30fb' in position 18: illegal multibyte sequence
+)
+2017-05-26 11:34:34,737 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/grooving/kgd_kgdf/.
+2017-05-26 11:34:34,737 spider_kc1.py[line:121] ERROR layer3 failed: failed to write into item, url is:(http://www.kyocera.com.cn/prdct/cuttingtool/product/grooving/kgd_kgdf/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_kc1.py", line 105, in parse3
+    print cinfo
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u30fb' in position 18: illegal multibyte sequence
+)
+2017-05-26 11:34:39,038 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/specially/oil_kua/.
+2017-05-26 11:34:43,674 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/specially/pcd_kua/.
+2017-05-26 11:34:46,796 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/specially/valve_kua/.
+2017-05-26 11:34:52,221 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/specially/airplane_kua/.
+2017-05-26 11:34:58,046 spider_kc1.py[line:83] INFO --------layer3, url is: http://www.kyocera.com.cn/prdct/cuttingtool/product/specially/cylinder_kua/.

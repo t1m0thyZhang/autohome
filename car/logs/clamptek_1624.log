@@ -1,0 +1,25 @@
+2017-06-12 16:24:22,747 spiders.py[line:68] INFO Reading start URLs from redis key 'clamptek:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 16:24:25,552 spiders.py[line:95] DEBUG Read 1 requests from 'clamptek:start_urls'
+2017-06-12 16:24:26,887 spider_clamptek.py[line:53] INFO url is: http://www.clamptek.com/products-show.php.
+2017-06-12 16:24:30,881 spider_clamptek.py[line:68] INFO url is: http://www.clamptek.com/products.php?CateId=13.
+2017-06-12 16:24:34,125 spider_clamptek.py[line:68] INFO url is: http://www.clamptek.com/products.php?CateId=14.
+2017-06-12 16:24:39,033 spider_clamptek.py[line:68] INFO url is: http://www.clamptek.com/products.php?CateId=18.
+2017-06-12 16:24:43,779 spider_clamptek.py[line:68] INFO url is: http://www.clamptek.com/products.php?CateId=19.
+2017-06-12 16:24:47,482 spider_clamptek.py[line:68] INFO url is: http://www.clamptek.com/products.php?CateId=20.
+2017-06-12 16:24:53,273 spider_clamptek.py[line:68] INFO url is: http://www.clamptek.com/products.php?CateId=21.
+2017-06-12 16:24:57,219 spider_clamptek.py[line:68] INFO url is: http://www.clamptek.com/products.php?CateId=22.
+2017-06-12 16:25:00,562 spider_clamptek.py[line:68] INFO url is: http://www.clamptek.com/products.php?CateId=23.
+2017-06-12 16:25:05,798 spider_clamptek.py[line:68] INFO url is: http://www.clamptek.com/products.php?CateId=24.
+2017-06-12 16:25:10,046 spider_clamptek.py[line:68] INFO url is: http://www.clamptek.com/products.php?CateId=25.
+2017-06-12 16:25:15,467 spider_clamptek.py[line:68] INFO url is: http://www.clamptek.com/products.php?CateId=26.
+2017-06-12 16:25:18,108 spider_clamptek.py[line:68] INFO url is: http://www.clamptek.com/products.php?CateId=27.
+2017-06-12 16:25:20,707 spider_clamptek.py[line:68] INFO url is: http://www.clamptek.com/products.php?CateId=28.
+2017-06-12 16:25:26,048 spider_clamptek.py[line:68] INFO url is: http://www.clamptek.com/products.php?CateId=29.
+2017-06-12 16:25:30,584 spider_clamptek.py[line:68] INFO url is: http://www.clamptek.com/products.php?CateId=30.
+2017-06-12 16:25:34,805 spider_clamptek.py[line:68] INFO url is: http://www.clamptek.com/products.php?CateId=31.
+2017-06-12 16:25:38,605 spider_clamptek.py[line:68] INFO url is: http://www.clamptek.com/products.php?CateId=32.
+2017-06-12 16:25:42,970 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=18.
+2017-06-12 16:25:46,625 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=28.
+2017-06-12 16:25:50,601 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=170.
+2017-06-12 16:25:55,286 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=292.
+2017-06-12 16:25:59,117 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=230.

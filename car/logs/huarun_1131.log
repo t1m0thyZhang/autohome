@@ -1,0 +1,10 @@
+2017-06-07 11:31:06,594 spiders.py[line:68] INFO Reading start URLs from redis key 'huarun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 11:31:09,127 spiders.py[line:95] DEBUG Read 1 requests from 'huarun:start_urls'
+2017-06-07 11:31:09,433 spider_huarun.py[line:67] INFO url is: http://www.huarun.com/product/productWall/?t=26.
+2017-06-07 11:31:39,125 spider_huarun.py[line:87] ERROR failed, url is:(http://www.huarun.com/product/productWall/?t=26), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 74, in parse
+    level1 = re.sub("<.*?>|\t|\n|\r|  ", "", level1[0])
+  File "E:\python27\lib\re.py", line 155, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+TypeError: expected string or buffer
+)

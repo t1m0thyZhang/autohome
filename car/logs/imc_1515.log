@@ -1,0 +1,10 @@
+2017-05-24 15:15:05,427 spiders.py[line:68] INFO Reading start URLs from redis key 'imc:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 15:15:05,881 spiders.py[line:95] DEBUG Read 1 requests from 'imc:start_urls'
+2017-05-24 15:15:07,144 spider_imc.py[line:64] INFO layer1 url is: http://www.imc-companies.com/taegutec/ttkCatalog/Applications.aspx?mapp=IS.
+2017-05-24 15:15:11,667 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=24.
+2017-05-24 15:15:31,851 spider_imc.py[line:93] ERROR layer2 parsing failed, url is:(http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=24), error info is:(Traceback (most recent call last):
+  File "C:\Users\yunsom\Desktop\product\product\spiders\spider_imc.py", line 90, in parse2
+    yield request
+UnboundLocalError: local variable 'request' referenced before assignment
+)
+2017-05-24 15:15:32,272 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=25.

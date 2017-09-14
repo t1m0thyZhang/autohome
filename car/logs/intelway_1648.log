@@ -1,0 +1,8 @@
+2017-06-12 16:48:16,000 spiders.py[line:68] INFO Reading start URLs from redis key 'intelway:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 16:48:18,750 spiders.py[line:95] DEBUG Read 4 requests from 'intelway:start_urls'
+2017-06-12 16:48:19,096 spider_intelway.py[line:56] INFO url is: http://www.intelway.com.cn/pro-l.php?sortid=183.
+2017-06-12 16:48:28,193 spider_intelway.py[line:56] INFO url is: http://www.intelway.com.cn/pro-l.php?sortid=152.
+2017-06-12 16:48:32,881 spider_intelway.py[line:56] INFO url is: http://www.intelway.com.cn/pro-l.php?sortid=122.
+2017-06-12 16:48:38,059 spider_intelway.py[line:56] INFO url is: http://www.intelway.com.cn/pro-l.php?sortid=184.
+2017-06-12 16:48:43,529 spider_intelway.py[line:71] INFO detail is being parsed, url is: http://www.intelway.com.cn/pro-v.php?id=278.
+2017-06-12 16:49:15,765 spider_intelway.py[line:71] INFO detail is being parsed, url is: http://www.intelway.com.cn/pro-v.php?id=277.

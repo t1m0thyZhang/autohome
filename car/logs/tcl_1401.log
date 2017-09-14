@@ -1,0 +1,9 @@
+2017-06-05 14:01:22,048 spiders.py[line:68] INFO Reading start URLs from redis key 'tcl:start_urls' (batch size: 16, encoding: utf-8
+2017-06-05 14:01:24,619 __init__.py[line:47] DEBUG Resuming crawl (16 requests scheduled)
+2017-06-05 14:01:25,944 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?20-29.html.
+2017-06-05 14:01:58,312 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?20-30.html.
+2017-06-05 14:02:09,056 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?21-36.html.
+2017-06-05 14:02:29,362 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?21-37.html.
+2017-06-05 14:02:44,346 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?21-38.html.
+2017-06-05 14:03:01,127 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?21-39.html.
+2017-06-05 14:03:24,581 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?14-509.html.

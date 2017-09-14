@@ -1,0 +1,2 @@
+2017-05-25 15:26:16,512 spiders.py[line:68] INFO Reading start URLs from redis key 'sv:start_urls' (batch size: 16, encoding: utf-8
+2017-05-25 15:26:35,288 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/easy-fix/Pages/default.aspx.

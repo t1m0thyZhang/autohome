@@ -1,0 +1,21 @@
+2017-06-07 10:49:40,548 spiders.py[line:68] INFO Reading start URLs from redis key 'dibei:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 10:49:42,007 __init__.py[line:47] DEBUG Resuming crawl (1 requests scheduled)
+2017-06-07 10:49:43,085 spiders.py[line:95] DEBUG Read 3 requests from 'dibei:start_urls'
+2017-06-07 10:49:43,316 spider_dibei.py[line:67] INFO url is: http://www.dibei.com/product/page-18-214.html.
+2017-06-07 10:50:10,632 spider_dibei.py[line:52] INFO url is: http://www.dibei.com/index.php/list-18-1.html.
+2017-06-07 10:50:15,028 spider_dibei.py[line:52] INFO url is: http://www.dibei.com/index.php/list-20-1.html.
+2017-06-07 10:50:20,923 spider_dibei.py[line:52] INFO url is: http://www.dibei.com/index.php/list-17-1.html.
+2017-06-07 10:50:26,296 spider_dibei.py[line:67] INFO url is: http://www.dibei.com/product/page-18-201.html.
+2017-06-07 10:50:31,395 spider_dibei.py[line:67] INFO url is: http://www.dibei.com/product/page-18-212.html.
+2017-06-07 10:50:36,161 spider_dibei.py[line:67] INFO url is: http://www.dibei.com/product/page-18-213.html.
+2017-06-07 10:50:41,552 spider_dibei.py[line:67] INFO url is: http://www.dibei.com/product/page-18-214.html.
+2017-06-07 10:50:46,630 spider_dibei.py[line:67] INFO url is: http://www.dibei.com/product/page-20-217.html.
+2017-06-07 10:50:51,177 spider_dibei.py[line:67] INFO url is: http://www.dibei.com/product/page-20-218.html.
+2017-06-07 10:50:57,144 spider_dibei.py[line:67] INFO url is: http://www.dibei.com/product/page-20-219.html.
+2017-06-07 10:51:01,793 spider_dibei.py[line:67] INFO url is: http://www.dibei.com/product/page-20-215.html.
+2017-06-07 10:51:07,072 spider_dibei.py[line:67] INFO url is: http://www.dibei.com/product/page-20-216.html.
+2017-06-07 10:51:11,111 spider_dibei.py[line:67] INFO url is: http://www.dibei.com/product/page-17-200.html.
+2017-06-07 10:51:16,835 spider_dibei.py[line:67] INFO url is: http://www.dibei.com/product/page-17-203.html.
+2017-06-07 10:51:22,744 spider_dibei.py[line:67] INFO url is: http://www.dibei.com/product/page-17-204.html.
+2017-06-07 10:51:25,746 spider_dibei.py[line:67] INFO url is: http://www.dibei.com/product/page-17-205.html.
+2017-06-07 10:51:31,200 spider_dibei.py[line:67] INFO url is: http://www.dibei.com/product/page-17-206.html.

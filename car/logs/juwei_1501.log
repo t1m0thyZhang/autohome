@@ -1,0 +1,28 @@
+2017-05-31 15:01:46,351 spiders.py[line:68] INFO Reading start URLs from redis key 'juwei:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 15:01:48,926 spiders.py[line:95] DEBUG Read 3 requests from 'juwei:start_urls'
+2017-05-31 15:01:49,323 spider_juwei.py[line:53] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/index.asp?class=&nclass=&key=&Page=3.
+2017-05-31 15:01:53,306 spider_juwei.py[line:53] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/index.asp?class=&nclass=&key=&Page=1.
+2017-05-31 15:01:59,131 spider_juwei.py[line:53] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/index.asp?class=&nclass=&key=&Page=2.
+2017-05-31 15:02:02,469 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=789.
+2017-05-31 15:02:08,046 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=790.
+2017-05-31 15:02:13,411 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=765.
+2017-05-31 15:02:19,348 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=766.
+2017-05-31 15:02:23,739 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=767.
+2017-05-31 15:02:29,581 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=768.
+2017-05-31 15:02:34,946 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=769.
+2017-05-31 15:02:40,334 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=770.
+2017-05-31 15:02:43,641 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=771.
+2017-05-31 15:02:49,272 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=772.
+2017-05-31 15:02:54,210 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=773.
+2017-05-31 15:02:59,069 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=774.
+2017-05-31 15:03:03,696 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=775.
+2017-05-31 15:03:08,467 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=776.
+2017-05-31 15:03:14,266 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=777.
+2017-05-31 15:03:19,459 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=778.
+2017-05-31 15:03:25,020 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=779.
+2017-05-31 15:03:30,894 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=780.
+2017-05-31 15:03:35,252 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=781.
+2017-05-31 15:03:39,907 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=782.
+2017-05-31 15:03:42,709 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=783.
+2017-05-31 15:03:47,188 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=784.
+2017-05-31 15:03:52,815 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=785.

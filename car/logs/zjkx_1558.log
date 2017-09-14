@@ -1,0 +1,5 @@
+2017-06-08 15:58:44,596 spiders.py[line:68] INFO Reading start URLs from redis key 'zjkx:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 15:58:47,267 spiders.py[line:95] DEBUG Read 1 requests from 'zjkx:start_urls'
+2017-06-08 15:58:47,523 spider_zjkx.py[line:55] INFO url is: http://www.kaixun.com.cn/htm/Products/qz/.
+2017-06-08 15:59:02,664 spider_zjkx.py[line:71] INFO class url is: http://www.kaixun.com.cn/htm/Products/qz/p2/.
+2017-06-08 15:59:15,388 spider_zjkx.py[line:85] INFO detail is being parsed, url is: http://www.kaixun.com.cn/htm/Products/qz/p2/2012_0606_43.html.

@@ -1,0 +1,49 @@
+2017-05-31 14:19:19,128 spiders.py[line:68] INFO Reading start URLs from redis key 'ruili:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 14:19:21,594 spiders.py[line:95] DEBUG Read 1 requests from 'ruili:start_urls'
+2017-05-31 14:19:21,934 spider_ruili.py[line:55] INFO step into layer1, url is: http://www.rljc.net/product_148.html.
+2017-05-31 14:19:27,667 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_50_148.html.
+2017-05-31 14:19:27,686 spider_ruili.py[line:103] ERROR layer1 failed, url is:(http://www.rljc.net/product_view_50_148.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ruili.py", line 79, in parse2
+    if "参数" in detail:
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe5 in position 0: ordinal not in range(128)
+)
+2017-05-31 14:19:32,361 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_46_148.html.
+2017-05-31 14:19:32,368 spider_ruili.py[line:103] ERROR layer1 failed, url is:(http://www.rljc.net/product_view_46_148.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ruili.py", line 79, in parse2
+    if "参数" in detail:
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe5 in position 0: ordinal not in range(128)
+)
+2017-05-31 14:19:36,818 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_47_148.html.
+2017-05-31 14:19:36,831 spider_ruili.py[line:103] ERROR layer1 failed, url is:(http://www.rljc.net/product_view_47_148.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ruili.py", line 79, in parse2
+    if "参数" in detail:
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe5 in position 0: ordinal not in range(128)
+)
+2017-05-31 14:19:42,414 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_48_148.html.
+2017-05-31 14:19:42,437 spider_ruili.py[line:103] ERROR layer1 failed, url is:(http://www.rljc.net/product_view_48_148.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ruili.py", line 79, in parse2
+    if "参数" in detail:
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe5 in position 0: ordinal not in range(128)
+)
+2017-05-31 14:19:47,598 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_49_148.html.
+2017-05-31 14:19:47,604 spider_ruili.py[line:103] ERROR layer1 failed, url is:(http://www.rljc.net/product_view_49_148.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ruili.py", line 79, in parse2
+    if "参数" in detail:
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe5 in position 0: ordinal not in range(128)
+)
+2017-05-31 14:19:53,516 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_51_148.html.
+2017-05-31 14:19:53,517 spider_ruili.py[line:103] ERROR layer1 failed, url is:(http://www.rljc.net/product_view_51_148.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ruili.py", line 79, in parse2
+    if u"参数" in detail:
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe5 in position 0: ordinal not in range(128)
+)
+2017-05-31 14:19:55,358 spiders.py[line:68] INFO Reading start URLs from redis key 'ruili:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 14:19:57,980 spiders.py[line:95] DEBUG Read 1 requests from 'ruili:start_urls'
+2017-05-31 14:19:58,325 spider_ruili.py[line:55] INFO step into layer1, url is: http://www.rljc.net/product_148.html.
+2017-05-31 14:19:59,181 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_52_148.html.
+2017-05-31 14:19:59,190 spider_ruili.py[line:103] ERROR layer1 failed, url is:(http://www.rljc.net/product_view_52_148.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_ruili.py", line 79, in parse2
+    if u"参数" in detail:
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe5 in position 0: ordinal not in range(128)
+)
+2017-05-31 14:20:02,562 spider_ruili.py[line:70] INFO step into layer1, url is: http://www.rljc.net/product_view_46_148.html.

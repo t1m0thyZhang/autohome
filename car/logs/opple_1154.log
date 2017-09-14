@@ -1,0 +1,32 @@
+2017-06-02 11:54:28,430 spiders.py[line:68] INFO Reading start URLs from redis key 'opple:start_urls' (batch size: 16, encoding: utf-8
+2017-06-02 11:54:30,904 spiders.py[line:95] DEBUG Read 2 requests from 'opple:start_urls'
+2017-06-02 11:54:32,145 spider_opple.py[line:70] INFO step into layer1, url is: http://www.opple.com.cn/product/index/2?type=home&classid=2.
+2017-06-02 11:54:36,490 spider_opple.py[line:70] INFO step into layer1, url is: http://www.opple.com.cn/product/index/1?type=home&classid=2.
+2017-06-02 11:54:40,250 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/271/?type=home.
+2017-06-02 11:54:53,338 spiders.py[line:68] INFO Reading start URLs from redis key 'opple:start_urls' (batch size: 16, encoding: utf-8
+2017-06-02 11:54:54,796 __init__.py[line:47] DEBUG Resuming crawl (7 requests scheduled)
+2017-06-02 11:54:55,831 spiders.py[line:95] DEBUG Read 2 requests from 'opple:start_urls'
+2017-06-02 11:54:56,108 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/278/?type=home.
+2017-06-02 11:55:43,289 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/279/?type=home.
+2017-06-02 11:55:48,394 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/397/?type=home.
+2017-06-02 11:55:52,678 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/400/?type=home.
+2017-06-02 11:55:58,661 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/478/?type=home.
+2017-06-02 11:56:02,822 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/660/?type=home.
+2017-06-02 11:56:07,611 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/1/91/?type=diaoding.
+2017-06-02 11:56:13,280 spider_opple.py[line:70] INFO step into layer1, url is: http://www.opple.com.cn/product/index/2?type=home&classid=2.
+2017-06-02 11:56:18,466 spider_opple.py[line:70] INFO step into layer1, url is: http://www.opple.com.cn/product/index/1?type=home&classid=2.
+2017-06-02 11:56:21,332 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/271/?type=home.
+2017-06-02 11:56:26,421 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/272/?type=home.
+2017-06-02 11:56:29,588 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/275/?type=home.
+2017-06-02 11:56:34,029 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/276/?type=home.
+2017-06-02 11:56:39,989 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/281/?type=home.
+2017-06-02 11:56:44,076 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/286/?type=home.
+2017-06-02 11:56:50,055 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/300/?type=home.
+2017-06-02 11:56:53,255 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/398/?type=home.
+2017-06-02 11:56:58,144 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/661/?type=home.
+2017-06-02 11:57:03,036 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/662/?type=home.
+2017-06-02 11:57:08,466 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/1/91/?type=diaoding.
+2017-06-02 11:57:13,651 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/273/?type=home.
+2017-06-02 11:57:19,055 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/278/?type=home.
+2017-06-02 11:57:23,365 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/279/?type=home.
+2017-06-02 11:57:29,381 spider_opple.py[line:87] INFO step into layer1, url is: http://www.opple.com.cn/product/d/2/280/?type=home.

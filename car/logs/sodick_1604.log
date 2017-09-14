@@ -1,0 +1,4 @@
+2017-05-31 16:04:37,697 spiders.py[line:68] INFO Reading start URLs from redis key 'sodick:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 16:04:40,328 spiders.py[line:95] DEBUG Read 1 requests from 'sodick:start_urls'
+2017-05-31 16:04:52,970 spider_sodick.py[line:55] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/tool/.
+2017-05-31 16:04:58,184 spider_sodick.py[line:70] INFO step into layer1, url is: http://www.sodick.co.jp/cn/product/tool/dedm/ap1l.html.

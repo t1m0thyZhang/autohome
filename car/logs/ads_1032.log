@@ -1,0 +1,3 @@
+2017-06-12 10:32:17,147 spiders.py[line:68] INFO Reading start URLs from redis key 'ads:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 10:32:19,834 spiders.py[line:95] DEBUG Read 1 requests from 'ads:start_urls'
+2017-06-12 10:32:20,052 spider_ads.py[line:52] INFO url is: http://www.aoddise.com/products-21-1.html.

@@ -1,0 +1,24 @@
+2017-06-14 11:14:00,193 spiders.py[line:68] INFO Reading start URLs from redis key 'yfazz:start_urls' (batch size: 16, encoding: utf-8
+2017-06-14 11:14:30,188 spiders.py[line:68] INFO Reading start URLs from redis key 'yfazz:start_urls' (batch size: 16, encoding: utf-8
+2017-06-14 11:14:32,802 spiders.py[line:95] DEBUG Read 1 requests from 'yfazz:start_urls'
+2017-06-14 11:14:59,381 spider_yfazz.py[line:52] INFO url is: http://www.yfazz.com/cn/Products.asp.
+2017-06-14 11:15:04,881 spider_yfazz.py[line:70] INFO detail is being parsed, url is: http://www.yfazz.com/cn/Products.asp?id=14.
+2017-06-14 11:15:09,459 spider_yfazz.py[line:70] INFO detail is being parsed, url is: http://www.yfazz.com/cn/Products.asp?id=17.
+2017-06-14 11:15:13,769 spider_yfazz.py[line:70] INFO detail is being parsed, url is: http://www.yfazz.com/cn/Products.asp?id=15.
+2017-06-14 11:15:18,661 spider_yfazz.py[line:70] INFO detail is being parsed, url is: http://www.yfazz.com/cn/Products.asp?id=13.
+2017-06-14 11:15:25,022 spider_yfazz.py[line:70] INFO detail is being parsed, url is: http://www.yfazz.com/cn/Products.asp?id=36.
+2017-06-14 11:15:33,177 spider_yfazz.py[line:70] INFO detail is being parsed, url is: http://www.yfazz.com/cn/Products.asp?id=50.
+2017-06-14 11:15:36,596 spider_yfazz.py[line:70] INFO detail is being parsed, url is: http://www.yfazz.com/cn/Products.asp?id=52.
+2017-06-14 11:15:42,772 spider_yfazz.py[line:70] INFO detail is being parsed, url is: http://www.yfazz.com/cn/Products.asp?id=51.
+2017-06-14 11:15:45,398 spider_yfazz.py[line:70] INFO detail is being parsed, url is: http://www.yfazz.com/cn/Products.asp?id=53.
+2017-06-14 11:18:26,773 spiders.py[line:95] DEBUG Read 1 requests from 'yfazz:start_urls'
+2017-06-14 11:18:29,822 spider_yfazz.py[line:52] INFO url is: http://www.yfazz.com/cn/Products.asp.
+2017-06-14 11:18:31,809 spider_yfazz.py[line:70] INFO detail is being parsed, url is: http://www.yfazz.com/cn/Products.asp?id=14.
+2017-06-14 11:18:41,105 spider_yfazz.py[line:70] INFO detail is being parsed, url is: http://www.yfazz.com/cn/Products.asp?id=15.
+2017-06-14 11:18:43,782 spider_yfazz.py[line:70] INFO detail is being parsed, url is: http://www.yfazz.com/cn/Products.asp?id=13.
+2017-06-14 11:18:48,107 spider_yfazz.py[line:70] INFO detail is being parsed, url is: http://www.yfazz.com/cn/Products.asp?id=36.
+2017-06-14 11:18:51,052 spider_yfazz.py[line:70] INFO detail is being parsed, url is: http://www.yfazz.com/cn/Products.asp?id=50.
+2017-06-14 11:19:02,427 spider_yfazz.py[line:70] INFO detail is being parsed, url is: http://www.yfazz.com/cn/Products.asp?id=51.
+2017-06-14 11:19:08,923 spider_yfazz.py[line:70] INFO detail is being parsed, url is: http://www.yfazz.com/cn/Products.asp?id=53.
+2017-06-14 11:19:16,796 spider_yfazz.py[line:70] INFO detail is being parsed, url is: http://www.yfazz.com/cn/Products.asp?id=17.
+2017-06-14 11:19:19,420 spider_yfazz.py[line:70] INFO detail is being parsed, url is: http://www.yfazz.com/cn/Products.asp?id=52.

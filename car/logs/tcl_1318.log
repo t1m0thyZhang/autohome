@@ -1,0 +1,8 @@
+2017-06-05 13:18:53,694 spiders.py[line:68] INFO Reading start URLs from redis key 'tcl:start_urls' (batch size: 16, encoding: utf-8
+2017-06-05 13:18:55,232 __init__.py[line:47] DEBUG Resuming crawl (22 requests scheduled)
+2017-06-05 13:19:07,542 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?14-5.html.
+2017-06-05 13:19:43,632 spider_tcl.py[line:116] ERROR layer1 failed, url is:(http://www.tcl-lighting.com/cn/products/show/?14-5.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tcl.py", line 94, in parse2
+    if image:
+KeyError: 'image'
+)

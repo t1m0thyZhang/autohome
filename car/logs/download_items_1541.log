@@ -1,0 +1,37 @@
+2017-05-24 15:41:26,266 download_items_from_redis.py[line:112] INFO [process id 0] start to download items in 'imc:items' (server: localhost, port: 6379)
+2017-05-24 15:41:26,282 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:41:27,282 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:41:28,546 download_items_from_redis.py[line:48] ERROR failed to download image(url: http://www.imc-companies.com/taegutec/ttkCatalogFiles/datafile/PICTURE/139.gif ), retry_num:1 reason:timed out
+2017-05-24 15:41:29,296 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:41:30,293 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:41:31,042 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:41:32,056 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:41:33,039 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:41:33,803 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:41:34,553 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:41:35,552 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:41:36,302 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:41:37,305 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:41:39,042 download_items_from_redis.py[line:48] ERROR failed to download image(url: http://www.imc-companies.com/taegutec/ttkCatalogFiles/datafile/PICTURE/10050.gif ), retry_num:1 reason:timed out
+2017-05-24 15:41:40,026 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:41:41,025 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:41:43,809 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:41:44,799 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:41:47,677 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:41:53,141 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:41:57,499 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:42:02,414 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:42:07,171 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:42:11,456 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:42:15,267 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:42:19,612 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:42:25,596 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:42:29,736 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:42:35,447 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:42:41,331 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:42:42,831 download_items_from_redis.py[line:48] ERROR failed to download image(url: http://www.imc-companies.com/taegutec/ttkCatalogFiles/datafile/PICTURE/10126.gif ), retry_num:1 reason:timed out
+2017-05-24 15:42:45,743 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:42:47,510 download_items_from_redis.py[line:48] ERROR failed to download image(url: http://www.imc-companies.com/taegutec/ttkCatalogFiles/datafile/PICTURE/826.gif ), retry_num:1 reason:timed out
+2017-05-24 15:42:51,785 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:42:56,812 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>
+2017-05-24 15:43:00,230 download_items_from_redis.py[line:92] INFO [imc:items] Processing item: None <None>

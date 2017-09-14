@@ -1,0 +1,121 @@
+2017-05-29 18:35:10,092 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'knt:items' (server: localhost, port: 6379)
+2017-05-29 18:35:11,122 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 90° LN <https://www.kennametal.com/zh/products/20478624/100050788/100074334.html>
+2017-05-29 18:35:11,138 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: VDI Toolholders <https://www.kennametal.com/zh/products/20478624/2664259/100092935/100008808.html>
+2017-05-29 18:35:11,138 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: VDI 刀柄 <https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092183.html>
+2017-05-29 18:35:11,138 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: VDI 刀柄 <https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092188.html>
+2017-05-29 18:35:11,138 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: VDI 刀柄 <https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092189.html>
+2017-05-29 18:35:11,154 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 配件 <https://www.kennametal.com/zh/products/20478624/2664259/42041919/54478782/100004456.html>
+2017-05-29 18:35:11,154 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: VDI Toolholders <https://www.kennametal.com/zh/products/20478624/2664259/100092935/100008600.html>
+2017-05-29 18:35:11,154 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: VDI 刀柄 <https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092186.html>
+2017-05-29 18:35:11,154 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 整体硬质合金钻 <https://www.kennametal.com/zh/products/20478624/556249/3924453/7799958/100022529.html>
+2017-05-29 18:35:11,154 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 整体硬质合金钻 <https://www.kennametal.com/zh/products/20478624/556249/3924453/7799958/100022531.html>
+2017-05-29 18:35:11,154 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 配件 <https://www.kennametal.com/zh/products/20478624/2664259/42041919/54481549/100041497.html>
+2017-05-29 18:35:11,154 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100004110.html>
+2017-05-29 18:35:11,154 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100004666.html>
+2017-05-29 18:35:11,170 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 配件 <https://www.kennametal.com/zh/products/20478624/2664259/42041919/100108679/100103054.html>
+2017-05-29 18:35:11,170 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854469/100002088.html>
+2017-05-29 18:35:11,170 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493/100000794.html>
+2017-05-29 18:35:11,170 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493/100005200.html>
+2017-05-29 18:35:11,170 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50334404/100004905.html>
+2017-05-29 18:35:11,170 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: VDI 刀柄 <https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092182.html>
+2017-05-29 18:35:11,170 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能整体硬质合金钻 <https://www.kennametal.com/zh/products/20478624/556249/3924453/7824532/100001313.html>
+2017-05-29 18:35:11,170 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Accessories <https://www.kennametal.com/zh/products/20478624/2664259/42041919/54478782/100023404.html>
+2017-05-29 18:35:11,170 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100012104.html>
+2017-05-29 18:35:11,186 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100016178.html>
+2017-05-29 18:35:11,186 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493/100000790.html>
+2017-05-29 18:35:11,186 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493/100000797.html>
+2017-05-29 18:35:11,186 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373640/100004562.html>
+2017-05-29 18:35:11,186 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: HSK40C 刀柄系统 <https://www.kennametal.com/zh/products/20478624/2664259/41339510/42799511/42799659/100005117.html>
+2017-05-29 18:35:11,186 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 整体硬质合金钻 <https://www.kennametal.com/zh/products/20478624/556249/3924453/7824532/100001314.html>
+2017-05-29 18:35:11,186 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100004146.html>
+2017-05-29 18:35:11,186 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854469/100003618.html>
+2017-05-29 18:35:11,200 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50334404/100004608.html>
+2017-05-29 18:35:11,210 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373640/100004566.html>
+2017-05-29 18:35:11,213 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: High-Performance Taps <https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373820/100035968.html>
+2017-05-29 18:35:11,219 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Accessories <https://www.kennametal.com/zh/products/20478624/2664259/42041919/54473731/100104472/100102768.html>
+2017-05-29 18:35:11,223 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Solid Carbide Drills <https://www.kennametal.com/zh/products/20478624/556249/3924453/100049620/100049618.html>
+2017-05-29 18:35:11,226 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: High-Performance Taps <https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100015039.html>
+2017-05-29 18:35:11,230 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471/100000804.html>
+2017-05-29 18:35:11,236 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 铣削刀片 <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471/100001539.html>
+2017-05-29 18:35:11,240 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100001582.html>
+2017-05-29 18:35:11,243 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100004913.html>
+2017-05-29 18:35:11,247 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 模块化钻 <https://www.kennametal.com/zh/products/20478624/556249/3924457/7852148/50950924/100003844.html>
+2017-05-29 18:35:11,253 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Accessories <https://www.kennametal.com/zh/products/20478624/2664259/42041919/54473731/100104472/100102771.html>
+2017-05-29 18:35:11,257 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: VDI Toolholders <https://www.kennametal.com/zh/products/20478624/2664259/100092935/100008605.html>
+2017-05-29 18:35:11,260 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: VDI 刀柄 <https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092185.html>
+2017-05-29 18:35:11,266 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能整体硬质合金钻 <https://www.kennametal.com/zh/products/20478624/556249/3924453/7824534/100000637.html>
+2017-05-29 18:35:11,273 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Accessories <https://www.kennametal.com/zh/products/20478624/2664259/42041919/54481549/100023615.html>
+2017-05-29 18:35:11,276 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Accessories <https://www.kennametal.com/zh/products/20478624/2664259/42041919/54481549/100028299.html>
+2017-05-29 18:35:11,279 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 配件 <https://www.kennametal.com/zh/products/20478624/2664259/42041919/100108679/100103171.html>
+2017-05-29 18:35:11,283 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100002357.html>
+2017-05-29 18:35:11,289 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373182/100004909.html>
+2017-05-29 18:35:11,292 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: VDI Toolholders <https://www.kennametal.com/zh/products/20478624/2664259/100092935/100008693.html>
+2017-05-29 18:35:11,296 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Accessories <https://www.kennametal.com/zh/products/20478624/2664259/42041919/54481549/100023621.html>
+2017-05-29 18:35:11,299 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100003742.html>
+2017-05-29 18:35:11,303 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100004920.html>
+2017-05-29 18:35:11,308 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854469/100002371.html>
+2017-05-29 18:35:11,311 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/42922981/100057024.html>
+2017-05-29 18:35:11,313 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: BTKV40 刀柄系统 <https://www.kennametal.com/zh/products/20478624/2664259/41357960/41358597/49299603/100001702.html>
+2017-05-29 18:35:11,318 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Accessories <https://www.kennametal.com/zh/products/20478624/2664259/42041919/54473731/100104472/100102755.html>
+2017-05-29 18:35:11,322 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100012103.html>
+2017-05-29 18:35:11,328 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Beyond Evolution 简易套装产品 <https://www.kennametal.com/zh/products/20478624/2664259/42041919/64166027/100072167.html>
+2017-05-29 18:35:11,332 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 铣削刀片 <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854469/100000285.html>
+2017-05-29 18:35:11,336 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 整体硬质合金钻 <https://www.kennametal.com/zh/products/20478624/556249/3924453/7825088/100004307.html>
+2017-05-29 18:35:11,341 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471/100002058.html>
+2017-05-29 18:35:11,345 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373182/100002290.html>
+2017-05-29 18:35:11,348 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373182/100004902.html>
+2017-05-29 18:35:11,355 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: PSC63 <https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108413/100094973.html>
+2017-05-29 18:35:11,358 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Solid Carbide Drills <https://www.kennametal.com/zh/products/20478624/100050788/100049618.html>
+2017-05-29 18:35:11,362 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: HSK63T 切削装置 <https://www.kennametal.com/zh/products/20478624/2664259/41339510/43712608/100003336.html>
+2017-05-29 18:35:11,365 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: HSK63T Adapter <https://www.kennametal.com/zh/products/20478624/2664259/41339510/43712608/100018582.html>
+2017-05-29 18:35:11,371 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100004912.html>
+2017-05-29 18:35:11,374 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100004917.html>
+2017-05-29 18:35:11,378 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 肯纳金属选择 <https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745067/63840373/100004312.html>
+2017-05-29 18:35:11,381 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Kennametal Select <https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745067/63840373/100004335.html>
+2017-05-29 18:35:11,388 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: PSC63 <https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108412/100094961.html>
+2017-05-29 18:35:11,391 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: PSC63 <https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108412/100094969.html>
+2017-05-29 18:35:11,395 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: VDI Toolholders <https://www.kennametal.com/zh/products/20478624/2664259/100092935/100008700.html>
+2017-05-29 18:35:11,401 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 整体硬质合金钻 <https://www.kennametal.com/zh/products/20478624/556249/3924453/7825088/100012219.html>
+2017-05-29 18:35:11,407 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 整体硬质合金钻 <https://www.kennametal.com/zh/products/20478624/556249/3924453/50001994/100055628.html>
+2017-05-29 18:35:11,411 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: HSK63T 切削装置 <https://www.kennametal.com/zh/products/20478624/2664259/41339510/43712608/100003125.html>
+2017-05-29 18:35:11,418 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: HSK63T 切削装置 <https://www.kennametal.com/zh/products/20478624/2664259/41339510/43712608/100003135.html>
+2017-05-29 18:35:11,421 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Combination Tools <https://www.kennametal.com/zh/products/20478624/556249/3924455/7860034/7860036/100004517.html>
+2017-05-29 18:35:11,426 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 配件 <https://www.kennametal.com/zh/products/20478624/2664259/42041919/100108679/100103136.html>
+2017-05-29 18:35:11,430 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50334404/100004606.html>
+2017-05-29 18:35:11,436 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373182/100002293.html>
+2017-05-29 18:35:11,438 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能整体硬质合金立铣刀 • 微型 <https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814647/44815195/100003447.html>
+2017-05-29 18:35:11,443 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 肯纳金属选择 <https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745067/63840373/100004327.html>
+2017-05-29 18:35:11,446 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100004098.html>
+2017-05-29 18:35:11,450 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: VDI Toolholders <https://www.kennametal.com/zh/products/20478624/2664259/100092935/100009129.html>
+2017-05-29 18:35:11,456 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/52480123/100012101.html>
+2017-05-29 18:35:11,459 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 组合式刀具 <https://www.kennametal.com/zh/products/20478624/556249/3924455/7860034/7860036/100004516.html>
+2017-05-29 18:35:11,461 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 铣削刀片 <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471/100000279.html>
+2017-05-29 18:35:11,467 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471/100000282.html>
+2017-05-29 18:35:11,470 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471/100002064.html>
+2017-05-29 18:35:11,473 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 铣削刀片 <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100000138.html>
+2017-05-29 18:35:11,480 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 铣削刀片 <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100000810.html>
+2017-05-29 18:35:11,484 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 铣削刀片 <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100000823.html>
+2017-05-29 18:35:11,489 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483/100004932.html>
+2017-05-29 18:35:11,493 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493/100001379.html>
+2017-05-29 18:35:11,496 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 肯纳金属选择 <https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745067/63840373/100004320.html>
+2017-05-29 18:35:11,502 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: PSC63 <https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108416/100046843.html>
+2017-05-29 18:36:27,240 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: VDI 刀柄 <https://www.kennametal.com/zh/products/20478624/2664259/100092935/100092184.html>
+2017-05-29 18:36:32,543 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Overview Wrenches <https://www.kennametal.com/zh/products/20478624/2664259/42041919/54481549/100105961.html>
+2017-05-29 18:36:34,862 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 铣削刀片 <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854469/100003615.html>
+2017-05-29 18:36:38,716 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100000079.html>
+2017-05-29 18:36:44,723 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100002699.html>
+2017-05-29 18:36:49,503 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 铣削刀片 <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100003689.html>
+2017-05-29 18:36:56,392 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50334404/100001816.html>
+2017-05-29 18:37:01,697 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Common Special <https://www.kennametal.com/zh/products/20478624/62318451/6289131/54813501/55056851/100022714.html>
+2017-05-29 18:37:06,461 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 新型铁路车轮加工刀具 <https://www.kennametal.com/zh/products/20478624/47535256/63745063/63745067/63840373/100004300.html>
+2017-05-29 18:37:14,290 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: PSC63 <https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108413/100094994.html>
+2017-05-29 18:37:17,921 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: PSC63 <https://www.kennametal.com/zh/products/20478624/2664259/100025012/100108382/100108386/100108413/100102634.html>
+2017-05-29 18:38:43,053 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 整体硬质合金钻头 <https://www.kennametal.com/zh/products/20478624/556249/3924453/7799958/100003651.html>
+2017-05-29 18:38:50,148 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 整体硬质合金钻 <https://www.kennametal.com/zh/products/20478624/556249/3924453/7825088/100004295.html>
+2017-05-29 18:38:53,437 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 整体硬质合金钻 <https://www.kennametal.com/zh/products/20478624/556249/3924453/7825088/100022533.html>
+2017-05-29 18:38:59,530 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: HSK63T 切削装置 <https://www.kennametal.com/zh/products/20478624/2664259/41339510/43712608/100003333.html>
+2017-05-29 18:39:02,447 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Overview Wrenches <https://www.kennametal.com/zh/products/20478624/2664259/42041919/54481549/100105948.html>
+2017-05-29 18:39:07,812 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473/100001710.html>
+2017-05-29 18:39:13,858 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: Milling Inserts <https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493/100004988.html>
+2017-05-29 18:39:18,834 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: 高性能丝锥 <https://www.kennametal.com/zh/products/20478624/62318451/6289131/7978038/50373182/100002510.html>
+2017-05-29 18:39:23,740 download_items_from_redis.py[line:93] INFO [knt:items] Processing item: BTKV40 刀柄系统 <https://www.kennametal.com/zh/products/20478624/2664259/41357960/41358597/49299595/100001697.html>

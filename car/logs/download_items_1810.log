@@ -1,0 +1,24 @@
+2017-06-06 18:10:09,253 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'jsyz:items' (server: localhost, port: 6379)
+2017-06-06 18:10:10,270 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: QYLD手动航空液压千斤顶 <http://www.jiangsuyz.com/InfoProductView.asp?id=3639>
+2017-06-06 18:10:10,276 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: 3DSB-2.5A电动试压泵 <http://www.jiangsuyz.com/InfoProductView.asp?id=3635>
+2017-06-06 18:10:10,279 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: LP型系列分离式液压螺母劈开器 <http://www.jiangsuyz.com/InfoProductView.asp?id=3627>
+2017-06-06 18:10:10,283 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: QYLD手动航空液压千斤顶 <http://www.jiangsuyz.com/InfoProductView.asp?id=3639>
+2017-06-06 18:10:10,288 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: 自锁式千斤顶 <http://www.jiangsuyz.com/InfoProductView.asp?id=3624>
+2017-06-06 18:10:10,292 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: QYLD手动航空液压千斤顶 <http://www.jiangsuyz.com/InfoProductView.asp?id=3639>
+2017-06-06 18:10:10,296 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: 3DSB-2.5A电动试压泵 <http://www.jiangsuyz.com/InfoProductView.asp?id=3635>
+2017-06-06 18:10:10,302 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: FRSM型电动液压多同步千斤顶 <http://www.jiangsuyz.com/InfoProductView.asp?id=3636>
+2017-06-06 18:10:10,305 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: 6吨飞机千斤顶，航空千斤顶 <http://www.jiangsuyz.com/InfoProductView.asp?id=3637>
+2017-06-06 18:10:10,483 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: QYLD手动航空液压千斤顶 <http://www.jiangsuyz.com/InfoProductView.asp?id=3639>
+2017-06-06 18:10:14,786 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: YD型、YLF型系列分离式液压螺母拉伸器 <http://www.jiangsuyz.com/InfoProductView.asp?id=3629>
+2017-06-06 18:10:19,967 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: ZLP型一体式液压螺母劈开器 <http://www.jiangsuyz.com/InfoProductView.asp?id=3630>
+2017-06-06 18:10:26,045 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: RR双作用千斤顶 <http://www.jiangsuyz.com/InfoProductView.asp?id=3631>
+2017-06-06 18:10:30,641 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: QYD螺旋千斤顶 <http://www.jiangsuyz.com/InfoProductView.asp?id=3632>
+2017-06-06 18:10:35,099 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: LYD手动立式油压千斤顶 <http://www.jiangsuyz.com/InfoProductView.asp?id=3633>
+2017-06-06 18:10:40,565 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: 爪式千斤顶 <http://www.jiangsuyz.com/InfoProductView.asp?id=3634>
+2017-06-06 18:10:46,510 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: 手动液压千斤顶 <http://www.jiangsuyz.com/InfoProductView.asp?id=3622>
+2017-06-06 18:10:51,388 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: 超超薄型千斤顶 <http://www.jiangsuyz.com/InfoProductView.asp?id=3623>
+2017-06-06 18:10:56,584 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: 自锁式千斤顶 <http://www.jiangsuyz.com/InfoProductView.asp?id=3624>
+2017-06-06 18:11:01,039 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: STQ超高压电动千斤顶 <http://www.jiangsuyz.com/InfoProductView.asp?id=3625>
+2017-06-06 18:11:04,982 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: LP型系列分离式液压螺母劈开器 <http://www.jiangsuyz.com/InfoProductView.asp?id=3627>
+2017-06-06 18:11:10,846 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: CSWP型系列手提式电动超高压液压螺母劈开器 <http://www.jiangsuyz.com/InfoProductView.asp?id=3628>
+2017-06-06 18:11:16,220 download_items_from_redis.py[line:93] INFO [jsyz:items] Processing item: YD型、YLF型系列分离式液压螺母拉伸器 <http://www.jiangsuyz.com/InfoProductView.asp?id=3629>

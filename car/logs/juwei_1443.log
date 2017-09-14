@@ -1,0 +1,15 @@
+2017-05-31 14:43:00,280 spiders.py[line:68] INFO Reading start URLs from redis key 'juwei:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 14:43:02,865 spiders.py[line:95] DEBUG Read 1 requests from 'juwei:start_urls'
+2017-05-31 14:43:03,316 spider_juwei.py[line:53] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/index.asp?class=&nclass=&key=&Page=1.
+2017-05-31 14:43:13,990 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=765.
+2017-05-31 14:43:48,967 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=766.
+2017-05-31 14:43:49,253 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=767.
+2017-05-31 14:43:54,901 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=768.
+2017-05-31 14:43:59,013 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=769.
+2017-05-31 14:44:02,490 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=770.
+2017-05-31 14:44:07,855 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=771.
+2017-05-31 14:44:13,259 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=772.
+2017-05-31 14:44:18,190 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=773.
+2017-05-31 14:44:22,716 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=774.
+2017-05-31 14:44:27,868 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=775.
+2017-05-31 14:44:33,026 spider_juwei.py[line:68] INFO step into layer1, url is: http://www.tianjinjuwei.com/admin/chanpin1/main.asp?id=776.

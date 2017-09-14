@@ -1,0 +1,1 @@
+2017-05-25 12:39:39,398 download_items_from_redis.py[line:114] INFO [process id 0] start to download items in 'xww:items' (server: localhost, port: 6379)

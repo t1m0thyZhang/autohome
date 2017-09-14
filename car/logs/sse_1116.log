@@ -1,0 +1,57 @@
+2017-06-12 11:16:44,822 spiders.py[line:68] INFO Reading start URLs from redis key 'sse:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 11:16:47,417 spiders.py[line:95] DEBUG Read 6 requests from 'sse:start_urls'
+2017-06-12 11:16:47,687 spider_sse.py[line:57] INFO url is: http://www.ssechina.com/products/hdr.htm.
+2017-06-12 11:16:51,736 spider_sse.py[line:57] INFO url is: http://www.ssechina.com/products/dianyuan.htm.
+2017-06-12 11:16:57,428 spider_sse.py[line:57] INFO url is: http://www.ssechina.com/products/ruanqi.htm.
+2017-06-12 11:17:03,426 spider_sse.py[line:57] INFO url is: http://www.ssechina.com/products/guangfu.htm.
+2017-06-12 11:17:08,992 spider_sse.py[line:57] INFO url is: http://www.ssechina.com/products/dianneng.htm.
+2017-06-12 11:17:14,897 spider_sse.py[line:57] INFO url is: http://www.ssechina.com/products/bianpeidian.htm.
+2017-06-12 11:17:20,164 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DNhdr-t-lc.htm.
+2017-06-12 11:17:23,153 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DNhdr-c.htm.
+2017-06-12 11:17:26,322 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DNhdr-l.htm.
+2017-06-12 11:17:31,201 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DNhdr-lc.htm.
+2017-06-12 11:17:36,563 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DNhdr-pf.htm.
+2017-06-12 11:17:42,364 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DNhdr-lcr.htm.
+2017-06-12 11:17:45,769 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DYcdz.htm.
+2017-06-12 11:17:50,302 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/ZCgfdydl.htm.
+2017-06-12 11:17:56,302 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DYscm.htm.
+2017-06-12 11:18:01,663 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DYzacd.htm.
+2017-06-12 11:18:07,431 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DYzecd.htm.
+2017-06-12 11:18:12,341 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DYzicb.htm.
+2017-06-12 11:18:17,624 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/RQgzdq.htm.
+2017-06-12 11:18:20,355 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/RQzdbk.htm.
+2017-06-12 11:18:23,894 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/RQzyq2.htm.
+2017-06-12 11:18:26,634 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/RQzyqt.htm.
+2017-06-12 11:18:31,321 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/RQmscc-c.htm.
+2017-06-12 11:18:36,122 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/RQjiankong.htm.
+2017-06-12 11:18:40,592 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/GFgcs.htm.
+2017-06-12 11:18:44,454 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/GFgzdw.htm.
+2017-06-12 11:18:49,101 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/GFspv-d.htm.
+2017-06-12 11:18:53,069 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/GFkyn28a-12.htm.
+2017-06-12 11:18:57,194 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/GFmagicsystem.htm.
+2017-06-12 11:19:02,392 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/GFwuxianjiankong.htm.
+2017-06-12 11:19:07,328 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/GFzgs11-h-bianyaqi.htm.
+2017-06-12 11:19:12,664 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/GFyzs-solar-inverter.htm.
+2017-06-12 11:19:15,930 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/GF4-6kw-solar-inverter.htm.
+2017-06-12 11:19:19,111 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/GF630kw-solar-inverter.htm.
+2017-06-12 11:19:23,302 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/GF20-30kw-solar-inverter.htm.
+2017-06-12 11:19:29,141 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/GF1500V-2MW-solar-inverter.htm.
+2017-06-12 11:19:34,197 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/sanxiangguangfubingwangnibianqi500kw.htm.
+2017-06-12 11:19:39,332 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DNzs.htm.
+2017-06-12 11:19:45,259 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DNzfk.htm.
+2017-06-12 11:19:50,420 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DNzahp.htm.
+2017-06-12 11:19:54,035 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DNzmaf.htm.
+2017-06-12 11:19:58,335 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DNzpsr.htm.
+2017-06-12 11:20:04,335 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DNzrfc.htm.
+2017-06-12 11:20:08,694 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DNzsvc.htm.
+2017-06-12 11:20:14,454 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DNztfc.htm.
+2017-06-12 11:20:19,220 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DNzmsvc.htm.
+2017-06-12 11:20:24,507 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DNzrsvg.htm.
+2017-06-12 11:20:30,631 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/DN3L-zapf.htm.
+2017-06-12 11:20:36,244 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/CTgck.htm.
+2017-06-12 11:20:40,558 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/CTgcs.htm.
+2017-06-12 11:20:43,815 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/CTmns.htm.
+2017-06-12 11:20:46,578 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/CTxl-21.htm.
+2017-06-12 11:20:51,690 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/CTgg-1a-f.htm.
+2017-06-12 11:20:57,585 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/CTxgn2-12.htm.
+2017-06-12 11:21:03,569 spider_sse.py[line:72] INFO detail is being parsed, url is: http://www.ssechina.com/products/CTkyn61-40.5.htm.

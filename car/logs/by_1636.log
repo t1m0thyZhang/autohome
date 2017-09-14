@@ -1,0 +1,17 @@
+2017-05-31 16:36:07,726 spiders.py[line:68] INFO Reading start URLs from redis key 'by:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 16:36:10,334 spiders.py[line:95] DEBUG Read 1 requests from 'by:start_urls'
+2017-05-31 16:36:11,220 spider_by.py[line:52] INFO step into layer1, url is: http://www.byjc.com.cn/newbyjc/products_2zs.html.
+2017-05-31 16:36:11,247 spider_by.py[line:63] ERROR layer1 failed, url is:(http://www.byjc.com.cn/newbyjc/products_2zs.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_by.py", line 55, in parse
+    urls = response.xpath(xpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in http://www.byjc.com.cn/newbyjc
+)

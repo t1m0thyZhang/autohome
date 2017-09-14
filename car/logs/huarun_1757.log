@@ -1,0 +1,48 @@
+2017-06-07 17:57:33,355 spiders.py[line:68] INFO Reading start URLs from redis key 'huarun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 17:57:36,750 spiders.py[line:95] DEBUG Read 1 requests from 'huarun:start_urls'
+2017-06-07 17:57:40,039 spider_huarun.py[line:74] INFO url is: http://www.huarun.com/product/productWall/?t=26.
+2017-06-07 17:57:44,388 spider_huarun.py[line:154] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 134, in parse2
+    tmp = re.sub("\\\\\\", "\\\\", tmp)
+  File "E:\python27\lib\re.py", line 155, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "E:\python27\lib\re.py", line 251, in _compile
+    raise error, v # invalid expression
+error: bogus escape (end of line)
+)
+2017-06-07 17:57:47,786 spider_huarun.py[line:154] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 134, in parse2
+    tmp = re.sub("\\\\\\", "\\\\", tmp)
+  File "E:\python27\lib\re.py", line 155, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "E:\python27\lib\re.py", line 251, in _compile
+    raise error, v # invalid expression
+error: bogus escape (end of line)
+)
+2017-06-07 17:57:52,546 spider_huarun.py[line:154] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 134, in parse2
+    tmp = re.sub("\\\\\\", "\\\\", tmp)
+  File "E:\python27\lib\re.py", line 155, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "E:\python27\lib\re.py", line 251, in _compile
+    raise error, v # invalid expression
+error: bogus escape (end of line)
+)
+2017-06-07 17:57:53,996 spider_huarun.py[line:154] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 134, in parse2
+    tmp = re.sub("\\\\\\", "\\\\", tmp)
+  File "E:\python27\lib\re.py", line 155, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "E:\python27\lib\re.py", line 251, in _compile
+    raise error, v # invalid expression
+error: bogus escape (end of line)
+)
+2017-06-07 17:57:58,904 spider_huarun.py[line:154] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 134, in parse2
+    tmp = re.sub("\\\\\\", "\\\\", tmp)
+  File "E:\python27\lib\re.py", line 155, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "E:\python27\lib\re.py", line 251, in _compile
+    raise error, v # invalid expression
+error: bogus escape (end of line)
+)

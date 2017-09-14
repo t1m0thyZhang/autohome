@@ -1,0 +1,89 @@
+2017-05-28 11:42:46,721 spiders.py[line:68] INFO Reading start URLs from redis key 'knt:start_urls' (batch size: 16, encoding: utf-8
+2017-05-28 11:42:48,582 __init__.py[line:47] DEBUG Resuming crawl (5 requests scheduled)
+2017-05-28 11:42:50,292 spiders.py[line:95] DEBUG Read 1 requests from 'knt:start_urls'
+2017-05-28 11:42:52,280 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814627/44814795.html.
+2017-05-28 11:42:54,516 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800.html.
+2017-05-28 11:42:58,213 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814805.html.
+2017-05-28 11:43:03,825 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814637/44815175.html.
+2017-05-28 11:43:07,832 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814637/44815180.html.
+2017-05-28 11:43:39,834 spider_knt.py[line:59] INFO layer1 url is: https://www.kennametal.com/zh/products/20478624/57493250.html.
+2017-05-28 11:43:41,601 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814627/44814795/100004023.html.
+2017-05-28 11:43:44,723 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814627/44814795/100004630.html.
+2017-05-28 11:43:49,661 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814627/44814795/100022346.html.
+2017-05-28 11:43:55,233 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814627/44814795/100022347.html.
+2017-05-28 11:44:00,890 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814627/44814795/100022348.html.
+2017-05-28 11:44:05,789 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814627/44814795/100022349.html.
+2017-05-28 11:44:11,210 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814627/44814795/100022352.html.
+2017-05-28 11:44:15,648 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100003497.html.
+2017-05-28 11:44:21,267 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100003480.html.
+2017-05-28 11:44:27,426 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100003481.html.
+2017-05-28 11:44:33,128 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100003482.html.
+2017-05-28 11:44:38,171 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100003483.html.
+2017-05-28 11:44:42,213 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100003484.html.
+2017-05-28 11:44:47,608 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100003485.html.
+2017-05-28 11:44:53,325 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100003487.html.
+2017-05-28 11:44:58,559 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100003489.html.
+2017-05-28 11:45:02,295 spider_knt.py[line:76] INFO layer2 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247.html.
+2017-05-28 11:45:07,765 spider_knt.py[line:76] INFO layer2 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849.html.
+2017-05-28 11:45:13,730 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100003490.html.
+2017-05-28 11:45:19,335 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100022357.html.
+2017-05-28 11:45:25,016 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100022358.html.
+2017-05-28 11:45:29,464 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100022359.html.
+2017-05-28 11:45:34,273 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100022360.html.
+2017-05-28 11:45:41,654 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100022363.html.
+2017-05-28 11:45:46,056 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100022364.html.
+2017-05-28 11:45:51,424 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100022366.html.
+2017-05-28 11:45:55,894 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100022367.html.
+2017-05-28 11:45:59,364 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100022368.html.
+2017-05-28 11:46:02,931 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100022369.html.
+2017-05-28 11:46:07,602 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814800/100022370.html.
+2017-05-28 11:46:13,351 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814805/100003585.html.
+2017-05-28 11:46:18,898 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814805/100003586.html.
+2017-05-28 11:46:24,378 spider_knt.py[line:124] INFO layer5 is being parsed, url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632/44814805/100003587.html.
+2017-05-28 11:46:29,072 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261.html.
+2017-05-28 11:46:33,134 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/46066319.html.
+2017-05-28 11:46:38,128 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/46610642.html.
+2017-05-28 11:46:43,403 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/100106313.html.
+2017-05-28 11:46:48,989 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/2189920.html.
+2017-05-28 11:46:53,990 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814260.html.
+2017-05-28 11:46:58,615 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814627.html.
+2017-05-28 11:47:03,753 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814632.html.
+2017-05-28 11:47:08,608 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814637.html.
+2017-05-28 11:47:14,657 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814647.html.
+2017-05-28 11:47:20,052 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814659.html.
+2017-05-28 11:47:25,732 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814705.html.
+2017-05-28 11:47:31,016 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44815170.html.
+2017-05-28 11:47:36,829 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/48286810.html.
+2017-05-28 11:47:42,180 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/60768902.html.
+2017-05-28 11:47:47,697 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/100085230.html.
+2017-05-28 11:47:52,556 spider_knt.py[line:92] INFO layer3 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/100090993.html.
+2017-05-28 11:47:56,934 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854467.html.
+2017-05-28 11:48:02,187 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854469.html.
+2017-05-28 11:48:06,453 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854471.html.
+2017-05-28 11:48:11,545 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854473.html.
+2017-05-28 11:48:14,043 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854475.html.
+2017-05-28 11:48:19,927 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854477.html.
+2017-05-28 11:48:24,716 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854479.html.
+2017-05-28 11:48:28,813 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854481.html.
+2017-05-28 11:48:33,961 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854483.html.
+2017-05-28 11:48:39,700 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854485.html.
+2017-05-28 11:48:44,582 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854489.html.
+2017-05-28 11:48:48,836 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854491.html.
+2017-05-28 11:48:51,832 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/556261/9854493.html.
+2017-05-28 11:48:58,269 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/2189920/55151531.html.
+2017-05-28 11:49:03,779 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/46066319/46066321.html.
+2017-05-28 11:49:09,312 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/46066319/46659700.html.
+2017-05-28 11:49:14,213 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/46066319/46660627.html.
+2017-05-28 11:49:20,163 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/46066319/47199377.html.
+2017-05-28 11:49:22,480 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/46066319/54045232.html.
+2017-05-28 11:49:27,323 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/46066319/59755316.html.
+2017-05-28 11:49:33,390 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/46066319/100048407.html.
+2017-05-28 11:49:36,364 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/46610642/46611040.html.
+2017-05-28 11:49:45,927 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/46610642/46659698.html.
+2017-05-28 11:49:47,334 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/46610642/46708769.html.
+2017-05-28 11:49:52,216 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/46610642/47144529.html.
+2017-05-28 11:49:56,210 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/46610642/47461930.html.
+2017-05-28 11:50:00,141 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/46610642/47465906.html.
+2017-05-28 11:50:06,111 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/46610642/100048482.html.
+2017-05-28 11:50:11,841 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814260/44814780.html.
+2017-05-28 11:50:18,525 spider_knt.py[line:108] INFO layer4 url is: https://www.kennametal.com/zh/products/20478624/57493250/1522849/44814260/44814782.html.

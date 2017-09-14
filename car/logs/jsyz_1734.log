@@ -1,0 +1,19 @@
+2017-06-06 17:34:37,875 spiders.py[line:68] INFO Reading start URLs from redis key 'jsyz:start_urls' (batch size: 16, encoding: utf-8
+2017-06-06 17:34:40,463 spiders.py[line:95] DEBUG Read 10 requests from 'jsyz:start_urls'
+2017-06-06 17:34:40,792 spider_jsyz.py[line:53] INFO step into layer1, url is: http://www.jiangsuyz.com/product.asp?page=10.
+2017-06-06 17:35:01,496 spider_jsyz.py[line:53] INFO step into layer1, url is: http://www.jiangsuyz.com/product.asp?page=4.
+2017-06-06 17:35:06,243 spider_jsyz.py[line:53] INFO step into layer1, url is: http://www.jiangsuyz.com/product.asp?page=1.
+2017-06-06 17:35:11,732 spider_jsyz.py[line:53] INFO step into layer1, url is: http://www.jiangsuyz.com/product.asp?page=2.
+2017-06-06 17:35:17,213 spider_jsyz.py[line:53] INFO step into layer1, url is: http://www.jiangsuyz.com/product.asp?page=7.
+2017-06-06 17:35:22,532 spider_jsyz.py[line:53] INFO step into layer1, url is: http://www.jiangsuyz.com/product.asp?page=5.
+2017-06-06 17:35:28,526 spider_jsyz.py[line:53] INFO step into layer1, url is: http://www.jiangsuyz.com/product.asp?page=6.
+2017-06-06 17:35:33,155 spider_jsyz.py[line:53] INFO step into layer1, url is: http://www.jiangsuyz.com/product.asp?page=8.
+2017-06-06 17:35:38,805 spider_jsyz.py[line:53] INFO step into layer1, url is: http://www.jiangsuyz.com/product.asp?page=3.
+2017-06-06 17:35:44,213 spider_jsyz.py[line:53] INFO step into layer1, url is: http://www.jiangsuyz.com/product.asp?page=9.
+2017-06-06 17:35:49,220 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3490.
+2017-06-06 17:36:12,905 spider_jsyz.py[line:97] ERROR layer2 failed, url is:(http://www.jiangsuyz.com/InfoProductView.asp?id=3490), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_jsyz.py", line 79, in parse2
+    image = response.meta["image"]
+KeyError: 'image'
+)
+2017-06-06 17:36:13,158 spider_jsyz.py[line:69] INFO step into layer2, url is: http://www.jiangsuyz.com/InfoProductView.asp?id=3488.

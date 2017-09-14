@@ -1,0 +1,25 @@
+2017-06-07 10:28:02,109 spiders.py[line:68] INFO Reading start URLs from redis key 'zbyb:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 10:28:03,559 __init__.py[line:47] DEBUG Resuming crawl (23 requests scheduled)
+2017-06-07 10:28:04,009 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn//proview.asp?id=1433.
+2017-06-07 10:28:49,371 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn//proview.asp?id=1450.
+2017-06-07 10:28:52,763 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn//proview.asp?id=1451.
+2017-06-07 10:28:58,244 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn//proview.asp?id=1452.
+2017-06-07 10:29:03,345 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn/proview.asp?id=1484.
+2017-06-07 10:29:08,012 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn/proview.asp?id=1485.
+2017-06-07 10:29:11,739 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn/proview.asp?id=1486.
+2017-06-07 10:29:18,517 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn/proview.asp?id=1487.
+2017-06-07 10:29:23,332 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn/proview.asp?id=1488.
+2017-06-07 10:29:26,900 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn/proview.asp?id=1489.
+2017-06-07 10:29:31,526 spiders.py[line:95] DEBUG Read 3 requests from 'zbyb:start_urls'
+2017-06-07 10:29:31,622 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn/proview.asp?id=1490.
+2017-06-07 10:29:36,732 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn/proview.asp?id=1491.
+2017-06-07 10:29:41,293 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn/proview.asp?id=1492.
+2017-06-07 10:29:46,509 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn//proview.asp?id=1418.
+2017-06-07 10:29:50,884 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn//proview.asp?id=1419.
+2017-06-07 10:29:56,663 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn//proview.asp?id=1421.
+2017-06-07 10:30:01,124 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn//proview.asp?id=1430.
+2017-06-07 10:30:06,678 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn//proview.asp?id=1431.
+2017-06-07 10:30:10,694 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn//proview.asp?id=1432.
+2017-06-07 10:30:13,509 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn//proview.asp?id=1433.
+2017-06-07 10:30:19,026 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn//proview.asp?id=1450.
+2017-06-07 10:30:24,980 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn//proview.asp?id=1451.

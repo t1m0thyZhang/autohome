@@ -1,0 +1,45 @@
+2017-06-02 15:03:10,980 spiders.py[line:68] INFO Reading start URLs from redis key 'qg:start_urls' (batch size: 16, encoding: utf-8
+2017-06-02 15:03:13,503 spiders.py[line:95] DEBUG Read 1 requests from 'qg:start_urls'
+2017-06-02 15:03:13,957 spider_qg.py[line:52] INFO step into layer1, url is: http://www.qgjhdj.com/product.asp?pid=1.
+2017-06-02 15:03:29,381 spider_qg.py[line:68] INFO step into layer2, url is: http://www.qgjhdj.com/product.asp?pid=1.
+2017-06-02 15:03:44,881 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=1.
+2017-06-02 15:07:27,880 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=23.
+2017-06-02 15:07:31,658 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=24.
+2017-06-02 15:07:36,956 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=25.
+2017-06-02 15:07:42,657 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=26.
+2017-06-02 15:07:47,086 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=12.
+2017-06-02 15:07:51,680 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=19.
+2017-06-02 15:07:56,895 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=14.
+2017-06-02 15:08:00,404 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=16.
+2017-06-02 15:08:03,581 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=15.
+2017-06-02 15:08:08,957 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=18.
+2017-06-02 15:08:14,697 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=20.
+2017-06-02 15:08:18,704 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=21.
+2017-06-02 15:08:24,282 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=41.
+2017-06-02 15:08:27,753 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=29.
+2017-06-02 15:08:32,236 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=27.
+2017-06-02 15:08:37,299 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=28.
+2017-06-02 15:08:41,875 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=33.
+2017-06-02 15:08:46,477 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=39.
+2017-06-02 15:09:22,464 spiders.py[line:95] DEBUG Read 1 requests from 'qg:start_urls'
+2017-06-02 15:09:22,759 spider_qg.py[line:52] INFO step into layer1, url is: http://www.qgjhdj.com/product.asp?pid=1.
+2017-06-02 15:09:28,069 spider_qg.py[line:68] INFO step into layer2, url is: http://www.qgjhdj.com/product.asp?pid=1.
+2017-06-02 15:09:33,818 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=1.
+2017-06-02 15:10:22,743 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=29.
+2017-06-02 15:10:26,686 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=27.
+2017-06-02 15:10:32,066 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=28.
+2017-06-02 15:10:37,750 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=24.
+2017-06-02 15:10:41,805 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=25.
+2017-06-02 15:10:52,200 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=26.
+2017-06-02 15:10:53,578 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=13.
+2017-06-02 15:10:58,190 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=19.
+2017-06-02 15:11:04,105 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=14.
+2017-06-02 15:11:09,760 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=16.
+2017-06-02 15:11:15,390 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=15.
+2017-06-02 15:11:20,887 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=18.
+2017-06-02 15:11:25,664 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=20.
+2017-06-02 15:11:31,026 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=21.
+2017-06-02 15:11:34,309 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=33.
+2017-06-02 15:11:39,059 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=41.
+2017-06-02 15:11:44,122 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=39.
+2017-06-02 15:11:50,042 spider_qg.py[line:85] INFO step into layer3, url is: http://www.qgjhdj.com/product.asp?id=35.

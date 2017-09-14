@@ -1,0 +1,5 @@
+2017-06-05 15:50:22,173 spiders.py[line:68] INFO Reading start URLs from redis key 'cfled:start_urls' (batch size: 16, encoding: utf-8
+2017-06-05 15:50:23,805 __init__.py[line:47] DEBUG Resuming crawl (7 requests scheduled)
+2017-06-05 15:50:24,878 spiders.py[line:95] DEBUG Read 1 requests from 'cfled:start_urls'
+2017-06-05 15:50:25,569 spider_cfled.py[line:102] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=546.
+2017-06-05 15:50:31,069 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=441.

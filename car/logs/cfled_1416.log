@@ -1,0 +1,39 @@
+2017-06-05 14:16:51,572 spiders.py[line:68] INFO Reading start URLs from redis key 'cfled:start_urls' (batch size: 16, encoding: utf-8
+2017-06-05 14:16:54,142 spiders.py[line:95] DEBUG Read 1 requests from 'cfled:start_urls'
+2017-06-05 14:16:54,789 spider_cfled.py[line:51] INFO step into layer1, url is: http://www.cfled.com/product.aspx.
+2017-06-05 14:17:01,059 spider_cfled.py[line:92] INFO step into layer1, url is: http://www.cfled.com/product1.aspx?CateId=27.
+2017-06-05 14:17:01,062 spider_cfled.py[line:125] ERROR layer1 failed, url is:(http://www.cfled.com/product1.aspx?CateId=27), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 94, in parse2
+    item = response.meta["item"]
+KeyError: 'item'
+)
+2017-06-05 14:17:05,351 spider_cfled.py[line:92] INFO step into layer1, url is: http://www.cfled.com/product1.aspx?CateId=28.
+2017-06-05 14:17:05,354 spider_cfled.py[line:125] ERROR layer1 failed, url is:(http://www.cfled.com/product1.aspx?CateId=28), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 94, in parse2
+    item = response.meta["item"]
+KeyError: 'item'
+)
+2017-06-05 14:17:11,134 spider_cfled.py[line:92] INFO step into layer1, url is: http://www.cfled.com/product1.aspx?CateId=207.
+2017-06-05 14:17:11,135 spider_cfled.py[line:125] ERROR layer1 failed, url is:(http://www.cfled.com/product1.aspx?CateId=207), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 94, in parse2
+    item = response.meta["item"]
+KeyError: 'item'
+)
+2017-06-05 14:17:16,752 spider_cfled.py[line:92] INFO step into layer1, url is: http://www.cfled.com/product1.aspx?CateId=208.
+2017-06-05 14:17:16,752 spider_cfled.py[line:125] ERROR layer1 failed, url is:(http://www.cfled.com/product1.aspx?CateId=208), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 94, in parse2
+    item = response.meta["item"]
+KeyError: 'item'
+)
+2017-06-05 14:17:20,296 spider_cfled.py[line:92] INFO step into layer1, url is: http://www.cfled.com/product1.aspx?CateId=210.
+2017-06-05 14:17:20,296 spider_cfled.py[line:125] ERROR layer1 failed, url is:(http://www.cfled.com/product1.aspx?CateId=210), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 94, in parse2
+    item = response.meta["item"]
+KeyError: 'item'
+)
+2017-06-05 14:17:24,961 spider_cfled.py[line:92] INFO step into layer1, url is: http://www.cfled.com/product1.aspx?CateId=211.
+2017-06-05 14:17:24,961 spider_cfled.py[line:125] ERROR layer1 failed, url is:(http://www.cfled.com/product1.aspx?CateId=211), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 94, in parse2
+    item = response.meta["item"]
+KeyError: 'item'
+)

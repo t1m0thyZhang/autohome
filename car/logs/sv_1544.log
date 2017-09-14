@@ -1,0 +1,25 @@
+2017-05-25 15:44:54,200 spiders.py[line:68] INFO Reading start URLs from redis key 'sv:start_urls' (batch size: 16, encoding: utf-8
+2017-05-25 15:45:17,904 spider_sv.py[line:90] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_mb/Pages/default.aspx.
+2017-05-25 15:45:17,904 spider_sv.py[line:108] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corocut_mb/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 93, in parse3
+    item = response.meta['item']
+KeyError: 'item'
+)
+2017-05-25 15:45:21,543 spider_sv.py[line:90] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_sl/Pages/default.aspx.
+2017-05-25 15:45:21,543 spider_sv.py[line:108] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_sl/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 93, in parse3
+    item = response.meta['item']
+KeyError: 'item'
+)
+2017-05-25 15:45:26,880 spider_sv.py[line:90] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx.
+2017-05-25 15:45:26,881 spider_sv.py[line:108] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 93, in parse3
+    item = response.meta['item']
+KeyError: 'item'
+)
+2017-05-25 15:45:32,111 spider_sv.py[line:90] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx.
+2017-05-25 15:45:32,112 spider_sv.py[line:108] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 93, in parse3
+    item = response.meta['item']
+KeyError: 'item'
+)

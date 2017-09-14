@@ -1,0 +1,37 @@
+2017-06-12 16:34:37,480 spiders.py[line:68] INFO Reading start URLs from redis key 'clamptek:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 16:34:39,092 __init__.py[line:47] DEBUG Resuming crawl (90 requests scheduled)
+2017-06-12 16:34:40,381 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=32.
+2017-06-12 16:34:46,089 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=58.
+2017-06-12 16:34:51,095 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=181.
+2017-06-12 16:34:56,894 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=176.
+2017-06-12 16:35:02,355 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=186.
+2017-06-12 16:35:05,569 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=178.
+2017-06-12 16:35:10,828 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=190.
+2017-06-12 16:35:16,145 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=188.
+2017-06-12 16:35:21,828 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=179.
+2017-06-12 16:35:25,446 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=269.
+2017-06-12 16:35:30,835 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=231.
+2017-06-12 16:35:36,365 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=232.
+2017-06-12 16:35:40,545 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=239.
+2017-06-12 16:35:46,088 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=264.
+2017-06-12 16:35:50,736 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=234.
+2017-06-12 16:35:56,171 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=182.
+2017-06-12 16:36:00,888 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=272.
+2017-06-12 16:36:06,259 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=263.
+2017-06-12 16:36:11,365 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=246.
+2017-06-12 16:36:14,979 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=277.
+2017-06-12 16:36:18,999 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=244.
+2017-06-12 16:36:21,638 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=265.
+2017-06-12 16:36:27,069 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=267.
+2017-06-12 16:36:31,667 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=184.
+2017-06-12 16:36:36,799 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=241.
+2017-06-12 16:36:41,884 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=237.
+2017-06-12 16:36:44,568 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=242.
+2017-06-12 16:36:50,078 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=230.
+2017-06-12 16:36:54,882 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=170.
+2017-06-12 16:36:59,407 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=292.
+2017-06-12 16:37:04,605 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=297.
+2017-06-12 16:37:09,009 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=299.
+2017-06-12 16:37:12,974 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=314.
+2017-06-12 16:37:18,253 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=345.
+2017-06-12 16:37:23,631 spider_clamptek.py[line:85] INFO detail is being parsed, url is: http://www.clamptek.com/products-detail.php?ProId=310.

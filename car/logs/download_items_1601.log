@@ -1,0 +1,5 @@
+2017-06-05 16:01:24,973 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'cfled:items' (server: localhost, port: 6379)
+2017-06-05 16:01:25,994 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: 球泡灯（PC灯杯） <http://www.cfled.com/product1_show.aspx?ProId=549>
+2017-06-05 16:01:40,005 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: 吸顶灯（阑珊2号） <http://www.cfled.com/product1_show.aspx?ProId=572>
+2017-06-05 16:01:56,744 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: T5无影支架（塑胶单电压） <http://www.cfled.com/product1_show.aspx?ProId=602>
+2017-06-05 16:02:15,690 download_items_from_redis.py[line:93] INFO [cfled:items] Processing item: 天花筒灯（金属） <http://www.cfled.com/product1_show.aspx?ProId=564>

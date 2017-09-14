@@ -1,0 +1,9 @@
+2017-06-07 09:52:51,683 spiders.py[line:68] INFO Reading start URLs from redis key 'yt:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 09:52:54,203 spiders.py[line:95] DEBUG Read 1 requests from 'yt:start_urls'
+2017-06-07 09:52:55,911 spider_yt.py[line:57] INFO url is: http://www.yuantie.com.cn/product.asp?type=9&keywords=&p=1.
+2017-06-07 09:53:00,295 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=34.
+2017-06-07 09:54:21,401 spider_yt.py[line:110] ERROR failed, url is:(http://www.yuantie.com.cn/productsshow.asp?id=34), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_yt.py", line 97, in parse2
+    item["category_info"] = cinfo
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xef in position 3: ordinal not in range(128)
+)

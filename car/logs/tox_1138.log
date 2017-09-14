@@ -1,0 +1,37 @@
+2017-05-27 11:38:48,556 spiders.py[line:68] INFO Reading start URLs from redis key 'tox:start_urls' (batch size: 16, encoding: utf-8
+2017-05-27 11:38:51,382 spiders.py[line:95] DEBUG Read 1 requests from 'tox:start_urls'
+2017-05-27 11:38:54,755 spider_tox.py[line:52] INFO step into layer1, url is: https://www.tox-cn.com/product-overview/.
+2017-05-27 11:38:58,381 spider_tox.py[line:68] INFO step into layer2, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/overview/.
+2017-05-27 11:39:03,576 spider_tox.py[line:68] INFO step into layer2, url is: https://www.tox-cn.com/products/tongs/handheld-tongs/.
+2017-05-27 11:39:05,921 spider_tox.py[line:68] INFO step into layer2, url is: https://www.tox-cn.com/products/tongs/tox-powerkurver/.
+2017-05-27 11:39:08,315 spider_tox.py[line:68] INFO step into layer2, url is: https://www.tox-cn.com/products/drives/electric-drive-technology/overview/.
+2017-05-27 11:39:13,665 spider_tox.py[line:68] INFO step into layer2, url is: https://www.tox-cn.com/products/presses/press-frames/press-frames-overview/.
+2017-05-27 11:39:17,569 spider_tox.py[line:68] INFO step into layer2, url is: https://www.tox-cn.com/products/presses/small-presses/small-press-overview/.
+2017-05-27 11:39:22,482 spider_tox.py[line:68] INFO step into layer2, url is: https://www.tox-cn.com/products/clinching-tools/toolsets/.
+2017-05-27 11:39:28,088 spider_tox.py[line:68] INFO step into layer2, url is: https://www.tox-cn.com/products/tongs/robot-machine-tongs/.
+2017-05-27 11:39:29,607 spider_tox.py[line:68] INFO step into layer2, url is: https://www.tox-cn.com/products/controls-and-monitoring/controls/.
+2017-05-27 11:39:35,065 spider_tox.py[line:68] INFO step into layer2, url is: https://www.tox-cn.com/products/clinching-tools/clinching-tool-accessories/.
+2017-05-27 11:39:40,648 spider_tox.py[line:68] INFO step into layer2, url is: https://www.tox-cn.com/products/controls-and-monitoring/process-monitoring/process-monitoring-overview/.
+2017-05-27 11:39:49,328 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/lineq/.
+2017-05-27 11:39:51,772 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/line-x/.
+2017-05-27 11:39:58,342 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/type-rz/.
+2017-05-27 11:40:06,563 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/x-kt-system/.
+2017-05-27 11:40:07,828 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/type-s-type-k/.
+2017-05-27 11:40:12,124 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/special-solutions/.
+2017-05-27 11:40:18,933 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/powerpackage-accessories/.
+2017-05-27 11:40:22,358 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/electric-drive-technology/electromechanical-drives/.
+2017-05-27 11:40:26,148 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/electric-drive-technology/software/.
+2017-05-27 11:40:30,286 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/electric-drive-technology/accessories/.
+2017-05-27 11:40:35,476 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/electric-drive-technology/line-x-controller/.
+2017-05-27 11:40:43,878 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/presses/press-frames/column-presses/.
+2017-05-27 11:40:48,361 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/presses/press-frames/safety-devices/.
+2017-05-27 11:40:52,957 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/presses/press-frames/c-frame-benchtop-presses/.
+2017-05-27 11:40:58,151 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/presses/press-frames/standalone-c-frame-presses/.
+2017-05-27 11:41:02,755 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/presses/small-presses/toggle-presses/.
+2017-05-27 11:41:06,471 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/presses/small-presses/pneumatic-presses/.
+2017-05-27 11:41:12,061 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/presses/small-presses/rack-pinion-presses/.
+2017-05-27 11:41:15,782 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/presses/small-presses/benchtop-press-accessories/.
+2017-05-27 11:41:19,292 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/presses/small-presses/manual-pneumatic-benchtop-press/.
+2017-05-27 11:41:23,523 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/controls-and-monitoring/process-monitoring/pressing-monitor-epw/.
+2017-05-27 11:41:27,864 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/controls-and-monitoring/process-monitoring/clinching-monitor-cep/.
+2017-05-27 11:41:33,467 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/presses/press-frames/accessories/.

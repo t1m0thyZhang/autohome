@@ -1,0 +1,5 @@
+2017-05-24 17:14:54,246 spiders.py[line:68] INFO Reading start URLs from redis key 'ctz:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 17:14:54,716 spiders.py[line:95] DEBUG Read 1 requests from 'ctz:start_urls'
+2017-05-24 17:14:59,716 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.ceratizit.com/products/metal-cutting/list/?category=300>, failed reason:User timeout caused connection failure: Getting http://www.ceratizit.com/products/metal-cutting/list/?category=300 took longer than 5.0 seconds..
+2017-05-24 17:14:59,915 spiders.py[line:95] DEBUG Read 1 requests from 'ctz:start_urls'
+2017-05-24 17:15:03,096 spider_ctz.py[line:59] INFO layer1 url is: http://www.ceratizit.com/products/metal-cutting/list/?category=300.

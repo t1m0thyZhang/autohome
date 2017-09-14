@@ -1,0 +1,13 @@
+2017-06-08 15:41:12,798 spiders.py[line:68] INFO Reading start URLs from redis key 'jgs:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 15:41:15,489 spiders.py[line:95] DEBUG Read 1 requests from 'jgs:start_urls'
+2017-06-08 15:41:15,767 spider_jgs.py[line:53] INFO url is: http://www.jergens.com.cn/product.asp.
+2017-06-08 15:41:38,615 spiders.py[line:68] INFO Reading start URLs from redis key 'jgs:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 15:41:41,263 spiders.py[line:95] DEBUG Read 1 requests from 'jgs:start_urls'
+2017-06-08 15:41:41,546 spider_jgs.py[line:53] INFO url is: http://www.jergens.com.cn/product.asp.
+2017-06-08 15:41:49,961 spider_jgs.py[line:69] INFO class url is: http://www.jergens.com.cn/1/1_1.asp.
+2017-06-08 15:41:54,967 spider_jgs.py[line:86] INFO detail is being parsed, url is: http://www.jergens.com.cn/1/1_1.asp.
+2017-06-08 15:41:54,984 spider_jgs.py[line:113] ERROR layer 2 failed: failed to write into item, url is:(http://www.jergens.com.cn/1/1_1.asp), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_jgs.py", line 105, in parse3
+    cinfo = "{\"first_level\":\"" + "".join(level1) + "\"," + "\"second_level\":\"" + "".join(level2) + "\"}"
+UnboundLocalError: local variable 'level1' referenced before assignment
+)

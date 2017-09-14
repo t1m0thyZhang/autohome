@@ -1,0 +1,9 @@
+2017-06-07 10:43:28,296 spiders.py[line:68] INFO Reading start URLs from redis key 'dibei:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 10:43:30,819 spiders.py[line:95] DEBUG Read 3 requests from 'dibei:start_urls'
+2017-06-07 10:43:31,348 spider_dibei.py[line:52] INFO url is: http://www.dibei.com/index.php/list-18-1.html.
+2017-06-07 10:43:54,677 spiders.py[line:68] INFO Reading start URLs from redis key 'dibei:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 10:43:57,240 spiders.py[line:95] DEBUG Read 3 requests from 'dibei:start_urls'
+2017-06-07 10:43:57,727 spider_dibei.py[line:52] INFO url is: http://www.dibei.com/index.php/list-17-1.html.
+2017-06-07 10:44:06,901 spider_dibei.py[line:52] INFO url is: http://www.dibei.com/index.php/list-20-1.html.
+2017-06-07 10:44:09,871 spider_dibei.py[line:52] INFO url is: http://www.dibei.com/index.php/list-18-1.html.
+2017-06-07 10:44:14,338 spider_dibei.py[line:67] INFO url is: http://www.dibei.com/product/page-17-207.html.

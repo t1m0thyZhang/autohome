@@ -1,0 +1,15 @@
+2017-05-29 23:29:59,158 spiders.py[line:68] INFO Reading start URLs from redis key 'tt:start_urls' (batch size: 16, encoding: utf-8
+2017-05-29 23:30:01,007 __init__.py[line:47] DEBUG Resuming crawl (4 requests scheduled)
+2017-05-29 23:30:02,059 spiders.py[line:95] DEBUG Read 1 requests from 'tt:start_urls'
+2017-05-29 23:30:02,279 spider_tt.py[line:97] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02476.
+2017-05-29 23:30:06,767 spider_tt.py[line:97] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02872.
+2017-05-29 23:30:12,397 spider_tt.py[line:97] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02875.
+2017-05-29 23:30:17,460 spider_tt.py[line:97] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02474A.
+2017-05-29 23:30:20,927 spider_tt.py[line:72] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=neiquan.
+2017-05-29 23:31:00,819 spider_tt.py[line:93] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=neiquan), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt.py", line 82, in parse
+    urls = selector.xpath(url_xpath).extract()
+AttributeError: 'list' object has no attribute 'extract'
+)
+2017-05-29 23:31:01,065 spider_tt.py[line:112] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/02420/02476.html.
+2017-05-29 23:31:05,013 spider_tt.py[line:112] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/02820/02872.html.

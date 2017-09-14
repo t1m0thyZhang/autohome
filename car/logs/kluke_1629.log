@@ -1,0 +1,28 @@
+2017-06-08 16:29:29,539 spiders.py[line:68] INFO Reading start URLs from redis key 'zjkx:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 16:29:31,177 __init__.py[line:47] DEBUG Resuming crawl (28 requests scheduled)
+2017-06-08 16:29:32,210 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/hulu/qidonghulu/20150707/139.aspx.
+2017-06-08 16:30:04,224 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/hulu/qidonghulu/20150707/140.aspx.
+2017-06-08 16:30:09,000 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/hulu/qidonghulu/20150707/141.aspx.
+2017-06-08 16:30:12,217 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/hulu/qidonghulu/20150707/142.aspx.
+2017-06-08 16:30:17,947 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/hulu/qidonghulu/20150707/143.aspx.
+2017-06-08 16:30:23,631 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/hulu/qidonghulu/20150707/144.aspx.
+2017-06-08 16:30:28,522 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/hulu/qidonghulu/20150707/146.aspx.
+2017-06-08 16:30:33,598 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/hulu/qidonghulu/20150707/145.aspx.
+2017-06-08 16:30:38,805 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/hulu/qidonghulu/20150707/147.aspx.
+2017-06-08 16:30:43,907 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/hulu/diandonghulu/20150707/155.aspx.
+2017-06-08 16:30:48,660 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/hulu/diandonghulu/20150707/156.aspx.
+2017-06-08 16:30:53,091 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/gangxingqingzaiqizhongxitong/20150722/183.aspx.
+2017-06-08 16:30:59,072 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/gangxingqingzaiqizhongxitong/20150722/184.aspx.
+2017-06-08 16:31:04,737 spiders.py[line:95] DEBUG Read 1 requests from 'zjkx:start_urls'
+2017-06-08 16:31:04,739 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/gangxingqingzaiqizhongxitong/20150722/185.aspx.
+2017-06-08 16:31:09,391 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/gangxingqingzaiqizhongxitong/20150722/186.aspx.
+2017-06-08 16:31:15,552 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/gangxingqingzaiqizhongxitong/20150722/187.aspx.
+2017-06-08 16:31:20,279 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/gangxingqingzaiqizhongxitong/20150722/188.aspx.
+2017-06-08 16:31:25,894 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/xuanbiqizhongxitong/20150722/189.aspx.
+2017-06-08 16:31:31,441 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/xuanbiqizhongxitong/20150722/190.aspx.
+2017-06-08 16:31:36,423 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/xuanbiqizhongxitong/20150722/192.aspx.
+2017-06-08 16:31:40,923 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/zhinengpinghengxitongjijiaju/20150723/193.aspx.
+2017-06-08 16:31:46,000 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/zhinengpinghengxitongjijiaju/20150723/194.aspx.
+2017-06-08 16:31:51,910 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/zhinengpinghengxitongjijiaju/20150723/195.aspx.
+2017-06-08 16:31:57,687 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/zhinengpinghengxitongjijiaju/20150723/196.aspx.
+2017-06-08 16:32:00,678 spider_kluke.py[line:86] INFO detail is being parsed, url is: http://www.kluke.com.cn/chanpinzhanshi/qizhongjixitong/tongyongqiaoshiqizhongji/20150723/199.aspx.

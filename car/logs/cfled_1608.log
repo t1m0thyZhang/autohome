@@ -1,0 +1,13 @@
+2017-06-05 16:08:46,516 spiders.py[line:68] INFO Reading start URLs from redis key 'cfled:start_urls' (batch size: 16, encoding: utf-8
+2017-06-05 16:08:48,197 __init__.py[line:47] DEBUG Resuming crawl (6 requests scheduled)
+2017-06-05 16:08:49,256 spiders.py[line:95] DEBUG Read 1 requests from 'cfled:start_urls'
+2017-06-05 16:08:50,081 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=445.
+2017-06-05 16:08:52,732 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=446.
+2017-06-05 16:08:57,704 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=447.
+2017-06-05 16:09:02,953 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=466.
+2017-06-05 16:09:08,759 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=489.
+2017-06-05 16:09:15,073 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=490.
+2017-06-05 16:09:20,013 spider_cfled.py[line:51] INFO step into layer1, url is: http://www.cfled.com/product.aspx.
+2017-06-05 16:09:25,651 spider_cfled.py[line:103] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=372.
+2017-06-05 16:11:13,720 spider_cfled.py[line:103] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=373.
+2017-06-05 16:11:18,576 spider_cfled.py[line:103] INFO step into layer3, url is: http://www.cfled.com/product1_show.aspx?ProId=374.

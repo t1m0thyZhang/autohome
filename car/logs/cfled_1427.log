@@ -1,0 +1,16 @@
+2017-06-05 14:27:17,095 spiders.py[line:68] INFO Reading start URLs from redis key 'cfled:start_urls' (batch size: 16, encoding: utf-8
+2017-06-05 14:27:19,786 spiders.py[line:95] DEBUG Read 1 requests from 'cfled:start_urls'
+2017-06-05 14:27:20,793 spider_cfled.py[line:51] INFO step into layer1, url is: http://www.cfled.com/product.aspx.
+2017-06-05 14:27:25,367 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=27.
+2017-06-05 14:27:53,608 spider_cfled.py[line:95] ERROR layer2 failed, url is:(http://www.cfled.com/product1.aspx?CateId=27), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 79, in parse2
+    item["image"] = image
+TypeError: 'ItemMeta' object does not support item assignment
+)
+2017-06-05 14:27:54,098 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=28.
+2017-06-05 14:28:09,806 spider_cfled.py[line:95] ERROR layer2 failed, url is:(http://www.cfled.com/product1.aspx?CateId=28), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 79, in parse2
+    item["image"] = image
+TypeError: 'ItemMeta' object does not support item assignment
+)
+2017-06-05 14:28:10,296 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=207.

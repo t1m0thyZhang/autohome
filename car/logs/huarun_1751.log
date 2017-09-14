@@ -1,0 +1,55 @@
+2017-06-07 17:51:52,911 spiders.py[line:68] INFO Reading start URLs from redis key 'huarun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 17:51:55,526 spiders.py[line:95] DEBUG Read 1 requests from 'huarun:start_urls'
+2017-06-07 17:51:58,828 spider_huarun.py[line:74] INFO url is: http://www.huarun.com/product/productWall/?t=26.
+2017-06-07 17:51:59,960 spider_huarun.py[line:150] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 119, in parse2
+    tmp = the_page.split("bimg\":\"\\")[1]
+IndexError: list index out of range
+)
+2017-06-07 17:52:08,013 spider_huarun.py[line:150] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 119, in parse2
+    tmp = the_page.split("bimg\":\"\\")[1]
+IndexError: list index out of range
+)
+2017-06-07 17:52:10,894 spider_huarun.py[line:150] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 119, in parse2
+    tmp = the_page.split("bimg\":\"\\")[1]
+IndexError: list index out of range
+)
+2017-06-07 17:52:16,835 spider_huarun.py[line:150] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 119, in parse2
+    tmp = the_page.split("bimg\":\"\\")[1]
+IndexError: list index out of range
+)
+2017-06-07 17:52:22,275 spider_huarun.py[line:150] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 119, in parse2
+    tmp = the_page.split("bimg\":\"\\")[1]
+IndexError: list index out of range
+)
+2017-06-07 17:54:29,466 spiders.py[line:95] DEBUG Read 1 requests from 'huarun:start_urls'
+2017-06-07 17:54:29,746 spider_huarun.py[line:74] INFO url is: http://www.huarun.com/product/productWall/?t=26.
+2017-06-07 17:54:32,638 spider_huarun.py[line:150] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 119, in parse2
+    if "bimg" in the_page:
+IndexError: list index out of range
+)
+2017-06-07 17:54:40,980 spider_huarun.py[line:150] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 119, in parse2
+    if "bimg" in the_page:
+IndexError: list index out of range
+)
+2017-06-07 17:54:41,349 spider_huarun.py[line:150] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 119, in parse2
+    if "bimg" in the_page:
+IndexError: list index out of range
+)
+2017-06-07 17:54:50,174 spider_huarun.py[line:150] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 119, in parse2
+    if "bimg" in the_page:
+IndexError: list index out of range
+)
+2017-06-07 17:54:55,078 spider_huarun.py[line:150] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 119, in parse2
+    if "bimg" in the_page:
+IndexError: list index out of range
+)

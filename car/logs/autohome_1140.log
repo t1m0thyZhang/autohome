@@ -1,0 +1,9 @@
+2017-08-17 11:40:06,163 spiders.py[line:68] INFO Reading start URLs from redis key 'autohome:start_urls' (batch size: 1, encoding: utf-8
+2017-08-17 11:40:39,315 spiders.py[line:68] INFO Reading start URLs from redis key 'autohome:start_urls' (batch size: 1, encoding: utf-8
+2017-08-17 11:40:42,395 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 11:40:42,496 spider_autohome.py[line:106] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1667981_1.html?st=16&piap=0%7C471%7C9318%7C0%7C1%7C0%7C0%7C0%7C0%7C0%7C1.
+2017-08-17 11:41:11,759 spider_autohome.py[line:174] ERROR layer 4 failed:  url is:(http://k.autohome.com.cn/spec/28681/view_1667981_1.html?st=16&piap=0%7C471%7C9318%7C0%7C1%7C0%7C0%7C0%7C0%7C0%7C1), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\spider_car\car\spiders\spider_autohome.py", line 134, in parse
+    user_oil = re.sub("<.*?>|\r|\n|\t|", "".join(user_oil))
+TypeError: sub() takes at least 3 arguments (2 given)
+)

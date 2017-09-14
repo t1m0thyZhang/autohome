@@ -1,0 +1,3 @@
+2017-08-17 11:34:22,538 spiders.py[line:68] INFO Reading start URLs from redis key 'autohome:start_urls' (batch size: 1, encoding: utf-8
+2017-08-17 11:34:25,456 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 11:34:25,555 spider_autohome.py[line:106] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/28681/view_1667981_1.html?st=16&piap=0%7C471%7C9318%7C0%7C1%7C0%7C0%7C0%7C0%7C0%7C1.

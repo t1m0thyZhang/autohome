@@ -1,0 +1,12 @@
+2017-06-07 10:48:20,141 spiders.py[line:68] INFO Reading start URLs from redis key 'dibei:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 10:48:22,707 spiders.py[line:95] DEBUG Read 3 requests from 'dibei:start_urls'
+2017-06-07 10:48:23,220 spider_dibei.py[line:52] INFO url is: http://www.dibei.com/index.php/list-17-1.html.
+2017-06-07 10:48:28,082 spider_dibei.py[line:52] INFO url is: http://www.dibei.com/index.php/list-20-1.html.
+2017-06-07 10:48:34,109 spider_dibei.py[line:52] INFO url is: http://www.dibei.com/index.php/list-18-1.html.
+2017-06-07 10:48:39,236 spider_dibei.py[line:67] INFO url is: http://www.dibei.com/product/page-17-211.html.
+2017-06-07 10:49:11,095 spider_dibei.py[line:102] ERROR failed, url is:(http://www.dibei.com/product/page-17-211.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_dibei.py", line 95, in parse2
+    pname = pname.split(" ","")[0]
+TypeError: an integer is required
+)
+2017-06-07 10:49:11,319 spider_dibei.py[line:67] INFO url is: http://www.dibei.com/product/page-17-207.html.

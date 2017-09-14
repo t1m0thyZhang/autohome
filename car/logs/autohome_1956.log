@@ -1,0 +1,17 @@
+2017-08-16 19:56:44,454 spiders.py[line:68] INFO Reading start URLs from redis key 'autohome:start_urls' (batch size: 1, encoding: utf-8
+2017-08-16 19:56:47,749 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-16 19:56:47,858 spider_autohome.py[line:54] INFO url is: http://www.autohome.com.cn/3030/.
+2017-08-16 19:56:47,904 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-16 19:56:53,595 spider_autohome.py[line:54] INFO url is: http://www.autohome.com.cn/3071/.
+2017-08-16 19:56:53,622 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-16 19:56:58,065 spider_autohome.py[line:54] INFO url is: http://www.autohome.com.cn/2941/.
+2017-08-16 19:57:02,229 spider_autohome.py[line:65] ERROR failed, url is:(http://www.autohome.com.cn/2941/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\autohome\autohome\car\spiders\spider_autohome.py", line 61, in parse
+    request = Request(url, callback=self.parse3)
+AttributeError: 'AutohomeSpider' object has no attribute 'parse3'
+)
+2017-08-16 19:57:02,244 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-16 19:57:02,963 spider_autohome.py[line:54] INFO url is: http://www.autohome.com.cn/762/.
+2017-08-16 19:57:02,994 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-16 19:57:06,529 spider_autohome.py[line:54] INFO url is: http://www.autohome.com.cn/3537/.
+2017-08-16 19:57:06,546 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'

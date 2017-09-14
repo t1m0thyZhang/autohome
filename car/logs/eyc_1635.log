@@ -1,0 +1,6 @@
+2017-06-06 16:35:17,559 spiders.py[line:68] INFO Reading start URLs from redis key 'eyc:start_urls' (batch size: 16, encoding: utf-8
+2017-06-06 16:35:20,188 spiders.py[line:95] DEBUG Read 4 requests from 'eyc:start_urls'
+2017-06-06 16:35:22,663 spider_eyc.py[line:54] INFO step into layer1, url is: http://www.eyc.cn/products.asp?info_kind=001004.
+2017-06-06 16:37:10,206 spider_eyc.py[line:54] INFO step into layer1, url is: http://www.eyc.cn/products.asp?info_kind=001006.
+2017-06-06 16:37:14,836 spider_eyc.py[line:54] INFO step into layer1, url is: http://www.eyc.cn/products.asp?info_kind=001005.
+2017-06-06 16:37:17,947 spider_eyc.py[line:54] INFO step into layer1, url is: http://www.eyc.cn/products.asp?info_kind=001003.

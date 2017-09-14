@@ -1,0 +1,7 @@
+2017-05-29 23:44:34,895 spiders.py[line:68] INFO Reading start URLs from redis key 'tt:start_urls' (batch size: 16, encoding: utf-8
+2017-05-29 23:44:36,700 __init__.py[line:47] DEBUG Resuming crawl (10 requests scheduled)
+2017-05-29 23:44:37,861 spiders.py[line:95] DEBUG Read 1 requests from 'tt:start_urls'
+2017-05-29 23:44:38,177 spider_tt.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02876.
+2017-05-29 23:44:41,759 spider_tt.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02878.
+2017-05-29 23:44:47,325 spider_tt.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=03062.
+2017-05-29 23:44:51,915 spider_tt.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=05062.

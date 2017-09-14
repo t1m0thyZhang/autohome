@@ -1,0 +1,27 @@
+2017-06-05 14:15:56,364 spiders.py[line:68] INFO Reading start URLs from redis key 'cfled:start_urls' (batch size: 16, encoding: utf-8
+2017-06-05 14:15:58,917 spiders.py[line:95] DEBUG Read 1 requests from 'cfled:start_urls'
+2017-06-05 14:15:59,605 spider_cfled.py[line:51] INFO step into layer1, url is: http://www.cfled.com/product.aspx.
+2017-06-05 14:16:04,243 spider_cfled.py[line:92] INFO step into layer1, url is: http://www.cfled.com/product1.aspx?CateId=27.
+2017-06-05 14:16:04,244 spider_cfled.py[line:125] ERROR layer1 failed, url is:(http://www.cfled.com/product1.aspx?CateId=27), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 94, in parse2
+    item = response.meta["item"]
+KeyError: 'item'
+)
+2017-06-05 14:16:09,769 spider_cfled.py[line:92] INFO step into layer1, url is: http://www.cfled.com/product1.aspx?CateId=28.
+2017-06-05 14:16:09,772 spider_cfled.py[line:125] ERROR layer1 failed, url is:(http://www.cfled.com/product1.aspx?CateId=28), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 94, in parse2
+    item = response.meta["item"]
+KeyError: 'item'
+)
+2017-06-05 14:16:14,605 spider_cfled.py[line:92] INFO step into layer1, url is: http://www.cfled.com/product1.aspx?CateId=207.
+2017-06-05 14:16:14,605 spider_cfled.py[line:125] ERROR layer1 failed, url is:(http://www.cfled.com/product1.aspx?CateId=207), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 94, in parse2
+    item = response.meta["item"]
+KeyError: 'item'
+)
+2017-06-05 14:16:20,322 spider_cfled.py[line:92] INFO step into layer1, url is: http://www.cfled.com/product1.aspx?CateId=208.
+2017-06-05 14:16:20,322 spider_cfled.py[line:125] ERROR layer1 failed, url is:(http://www.cfled.com/product1.aspx?CateId=208), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 94, in parse2
+    item = response.meta["item"]
+KeyError: 'item'
+)

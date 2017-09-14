@@ -1,0 +1,6 @@
+2017-05-24 15:16:17,549 spiders.py[line:68] INFO Reading start URLs from redis key 'imc:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 15:16:17,954 __init__.py[line:46] DEBUG Resuming crawl (37 requests scheduled)
+2017-05-24 15:16:18,969 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=16.
+2017-05-24 15:16:36,880 spiders.py[line:68] INFO Reading start URLs from redis key 'imc:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 15:16:37,285 __init__.py[line:46] DEBUG Resuming crawl (20 requests scheduled)
+2017-05-24 15:16:38,301 spider_imc.py[line:81] INFO layer2 url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Products.aspx?mapp=IS&app=142.

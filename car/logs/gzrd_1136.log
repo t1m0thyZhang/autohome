@@ -1,0 +1,14 @@
+2017-06-08 11:36:40,647 spiders.py[line:68] INFO Reading start URLs from redis key 'gzrd:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 11:36:42,171 __init__.py[line:47] DEBUG Resuming crawl (2 requests scheduled)
+2017-06-08 11:36:43,200 spiders.py[line:95] DEBUG Read 1 requests from 'gzrd:start_urls'
+2017-06-08 11:36:43,694 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/qitasuliaobaozhuangp.shtml.
+2017-06-08 11:36:48,210 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/zaoxingleisuliaoping.shtml.
+2017-06-08 11:36:53,696 spider_gzrd.py[line:50] INFO url is: http://www.gzronda.com.cn/.
+2017-06-08 11:36:59,036 spider_gzrd.py[line:84] INFO url is: http://www.gzronda.com.cn/PETsuliaopingxilie/PEsuliaopingshouyuan.html.
+2017-06-08 11:36:59,046 spider_gzrd.py[line:124] ERROR failed, url is:(http://www.gzronda.com.cn/PETsuliaopingxilie/PEsuliaopingshouyuan.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_gzrd.py", line 101, in parse3
+    detail_all = detail1 + detail2
+UnboundLocalError: local variable 'detail2' referenced before assignment
+)
+2017-06-08 11:37:04,657 spider_gzrd.py[line:84] INFO url is: http://www.gzronda.com.cn/xihulei/guangzhouPETsuliaopi.html.
+2017-06-08 11:37:10,397 spider_gzrd.py[line:69] INFO url is: http://www.gzronda.com.cn/suliaoping.shtml.

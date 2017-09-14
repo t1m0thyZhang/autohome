@@ -1,0 +1,12 @@
+2017-06-08 10:20:18,147 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'jsb:items' (server: localhost, port: 6379)
+2017-06-08 10:20:19,193 download_items_from_redis.py[line:93] INFO [jsb:items] Processing item: 熊大（JT-P246A) <http://www.hbjieshibao.com/product_view_12385.html>
+2017-06-08 10:20:19,210 download_items_from_redis.py[line:93] INFO [jsb:items] Processing item: 木浆胶棉JT-04 <http://www.hbjieshibao.com/product_view_11886.html>
+2017-06-08 10:20:19,213 download_items_from_redis.py[line:93] INFO [jsb:items] Processing item: 熊大（JT-P246A) <http://www.hbjieshibao.com/product_view_12385.html>
+2017-06-08 10:20:19,213 download_items_from_redis.py[line:93] INFO [jsb:items] Processing item: 银巧手(A1) <http://www.hbjieshibao.com/product_view_11872.html>
+2017-06-08 10:20:19,213 download_items_from_redis.py[line:93] INFO [jsb:items] Processing item: 鹊桥会万向平拖(JP-2YB) <http://www.hbjieshibao.com/product_view_11869.html>
+2017-06-08 10:20:19,213 download_items_from_redis.py[line:93] INFO [jsb:items] Processing item: 双面绒高清屏布（一片装）(JF-R007) <http://www.hbjieshibao.com/product_view_11430.html>
+2017-06-08 10:22:43,249 download_items_from_redis.py[line:93] INFO [jsb:items] Processing item: 双面绒高清屏布（一片装）(JF-R007) <http://www.hbjieshibao.com/product_view_11430.html>
+2017-06-08 10:22:46,788 download_items_from_redis.py[line:93] INFO [jsb:items] Processing item: 熊大（JT-P246A) <http://www.hbjieshibao.com/product_view_12385.html>
+2017-06-08 10:22:51,973 download_items_from_redis.py[line:93] INFO [jsb:items] Processing item: 木浆胶棉JT-04 <http://www.hbjieshibao.com/product_view_11886.html>
+2017-06-08 10:22:57,822 download_items_from_redis.py[line:93] INFO [jsb:items] Processing item: 鹊桥会万向平拖(JP-2YB) <http://www.hbjieshibao.com/product_view_11869.html>
+2017-06-08 10:23:03,013 download_items_from_redis.py[line:93] INFO [jsb:items] Processing item: 银巧手(A1) <http://www.hbjieshibao.com/product_view_11872.html>

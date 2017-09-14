@@ -1,0 +1,12 @@
+2017-06-02 10:20:02,786 spiders.py[line:68] INFO Reading start URLs from redis key 'osram:start_urls' (batch size: 16, encoding: utf-8
+2017-06-02 10:20:05,302 spiders.py[line:95] DEBUG Read 1 requests from 'osram:start_urls'
+2017-06-02 10:20:38,778 spiders.py[line:68] INFO Reading start URLs from redis key 'osram:start_urls' (batch size: 16, encoding: utf-8
+2017-06-02 10:20:41,279 spiders.py[line:95] DEBUG Read 1 requests from 'osram:start_urls'
+2017-06-02 10:20:59,773 spiders.py[line:68] INFO Reading start URLs from redis key 'osram:start_urls' (batch size: 16, encoding: utf-8
+2017-06-02 10:21:02,234 spiders.py[line:95] DEBUG Read 1 requests from 'osram:start_urls'
+2017-06-02 10:21:41,219 spiders.py[line:95] DEBUG Read 1 requests from 'osram:start_urls'
+2017-06-02 10:22:16,213 spiders.py[line:95] DEBUG Read 1 requests from 'osram:start_urls'
+2017-06-02 10:22:16,358 spider_osram.py[line:51] INFO step into layer1, url is: http://www.osram.com.cn/osram_cn/.
+2017-06-02 10:22:22,341 spider_osram.py[line:65] INFO step into layer2, url is: http://www.osram.com.cn/osram_cn/products/led-technology/light-engines-and-modules/index.jsp.
+2017-06-02 10:22:28,183 spider_osram.py[line:80] INFO step into layer3, url is: http://www.osram.com.cn/osram_cn/products/led-technology/light-engines-and-modules/spot-%2c-down-and-wallmount-light-engines-and-modules/index.jsp.
+2017-06-02 10:22:34,127 spider_osram.py[line:94] INFO step into layer4, url is: http://www.osram.com.cn/osram_cn/products/led-technology/light-engines-and-modules/spot-%2c-down-and-wallmount-light-engines-and-modules/prevaled-core-ac-pro/index.jsp.

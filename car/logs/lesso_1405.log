@@ -1,0 +1,10 @@
+2017-06-08 14:05:06,006 spiders.py[line:68] INFO Reading start URLs from redis key 'lesso:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 14:05:08,663 spiders.py[line:95] DEBUG Read 1 requests from 'lesso:start_urls'
+2017-06-08 14:05:14,502 spider_lesso.py[line:50] INFO url is: http://www.lesso.com/.
+2017-06-08 14:05:14,769 spider_lesso.py[line:65] INFO url is: http://www.lesso.com//product/piping/.
+2017-06-08 14:05:20,585 spider_lesso.py[line:78] INFO url is: http://www.lesso.com//product/25.
+2017-06-08 14:07:19,013 spider_lesso.py[line:110] ERROR failed, url is:(http://www.lesso.com//product/25), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_lesso.py", line 103, in parse3
+    items.append(item)
+AttributeError: 'dict' object has no attribute 'append'
+)

@@ -1,0 +1,15 @@
+2017-05-25 14:59:00,732 spiders.py[line:68] INFO Reading start URLs from redis key 'sv:start_urls' (batch size: 16, encoding: utf-8
+2017-05-25 14:59:02,566 __init__.py[line:47] DEBUG Resuming crawl (10 requests scheduled)
+2017-05-25 14:59:04,069 spiders.py[line:95] DEBUG Read 1 requests from 'sv:start_urls'
+2017-05-25 14:59:05,923 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx.
+2017-05-25 15:02:23,898 spider_sv.py[line:113] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 102, in parse3
+    d = detail.split("产品详细信息")[1].split("ISO应用范围")[0]
+IndexError: list index out of range
+)
+2017-05-25 15:02:26,042 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx.
+2017-05-25 15:04:05,058 spider_sv.py[line:113] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 102, in parse3
+    d = detail.split("产品详细信息")[1].split("ISO应用范围")[0]
+IndexError: list index out of range
+)

@@ -1,0 +1,3 @@
+2017-05-29 17:38:42,219 spiders.py[line:68] INFO Reading start URLs from redis key 'knt:start_urls' (batch size: 16, encoding: utf-8
+2017-05-29 17:38:44,065 __init__.py[line:47] DEBUG Resuming crawl (1 requests scheduled)
+2017-05-29 17:38:48,411 spider_knt.py[line:60] INFO class url is: https://www.kennametal.com/zh/products/20478624/57493250/556247/46610642/46708769/46940964.html.

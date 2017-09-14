@@ -1,0 +1,3 @@
+2017-06-07 22:00:11,440 spiders.py[line:68] INFO Reading start URLs from redis key 'testjs:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 22:00:14,154 spiders.py[line:95] DEBUG Read 1 requests from 'testjs:start_urls'
+2017-06-07 22:00:14,444 spider_testjs.py[line:51] INFO step into layer1, url is: http://www.nvc-lighting.com.cn/unifiedMerchandise/page.do?&pageNum=1&pageSize=16&keywords=&queryType=-1&orderType=1&mallClassifyId=0&qc_client_type=pc.

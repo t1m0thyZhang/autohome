@@ -1,0 +1,22 @@
+2017-06-05 13:24:30,801 spiders.py[line:68] INFO Reading start URLs from redis key 'tcl:start_urls' (batch size: 16, encoding: utf-8
+2017-06-05 13:24:32,430 __init__.py[line:47] DEBUG Resuming crawl (9 requests scheduled)
+2017-06-05 13:24:33,740 spiders.py[line:95] DEBUG Read 7 requests from 'tcl:start_urls'
+2017-06-05 13:24:33,838 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?18-22.html.
+2017-06-05 13:25:01,918 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?20-25.html.
+2017-06-05 13:25:07,398 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?20-26.html.
+2017-06-05 13:25:12,388 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?20-27.html.
+2017-06-05 13:25:17,276 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?21-32.html.
+2017-06-05 13:25:22,335 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?21-33.html.
+2017-06-05 13:25:26,655 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?21-34.html.
+2017-06-05 13:25:45,187 spider_tcl.py[line:59] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/?1-0-0-3.html.
+2017-06-05 13:25:50,453 spider_tcl.py[line:59] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/?1-0-0-2.html.
+2017-06-05 13:26:04,473 spider_tcl.py[line:59] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/?1-0-0-1.html.
+2017-06-05 13:26:29,960 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?16-14.html.
+2017-06-05 13:26:35,190 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?17-17.html.
+2017-06-05 13:26:40,977 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?18-21.html.
+2017-06-05 13:26:45,875 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?20-24.html.
+2017-06-05 13:26:50,773 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?21-31.html.
+2017-06-05 13:26:56,269 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?14-2.html.
+2017-06-05 13:27:01,634 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?20-28.html.
+2017-06-05 13:27:04,500 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?21-34.html.
+2017-06-05 13:27:09,993 spider_tcl.py[line:81] INFO step into layer1, url is: http://www.tcl-lighting.com/cn/products/show/?21-35.html.

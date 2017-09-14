@@ -1,0 +1,3 @@
+2017-05-31 10:55:27,766 spiders.py[line:68] INFO Reading start URLs from redis key 'koyo:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 10:55:30,263 spiders.py[line:95] DEBUG Read 1 requests from 'koyo:start_urls'
+2017-05-31 10:55:30,618 spider_koyo.py[line:51] INFO step into layer1, url is: http://www.koyo.tw/a/chanpinxinxi/.

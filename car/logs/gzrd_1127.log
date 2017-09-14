@@ -1,0 +1,11 @@
+2017-06-08 11:27:20,414 spiders.py[line:68] INFO Reading start URLs from redis key 'gzrd:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 11:27:21,996 __init__.py[line:47] DEBUG Resuming crawl (59 requests scheduled)
+2017-06-08 11:27:22,565 spider_gzrd.py[line:82] INFO url is: http://www.gzronda.com.cn/Products/PEsuliaopingE028.html.
+2017-06-08 11:27:59,203 spiders.py[line:68] INFO Reading start URLs from redis key 'gzrd:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 11:28:00,801 __init__.py[line:47] DEBUG Resuming crawl (42 requests scheduled)
+2017-06-08 11:28:01,470 spider_gzrd.py[line:82] INFO url is: http://www.gzronda.com.cn/xihulei/PETsuliaopingH077.html.
+2017-06-08 11:28:14,312 spider_gzrd.py[line:127] ERROR failed, url is:(http://www.gzronda.com.cn/xihulei/PETsuliaopingH077.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_gzrd.py", line 93, in parse3
+    if "产品标题：" in detail1:
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 0: ordinal not in range(128)
+)

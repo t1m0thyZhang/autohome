@@ -1,0 +1,22 @@
+2017-05-31 10:17:33,290 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'koyo:items' (server: localhost, port: 6379)
+2017-05-31 10:17:34,305 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 产业机械用驱动轴 <http://www.koyo.tw/24.html >
+2017-05-31 10:17:34,312 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 产业机械用驱动轴 <http://www.koyo.tw/24.html >
+2017-05-31 10:17:34,316 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 轧机支承辊用圆柱滚子轴 <http://www.koyo.tw/22.html >
+2017-05-31 10:17:34,319 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 连铸机用轴承及相关产品 <http://www.koyo.tw/21.html >
+2017-05-31 10:17:34,325 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 轧机辊颈用轴承 <http://www.koyo.tw/23.html >
+2017-05-31 10:17:34,329 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 自动调心滚子轴承 <http://www.koyo.tw/14.html >
+2017-05-31 10:17:34,334 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 小型单向离合器 <http://www.koyo.tw/20.html >
+2017-05-31 10:17:34,338 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 圆锥滚子轴承 <http://www.koyo.tw/13.html >
+2017-05-31 10:17:34,342 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 圆柱滚子轴承 <http://www.koyo.tw/12.html >
+2017-05-31 10:17:34,346 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 角接触球轴承 <http://www.koyo.tw/11.html >
+2017-05-31 10:17:34,351 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: HighAbility轴承系列 <http://www.koyo.tw/19.html >
+2017-05-31 10:17:34,354 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 深沟球轴承 <http://www.koyo.tw/10.html >
+2017-05-31 10:17:34,357 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 机床用精密滚动轴承 <http://www.koyo.tw/18.html >
+2017-05-31 10:17:34,361 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 轮毂轴承 <http://www.koyo.tw/9.html >
+2017-05-31 10:17:34,364 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 驱动系统用轴承 <http://www.koyo.tw/7.html >
+2017-05-31 10:17:34,368 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 油封 <http://www.koyo.tw/8.html >
+2017-05-31 10:17:34,371 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 陶瓷轴承 <http://www.koyo.tw/17.html >
+2017-05-31 10:17:34,377 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: EXSEV轴承 <http://www.koyo.tw/16.html >
+2017-05-31 10:17:34,381 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 发动机及周边轴承 <http://www.koyo.tw/5.html >
+2017-05-31 10:17:34,384 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 变速箱用轴承 <http://www.koyo.tw/6.html >
+2017-05-31 10:17:34,385 download_items_from_redis.py[line:93] INFO [koyo:items] Processing item: 滚针轴承 <http://www.koyo.tw/15.html >

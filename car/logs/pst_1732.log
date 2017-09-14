@@ -1,0 +1,12 @@
+2017-06-08 17:32:24,592 spiders.py[line:68] INFO Reading start URLs from redis key 'pst:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 17:32:27,302 spiders.py[line:95] DEBUG Read 5 requests from 'pst:start_urls'
+2017-06-08 17:32:30,971 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-1.aspx.
+2017-06-08 17:32:34,828 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-4.aspx.
+2017-06-08 17:32:39,983 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-3.aspx.
+2017-06-08 17:32:44,950 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-2.aspx.
+2017-06-08 17:32:49,578 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-0.aspx.
+2017-06-08 17:32:53,542 spider_pst.py[line:64] INFO detail is being parsed, url is: http://www.pousto.com.cn/pros_show-252-1156.aspx.
+2017-06-08 17:32:56,344 spider_pst.py[line:64] INFO detail is being parsed, url is: http://www.pousto.com.cn/pros_show-39-499.aspx.
+2017-06-08 17:33:01,823 spider_pst.py[line:64] INFO detail is being parsed, url is: http://www.pousto.com.cn/pros_show-223-742.aspx.
+2017-06-08 17:33:05,257 spider_pst.py[line:64] INFO detail is being parsed, url is: http://www.pousto.com.cn/pros_show-212-915.aspx.
+2017-06-08 17:33:10,109 spider_pst.py[line:64] INFO detail is being parsed, url is: http://www.pousto.com.cn/pros_show-252-1156.aspx.

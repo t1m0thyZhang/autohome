@@ -1,0 +1,14 @@
+2017-08-16 20:12:34,960 spiders.py[line:68] INFO Reading start URLs from redis key 'autohome:start_urls' (batch size: 1, encoding: utf-8
+2017-08-16 20:12:38,368 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-16 20:12:38,477 spider_autohome.py[line:54] INFO url is: http://www.autohome.com.cn/520/.
+2017-08-16 20:12:38,525 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-16 20:12:41,288 spider_autohome.py[line:54] INFO url is: http://www.autohome.com.cn/329/.
+2017-08-16 20:12:41,319 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-16 20:12:45,589 spider_autohome.py[line:54] INFO url is: http://www.autohome.com.cn/83/.
+2017-08-16 20:12:45,630 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-16 20:12:50,588 spider_autohome.py[line:54] INFO url is: http://www.autohome.com.cn/490/.
+2017-08-16 20:12:50,632 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-16 20:12:56,805 spider_autohome.py[line:54] INFO url is: http://www.autohome.com.cn/293/.
+2017-08-16 20:12:56,838 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-16 20:13:00,549 spider_autohome.py[line:54] INFO url is: http://www.autohome.com.cn/982/.
+2017-08-16 20:13:04,009 spider_autohome.py[line:68] INFO detail is being parsed, url is: http://k.autohome.com.cn/982/9326/.

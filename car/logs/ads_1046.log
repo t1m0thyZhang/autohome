@@ -1,0 +1,66 @@
+2017-06-12 10:46:24,697 spiders.py[line:68] INFO Reading start URLs from redis key 'ads:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 10:46:27,259 spiders.py[line:95] DEBUG Read 1 requests from 'ads:start_urls'
+2017-06-12 10:46:27,441 spider_ads.py[line:52] INFO url is: http://www.aoddise.com/products-21-1.html.
+2017-06-12 10:46:33,243 spider_ads.py[line:71] INFO url is: http://www.aoddise.com/products-23-1.html.
+2017-06-12 10:46:37,076 spider_ads.py[line:71] INFO url is: http://www.aoddise.com/products-21-1.html.
+2017-06-12 10:46:42,739 spider_ads.py[line:71] INFO url is: http://www.aoddise.com/products-28-1.html.
+2017-06-12 10:46:46,678 spider_ads.py[line:71] INFO url is: http://www.aoddise.com/products-22-1.html.
+2017-06-12 10:46:53,480 spider_ads.py[line:71] INFO url is: http://www.aoddise.com/products-25-1.html.
+2017-06-12 10:46:55,568 spider_ads.py[line:71] INFO url is: http://www.aoddise.com/products-26-1.html.
+2017-06-12 10:47:00,259 spider_ads.py[line:71] INFO url is: http://www.aoddise.com/products-24-1.html.
+2017-06-12 10:47:05,480 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-85.html.
+2017-06-12 10:47:10,890 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-86.html.
+2017-06-12 10:47:13,256 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-87.html.
+2017-06-12 10:47:18,243 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-65.html.
+2017-06-12 10:47:24,176 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-67.html.
+2017-06-12 10:47:29,842 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-88.html.
+2017-06-12 10:47:34,059 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-89.html.
+2017-06-12 10:47:39,680 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-90.html.
+2017-06-12 10:47:44,701 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-91.html.
+2017-06-12 10:47:50,553 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-63.html.
+2017-06-12 10:47:56,198 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-78.html.
+2017-06-12 10:48:01,721 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-41.html.
+2017-06-12 10:48:06,490 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-42.html.
+2017-06-12 10:48:11,112 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-47.html.
+2017-06-12 10:48:16,232 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-72.html.
+2017-06-12 10:48:20,154 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-73.html.
+2017-06-12 10:48:25,131 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-74.html.
+2017-06-12 10:48:28,647 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-75.html.
+2017-06-12 10:48:33,042 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-76.html.
+2017-06-12 10:48:37,391 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-77.html.
+2017-06-12 10:48:43,164 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-92.html.
+2017-06-12 10:48:49,066 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-93.html.
+2017-06-12 10:48:51,719 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-94.html.
+2017-06-12 10:48:55,572 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-95.html.
+2017-06-12 10:48:59,862 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-96.html.
+2017-06-12 10:49:04,703 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-97.html.
+2017-06-12 10:49:10,464 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-98.html.
+2017-06-12 10:49:15,503 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-48.html.
+2017-06-12 10:49:21,048 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-49.html.
+2017-06-12 10:49:24,210 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-79.html.
+2017-06-12 10:49:28,612 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-80.html.
+2017-06-12 10:49:33,441 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-81.html.
+2017-06-12 10:49:37,013 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-82.html.
+2017-06-12 10:49:42,611 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-83.html.
+2017-06-12 10:49:45,540 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-84.html.
+2017-06-12 10:49:51,272 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-99.html.
+2017-06-12 10:49:57,000 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-100.html.
+2017-06-12 10:50:03,072 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-101.html.
+2017-06-12 10:50:07,852 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-102.html.
+2017-06-12 10:50:11,875 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-103.html.
+2017-06-12 10:50:15,874 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-104.html.
+2017-06-12 10:50:21,290 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-105.html.
+2017-06-12 10:50:25,428 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-106.html.
+2017-06-12 10:50:30,413 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-107.html.
+2017-06-12 10:50:36,831 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-108.html.
+2017-06-12 10:50:41,914 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-109.html.
+2017-06-12 10:50:46,710 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-110.html.
+2017-06-12 10:50:51,842 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-111.html.
+2017-06-12 10:50:57,604 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-112.html.
+2017-06-12 10:51:03,003 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-113.html.
+2017-06-12 10:51:07,459 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-114.html.
+2017-06-12 10:51:12,517 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-68.html.
+2017-06-12 10:51:18,174 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-69.html.
+2017-06-12 10:51:23,158 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-70.html.
+2017-06-12 10:51:28,573 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-71.html.
+2017-06-12 10:51:32,173 spider_ads.py[line:87] INFO detail is being parsed, url is: http://www.aoddise.com/products-view-50.html.

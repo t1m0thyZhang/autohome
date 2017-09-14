@@ -1,0 +1,12 @@
+2017-06-02 13:50:38,838 spiders.py[line:68] INFO Reading start URLs from redis key 'nvc:start_urls' (batch size: 16, encoding: utf-8
+2017-06-02 13:50:41,352 spiders.py[line:95] DEBUG Read 1 requests from 'nvc:start_urls'
+2017-06-02 13:50:41,561 spider_nvc.py[line:62] INFO step into layer1, url is: http://www.nvc-lighting.com.cn/productCategory.html?fixedAttributeId=1000000000010201&fixedAttributeValue=%E5%AE%A2%E5%8E%85%E7%85%A7%E6%98%8E%E4%B8%93%E5%8C%BA.
+2017-06-02 13:51:37,598 spider_nvc.py[line:89] ERROR layer1 failed, url is:(http://www.nvc-lighting.com.cn/productCategory.html?fixedAttributeId=1000000000010201&fixedAttributeValue=%E5%AE%A2%E5%8E%85%E7%85%A7%E6%98%8E%E4%B8%93%E5%8C%BA), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_nvc.py", line 78, in parse
+    detail = re.sub("<.*?>|\r|\n|\t| ", "", details[i])
+  File "E:\python27\lib\re.py", line 155, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+TypeError: expected string or buffer
+)
+2017-06-02 13:52:30,299 spiders.py[line:95] DEBUG Read 1 requests from 'nvc:start_urls'
+2017-06-02 13:52:30,453 spider_nvc.py[line:62] INFO step into layer1, url is: http://www.nvc-lighting.com.cn/productCategory.html?fixedAttributeId=1000000000010201&fixedAttributeValue=%E5%AE%A2%E5%8E%85%E7%85%A7%E6%98%8E%E4%B8%93%E5%8C%BA.

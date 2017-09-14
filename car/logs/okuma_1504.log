@@ -1,0 +1,14 @@
+2017-05-31 15:04:00,749 spiders.py[line:68] INFO Reading start URLs from redis key 'okuma:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 15:04:03,341 spiders.py[line:95] DEBUG Read 1 requests from 'okuma:start_urls'
+2017-05-31 15:04:03,904 spider_okuma.py[line:51] INFO step into layer1, url is: http://www.okuma.co.jp/chinese/product/.
+2017-05-31 15:04:03,950 spider_okuma.py[line:63] ERROR layer1 failed, url is:(http://www.okuma.co.jp/chinese/product/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_okuma.py", line 59, in parse
+    request = Request(fullurl, callback=self.parse2,meta={'pname',pnames[i]}, dont_filter=True)
+  File "E:\python27\lib\site-packages\scrapy\http\request\__init__.py", line 38, in __init__
+    self._meta = dict(meta) if meta else None
+ValueError: dictionary update sequence element #0 has length 8; 2 is required
+)
+2017-05-31 15:04:29,627 spiders.py[line:68] INFO Reading start URLs from redis key 'okuma:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 15:04:32,197 spiders.py[line:95] DEBUG Read 1 requests from 'okuma:start_urls'
+2017-05-31 15:04:32,757 spider_okuma.py[line:51] INFO step into layer1, url is: http://www.okuma.co.jp/chinese/product/.
+2017-05-31 15:04:38,153 spider_okuma.py[line:67] INFO step into layer1, url is: http://www.okuma.co.jp/chinese/product/5avmc/index.html.

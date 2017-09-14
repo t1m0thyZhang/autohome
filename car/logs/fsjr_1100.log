@@ -1,0 +1,21 @@
+2017-06-08 11:00:37,404 spiders.py[line:68] INFO Reading start URLs from redis key 'fsjr:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 11:02:10,729 spiders.py[line:95] DEBUG Read 16 requests from 'fsjr:start_urls'
+2017-06-08 11:02:10,828 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=543.
+2017-06-08 11:02:13,364 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=606.
+2017-06-08 11:02:18,043 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=412.
+2017-06-08 11:02:46,259 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=269.
+2017-06-08 11:02:50,055 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=476.
+2017-06-08 11:03:05,234 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=501.
+2017-06-08 11:03:21,848 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=514.
+2017-06-08 11:04:42,434 spiders.py[line:95] DEBUG Read 16 requests from 'fsjr:start_urls'
+2017-06-08 11:05:17,927 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=448.
+2017-06-08 11:05:22,571 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=510.
+2017-06-08 11:05:28,332 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=599.
+2017-06-08 11:05:36,226 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=783.
+2017-06-08 11:05:40,144 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=796.
+2017-06-08 11:08:34,224 spiders.py[line:95] DEBUG Read 16 requests from 'fsjr:start_urls'
+2017-06-08 11:09:22,368 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=500.
+2017-06-08 11:09:25,681 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=551.
+2017-06-08 11:09:31,071 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=671.
+2017-06-08 11:09:35,788 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=702.
+2017-06-08 11:09:42,917 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=723.

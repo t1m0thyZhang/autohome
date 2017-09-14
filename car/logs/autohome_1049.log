@@ -1,0 +1,35 @@
+2017-08-17 10:49:19,289 spiders.py[line:68] INFO Reading start URLs from redis key 'autohome:start_urls' (batch size: 1, encoding: utf-8
+2017-08-17 10:49:22,770 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 10:49:22,881 spider_autohome.py[line:55] INFO url is: http://www.autohome.com.cn/19/.
+2017-08-17 10:49:22,911 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 10:49:28,048 spider_autohome.py[line:55] INFO url is: http://www.autohome.com.cn/2736/.
+2017-08-17 10:49:28,453 spider_autohome.py[line:68] INFO layer 2 url is: http://k.autohome.com.cn/2736/9042/.
+2017-08-17 10:49:28,470 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 10:49:31,904 spider_autohome.py[line:55] INFO url is: http://www.autohome.com.cn/2734/.
+2017-08-17 10:49:32,414 spider_autohome.py[line:68] INFO layer 2 url is: http://k.autohome.com.cn/2734/7970/.
+2017-08-17 10:49:32,430 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 10:49:53,236 spiders.py[line:68] INFO Reading start URLs from redis key 'autohome:start_urls' (batch size: 1, encoding: utf-8
+2017-08-17 10:49:56,841 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 10:49:56,950 spider_autohome.py[line:55] INFO url is: http://www.autohome.com.cn/812/.
+2017-08-17 10:49:57,418 spider_autohome.py[line:68] INFO layer 2 url is: http://k.autohome.com.cn/812/9063/.
+2017-08-17 10:50:05,009 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/812/9063/?gradeenum=0.
+2017-08-17 10:50:10,611 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/812/9063/index_2.html?GradeEnum=0.
+2017-08-17 10:50:15,957 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/812/9063/index_3.html?GradeEnum=0.
+2017-08-17 10:50:21,927 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/812/9063/index_4.html?GradeEnum=0.
+2017-08-17 10:50:27,243 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/812/9063/index_5.html?GradeEnum=0.
+2017-08-17 10:50:31,203 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/812/9063/index_6.html?GradeEnum=0.
+2017-08-17 10:50:36,668 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/812/9063/index_7.html?GradeEnum=0.
+2017-08-17 10:50:41,970 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/812/9063/index_8.html?GradeEnum=0.
+2017-08-17 10:50:47,822 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/812/9063/index_9.html?GradeEnum=0.
+2017-08-17 10:50:52,720 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/812/9063/index_10.html?GradeEnum=0.
+2017-08-17 10:50:59,372 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/812/9063/index_11.html?GradeEnum=0.
+2017-08-17 10:51:03,654 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/812/9063/index_12.html?GradeEnum=0.
+2017-08-17 10:51:08,701 spider_autohome.py[line:103] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1681861_1.html?st=1&piap=0|812|9063|0|1|0|0|0|0|0|1.
+2017-08-17 10:51:29,930 spider_autohome.py[line:141] ERROR layer 3 failed:  url is:(http://k.autohome.com.cn/spec/27902/view_1681861_1.html?st=1&piap=0|812|9063|0|1|0|0|0|0|0|1), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\spider_car\car\spiders\spider_autohome.py", line 121, in parse4
+    item['comment_content'] = comment_content
+  File "E:\python27\lib\site-packages\scrapy\item.py", line 66, in __setitem__
+    (self.__class__.__name__, key))
+KeyError: 'CarItem does not support field: comment_content'
+)
+2017-08-17 10:51:30,430 spider_autohome.py[line:103] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/27902/view_1559165_1.html?st=16&piap=0|812|9063|0|1|0|0|0|0|0|1.

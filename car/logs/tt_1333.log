@@ -1,0 +1,8 @@
+2017-06-07 13:33:06,750 spiders.py[line:68] INFO Reading start URLs from redis key 'tt:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 13:33:08,351 __init__.py[line:47] DEBUG Resuming crawl (506 requests scheduled)
+2017-06-07 13:33:08,601 spider_tt_v2.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/yuanzhui/30209.html.
+2017-06-07 13:33:12,714 spider_tt_v2.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/yuanzhui/30211.html.
+2017-06-07 13:33:17,730 spider_tt_v2.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/yuanzhui/30212.html.
+2017-06-07 13:33:28,084 spiders.py[line:68] INFO Reading start URLs from redis key 'tt:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 13:33:30,755 spiders.py[line:95] DEBUG Read 15 requests from 'tt:start_urls'
+2017-06-07 13:33:30,960 spider_tt_v2.py[line:70] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=3000xl.

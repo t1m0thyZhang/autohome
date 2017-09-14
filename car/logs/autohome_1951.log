@@ -1,0 +1,24 @@
+2017-08-16 19:51:21,017 spiders.py[line:68] INFO Reading start URLs from redis key 'autohome:start_urls' (batch size: 1, encoding: utf-8
+2017-08-16 19:51:24,365 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-16 19:51:24,474 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/882/.
+2017-08-16 19:51:24,530 spider_autohome.py[line:69] ERROR failed, url is:(http://www.autohome.com.cn/882/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\autohome\autohome\car\spiders\spider_autohome.py", line 65, in parse
+    request = Request("www.baidu.com", callback=self.parse2)
+  File "E:\python27\lib\site-packages\scrapy\http\request\__init__.py", line 25, in __init__
+    self._set_url(url)
+  File "E:\python27\lib\site-packages\scrapy\http\request\__init__.py", line 58, in _set_url
+    raise ValueError('Missing scheme in request url: %s' % self._url)
+ValueError: Missing scheme in request url: www.baidu.com
+)
+2017-08-16 19:51:24,551 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-16 19:51:27,832 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/3983/.
+2017-08-16 19:51:27,864 spider_autohome.py[line:69] ERROR failed, url is:(http://www.autohome.com.cn/3983/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\autohome\autohome\car\spiders\spider_autohome.py", line 65, in parse
+    request = Request("www.baidu.com", callback=self.parse2)
+  File "E:\python27\lib\site-packages\scrapy\http\request\__init__.py", line 25, in __init__
+    self._set_url(url)
+  File "E:\python27\lib\site-packages\scrapy\http\request\__init__.py", line 58, in _set_url
+    raise ValueError('Missing scheme in request url: %s' % self._url)
+ValueError: Missing scheme in request url: www.baidu.com
+)
+2017-08-16 19:51:27,864 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'

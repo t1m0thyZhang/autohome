@@ -1,0 +1,19 @@
+2017-06-02 11:56:48,943 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'opple:items' (server: localhost, port: 6379)
+2017-06-02 11:56:49,976 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 球泡-LED-松果-球泡  <http://www.opple.com.cn/product/d/2/478/?type=home>
+2017-06-02 11:56:49,976 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 灯管支架-LED-心致-T5支架  <http://www.opple.com.cn/product/d/2/660/?type=home>
+2017-06-02 11:56:49,976 download_items_from_redis.py[line:93] INFO [opple:items] Processing item:  电器-JSNW01-速暖王 <http://www.opple.com.cn/product/d/1/91/?type=diaoding>
+2017-06-02 11:56:49,976 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 球泡-LED-心悦-球泡  <http://www.opple.com.cn/product/d/2/271/?type=home>
+2017-06-02 11:56:49,976 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 球泡-LED-飞碟-球泡  <http://www.opple.com.cn/product/d/2/272/?type=home>
+2017-06-02 11:56:49,976 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 灯管支架-LED-亮照-T8直管  <http://www.opple.com.cn/product/d/2/275/?type=home>
+2017-06-02 11:56:49,976 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 灯管支架-LED-心睿-T5支架  <http://www.opple.com.cn/product/d/2/276/?type=home>
+2017-06-02 11:56:49,976 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 灯管支架-LED-超薄-空体支架  <http://www.opple.com.cn/product/d/2/281/?type=home>
+2017-06-02 11:56:49,976 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 灯杯-LED-MR16-灯杯  <http://www.opple.com.cn/product/d/2/286/?type=home>
+2017-06-02 11:56:50,055 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 球泡-明雪-PLED-19W-六边形-6500K  <http://www.opple.com.cn/product/d/2/300/?type=home>
+2017-06-02 11:56:53,255 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 灯管支架-LED-亮堂-支架  <http://www.opple.com.cn/product/d/2/398/?type=home>
+2017-06-02 11:56:58,144 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 灯管支架-LED-T8灯管-双端  <http://www.opple.com.cn/product/d/2/661/?type=home>
+2017-06-02 11:57:03,036 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 灯管支架-LED T8配套支架  <http://www.opple.com.cn/product/d/2/662/?type=home>
+2017-06-02 11:57:08,476 download_items_from_redis.py[line:93] INFO [opple:items] Processing item:  电器-JSNW01-速暖王 <http://www.opple.com.cn/product/d/1/91/?type=diaoding>
+2017-06-02 11:57:13,657 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 蜡烛泡-LED-心烁-蜡烛泡  <http://www.opple.com.cn/product/d/2/273/?type=home>
+2017-06-02 11:57:19,062 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 灯带-LED-高压-灯带  <http://www.opple.com.cn/product/d/2/278/?type=home>
+2017-06-02 11:57:23,371 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 灯管支架-LED-心易-灯贴  <http://www.opple.com.cn/product/d/2/279/?type=home>
+2017-06-02 11:57:29,388 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 灯管支架-LED-心易-H管  <http://www.opple.com.cn/product/d/2/280/?type=home>

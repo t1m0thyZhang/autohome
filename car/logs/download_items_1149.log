@@ -1,0 +1,5 @@
+2017-06-02 11:49:39,033 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'opple:items' (server: localhost, port: 6379)
+2017-06-02 11:49:40,052 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 球泡-LED-飞碟-球泡  <http://www.opple.com.cn/product/d/2/272/?type=home>
+2017-06-02 11:55:44,082 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 灯带-LED-高压-灯带  <http://www.opple.com.cn/product/d/2/278/?type=home>
+2017-06-02 11:55:45,976 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 灯管支架-LED-心易-灯贴  <http://www.opple.com.cn/product/d/2/279/?type=home>
+2017-06-02 11:55:48,404 download_items_from_redis.py[line:93] INFO [opple:items] Processing item: 灯管支架-LED-T8一体化支架-明恵  <http://www.opple.com.cn/product/d/2/397/?type=home>

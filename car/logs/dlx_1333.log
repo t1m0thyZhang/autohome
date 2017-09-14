@@ -1,0 +1,3 @@
+2017-06-12 13:33:32,201 spiders.py[line:68] INFO Reading start URLs from redis key 'dlx:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 13:33:34,917 spiders.py[line:95] DEBUG Read 1 requests from 'dlx:start_urls'
+2017-06-12 13:33:35,486 spider_dlx.py[line:47] INFO detail is being parsed, url is: http://www.sh-delixi.com/GreenFuture/Cn/dyc_Pl_Content.asp?Id=24.

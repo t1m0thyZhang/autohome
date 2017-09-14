@@ -1,0 +1,28 @@
+2017-05-24 15:40:56,493 spiders.py[line:68] INFO Reading start URLs from redis key 'imc:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 15:40:56,822 __init__.py[line:46] DEBUG Resuming crawl (85 requests scheduled)
+2017-05-24 15:40:59,739 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=232&mapp=IS&app=31&GFSTYP=M.
+2017-05-24 15:41:02,595 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=580&mapp=IS&app=31&GFSTYP=M.
+2017-05-24 15:41:07,838 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=812&mapp=IS&app=31&GFSTYP=M.
+2017-05-24 15:41:13,924 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=1669&mapp=IS&app=31&GFSTYP=M.
+2017-05-24 15:41:19,369 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=1671&mapp=IS&app=31&GFSTYP=M.
+2017-05-24 15:41:23,457 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=10050&mapp=IS&app=31&GFSTYP=M.
+2017-05-24 15:41:28,250 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=10051&mapp=IS&app=31&GFSTYP=M.
+2017-05-24 15:41:32,509 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=10231&mapp=IS&app=31&GFSTYP=M.
+2017-05-24 15:41:36,584 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=209&mapp=IS&app=33&GFSTYP=M.
+2017-05-24 15:41:41,809 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=10149&mapp=IS&app=33&GFSTYP=M.
+2017-05-24 15:41:47,677 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=212&mapp=IS&app=80&GFSTYP=M.
+2017-05-24 15:41:53,141 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=213&mapp=IS&app=80&GFSTYP=M.
+2017-05-24 15:41:57,493 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=1616&mapp=IS&app=80&GFSTYP=M.
+2017-05-24 15:42:02,414 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=10150&mapp=IS&app=80&GFSTYP=M.
+2017-05-24 15:42:07,171 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=21&mapp=IS&app=82&GFSTYP=M.
+2017-05-24 15:42:11,456 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=1898&mapp=IS&app=82&GFSTYP=M.
+2017-05-24 15:42:15,267 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=10246&mapp=IS&app=82&GFSTYP=M.
+2017-05-24 15:42:19,605 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=114&mapp=IS&app=137&GFSTYP=M.
+2017-05-24 15:42:25,592 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=561&mapp=IS&app=137&GFSTYP=M.
+2017-05-24 15:42:29,733 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=854&mapp=IS&app=137&GFSTYP=M.
+2017-05-24 15:42:35,447 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=10039&mapp=IS&app=137&GFSTYP=M.
+2017-05-24 15:42:41,331 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=10126&mapp=IS&app=137&GFSTYP=M.
+2017-05-24 15:42:45,736 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=826&mapp=IS&app=138&GFSTYP=M.
+2017-05-24 15:42:51,785 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=1893&mapp=IS&app=138&GFSTYP=M.
+2017-05-24 15:42:56,812 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=1896&mapp=IS&app=138&GFSTYP=M.
+2017-05-24 15:43:00,230 spider_imc.py[line:99] INFO layer3 is being parsed, url is: http://www.imc-companies.com/TaeguTec/ttkCatalog/Family.aspx?fnum=10247&mapp=IS&app=138&GFSTYP=M.

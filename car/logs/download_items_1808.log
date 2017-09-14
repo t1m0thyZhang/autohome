@@ -1,0 +1,6 @@
+2017-06-07 18:08:50,194 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'huarun:items' (server: localhost, port: 6379)
+2017-06-07 18:08:55,207 download_items_from_redis.py[line:93] INFO [huarun:items] Processing item: 纯境A+纯环保净醛抗菌全效内墙漆 <http://www.huarun.com/product/productDetail/?p=187>
+2017-06-07 18:08:57,394 download_items_from_redis.py[line:93] INFO [huarun:items] Processing item: 纯境A+纯环保净醛抗菌五合一内墙漆 <http://www.huarun.com/product/productDetail/?p=188>
+2017-06-07 18:09:02,305 download_items_from_redis.py[line:93] INFO [huarun:items] Processing item: 纯境A+纯环保抗污全效内墙漆 <http://www.huarun.com/product/productDetail/?p=189>
+2017-06-07 18:09:10,661 download_items_from_redis.py[line:93] INFO [huarun:items] Processing item: 纯境A+纯环保竹炭清新全效内墙漆 <http://www.huarun.com/product/productDetail/?p=190>
+2017-06-07 18:09:11,233 download_items_from_redis.py[line:93] INFO [huarun:items] Processing item: 纯境A+纯环保全能底漆 <http://www.huarun.com/product/productDetail/?p=191>

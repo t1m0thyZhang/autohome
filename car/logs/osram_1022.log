@@ -1,0 +1,11 @@
+2017-06-02 10:22:15,032 spiders.py[line:68] INFO Reading start URLs from redis key 'osram:start_urls' (batch size: 16, encoding: utf-8
+2017-06-02 10:29:36,858 spiders.py[line:95] DEBUG Read 1 requests from 'osram:start_urls'
+2017-06-02 10:29:37,036 spider_osram.py[line:51] INFO step into layer1, url is: http://www.osram.com.cn/osram_cn/.
+2017-06-02 10:29:43,059 spider_osram.py[line:65] INFO step into layer2, url is: http://www.osram.com.cn/osram_cn/products/led-technology/light-engines-and-modules/index.jsp.
+2017-06-02 10:29:49,269 spider_osram.py[line:80] INFO step into layer3, url is: http://www.osram.com.cn/osram_cn/products/led-technology/light-engines-and-modules/spot-%2c-down-and-wallmount-light-engines-and-modules/index.jsp.
+2017-06-02 10:29:54,572 spider_osram.py[line:94] INFO step into layer4, url is: http://www.osram.com.cn/osram_cn/products/led-technology/light-engines-and-modules/spot-%2c-down-and-wallmount-light-engines-and-modules/prevaled-core-ac-pro/index.jsp.
+2017-06-02 10:30:27,640 spider_osram.py[line:127] ERROR layer4 failed, url is:(http://www.osram.com.cn/osram_cn/products/led-technology/light-engines-and-modules/spot-%2c-down-and-wallmount-light-engines-and-modules/prevaled-core-ac-pro/index.jsp), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_osram.py", line 115, in parse4
+    level2 = clstmp.split("\n\n")[2]
+NameError: global name 'level1' is not defined
+)

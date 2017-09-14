@@ -1,0 +1,139 @@
+2017-06-12 15:36:43,286 spiders.py[line:68] INFO Reading start URLs from redis key 'wilson:start_urls' (batch size: 16, encoding: utf-8
+2017-06-12 15:36:48,812 spiders.py[line:95] DEBUG Read 4 requests from 'wilson:start_urls'
+2017-06-12 15:36:52,865 spider_wilson.py[line:56] INFO url is: http://global.wilsontool.com/Mandarin/ProductDivision_bending_cn.aspx.
+2017-06-12 15:36:54,313 spider_wilson.py[line:56] INFO url is: http://global.wilsontool.com/Mandarin/ProductDivision_accessories_cn.aspx.
+2017-06-12 15:36:58,296 spider_wilson.py[line:56] INFO url is: http://global.wilsontool.com/Mandarin/ProductDivision_stamping_cn.aspx.
+2017-06-12 15:37:04,346 spider_wilson.py[line:56] INFO url is: http://global.wilsontool.com/Mandarin/ProductDivision_punching_cn.aspx.
+2017-06-12 15:37:11,273 spider_wilson.py[line:71] INFO url is: http://global.wilsontool.com/Mandarin/ProductFamily_bending_cn_b_std_cn_b_std_wt_cn.aspx.
+2017-06-12 15:37:17,819 spider_wilson.py[line:71] INFO url is: http://global.wilsontool.com/Mandarin/ProductFamily_bending_cn_b_std_cn_b_std_amer_cn.aspx.
+2017-06-12 15:37:19,997 spider_wilson.py[line:71] INFO url is: http://global.wilsontool.com/Mandarin/ProductFamily_bending_cn_b_std_cn_b_std_euro_cn.aspx.
+2017-06-12 15:37:30,892 spider_wilson.py[line:71] INFO url is: http://global.wilsontool.com/Mandarin/ProductFamily_bending_cn_b_std_cn_b_std_conv_cn.aspx.
+2017-06-12 15:37:34,255 spider_wilson.py[line:71] INFO url is: http://global.wilsontool.com/Mandarin/ProductFamily_bending_cn_b_clmp_cn_b_clmp_amer_cn.aspx.
+2017-06-12 15:37:39,540 spider_wilson.py[line:71] INFO url is: http://global.wilsontool.com/Mandarin/ProductFamily_bending_cn_b_spcl_cn_b_spcl_amer_cn.aspx.
+2017-06-12 15:37:44,841 spider_wilson.py[line:71] INFO url is: http://global.wilsontool.com/Mandarin/ProductFamily_bending_cn_b_spcl_cn_b_spcl_conv_cn.aspx.
+2017-06-12 15:37:44,858 spider_wilson.py[line:87] ERROR failed, url is:(http://global.wilsontool.com/Mandarin/ProductFamily_bending_cn_b_spcl_cn_b_spcl_conv_cn.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_wilson.py", line 82, in parse2
+    image = "http://global.wilsontool.com/Mandarin" + images[i]
+IndexError: list index out of range
+)
+2017-06-12 15:37:50,121 spider_wilson.py[line:71] INFO url is: http://global.wilsontool.com/Mandarin/ProductFamily_bending_cn_b_spcl_cn_b_spcl_euro_cn.aspx.
+2017-06-12 15:37:50,148 spider_wilson.py[line:87] ERROR failed, url is:(http://global.wilsontool.com/Mandarin/ProductFamily_bending_cn_b_spcl_cn_b_spcl_euro_cn.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_wilson.py", line 82, in parse2
+    image = "http://global.wilsontool.com/Mandarin" + images[i]
+IndexError: list index out of range
+)
+2017-06-12 15:37:54,737 spider_wilson.py[line:71] INFO url is: http://global.wilsontool.com/Mandarin/ProductFamily_bending_cn_b_accs_cn_b_accs_wt_cn.aspx.
+2017-06-12 15:37:58,624 spider_wilson.py[line:71] INFO url is: http://global.wilsontool.com/Mandarin/ProductFamily_bending_cn_b_clmp_cn_b_clmp_wt_cn.aspx.
+2017-06-12 15:38:01,832 spider_wilson.py[line:71] INFO url is: http://global.wilsontool.com/Mandarin/ProductFamily_bending_cn_b_accs_cn_b_accs_amer_cn.aspx.
+2017-06-12 15:38:04,677 spider_wilson.py[line:71] INFO url is: http://global.wilsontool.com/Mandarin/ProductFamily_bending_cn_b_accs_cn_b_accs_conv_cn.aspx.
+2017-06-12 15:38:10,677 spider_wilson.py[line:71] INFO url is: http://global.wilsontool.com/Mandarin/ProductFamily_bending_cn_b_accs_cn_b_accs_euro_cn.aspx.
+2017-06-12 15:38:15,677 spider_wilson.py[line:71] INFO url is: http://global.wilsontool.com/Mandarin/ProductFamily_bending_cn_b_clmp_cn_b_clmp_conv_cn.aspx.
+2017-06-12 15:38:19,880 spider_wilson.py[line:71] INFO url is: http://global.wilsontool.com/Mandarin/ProductFamily_bending_cn_b_clmp_cn_b_clmp_euro_cn.aspx.
+2017-06-12 15:38:24,970 spider_wilson.py[line:71] INFO url is: http://global.wilsontool.com/Mandarin/ProductFamily_punching_cn_p_std_cn_p_std_fab_cn.aspx.
+2017-06-12 15:38:32,528 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_wt_cn_b_std_wt_1vdie_cn.aspx.
+2017-06-12 15:38:36,015 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_amer_cn_b_std_amer_acutepunch_cn.aspx.
+2017-06-12 15:38:40,654 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_amer_cn_b_std_amer_arrowpunch_cn.aspx.
+2017-06-12 15:38:45,894 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_amer_cn_b_std_amer_blockpunch_cn.aspx.
+2017-06-12 15:38:51,338 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_amer_cn_b_std_amer_dieholder_cn.aspx.
+2017-06-12 15:38:56,313 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_amer_cn_b_std_amer_hemflatdie_cn.aspx.
+2017-06-12 15:39:00,180 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_amer_cn_b_spcl_amer_channel_cn.aspx.
+2017-06-12 15:39:05,614 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_amer_cn_b_spcl_amer_curl_cn.aspx.
+2017-06-12 15:39:11,446 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_amer_cn_b_spcl_amer_formtool_cn.aspx.
+2017-06-12 15:39:17,289 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_amer_cn_b_std_amer_gooseneckpunch_cn.aspx.
+2017-06-12 15:39:20,621 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_amer_cn_b_std_amer_hemflatpunch_cn.aspx.
+2017-06-12 15:39:26,283 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_amer_cn_b_spcl_amer_hemming_cn.aspx.
+2017-06-12 15:39:29,709 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_amer_cn_b_spcl_amer_letterstamp_cn.aspx.
+2017-06-12 15:39:34,289 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_amer_cn_b_spcl_amer_embosslogo_cn.aspx.
+2017-06-12 15:39:40,286 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_amer_cn_b_spcl_amer_louver_cn.aspx.
+2017-06-12 15:39:45,267 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_amer_cn_b_std_amer_largeradius_cn.aspx.
+2017-06-12 15:39:49,440 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_punching_cn_p_std_cn_p_std_fab_cn_p_std_fab_fullbody_cn.aspx.
+2017-06-12 15:39:55,665 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_punching_cn_p_std_cn_p_std_fab_cn_p_std_fab_hp_cn.aspx.
+2017-06-12 15:39:57,588 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_punching_cn_p_std_cn_p_std_fab_cn_p_std_fab_multitools_cn.aspx.
+2017-06-12 15:40:02,292 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_punching_cn_p_std_cn_p_std_fab_cn_p_std_fab_parting_cn.aspx.
+2017-06-12 15:40:08,148 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_amer_cn_b_spcl_amer_offset_cn.aspx.
+2017-06-12 15:40:12,819 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_amer_cn_b_std_amer_holderadapter_cn.aspx.
+2017-06-12 15:40:18,467 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_amer_cn_b_spcl_amer_radius_cn.aspx.
+2017-06-12 15:40:21,930 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_amer_cn_b_spcl_amer_rib_cn.aspx.
+2017-06-12 15:40:27,355 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_amer_cn_b_spcl_amer_rodbending_cn.aspx.
+2017-06-12 15:40:31,269 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_amer_cn_b_std_amer_sashpunch_cn.aspx.
+2017-06-12 15:40:36,759 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_amer_cn_b_std_amer_vseriesdie_cn.aspx.
+2017-06-12 15:40:42,529 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_amer_cn_b_spcl_amer_window_cn.aspx.
+2017-06-12 15:40:46,822 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_amer_cn_b_spcl_amer_wiping_cn.aspx.
+2017-06-12 15:40:52,456 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_conv_cn_b_std_conv_1vdie_cn.aspx.
+2017-06-12 15:40:57,898 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_conv_cn_b_std_conv_4waydie_cn.aspx.
+2017-06-12 15:41:03,059 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_conv_cn_b_std_conv_acutepunch_cn.aspx.
+2017-06-12 15:41:08,796 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_conv_cn_b_std_conv_blockpunch_cn.aspx.
+2017-06-12 15:41:14,457 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_conv_cn_b_spcl_conv_punch_cn.aspx.
+2017-06-12 15:41:20,292 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_conv_cn_b_spcl_conv_curl_cn.aspx.
+2017-06-12 15:41:25,730 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_conv_cn_b_spcl_conv_formtool_cn.aspx.
+2017-06-12 15:41:30,358 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_conv_cn_b_std_conv_gooseneckpunch_cn.aspx.
+2017-06-12 15:41:35,667 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_conv_cn_b_std_conv_hemflatdie_cn.aspx.
+2017-06-12 15:41:39,434 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_conv_cn_b_spcl_conv_hemming_cn.aspx.
+2017-06-12 15:41:44,618 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_conv_cn_b_std_conv_hemflatpunch_cn.aspx.
+2017-06-12 15:41:50,642 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_conv_cn_b_spcl_conv_window_cn.aspx.
+2017-06-12 15:41:56,085 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_conv_cn_b_spcl_conv_embosslogo_cn.aspx.
+2017-06-12 15:42:01,460 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_conv_cn_b_spcl_conv_offset_cn.aspx.
+2017-06-12 15:42:06,526 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_conv_cn_b_std_conv_offset_cn.aspx.
+2017-06-12 15:42:12,026 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_conv_cn_b_spcl_conv_rodbending_cn.aspx.
+2017-06-12 15:42:17,375 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_conv_cn_b_spcl_conv_radius_cn.aspx.
+2017-06-12 15:42:22,252 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_conv_cn_b_spcl_conv_channel_cn.aspx.
+2017-06-12 15:42:26,085 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_conv_cn_b_spcl_conv_letterstamp_cn.aspx.
+2017-06-12 15:42:31,121 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_conv_cn_b_std_conv_sashpunch_cn.aspx.
+2017-06-12 15:42:35,154 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_conv_cn_b_spcl_conv_rib_cn.aspx.
+2017-06-12 15:42:40,933 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_conv_cn_b_spcl_conv_wiping_cn.aspx.
+2017-06-12 15:42:46,273 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_euro_cn_b_std_euro_1vdie_cn.aspx.
+2017-06-12 15:42:49,532 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_euro_cn_b_std_euro_2vdie_cn.aspx.
+2017-06-12 15:42:52,999 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_euro_cn_b_std_euro_acutepunch_cn.aspx.
+2017-06-12 15:42:58,703 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_euro_cn_b_spcl_euro_holderadapter_cn.aspx.
+2017-06-12 15:43:04,244 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_euro_cn_b_spcl_euro_punch_cn.aspx.
+2017-06-12 15:43:09,635 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_euro_cn_b_spcl_euro_curl_cn.aspx.
+2017-06-12 15:43:12,556 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_euro_cn_b_std_euro_dieholder_cn.aspx.
+2017-06-12 15:43:17,878 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_euro_cn_b_spcl_euro_formtool_cn.aspx.
+2017-06-12 15:43:22,999 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_euro_cn_b_std_euro_gooseneckpunch_cn.aspx.
+2017-06-12 15:43:27,900 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_euro_cn_b_std_euro_hemflatdie_cn.aspx.
+2017-06-12 15:43:32,740 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_euro_cn_b_spcl_euro_hemming_cn.aspx.
+2017-06-12 15:43:37,892 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_euro_cn_b_std_euro_hemflatpunch_cn.aspx.
+2017-06-12 15:43:42,832 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_euro_cn_b_spcl_euro_window_cn.aspx.
+2017-06-12 15:43:48,336 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_euro_cn_b_spcl_euro__embosslogo_cn.aspx.
+2017-06-12 15:43:53,628 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_euro_cn_b_spcl_euro_offset_cn.aspx.
+2017-06-12 15:43:57,898 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_euro_cn_b_std_euro_largeradiuspunch_cn.aspx.
+2017-06-12 15:44:03,427 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_euro_cn_b_std_euro_narrowpunch_cn.aspx.
+2017-06-12 15:44:08,022 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_euro_cn_b_spcl_euro_rodbending_cn.aspx.
+2017-06-12 15:44:13,885 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_euro_cn_b_std_euro_punchholder_cn.aspx.
+2017-06-12 15:44:19,329 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_euro_cn_b_spcl_euro_radset_cn.aspx.
+2017-06-12 15:44:22,253 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_euro_cn_b_spcl_euro_channel_cn.aspx.
+2017-06-12 15:44:28,082 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_euro_cn_b_spcl_euro_letterstamp_cn.aspx.
+2017-06-12 15:44:33,717 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_euro_cn_b_std_euro_sashpunch_cn.aspx.
+2017-06-12 15:44:38,586 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_euro_cn_b_std_euro_standardpunch_cn.aspx.
+2017-06-12 15:44:42,565 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_euro_cn_b_std_euro_urethane_cn.aspx.
+2017-06-12 15:44:48,104 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_euro_cn_b_std_euro_vseriesdie_cn.aspx.
+2017-06-12 15:44:54,558 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_euro_cn_b_spcl_euro_rib_cn.aspx.
+2017-06-12 15:44:59,088 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_euro_cn_b_spcl_euro_wiping_cn.aspx.
+2017-06-12 15:45:02,372 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_amer_cn_b_spcl_amer_3060_cn.aspx.
+2017-06-12 15:45:06,635 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_wt_cn_b_std_wt_acutepunch_cn.aspx.
+2017-06-12 15:45:12,233 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_wt_cn_b_std_wt_gooseneckpunch_cn.aspx.
+2017-06-12 15:45:15,671 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_wt_cn_b_std_wt_hemmingdie_cn.aspx.
+2017-06-12 15:45:19,778 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_wt_cn_b_std_wt_hemmingpunch_cn.aspx.
+2017-06-12 15:45:25,040 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_wt_cn_b_std_wt_largeradiuspunch_cn.aspx.
+2017-06-12 15:45:30,964 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_wt_cn_b_std_wt_pointedpunch_cn.aspx.
+2017-06-12 15:45:36,461 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_wt_cn_b_std_wt_swanneckpunch_cn.aspx.
+2017-06-12 15:45:40,400 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_wt_cn_b_std_wt_vseriesdie_cn.aspx.
+2017-06-12 15:45:45,497 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_conv_cn_b_spcl_conv_3060_cn.aspx.
+2017-06-12 15:45:50,301 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_euro_cn_b_spcl_euro_3060_cn.aspx.
+2017-06-12 15:45:54,102 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_accs_cn_b_accs_wt_cn_b_accs_wt_measurement_cn.aspx.
+2017-06-12 15:45:59,848 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_accs_cn_b_accs_amer_cn_b_accs_amer_measurement_cn.aspx.
+2017-06-12 15:46:05,145 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_accs_cn_b_accs_conv_cn_b_accs_conv_measurement_cn.aspx.
+2017-06-12 15:46:08,428 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_accs_cn_b_accs_euro_cn_b_accs_euro_measurement_cn.aspx.
+2017-06-12 15:46:14,365 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_accs_cn_b_accs_wt_cn_b_accs_wt_urethane_cn.aspx.
+2017-06-12 15:46:16,196 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_accs_cn_b_accs_amer_cn_b_accs_amer_urethane_cn.aspx.
+2017-06-12 15:46:20,742 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_accs_cn_b_accs_conv_cn_b_accs_conv_urethane_cn.aspx.
+2017-06-12 15:46:26,415 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_accs_cn_b_accs_euro_cn_b_accs_euro_urethane_cn.aspx.
+2017-06-12 15:46:29,362 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_clmp_cn_b_clmp_euro_cn_b_clmp_euro_manual_cn.aspx.
+2017-06-12 15:46:34,963 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_accs_cn_b_accs_wt_cn_b_accs_wt_storage_cn.aspx.
+2017-06-12 15:46:40,664 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_accs_cn_b_accs_amer_cn_b_accs_amer_storage_cn.aspx.
+2017-06-12 15:46:43,997 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_accs_cn_b_accs_conv_cn_b_accs_conv_storage_cn.aspx.
+2017-06-12 15:46:48,470 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_accs_cn_b_accs_euro_cn_b_accs_euro_storage_cn.aspx.
+2017-06-12 15:46:53,249 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_std_cn_b_std_amer_cn_b_std_amer_1vdie_cn.aspx.
+2017-06-12 15:46:58,976 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_amer_cn_b_spcl_amer_dies_cn.aspx.
+2017-06-12 15:47:04,299 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_clmp_cn_b_clmp_amer_cn_b_clmp_amer_hydraulic_cn.aspx.
+2017-06-12 15:47:09,844 spider_wilson.py[line:90] INFO detail is being parsed, url is: http://global.wilsontool.com/Mandarin/Product_bending_cn_b_spcl_cn_b_spcl_amer_cn_b_spcl_amer_punch_cn.aspx.

@@ -1,0 +1,121 @@
+2017-05-30 08:55:25,516 spiders.py[line:68] INFO Reading start URLs from redis key 'tt:start_urls' (batch size: 16, encoding: utf-8
+2017-05-30 08:55:28,204 spiders.py[line:95] DEBUG Read 1 requests from 'tt:start_urls'
+2017-05-30 08:55:28,752 spider_tt.py[line:72] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=neiquan.
+2017-05-30 08:58:45,502 spider_tt.py[line:97] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=neiquan), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt.py", line 82, in parse
+    web_data = driver.page_source  # 获取网页文件对象
+  File "E:\python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 528, in page_source
+    return self.execute(Command.GET_PAGE_SOURCE)['value']
+  File "E:\python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "E:\python27\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: chrome not reachable
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10240 x86_64)
+
+)
+2017-05-30 08:58:46,588 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02872.
+2017-05-30 08:58:50,502 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02875.
+2017-05-30 08:58:53,903 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02877.
+2017-05-30 08:58:58,002 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02876.
+2017-05-30 08:59:03,865 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02878.
+2017-05-30 08:59:09,017 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=03062.
+2017-05-30 08:59:14,101 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=05062.
+2017-05-30 08:59:19,125 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=05066.
+2017-05-30 08:59:24,082 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=05068.
+2017-05-30 08:59:29,571 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=8125.
+2017-05-30 08:59:33,885 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=9074.
+2017-05-30 08:59:39,576 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=1280.
+2017-05-30 08:59:45,048 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=05075.
+2017-05-30 08:59:49,121 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=05079.
+2017-05-30 08:59:53,469 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=07079.
+2017-05-30 08:59:58,688 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=07087.
+2017-05-30 09:00:04,359 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=07093.
+2017-05-30 09:00:10,233 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=07097.
+2017-05-30 09:00:20,125 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=07098.
+2017-05-30 09:00:50,703 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=08118.
+2017-05-30 09:00:50,720 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=08125.
+2017-05-30 09:00:56,253 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=09062.
+2017-05-30 09:01:00,536 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=09067.
+2017-05-30 09:01:06,063 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=09074.
+2017-05-30 09:01:11,882 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=09078.
+2017-05-30 09:01:16,470 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=09081.
+2017-05-30 09:01:20,142 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=11162.
+2017-05-30 09:01:24,653 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=11163.
+2017-05-30 09:01:29,440 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=11590.
+2017-05-30 09:01:35,240 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=12168.
+2017-05-30 09:01:39,782 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=12175.
+2017-05-30 09:01:43,355 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=12580.
+2017-05-30 09:01:49,346 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=05070X.
+2017-05-30 09:01:52,438 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=05075X.
+2017-05-30 09:01:57,641 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=07079X.
+2017-05-30 09:02:01,540 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=07087X.
+2017-05-30 09:02:06,286 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=07100D.
+2017-05-30 09:02:11,664 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=11165X.
+2017-05-30 09:02:17,318 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=05070XS.
+2017-05-30 09:02:21,144 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=07100-S.
+2017-05-30 09:02:25,686 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=07100-SA.
+2017-05-30 09:02:31,173 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE101103.
+2017-05-30 09:02:35,230 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE107057.
+2017-05-30 09:02:40,928 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE107060.
+2017-05-30 09:02:46,532 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE108065.
+2017-05-30 09:02:52,111 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE113089.
+2017-05-30 09:02:56,496 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE113091.
+2017-05-30 09:03:00,187 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE114080.
+2017-05-30 09:03:03,436 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE116050.
+2017-05-30 09:03:08,098 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE125095.
+2017-05-30 09:03:12,579 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE126097.
+2017-05-30 09:03:17,028 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE126098.
+2017-05-30 09:03:22,270 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE127095.
+2017-05-30 09:03:27,812 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE128110.
+2017-05-30 09:03:34,838 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE128111.
+2017-05-30 09:03:38,759 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE128112.
+2017-05-30 09:03:43,644 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE130787.
+2017-05-30 09:03:47,874 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE130851.
+2017-05-30 09:03:53,657 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE130889.
+2017-05-30 09:03:57,500 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE127094D.
+2017-05-30 09:04:03,295 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE129120X.
+2017-05-30 09:04:07,595 spider_tt.py[line:101] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=EE130900D.
+2017-05-30 09:04:26,121 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/1220/1280.html.
+2017-05-30 09:04:51,545 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/08231-B/8125.html.
+2017-05-30 09:04:52,092 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/09196/9074.html.
+2017-05-30 09:04:57,931 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/02820/02872.html.
+2017-05-30 09:05:03,441 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/02820/02875.html.
+2017-05-30 09:05:07,789 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/02823D/02876.html.
+2017-05-30 09:05:10,921 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/02820/02877.html.
+2017-05-30 09:05:14,372 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/02820/02878.html.
+2017-05-30 09:05:18,601 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/03062/03162.html.
+2017-05-30 09:05:23,930 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/05062/05185.html.
+2017-05-30 09:05:29,891 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/05066/05185.html.
+2017-05-30 09:05:34,936 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/05068/05175.html.
+2017-05-30 09:05:39,213 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/05075/05185.html.
+2017-05-30 09:05:43,522 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/05079/05180D.html.
+2017-05-30 09:05:48,953 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/07079/07196D.html.
+2017-05-30 09:05:54,299 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/07087/07196.html.
+2017-05-30 09:05:57,993 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/07093/07196.html.
+2017-05-30 09:06:02,456 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/07097/07196.html.
+2017-05-30 09:06:08,118 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/07098/07196.html.
+2017-05-30 09:06:13,914 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/08118/08231.html.
+2017-05-30 09:06:19,173 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/08125/08231.html.
+2017-05-30 09:06:21,622 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/09062/09194.html.
+2017-05-30 09:06:26,634 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/09067/09194.html.
+2017-05-30 09:06:31,572 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/09074/09194.html.
+2017-05-30 09:06:34,134 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/09078/09194.html.
+2017-05-30 09:06:38,584 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/09081/09195AB.html.
+2017-05-30 09:06:42,490 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/11162/11300.html.
+2017-05-30 09:06:46,595 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/11163/11300.html.
+2017-05-30 09:06:50,256 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/11520/11590.html.
+2017-05-30 09:06:55,573 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/12168/12303.html.
+2017-05-30 09:07:01,545 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/12175/12303.html.
+2017-05-30 09:07:05,076 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/12520/12580.html.
+2017-05-30 09:07:10,345 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/05070X/05185-S.html.
+2017-05-30 09:07:16,056 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/05075X/05185-B.html.
+2017-05-30 09:07:16,338 spider_tt.py[line:154] ERROR layer 2 failed: failed to write into item, url is:(http://www.timken-timken.cn/05075X/05185-B.html), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt.py", line 126, in parse3
+    text = text.decode(content_type['encoding'])
+UnicodeDecodeError: 'gb2312' codec can't decode bytes in position 5643-5644: illegal multibyte sequence
+)
+2017-05-30 09:07:21,621 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/07079X/07204.html.
+2017-05-30 09:07:27,299 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/07087X/07196.html.
+2017-05-30 09:07:32,959 spider_tt.py[line:116] INFO layer3 is being parsed, url is: http://www.timken-timken.cn/07100D/07204.html.

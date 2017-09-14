@@ -1,0 +1,9 @@
+2017-05-24 17:25:14,448 spiders.py[line:68] INFO Reading start URLs from redis key 'ctz:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 17:25:14,878 __init__.py[line:46] DEBUG Resuming crawl (32 requests scheduled)
+2017-05-24 17:25:16,660 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=90.
+2017-05-24 17:25:22,859 spider_ctz.py[line:102] ERROR layer 3 failed: failed to write into item, url is:(http://www.ceratizit.com/products/metal-cutting/list/detail/?product=90), error info is:(Traceback (most recent call last):
+  File "C:\Users\yunsom\Desktop\product\product\spiders\spider_ctz.py", line 93, in parse2
+    clstmp = re.sub(";",clstmp)
+TypeError: sub() takes at least 3 arguments (2 given)
+)
+2017-05-24 17:25:24,420 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=92.

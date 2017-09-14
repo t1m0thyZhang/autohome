@@ -1,0 +1,32 @@
+2017-06-07 09:57:03,904 spiders.py[line:68] INFO Reading start URLs from redis key 'yt:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 09:57:06,470 spiders.py[line:95] DEBUG Read 8 requests from 'yt:start_urls'
+2017-06-07 09:57:08,552 spider_yt.py[line:57] INFO url is: http://www.yuantie.com.cn/product.asp?type=8.
+2017-06-07 09:57:12,401 spider_yt.py[line:57] INFO url is: http://www.yuantie.com.cn/product.asp?type=6.
+2017-06-07 09:57:16,750 spider_yt.py[line:57] INFO url is: http://www.yuantie.com.cn/product.asp?type=7.
+2017-06-07 09:57:22,506 spider_yt.py[line:57] INFO url is: http://www.yuantie.com.cn/product.asp?type=9&keywords=&p=1.
+2017-06-07 09:57:28,052 spider_yt.py[line:57] INFO url is: http://www.yuantie.com.cn/product.asp?type=10&keywords=&p=2.
+2017-06-07 09:57:33,920 spider_yt.py[line:57] INFO url is: http://www.yuantie.com.cn/product.asp?type=5.
+2017-06-07 09:57:39,055 spider_yt.py[line:57] INFO url is: http://www.yuantie.com.cn/product.asp?type=10&keywords=&p=1.
+2017-06-07 09:57:42,835 spider_yt.py[line:57] INFO url is: http://www.yuantie.com.cn/product.asp?type=9&keywords=&p=2.
+2017-06-07 09:57:48,716 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=17.
+2017-06-07 09:57:52,743 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=18.
+2017-06-07 09:57:56,321 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=19.
+2017-06-07 09:57:59,612 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=20.
+2017-06-07 09:58:06,492 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=21.
+2017-06-07 09:58:11,898 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=22.
+2017-06-07 09:58:17,479 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=23.
+2017-06-07 09:58:21,588 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=24.
+2017-06-07 09:58:27,907 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=25.
+2017-06-07 09:58:32,249 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=26.
+2017-06-07 09:58:38,987 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=2.
+2017-06-07 09:58:42,822 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=10.
+2017-06-07 09:58:49,019 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=12.
+2017-06-07 09:58:54,387 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=3.
+2017-06-07 09:59:00,279 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=4.
+2017-06-07 09:59:05,078 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=5.
+2017-06-07 09:59:11,023 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=6.
+2017-06-07 09:59:15,201 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=7.
+2017-06-07 09:59:20,736 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=8.
+2017-06-07 09:59:26,538 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=9.
+2017-06-07 09:59:29,634 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=62.
+2017-06-07 09:59:35,233 spider_yt.py[line:73] INFO url is: http://www.yuantie.com.cn/productsshow.asp?id=66.

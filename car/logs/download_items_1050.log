@@ -1,0 +1,16 @@
+2017-06-07 10:50:44,575 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'dibei:items' (server: localhost, port: 6379)
+2017-06-07 10:50:45,592 download_items_from_redis.py[line:93] INFO [dibei:items] Processing item: 63T系列空调压缩机电机系列 <http://www.dibei.com/product/page-18-214.html>
+2017-06-07 10:50:45,596 download_items_from_redis.py[line:93] INFO [dibei:items] Processing item: S120系列商用空调压缩机电机系列 <http://www.dibei.com/product/page-18-201.html>
+2017-06-07 10:50:45,601 download_items_from_redis.py[line:93] INFO [dibei:items] Processing item: S300系列商用空调压缩机电机系列 <http://www.dibei.com/product/page-18-212.html>
+2017-06-07 10:50:45,605 download_items_from_redis.py[line:93] INFO [dibei:items] Processing item: QR系列空调压缩机电机系列 <http://www.dibei.com/product/page-18-213.html>
+2017-06-07 10:50:45,608 download_items_from_redis.py[line:93] INFO [dibei:items] Processing item: 63T系列空调压缩机电机系列 <http://www.dibei.com/product/page-18-214.html>
+2017-06-07 10:50:46,653 download_items_from_redis.py[line:93] INFO [dibei:items] Processing item: L型系列改型铝线冰箱压缩机电机 <http://www.dibei.com/product/page-20-217.html>
+2017-06-07 10:50:51,183 download_items_from_redis.py[line:93] INFO [dibei:items] Processing item: E型改型系列铝线冰箱压缩机电机 <http://www.dibei.com/product/page-20-218.html>
+2017-06-07 10:50:57,151 download_items_from_redis.py[line:93] INFO [dibei:items] Processing item: LV型系列改型铝线冰箱压缩机电机 <http://www.dibei.com/product/page-20-219.html>
+2017-06-07 10:51:01,799 download_items_from_redis.py[line:93] INFO [dibei:items] Processing item: C型改型铝线冰箱压缩机电机 <http://www.dibei.com/product/page-20-215.html>
+2017-06-07 10:51:07,092 download_items_from_redis.py[line:93] INFO [dibei:items] Processing item: NS系列改型铝线冰箱压缩机电机 <http://www.dibei.com/product/page-20-216.html>
+2017-06-07 10:51:11,125 download_items_from_redis.py[line:93] INFO [dibei:items] Processing item: L型高效节能冰箱压缩机电机 <http://www.dibei.com/product/page-17-200.html>
+2017-06-07 10:51:16,845 download_items_from_redis.py[line:93] INFO [dibei:items] Processing item: E型1.46小槽口高效节能压缩机电机 <http://www.dibei.com/product/page-17-203.html>
+2017-06-07 10:51:22,759 download_items_from_redis.py[line:93] INFO [dibei:items] Processing item: NS1080Y系列高效节能压缩机电机 <http://www.dibei.com/product/page-17-204.html>
+2017-06-07 10:51:25,763 download_items_from_redis.py[line:93] INFO [dibei:items] Processing item: N1112Y系列高效节能压缩机电机 <http://www.dibei.com/product/page-17-205.html>
+2017-06-07 10:51:31,220 download_items_from_redis.py[line:93] INFO [dibei:items] Processing item: NS30系列高效节能压缩机电机 <http://www.dibei.com/product/page-17-206.html>

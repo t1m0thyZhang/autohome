@@ -1,0 +1,26 @@
+2017-06-07 17:08:15,278 spiders.py[line:68] INFO Reading start URLs from redis key 'huarun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 17:08:18,013 spiders.py[line:95] DEBUG Read 1 requests from 'huarun:start_urls'
+2017-06-07 17:08:21,328 spider_huarun.py[line:74] INFO url is: http://www.huarun.com/product/productWall/?t=26.
+2017-06-07 17:08:58,127 spiders.py[line:68] INFO Reading start URLs from redis key 'huarun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 17:09:00,736 spiders.py[line:95] DEBUG Read 1 requests from 'huarun:start_urls'
+2017-06-07 17:09:01,029 spider_huarun.py[line:74] INFO url is: http://www.huarun.com/product/productWall/?t=26.
+2017-06-07 17:09:08,869 spider_huarun.py[line:134] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 119, in parse2
+    level1 = response.xpath("//dd[@class='current']").extract()
+AttributeError: addinfourl instance has no attribute 'xpath'
+)
+2017-06-07 17:09:10,844 spider_huarun.py[line:134] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 119, in parse2
+    level1 = response.xpath("//dd[@class='current']").extract()
+AttributeError: addinfourl instance has no attribute 'xpath'
+)
+2017-06-07 17:09:15,940 spider_huarun.py[line:134] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 119, in parse2
+    level1 = response.xpath("//dd[@class='current']").extract()
+AttributeError: addinfourl instance has no attribute 'xpath'
+)
+2017-06-07 17:09:24,821 spider_huarun.py[line:134] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 119, in parse2
+    level1 = response.xpath("//dd[@class='current']").extract()
+AttributeError: addinfourl instance has no attribute 'xpath'
+)

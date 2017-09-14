@@ -1,0 +1,18 @@
+2017-05-27 11:40:16,713 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'tox:items' (server: localhost, port: 6379)
+2017-05-27 11:40:18,976 download_items_from_redis.py[line:93] INFO [tox:items] Processing item: TOX-Powerpackage的附件 <https://www.tox-cn.com/products/drives/pneumohydraulic-drives/powerpackage-accessories/>
+2017-05-27 11:40:22,367 download_items_from_redis.py[line:93] INFO [tox:items] Processing item: 机电驱动装置 <https://www.tox-cn.com/products/drives/electric-drive-technology/electromechanical-drives/>
+2017-05-27 11:40:26,178 download_items_from_redis.py[line:93] INFO [tox:items] Processing item: 软件 <https://www.tox-cn.com/products/drives/electric-drive-technology/software/>
+2017-05-27 11:40:30,295 download_items_from_redis.py[line:93] INFO [tox:items] Processing item: 附件 <https://www.tox-cn.com/products/drives/electric-drive-technology/accessories/>
+2017-05-27 11:40:35,502 download_items_from_redis.py[line:93] INFO [tox:items] Processing item: 伺服控制器 <https://www.tox-cn.com/products/drives/electric-drive-technology/line-x-controller/>
+2017-05-27 11:40:43,884 download_items_from_redis.py[line:93] INFO [tox:items] Processing item: 柱式冲压机 <https://www.tox-cn.com/products/presses/press-frames/column-presses/>
+2017-05-27 11:40:48,380 download_items_from_redis.py[line:93] INFO [tox:items] Processing item: 安全装置 <https://www.tox-cn.com/products/presses/press-frames/safety-devices/>
+2017-05-27 11:40:52,987 download_items_from_redis.py[line:93] INFO [tox:items] Processing item: C型机身台式冲压机 <https://www.tox-cn.com/products/presses/press-frames/c-frame-benchtop-presses/>
+2017-05-27 11:40:58,176 download_items_from_redis.py[line:93] INFO [tox:items] Processing item: C型机身冲压机 <https://www.tox-cn.com/products/presses/press-frames/standalone-c-frame-presses/>
+2017-05-27 11:41:02,770 download_items_from_redis.py[line:93] INFO [tox:items] Processing item: 肘杆式冲压机 <https://www.tox-cn.com/products/presses/small-presses/toggle-presses/>
+2017-05-27 11:41:06,503 download_items_from_redis.py[line:93] INFO [tox:items] Processing item: 气动冲压机 <https://www.tox-cn.com/products/presses/small-presses/pneumatic-presses/>
+2017-05-27 11:41:12,073 download_items_from_redis.py[line:93] INFO [tox:items] Processing item: 齿条齿轮式冲压机 <https://www.tox-cn.com/products/presses/small-presses/rack-pinion-presses/>
+2017-05-27 11:41:15,806 download_items_from_redis.py[line:93] INFO [tox:items] Processing item: 附件 <https://www.tox-cn.com/products/presses/small-presses/benchtop-press-accessories/>
+2017-05-27 11:41:19,302 download_items_from_redis.py[line:93] INFO [tox:items] Processing item: 使用手动趋近的气动冲压机 <https://www.tox-cn.com/products/presses/small-presses/manual-pneumatic-benchtop-press/>
+2017-05-27 11:41:23,539 download_items_from_redis.py[line:93] INFO [tox:items] Processing item: 冲压监测器EPW <https://www.tox-cn.com/products/controls-and-monitoring/process-monitoring/pressing-monitor-epw/>
+2017-05-27 11:41:27,894 download_items_from_redis.py[line:93] INFO [tox:items] Processing item: 冲压连接监测器CEP <https://www.tox-cn.com/products/controls-and-monitoring/process-monitoring/clinching-monitor-cep/>
+2017-05-27 11:41:33,480 download_items_from_redis.py[line:93] INFO [tox:items] Processing item: 附件 <https://www.tox-cn.com/products/presses/press-frames/accessories/>

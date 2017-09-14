@@ -1,0 +1,2 @@
+2017-05-31 11:10:56,140 spiders.py[line:68] INFO Reading start URLs from redis key 'tmb:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 11:10:58,703 spiders.py[line:95] DEBUG Read 1 requests from 'tmb:start_urls'

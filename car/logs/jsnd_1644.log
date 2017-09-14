@@ -1,0 +1,23 @@
+2017-06-08 16:44:43,674 spiders.py[line:68] INFO Reading start URLs from redis key 'jsnd:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 16:44:46,345 spiders.py[line:95] DEBUG Read 3 requests from 'jsnd:start_urls'
+2017-06-08 16:44:47,953 spider_jsnd.py[line:55] INFO url is: http://www.nj-road.com/Product/list_2.html.
+2017-06-08 16:44:50,900 spider_jsnd.py[line:55] INFO url is: http://www.nj-road.com/Product/list_3.html.
+2017-06-08 16:44:56,053 spider_jsnd.py[line:55] INFO url is: http://www.nj-road.com/Product/index.html.
+2017-06-08 16:45:01,246 spider_jsnd.py[line:70] INFO detail is being parsed, url is: http://www.nj-road.com/Product/015736240.html.
+2017-06-08 16:45:04,339 spider_jsnd.py[line:70] INFO detail is being parsed, url is: http://www.nj-road.com/Product/021457746.html.
+2017-06-08 16:45:09,944 spider_jsnd.py[line:70] INFO detail is being parsed, url is: http://www.nj-road.com/Product/309268852.html.
+2017-06-08 16:45:13,332 spider_jsnd.py[line:70] INFO detail is being parsed, url is: http://www.nj-road.com/Product/509328449.html.
+2017-06-08 16:45:16,665 spider_jsnd.py[line:70] INFO detail is being parsed, url is: http://www.nj-road.com/Product/1482392244.html.
+2017-06-08 16:45:22,167 spider_jsnd.py[line:70] INFO detail is being parsed, url is: http://www.nj-road.com/Product/2310591448.html.
+2017-06-08 16:45:26,125 spider_jsnd.py[line:70] INFO detail is being parsed, url is: http://www.nj-road.com/Product/6425032147.html.
+2017-06-08 16:45:30,871 spider_jsnd.py[line:70] INFO detail is being parsed, url is: http://www.nj-road.com/Product/7901581259.html.
+2017-06-08 16:45:33,650 spider_jsnd.py[line:70] INFO detail is being parsed, url is: http://www.nj-road.com/Product/8164071022.html.
+2017-06-08 16:45:39,407 spider_jsnd.py[line:70] INFO detail is being parsed, url is: http://www.nj-road.com/Product/8193651949.html.
+2017-06-08 16:45:44,628 spider_jsnd.py[line:70] INFO detail is being parsed, url is: http://www.nj-road.com/Product/8934012618.html.
+2017-06-08 16:45:50,328 spider_jsnd.py[line:70] INFO detail is being parsed, url is: http://www.nj-road.com/Product/9286042329.html.
+2017-06-08 16:45:53,941 spider_jsnd.py[line:70] INFO detail is being parsed, url is: http://www.nj-road.com/Product/053642225.html.
+2017-06-08 16:45:59,250 spider_jsnd.py[line:70] INFO detail is being parsed, url is: http://www.nj-road.com/Product/104659134.html.
+2017-06-08 16:46:04,467 spider_jsnd.py[line:70] INFO detail is being parsed, url is: http://www.nj-road.com/Product/207195563.html.
+2017-06-08 16:46:10,338 spider_jsnd.py[line:70] INFO detail is being parsed, url is: http://www.nj-road.com/Product/504273923.html.
+2017-06-08 16:46:15,878 spider_jsnd.py[line:70] INFO detail is being parsed, url is: http://www.nj-road.com/Product/0735291924.html.
+2017-06-08 16:46:21,078 spider_jsnd.py[line:70] INFO detail is being parsed, url is: http://www.nj-road.com/Product/1380241815.html.

@@ -1,0 +1,29 @@
+2017-08-17 10:02:05,594 spiders.py[line:68] INFO Reading start URLs from redis key 'autohome:start_urls' (batch size: 1, encoding: utf-8
+2017-08-17 10:02:09,223 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 10:02:09,315 spider_autohome.py[line:55] INFO url is: http://www.autohome.com.cn/18/.
+2017-08-17 10:02:09,607 spider_autohome.py[line:68] INFO detail is being parsed, url is: http://k.autohome.com.cn/18/9092/.
+2017-08-17 10:02:19,484 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/18/9092/?gradeenum=0.
+2017-08-17 10:02:38,778 spiders.py[line:68] INFO Reading start URLs from redis key 'autohome:start_urls' (batch size: 1, encoding: utf-8
+2017-08-17 10:02:43,151 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 10:02:43,259 spider_autohome.py[line:55] INFO url is: http://www.autohome.com.cn/2738/.
+2017-08-17 10:02:43,681 spider_autohome.py[line:68] INFO detail is being parsed, url is: http://k.autohome.com.cn/2738/7979/.
+2017-08-17 10:02:43,729 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 10:02:46,153 spider_autohome.py[line:55] INFO url is: http://www.autohome.com.cn/2734/.
+2017-08-17 10:02:49,834 spider_autohome.py[line:68] INFO detail is being parsed, url is: http://k.autohome.com.cn/2734/7970/.
+2017-08-17 10:02:49,897 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 10:02:51,081 spider_autohome.py[line:55] INFO url is: http://www.autohome.com.cn/19/.
+2017-08-17 10:02:51,111 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 10:02:57,028 spider_autohome.py[line:55] INFO url is: http://www.autohome.com.cn/3669/.
+2017-08-17 10:02:57,059 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-17 10:03:02,915 spider_autohome.py[line:55] INFO url is: http://www.autohome.com.cn/2951/.
+2017-08-17 10:03:03,516 spider_autohome.py[line:68] INFO detail is being parsed, url is: http://k.autohome.com.cn/2951/9448/.
+2017-08-17 10:03:13,377 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/2951/9448/?gradeenum=0.
+2017-08-17 10:03:18,621 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/2951/9448/index_2.html?GradeEnum=0.
+2017-08-17 10:03:23,851 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/2951/9448/index_3.html?GradeEnum=0.
+2017-08-17 10:03:29,463 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/2951/9448/index_4.html?GradeEnum=0.
+2017-08-17 10:03:34,769 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/2951/9448/index_5.html?GradeEnum=0.
+2017-08-17 10:03:39,974 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/2951/9448/index_6.html?GradeEnum=0.
+2017-08-17 10:03:45,956 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/2951/9448/index_7.html?GradeEnum=0.
+2017-08-17 10:03:51,845 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/2951/9448/index_8.html?GradeEnum=0.
+2017-08-17 10:03:56,158 spider_autohome.py[line:90] INFO url is: http://k.autohome.com.cn/2951/9448/index_9.html?GradeEnum=0.
+2017-08-17 10:04:02,213 spider_autohome.py[line:103] INFO detail is being parsed, url is: http://k.autohome.com.cn/spec/29126/view_1614168_1.html?st=1&piap=0|2951|9448|0|1|0|0|0|0|0|1.

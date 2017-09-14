@@ -1,0 +1,11 @@
+2017-06-08 16:44:01,874 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'jsnd:items' (server: localhost, port: 6379)
+2017-06-08 16:44:02,891 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 穿梭车货架 <http://www.nj-road.com/Product/504273923.html>
+2017-06-08 16:44:02,892 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 阁楼式货架 <http://www.nj-road.com/Product/972045425.html>
+2017-06-08 16:44:02,894 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 钢结构平台 <http://www.nj-road.com/Product/053642225.html>
+2017-06-08 16:44:02,895 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 折叠网箱 <http://www.nj-road.com/Product/2639152441.html>
+2017-06-08 16:44:02,897 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 挂板架 <http://www.nj-road.com/Product/2687092842.html>
+2017-06-08 16:44:02,898 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 推车类 <http://www.nj-road.com/Product/2873963022.html>
+2017-06-08 16:45:02,308 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 折叠式仓储笼 <http://www.nj-road.com/Product/015736240.html>
+2017-06-08 16:45:04,357 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 工具柜 <http://www.nj-road.com/Product/021457746.html>
+2017-06-08 16:45:09,951 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 工具车 <http://www.nj-road.com/Product/309268852.html>
+2017-06-08 16:45:13,349 download_items_from_redis.py[line:93] INFO [jsnd:items] Processing item: 工作台 <http://www.nj-road.com/Product/509328449.html>

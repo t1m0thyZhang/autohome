@@ -1,0 +1,470 @@
+2017-05-25 17:58:09,036 spiders.py[line:68] INFO Reading start URLs from redis key 'sv:start_urls' (batch size: 16, encoding: utf-8
+2017-05-25 17:58:10,806 __init__.py[line:47] DEBUG Resuming crawl (12 requests scheduled)
+2017-05-25 17:58:38,821 spiders.py[line:68] INFO Reading start URLs from redis key 'sv:start_urls' (batch size: 16, encoding: utf-8
+2017-05-25 17:58:41,676 spiders.py[line:95] DEBUG Read 11 requests from 'sv:start_urls'
+2017-05-25 17:58:43,470 spider_sv.py[line:62] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/drilling-tools.aspx.
+2017-05-25 17:58:45,737 spider_sv.py[line:62] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/boring-and-reaming-tools.aspx.
+2017-05-25 17:58:50,940 spider_sv.py[line:62] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/digital-machining.aspx.
+2017-05-25 17:58:56,111 spider_sv.py[line:62] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/threading-tools.aspx.
+2017-05-25 17:59:01,716 spider_sv.py[line:62] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/Parting-and-grooving-tools.aspx.
+2017-05-25 17:59:06,401 spider_sv.py[line:62] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/turning-tools.aspx.
+2017-05-25 17:59:12,441 spider_sv.py[line:62] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/industrysolutions/small_part_machining/pages/default.aspx.
+2017-05-25 17:59:17,960 spider_sv.py[line:62] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/milling-tools.aspx.
+2017-05-25 17:59:22,480 spider_sv.py[line:62] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/tooling-systems.aspx.
+2017-05-25 17:59:25,535 spider_sv.py[line:62] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/solid-round-tools.aspx.
+2017-05-25 17:59:30,397 spider_sv.py[line:62] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/pages/inserts-grades.aspx.
+2017-05-25 17:59:35,515 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/indexable-drills.aspx.
+2017-05-25 17:59:40,977 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/solid-carbide-drills.aspx.
+2017-05-25 17:59:45,051 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/exchangeable-tip-drills.aspx.
+2017-05-25 17:59:50,582 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/deep-hole-machining-drills.aspx.
+2017-05-25 17:59:56,401 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/composite-solutions/Pages/default.aspx.
+2017-05-25 18:00:00,253 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/rough-boring-tools.aspx.
+2017-05-25 18:00:05,766 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/reamers.aspx.
+2017-05-25 18:00:10,349 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/fine-boring-tools.aspx.
+2017-05-25 18:00:14,648 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/other-applications-with-boring-tools.aspx.
+2017-05-25 18:00:20,749 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/tapping-tools.aspx.
+2017-05-25 18:00:23,345 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/thread-milling-tools.aspx.
+2017-05-25 18:00:29,381 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/heavy-turning-tools.aspx.
+2017-05-25 18:00:32,033 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/external-turning-tools.aspx.
+2017-05-25 18:00:36,390 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/face-milling-tools.aspx.
+2017-05-25 18:00:41,964 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/gear-milling-tools.aspx.
+2017-05-25 18:00:46,420 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/chamfer-milling-tools.aspx.
+2017-05-25 18:00:51,742 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/high-feed-milling-tools.aspx.
+2017-05-25 18:00:56,970 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill_880/Pages/default.aspx.
+2017-05-25 18:01:02,543 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill_460/Pages/default.aspx.
+2017-05-25 18:01:07,598 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill_860/Pages/default.aspx.
+2017-05-25 18:01:12,746 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill_861/Pages/default.aspx.
+2017-05-25 18:01:17,214 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill_862/Pages/default.aspx.
+2017-05-25 18:01:22,171 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill_865/Pages/default.aspx.
+2017-05-25 18:01:22,186 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corodrill_865/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 128, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xae' in position 9: illegal multibyte sequence
+)
+2017-05-25 18:01:24,154 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/cororeamer_435/Pages/default.aspx.
+2017-05-25 18:01:28,005 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/reamer_830/Pages/default.aspx.
+2017-05-25 18:01:28,020 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/reamer_830/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 107, in parse3
+    print details
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xb5' in position 21: illegal multibyte sequence
+)
+2017-05-25 18:01:32,904 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/cororeamer_835/Pages/default.aspx.
+2017-05-25 18:01:38,177 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corotap_100/Pages/default.aspx.
+2017-05-25 18:01:38,193 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corotap_100/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 128, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u2122' in position 7: illegal multibyte sequence
+)
+2017-05-25 18:01:41,063 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corotap_200/Pages/default.aspx.
+2017-05-25 18:01:46,841 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corotap_300/Pages/default.aspx.
+2017-05-25 18:01:46,882 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corotap_300/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 128, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u2122' in position 7: illegal multibyte sequence
+)
+2017-05-25 18:01:51,926 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corotap_400/Pages/default.aspx.
+2017-05-25 18:01:51,940 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corotap_400/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 128, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u2122' in position 7: illegal multibyte sequence
+)
+2017-05-25 18:01:56,134 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/auto_fs/Pages/default.aspx.
+2017-05-25 18:02:01,878 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_176/Pages/default.aspx.
+2017-05-25 18:02:05,069 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill-177/Pages/default.aspx.
+2017-05-25 18:02:10,128 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx.
+2017-05-25 18:02:16,046 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_245/Pages/default.aspx.
+2017-05-25 18:02:20,667 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_331/Pages/default.aspx.
+2017-05-25 18:02:20,684 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coromill_331/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 107, in parse3
+    print details
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xa0' in position 9: illegal multibyte sequence
+)
+2017-05-25 18:02:23,017 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_345/Pages/default.aspx.
+2017-05-25 18:02:26,831 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_425/Pages/default.aspx.
+2017-05-25 18:02:32,263 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_745/Pages/default.aspx.
+2017-05-25 18:02:36,934 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill-161/Pages/default.aspx.
+2017-05-25 18:02:41,335 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill-162/Pages/default.aspx.
+2017-05-25 18:02:45,359 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_170/Pages/default.aspx.
+2017-05-25 18:02:50,605 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill-171/Pages/default.aspx.
+2017-05-25 18:02:56,446 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_172/Pages/default.aspx.
+2017-05-25 18:03:01,470 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_174/Pages/default.aspx.
+2017-05-25 18:03:04,167 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_century/Pages/default.aspx.
+2017-05-25 18:03:07,447 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx.
+2017-05-25 18:03:12,940 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill-171-4/Pages/default.aspx.
+2017-05-25 18:03:19,749 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_316/Pages/default.aspx.
+2017-05-25 18:03:24,111 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_326/Pages/default.aspx.
+2017-05-25 18:03:28,815 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_327/Pages/default.aspx.
+2017-05-25 18:03:33,895 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill-495/Pages/default.aspx.
+2017-05-25 18:03:39,424 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_325/Pages/default.aspx.
+2017-05-25 18:03:44,831 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_326/Pages/default.aspx.
+2017-05-25 18:03:48,081 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_327/Pages/default.aspx.
+2017-05-25 18:03:53,737 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_328/Pages/default.aspx.
+2017-05-25 18:03:58,941 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_210/Pages/default.aspx.
+2017-05-25 18:04:03,674 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_316/Pages/default.aspx.
+2017-05-25 18:04:09,098 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_415/Pages/default.aspx.
+2017-05-25 18:04:09,115 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coromill_415/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 128, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xae' in position 8: illegal multibyte sequence
+)
+2017-05-25 18:04:13,538 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_419/Pages/default.aspx.
+2017-05-25 18:04:17,585 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_745/Pages/default.aspx.
+2017-05-25 18:04:22,493 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/double-disc-cutters/Pages/default.aspx.
+2017-05-25 18:04:26,108 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_plura/Pages/default.aspx.
+2017-05-25 18:04:31,042 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_200/Pages/default.aspx.
+2017-05-25 18:04:34,812 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_245/Pages/default.aspx.
+2017-05-25 18:04:38,206 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_357/Pages/default.aspx.
+2017-05-25 18:04:41,457 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_360/Pages/default.aspx.
+2017-05-25 18:04:41,473 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coromill_360/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 107, in parse3
+    print details
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xa0' in position 29: illegal multibyte sequence
+)
+2017-05-25 18:04:46,562 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_178/Pages/default.aspx.
+2017-05-25 18:04:46,578 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coromill_178/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 128, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xae' in position 8: illegal multibyte sequence
+)
+2017-05-25 18:04:50,176 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_180/Pages/default.aspx.
+2017-05-25 18:04:50,190 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coromill_180/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 128, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xae' in position 8: illegal multibyte sequence
+)
+2017-05-25 18:04:53,476 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/finishing-disc-cutters/Pages/default.aspx.
+2017-05-25 18:04:57,071 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill-r840/Pages/default.aspx.
+2017-05-25 18:05:02,707 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill-r846/Pages/default.aspx.
+2017-05-25 18:05:08,664 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/duobore/Pages/default.aspx.
+2017-05-25 18:05:12,517 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/gundrills/Pages/default.aspx.
+2017-05-25 18:05:16,334 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill_870/Pages/default.aspx.
+2017-05-25 18:05:21,973 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill_881/Pages/default.aspx.
+2017-05-25 18:05:26,793 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx.
+2017-05-25 18:05:32,782 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_plura/Pages/default.aspx.
+2017-05-25 18:05:38,240 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_plura/Pages/default.aspx.
+2017-05-25 18:05:43,098 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_200/Pages/default.aspx.
+2017-05-25 18:05:47,278 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_210/Pages/default.aspx.
+2017-05-25 18:05:52,078 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_245/Pages/default.aspx.
+2017-05-25 18:05:57,749 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_300/Pages/default.aspx.
+2017-05-25 18:06:03,640 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_331/Pages/default.aspx.
+2017-05-25 18:06:03,654 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coromill_331/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 107, in parse3
+    print details
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xa0' in position 9: illegal multibyte sequence
+)
+2017-05-25 18:06:08,549 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_345/Pages/default.aspx.
+2017-05-25 18:06:13,645 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_365/Pages/default.aspx.
+2017-05-25 18:06:19,457 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_415/Pages/default.aspx.
+2017-05-25 18:06:19,473 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coromill_415/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 128, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xae' in position 8: illegal multibyte sequence
+)
+2017-05-25 18:06:22,469 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_419/Pages/default.aspx.
+2017-05-25 18:06:28,029 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_490/Pages/default.aspx.
+2017-05-25 18:06:31,378 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx.
+2017-05-25 18:06:36,026 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx.
+2017-05-25 18:06:41,933 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/auto_roughing/Pages/default.aspx.
+2017-05-25 18:06:47,502 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_s60/Pages/default.aspx.
+2017-05-25 18:06:52,690 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corobore_825_826/pages/default.aspx.
+2017-05-25 18:06:58,115 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corobore_826/pages/default.aspx.
+2017-05-25 18:07:02,589 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corobore_xl/Pages/default.aspx.
+2017-05-25 18:07:02,605 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corobore_xl/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 107, in parse3
+    print details
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xa0' in position 74: illegal multibyte sequence
+)
+2017-05-25 18:07:07,010 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill_800/Pages/default.aspx.
+2017-05-25 18:07:12,118 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill_801/Pages/default.aspx.
+2017-05-25 18:07:16,920 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill-808/Pages/default.aspx.
+2017-05-25 18:07:21,476 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill_818/Pages/default.aspx.
+2017-05-25 18:07:25,571 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corobore_820/Pages/default.aspx.
+2017-05-25 18:07:30,796 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corobore_br10/Pages/default.aspx.
+2017-05-25 18:07:30,812 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corobore_br10/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 128, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xae' in position 8: illegal multibyte sequence
+)
+2017-05-25 18:07:36,515 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corobore_br20/Pages/default.aspx.
+2017-05-25 18:07:36,530 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corobore_br20/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 128, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xae' in position 8: illegal multibyte sequence
+)
+2017-05-25 18:07:39,003 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corobore_br30/Pages/default.aspx.
+2017-05-25 18:07:39,017 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corobore_br30/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 128, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xae' in position 8: illegal multibyte sequence
+)
+2017-05-25 18:07:43,096 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corobore-824-xs/pages/default.aspx.
+2017-05-25 18:07:47,497 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_u_stack_drill/Pages/default.aspx.
+2017-05-25 18:07:51,187 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/fine_boring_head_391_37_392_410/pages/default.aspx.
+2017-05-25 18:07:55,760 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx.
+2017-05-25 18:07:59,230 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corobore_825_826_xl/pages/default.aspx.
+2017-05-25 18:08:01,296 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromant_u/Pages/default.aspx.
+2017-05-25 18:08:07,276 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_u/Pages/default.aspx.
+2017-05-25 18:08:12,605 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_xs/Pages/default.aspx.
+2017-05-25 18:08:17,519 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_prime/Pages/default.aspx.
+2017-05-25 18:08:17,535 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_prime/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 128, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xae' in position 8: illegal multibyte sequence
+)
+2017-05-25 18:08:21,417 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx.
+2017-05-25 18:08:26,829 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx.
+2017-05-25 18:08:31,721 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_300/pages/default.aspx.
+2017-05-25 18:08:36,989 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_sl/Pages/default.aspx.
+2017-05-25 18:08:41,434 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromant_capto/Pages/default.aspx.
+2017-05-25 18:08:47,029 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_prime/Pages/default.aspx.
+2017-05-25 18:08:47,043 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_prime/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 128, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xae' in position 8: illegal multibyte sequence
+)
+2017-05-25 18:08:50,517 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/qs_holding_system/Pages/default.aspx.
+2017-05-25 18:08:54,062 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corobore_825_sl/Pages/default.aspx.
+2017-05-25 18:08:58,769 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corobore_xl/Pages/default.aspx.
+2017-05-25 18:08:58,785 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corobore_xl/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 107, in parse3
+    print details
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xa0' in position 74: illegal multibyte sequence
+)
+2017-05-25 18:09:03,831 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corobore_xl/Pages/default.aspx.
+2017-05-25 18:09:03,831 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corobore_xl/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 107, in parse3
+    print details
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xa0' in position 74: illegal multibyte sequence
+)
+2017-05-25 18:09:09,625 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/multi-task-machining-tools.aspx.
+2017-05-25 18:09:14,750 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/shoulder-milling-edging-tools.aspx.
+2017-05-25 18:09:20,339 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/cut-off-slot-and-groove-milling-tools.aspx.
+2017-05-25 18:09:26,003 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/solid-milling-tools-exchangeable-tips.aspx.
+2017-05-25 18:09:31,812 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/profile-milling-copy-milling-contouring.aspx.
+2017-05-25 18:09:34,628 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/internal-turning-tools.aspx.
+2017-05-25 18:09:39,861 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/multi-task-machining-tools.aspx.
+2017-05-25 18:09:45,276 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/pages/boring-inserts-grades.aspx.
+2017-05-25 18:09:50,378 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/pages/milling-inserts-grades.aspx.
+2017-05-25 18:09:56,055 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/pages/turning-inserts-grades.aspx.
+2017-05-25 18:10:01,299 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/pages/drilling-inserts-grades.aspx.
+2017-05-25 18:10:04,171 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/threading-inserts-grades/Pages/default.aspx.
+2017-05-25 18:10:08,457 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/parting-grooving-inserts-grades/Pages/default.aspx.
+2017-05-25 18:10:13,349 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/thread-turning-tools.aspx.
+2017-05-25 18:10:17,315 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/machining-centres.aspx.
+2017-05-25 18:10:20,755 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/turning-centres-and-lathes.aspx.
+2017-05-25 18:10:26,706 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/multi-task-machines-tooling.aspx.
+2017-05-25 18:10:32,607 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx.
+2017-05-25 18:10:38,503 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroplex_mt/Pages/default.aspx.
+2017-05-25 18:10:44,174 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_316/Pages/default.aspx.
+2017-05-25 18:10:49,959 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_390/Pages/default.aspx.
+2017-05-25 18:10:54,914 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_490/Pages/default.aspx.
+2017-05-25 18:11:00,163 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_690/Pages/default.aspx.
+2017-05-25 18:11:03,282 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_790/Pages/default.aspx.
+2017-05-25 18:11:07,812 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_qd/Pages/default.aspx.
+2017-05-25 18:11:10,200 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_327/Pages/default.aspx.
+2017-05-25 18:11:15,408 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_328/Pages/default.aspx.
+2017-05-25 18:11:20,451 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_329/Pages/default.aspx.
+2017-05-25 18:11:23,505 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_331/Pages/default.aspx.
+2017-05-25 18:11:23,520 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coromill_331/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 107, in parse3
+    print details
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xa0' in position 9: illegal multibyte sequence
+)
+2017-05-25 18:11:29,098 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx.
+2017-05-25 18:11:32,595 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroplex_mt/Pages/default.aspx.
+2017-05-25 18:11:35,878 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroplex_sl/Pages/default.aspx.
+2017-05-25 18:11:41,269 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroplex_TB/Pages/default.aspx.
+2017-05-25 18:11:41,285 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroplex_TB/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 107, in parse3
+    print details
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xae' in position 22: illegal multibyte sequence
+)
+2017-05-25 18:11:46,927 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroplex_TT/Pages/default.aspx.
+2017-05-25 18:11:52,690 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_xs/Pages/default.aspx.
+2017-05-25 18:11:57,069 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_mb/Pages/default.aspx.
+2017-05-25 18:12:01,848 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_316/Pages/default.aspx.
+2017-05-25 18:12:07,496 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_331/Pages/default.aspx.
+2017-05-25 18:12:07,512 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coromill_331/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 107, in parse3
+    print details
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xa0' in position 9: illegal multibyte sequence
+)
+2017-05-25 18:12:11,438 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_390/Pages/default.aspx.
+2017-05-25 18:12:17,055 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_490/Pages/default.aspx.
+2017-05-25 18:12:22,868 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_790/Pages/default.aspx.
+2017-05-25 18:12:28,542 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx.
+2017-05-25 18:12:34,365 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromant-eh/pages/default.aspx.
+2017-05-25 18:12:39,559 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_mb/Pages/default.aspx.
+2017-05-25 18:12:42,694 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_u-lock/Pages/default.aspx.
+2017-05-25 18:12:47,921 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx.
+2017-05-25 18:12:51,901 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx.
+2017-05-25 18:12:56,713 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_plura/Pages/default.aspx.
+2017-05-25 18:13:02,447 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_plura/Pages/default.aspx.
+2017-05-25 18:13:07,201 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_plura/Pages/default.aspx.
+2017-05-25 18:13:12,200 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corochuck_930/pages/default.aspx.
+2017-05-25 18:13:16,947 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corochuck-970/pages/default.aspx.
+2017-05-25 18:13:19,319 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx.
+2017-05-25 18:13:23,457 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corothread_266/Pages/default.aspx.
+2017-05-25 18:13:29,107 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corothread_266/Pages/default.aspx.
+2017-05-25 18:13:32,723 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromant_capto/pages/default.aspx.
+2017-05-25 18:13:37,174 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_twin-lock/Pages/default.aspx.
+2017-05-25 18:13:41,673 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_twin-lock/Pages/default.aspx.
+2017-05-25 18:13:47,539 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroplex_mt/pages/default.aspx.
+2017-05-25 18:13:51,282 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroplex_sl/pages/default.aspx.
+2017-05-25 18:13:54,042 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroplex_tb/pages/default.aspx.
+2017-05-25 18:13:54,042 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroplex_tb/pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 107, in parse3
+    print details
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xae' in position 22: illegal multibyte sequence
+)
+2017-05-25 18:13:59,063 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroplex_tt/pages/default.aspx.
+2017-05-25 18:14:04,375 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/easy-fix/pages/default.aspx.
+2017-05-25 18:14:09,424 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/boring-and-reaming-tools.aspx.
+2017-05-25 18:14:14,457 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/start-up-tool-kits/pages/default.aspx.
+2017-05-25 18:14:19,440 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx.
+2017-05-25 18:14:24,878 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromant-eh/pages/default.aspx.
+2017-05-25 18:14:30,348 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_sl/pages/default.aspx.
+2017-05-25 18:14:35,286 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromant-eh/pages/default.aspx.
+2017-05-25 18:14:40,999 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_sl/pages/default.aspx.
+2017-05-25 18:14:45,664 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromant-eh/Pages/default.aspx.
+2017-05-25 18:14:51,559 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/silent_tools/pages/default.aspx.
+2017-05-25 18:14:56,388 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/silent_tools/pages/default.aspx.
+2017-05-25 18:15:01,799 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_390/Pages/default.aspx.
+2017-05-25 18:15:05,236 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/silent_tools_milling/Pages/default.aspx.
+2017-05-25 18:15:10,584 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corochuck_930/pages/default.aspx.
+2017-05-25 18:15:15,753 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corochuck-970/pages/default.aspx.
+2017-05-25 18:15:20,674 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_mb/Pages/default.aspx.
+2017-05-25 18:15:24,864 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromant_capto/pages/default.aspx.
+2017-05-25 18:15:28,747 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromant_capto/pages/default.aspx.
+2017-05-25 18:15:34,193 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx.
+2017-05-25 18:15:40,285 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx.
+2017-05-25 18:15:45,767 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/easy-fix/Pages/default.aspx.
+2017-05-25 18:15:51,581 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-steel/pages/default.aspx.
+2017-05-25 18:15:56,440 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_200/Pages/default.aspx.
+2017-05-25 18:16:01,020 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_210/Pages/default.aspx.
+2017-05-25 18:16:06,924 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_216/Pages/default.aspx.
+2017-05-25 18:16:11,865 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_300/Pages/default.aspx.
+2017-05-25 18:16:16,553 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_316/Pages/default.aspx.
+2017-05-25 18:16:22,114 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_419/Pages/default.aspx.
+2017-05-25 18:16:26,114 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/CoroMill_600/Pages/default.aspx.
+2017-05-25 18:16:32,049 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/milling-inserts-grades-steel/pages/default.aspx.
+2017-05-25 18:16:35,940 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-steel/pages/default.aspx.
+2017-05-25 18:16:41,221 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_216f/Pages/default.aspx.
+2017-05-25 18:16:45,536 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/qs_holding_system/pages/default.aspx.
+2017-05-25 18:16:51,361 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/start-up-tool-kits/pages/default.aspx.
+2017-05-25 18:16:55,539 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_plura/Pages/default.aspx.
+2017-05-25 18:16:58,315 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_316/Pages/default.aspx.
+2017-05-25 18:17:04,003 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_326/Pages/default.aspx.
+2017-05-25 18:17:08,792 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_327/Pages/default.aspx.
+2017-05-25 18:17:13,865 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/machine-adapted-clamping-units/pages/default.aspx.
+2017-05-25 18:17:18,782 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_sl/Pages/default.aspx.
+2017-05-25 18:17:21,615 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-cast-iron/pages/default.aspx.
+2017-05-25 18:17:26,670 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/milling-inserts-grades-cast-iron/pages/default.aspx.
+2017-05-25 18:17:31,572 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-cast-iron/pages/default.aspx.
+2017-05-25 18:17:37,394 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_390/Pages/default.aspx.
+2017-05-25 18:17:42,006 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_690/Pages/default.aspx.
+2017-05-25 18:17:46,499 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/hsk/pages/default.aspx.
+2017-05-25 18:17:51,808 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromant_capto/Pages/default.aspx.
+2017-05-25 18:17:57,788 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/deep-hole-drilling-inserts-grades/Pages/default.aspx.
+2017-05-25 18:18:01,355 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-titanium-hrsa/pages/default.aspx.
+2017-05-25 18:18:06,204 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/short-hole-drilling-inserts-grades/Pages/default.aspx.
+2017-05-25 18:18:10,223 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-hardened-steel/pages/default.aspx.
+2017-05-25 18:18:16,164 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/milling-inserts-grades-titanium-hrsa/pages/default.aspx.
+2017-05-25 18:18:21,528 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-titanium-hrsa/pages/default.aspx.
+2017-05-25 18:18:25,690 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-stainless-steel/pages/default.aspx.
+2017-05-25 18:18:29,094 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/milling-inserts-grades-hardened-steel/pages/default.aspx.
+2017-05-25 18:18:33,657 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-hardened-steel/pages/default.aspx.
+2017-05-25 18:18:37,329 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/milling-inserts-grades-stainless-steel/pages/default.aspx.
+2017-05-25 18:18:42,428 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-stainless-steel/pages/default.aspx.
+2017-05-25 18:18:47,240 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/bigplus/pages/default.aspx.
+2017-05-25 18:18:52,108 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/silent_tools_turning/pages/default.aspx.
+2017-05-25 18:18:58,232 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-non-ferrous-materials/pages/default.aspx.
+2017-05-25 18:19:03,903 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/milling-inserts-grades-non-ferrous-materials/pages/default.aspx.
+2017-05-25 18:19:09,101 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/turning-inserts-grades-non-ferrous-materials/pages/default.aspx.
+2017-05-25 18:19:15,131 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/industrysolutions/small_part_machining/pages/default.aspx.
+2017-05-25 18:19:19,569 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/optimized-solutions.aspx.
+2017-05-25 18:19:25,240 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/versatile-solutions.aspx.
+2017-05-25 18:19:31,250 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/how-to-use-customized-solutions.aspx.
+2017-05-25 18:19:34,999 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/pages/profiling-tools.aspx.
+2017-05-25 18:19:40,128 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/parting-off-tools.aspx.
+2017-05-25 18:19:45,519 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/face-grooving-tools.aspx.
+2017-05-25 18:19:49,753 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/external-grooving-tools.aspx.
+2017-05-25 18:19:55,470 spider_sv.py[line:78] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/internal-grooving-tools.aspx.
+2017-05-25 18:20:00,394 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_plura/Pages/default.aspx.
+2017-05-25 18:20:05,401 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_316/Pages/default.aspx.
+2017-05-25 18:20:09,801 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_326/Pages/default.aspx.
+2017-05-25 18:20:14,506 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corotap_100/Pages/default.aspx.
+2017-05-25 18:20:14,523 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corotap_100/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 128, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u2122' in position 7: illegal multibyte sequence
+)
+2017-05-25 18:20:20,249 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill_452/Pages/default.aspx.
+2017-05-25 18:20:24,861 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill_854_856/Pages/default.aspx.
+2017-05-25 18:20:30,234 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill_860/Pages/default.aspx.
+2017-05-25 18:20:34,397 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill_861/Pages/default.aspx.
+2017-05-25 18:20:36,832 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill_862/Pages/default.aspx.
+2017-05-25 18:20:42,996 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corotap_200/Pages/default.aspx.
+2017-05-25 18:20:48,092 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corotap_300/Pages/default.aspx.
+2017-05-25 18:20:48,127 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corotap_300/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 128, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u2122' in position 7: illegal multibyte sequence
+)
+2017-05-25 18:20:53,821 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corotap_400/Pages/default.aspx.
+2017-05-25 18:20:53,836 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corotap_400/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 128, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u2122' in position 7: illegal multibyte sequence
+)
+2017-05-25 18:20:58,937 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_3/Pages/default.aspx.
+2017-05-25 18:21:01,785 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_3/Pages/default.aspx.
+2017-05-25 18:21:05,457 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut-qd/Pages/default.aspx.
+2017-05-25 18:21:10,444 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_xs/Pages/default.aspx.
+2017-05-25 18:21:15,911 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx.
+2017-05-25 18:21:20,365 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_qd/Pages/default.aspx.
+2017-05-25 18:21:25,193 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_mb/Pages/default.aspx.
+2017-05-25 18:21:30,967 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx.
+2017-05-25 18:21:35,829 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx.
+2017-05-25 18:21:41,819 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_q-cut/Pages/default.aspx.
+2017-05-25 18:21:47,615 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_3/Pages/default.aspx.
+2017-05-25 18:21:53,640 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut-qd/Pages/default.aspx.
+2017-05-25 18:21:57,585 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_xs/Pages/default.aspx.
+2017-05-25 18:22:02,783 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_mb/Pages/default.aspx.
+2017-05-25 18:22:07,535 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut-qd/Pages/default.aspx.
+2017-05-25 18:22:10,318 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx.
+2017-05-25 18:22:16,207 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx.
+2017-05-25 18:22:21,332 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx.
+2017-05-25 18:22:25,348 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_q-cut/Pages/default.aspx.
+2017-05-25 18:22:29,130 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_mb/Pages/default.aspx.
+2017-05-25 18:22:33,959 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx.
+2017-05-25 18:22:39,911 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx.
+2017-05-25 18:22:44,019 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx.
+2017-05-25 18:22:49,957 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_q-cut/Pages/default.aspx.
+2017-05-25 18:22:55,473 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corothread_254/Pages/default.aspx.
+2017-05-25 18:23:01,073 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corothread_254/Pages/default.aspx.
+2017-05-25 18:23:06,374 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corotap_400/Pages/default.aspx.
+2017-05-25 18:23:06,390 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corotap_400/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 128, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u2122' in position 7: illegal multibyte sequence
+)
+2017-05-25 18:23:12,532 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill_863/Pages/default.aspx.
+2017-05-25 18:23:16,630 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill_865/Pages/default.aspx.
+2017-05-25 18:23:16,644 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corodrill_865/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 128, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xae' in position 9: illegal multibyte sequence
+)
+2017-05-25 18:23:21,969 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill_460/Pages/default.aspx.
+2017-05-25 18:23:27,407 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill-r846/Pages/default.aspx.
+2017-05-25 18:23:33,088 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromill_plura/Pages/default.aspx.
+2017-05-25 18:23:37,538 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/cororeamer_435/Pages/default.aspx.
+2017-05-25 18:23:43,359 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corotap_200/Pages/default.aspx.
+2017-05-25 18:23:46,641 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corotap_300/Pages/default.aspx.
+2017-05-25 18:23:46,677 spider_sv.py[line:135] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corotap_300/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 128, in parse3
+    print pname
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u2122' in position 7: illegal multibyte sequence
+)
+2017-05-25 18:23:52,875 spider_sv.py[line:96] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corodrill-r840/Pages/default.aspx.

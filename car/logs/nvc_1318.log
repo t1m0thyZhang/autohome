@@ -1,0 +1,3 @@
+2017-06-02 13:18:27,240 spiders.py[line:68] INFO Reading start URLs from redis key 'nvc:start_urls' (batch size: 16, encoding: utf-8
+2017-06-02 13:18:29,808 spiders.py[line:95] DEBUG Read 1 requests from 'nvc:start_urls'
+2017-06-02 13:18:29,997 spider_nvc.py[line:49] INFO step into layer1, url is: http://www.nvc-lighting.com.cn.

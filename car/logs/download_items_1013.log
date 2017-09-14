@@ -1,0 +1,12 @@
+2017-06-12 10:13:13,566 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'easun:items' (server: localhost, port: 6379)
+2017-06-12 10:13:14,582 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 产品名称：3A2系列二位三通气控阀 <http://www.china-easun.com/products_detail/productId=68.html>
+2017-06-12 10:13:14,588 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 产品名称：调速消声器BESLD <http://www.china-easun.com/products_detail/productId=165.html>
+2017-06-12 10:13:14,592 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 产品名称：L型螺纹二通EPL/APL/ZPL <http://www.china-easun.com/products_detail/productId=201.html>
+2017-06-12 10:13:14,595 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 产品名称：FA或FB型附件 <http://www.china-easun.com/products_detail/productId=132.html>
+2017-06-12 10:13:14,599 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 产品名称：磁性开关ES-11系列 <http://www.china-easun.com/products_detail/productId=178.html>
+2017-06-12 10:13:18,072 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 产品名称：ECQ2WB薄型气缸（双伸杆型） <http://www.china-easun.com/products_detail/productId=120.html>
+2017-06-12 10:13:23,055 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 产品名称：EMALC铝合金迷你气缸（串联型） <http://www.china-easun.com/products_detail/productId=107.html>
+2017-06-12 10:13:28,621 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 产品名称：4ES2系列二位五通三位五通电磁阀 <http://www.china-easun.com/products_detail/productId=57.html>
+2017-06-12 10:14:32,716 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 产品名称：PU螺旋管 <http://www.china-easun.com/products_detail/productId=158.html>
+2017-06-12 10:14:33,127 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 产品名称：通用型铜消声器BSL <http://www.china-easun.com/products_detail/productId=161.html>
+2017-06-12 10:14:45,993 download_items_from_redis.py[line:93] INFO [easun:items] Processing item: 产品名称：圆螺纹直通EPOC/APOC <http://www.china-easun.com/products_detail/productId=43.html>

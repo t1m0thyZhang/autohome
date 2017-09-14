@@ -1,0 +1,6 @@
+2017-06-07 10:19:10,154 spiders.py[line:68] INFO Reading start URLs from redis key 'zbyb:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 10:19:12,740 spiders.py[line:95] DEBUG Read 3 requests from 'zbyb:start_urls'
+2017-06-07 10:19:13,105 spider_zbyb.py[line:52] INFO url is: http://www.zbyabo.cn/product.asp?page=1.
+2017-06-07 10:19:20,740 spider_zbyb.py[line:52] INFO url is: http://www.zbyabo.cn/product.asp?page=2.
+2017-06-07 10:19:23,315 spider_zbyb.py[line:52] INFO url is: http://www.zbyabo.cn/product.asp?page=3.
+2017-06-07 10:19:26,937 spider_zbyb.py[line:68] INFO url is: http://www.zbyabo.cn//proview.asp?id=1418.

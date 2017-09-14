@@ -1,0 +1,32 @@
+2017-05-29 23:45:02,624 spiders.py[line:68] INFO Reading start URLs from redis key 'tt:start_urls' (batch size: 16, encoding: utf-8
+2017-05-29 23:45:05,532 spiders.py[line:95] DEBUG Read 1 requests from 'tt:start_urls'
+2017-05-29 23:45:05,901 spider_tt.py[line:72] INFO layer1 url is: http://www.timken-timken.cn/zcList.aspx?par=neiquan.
+2017-05-29 23:45:15,207 spider_tt.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=00050.
+2017-05-29 23:45:18,914 spider_tt.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02473.
+2017-05-29 23:45:24,173 spider_tt.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02474.
+2017-05-29 23:45:25,059 spider_tt.py[line:95] ERROR layer1 parsing failed, url is:(http://www.timken-timken.cn/zcList.aspx?par=neiquan), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tt.py", line 91, in parse
+    driver.find_element_by_xpath(r'//td[4]/a').click() # 下一页
+  File "e:\python27\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "e:\python27\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "e:\python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "e:\python27\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: unknown error: Element <a id="LinkButton4" href="javascript:__doPostBack('LinkButton4','')">...</a> is not clickable at point (457, 506). Other element would receive the click: <div class="right">...</div>
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10240 x86_64)
+
+)
+2017-05-29 23:45:26,961 spider_tt.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02475.
+2017-05-29 23:45:32,523 spider_tt.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02476.
+2017-05-29 23:45:36,756 spider_tt.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02872.
+2017-05-29 23:45:42,653 spider_tt.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02875.
+2017-05-29 23:45:48,341 spider_tt.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02877.
+2017-05-29 23:45:53,806 spider_tt.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02473X.
+2017-05-29 23:45:59,654 spider_tt.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02474A.
+2017-05-29 23:46:04,168 spider_tt.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02476X.
+2017-05-29 23:47:52,352 spider_tt.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02876.
+2017-05-29 23:47:52,469 spider_tt.py[line:99] INFO layer2 url is: http://www.timken-timken.cn/xhList.aspx?typeN=neiquan&valueT=02878.

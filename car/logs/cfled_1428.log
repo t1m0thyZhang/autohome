@@ -1,0 +1,10 @@
+2017-06-05 14:28:34,069 spiders.py[line:68] INFO Reading start URLs from redis key 'cfled:start_urls' (batch size: 16, encoding: utf-8
+2017-06-05 14:28:35,634 __init__.py[line:47] DEBUG Resuming crawl (4 requests scheduled)
+2017-06-05 14:28:36,707 spiders.py[line:95] DEBUG Read 1 requests from 'cfled:start_urls'
+2017-06-05 14:28:37,335 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=465.
+2017-06-05 14:29:07,862 spider_cfled.py[line:95] ERROR layer2 failed, url is:(http://www.cfled.com/product1.aspx?CateId=465), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_cfled.py", line 83, in parse2
+    clstmp = re.split("产品类型：")[1]
+TypeError: split() takes at least 2 arguments (1 given)
+)
+2017-06-05 14:29:08,815 spider_cfled.py[line:66] INFO step into layer2, url is: http://www.cfled.com/product1.aspx?CateId=466.

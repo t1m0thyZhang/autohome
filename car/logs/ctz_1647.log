@@ -1,0 +1,14 @@
+2017-05-24 16:47:17,698 spiders.py[line:68] INFO Reading start URLs from redis key 'ctz:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 16:47:18,138 __init__.py[line:46] DEBUG Resuming crawl (1 requests scheduled)
+2017-05-24 16:47:18,198 spiders.py[line:95] DEBUG Read 9 requests from 'ctz:start_urls'
+2017-05-24 16:47:20,638 spider_ctz.py[line:59] INFO layer1 url is: http://www.ceratizit.com/products/metal-cutting/list/?category=4.
+2017-05-24 16:47:33,289 spider_ctz.py[line:59] INFO layer1 url is: http://www.ceratizit.com/products/metal-cutting/list/?category=9.
+2017-05-24 16:47:35,490 spider_ctz.py[line:59] INFO layer1 url is: http://www.ceratizit.com/products/metal-cutting/list/?category=4.
+2017-05-24 16:47:37,730 spider_ctz.py[line:59] INFO layer1 url is: http://www.ceratizit.com/products/metal-cutting/list/?category=7.
+2017-05-24 16:47:42,240 spider_ctz.py[line:59] INFO layer1 url is: http://www.ceratizit.com/products/metal-cutting/list/?category=2.
+2017-05-24 16:47:48,917 spider_ctz.py[line:59] INFO layer1 url is: http://www.ceratizit.com/products/metal-cutting/list/?category=3.
+2017-05-24 16:47:54,163 spider_ctz.py[line:59] INFO layer1 url is: http://www.ceratizit.com/products/metal-cutting/list/?category=8.
+2017-05-24 16:47:59,970 spider_ctz.py[line:59] INFO layer1 url is: http://www.ceratizit.com/products/metal-cutting/list/?category=6.
+2017-05-24 16:48:03,660 spider_ctz.py[line:59] INFO layer1 url is: http://www.ceratizit.com/products/metal-cutting/list/?category=5.
+2017-05-24 16:48:08,630 spider_ctz.py[line:59] INFO layer1 url is: http://www.ceratizit.com/products/metal-cutting/list/?category=1.
+2017-05-24 16:48:15,140 spider_ctz.py[line:74] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=69.

@@ -1,0 +1,5 @@
+2017-05-27 10:50:38,338 spiders.py[line:68] INFO Reading start URLs from redis key 'tox:start_urls' (batch size: 16, encoding: utf-8
+2017-05-27 10:50:41,292 spiders.py[line:95] DEBUG Read 1 requests from 'tox:start_urls'
+2017-05-27 10:50:43,743 spider_tox.py[line:52] INFO step into layer1, url is: https://www.tox-cn.com/product-overview/.
+2017-05-27 10:50:49,214 spider_tox.py[line:68] INFO step into layer2, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/overview/.
+2017-05-27 10:50:54,733 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/lineq/.

@@ -1,0 +1,46 @@
+2017-05-27 10:48:50,855 spiders.py[line:68] INFO Reading start URLs from redis key 'tox:start_urls' (batch size: 16, encoding: utf-8
+2017-05-27 10:48:54,089 spiders.py[line:95] DEBUG Read 1 requests from 'tox:start_urls'
+2017-05-27 10:48:56,907 spider_tox.py[line:52] INFO step into layer1, url is: https://www.tox-cn.com/product-overview/.
+2017-05-27 10:49:16,444 spider_tox.py[line:68] INFO step into layer2, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/overview/.
+2017-05-27 10:49:50,668 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/lineq/.
+2017-05-27 10:50:02,928 spider_tox.py[line:120] ERROR layer3 failed: failed to write into item, url is:(https://www.tox-cn.com/products/drives/pneumohydraulic-drives/lineq/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tox.py", line 86, in parse3
+    item["brand"] = "山特维克可乐满/SANDVIK Coromant"
+KeyError: 'item'
+)
+2017-05-27 10:50:03,042 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/line-x/.
+2017-05-27 10:50:03,043 spider_tox.py[line:120] ERROR layer3 failed: failed to write into item, url is:(https://www.tox-cn.com/products/drives/pneumohydraulic-drives/line-x/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tox.py", line 86, in parse3
+    item["brand"] = "山特维克可乐满/SANDVIK Coromant"
+KeyError: 'item'
+)
+2017-05-27 10:50:04,773 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/type-rz/.
+2017-05-27 10:50:04,776 spider_tox.py[line:120] ERROR layer3 failed: failed to write into item, url is:(https://www.tox-cn.com/products/drives/pneumohydraulic-drives/type-rz/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tox.py", line 86, in parse3
+    item["brand"] = "山特维克可乐满/SANDVIK Coromant"
+KeyError: 'item'
+)
+2017-05-27 10:50:11,042 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/x-kt-system/.
+2017-05-27 10:50:11,045 spider_tox.py[line:120] ERROR layer3 failed: failed to write into item, url is:(https://www.tox-cn.com/products/drives/pneumohydraulic-drives/x-kt-system/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tox.py", line 86, in parse3
+    item["brand"] = "山特维克可乐满/SANDVIK Coromant"
+KeyError: 'item'
+)
+2017-05-27 10:50:12,516 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/type-s-type-k/.
+2017-05-27 10:50:12,517 spider_tox.py[line:120] ERROR layer3 failed: failed to write into item, url is:(https://www.tox-cn.com/products/drives/pneumohydraulic-drives/type-s-type-k/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tox.py", line 86, in parse3
+    item["brand"] = "山特维克可乐满/SANDVIK Coromant"
+KeyError: 'item'
+)
+2017-05-27 10:50:20,194 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/special-solutions/.
+2017-05-27 10:50:20,196 spider_tox.py[line:120] ERROR layer3 failed: failed to write into item, url is:(https://www.tox-cn.com/products/drives/pneumohydraulic-drives/special-solutions/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tox.py", line 86, in parse3
+    item["brand"] = "山特维克可乐满/SANDVIK Coromant"
+KeyError: 'item'
+)
+2017-05-27 10:50:23,529 spider_tox.py[line:82] INFO --------layer3, url is: https://www.tox-cn.com/products/drives/pneumohydraulic-drives/powerpackage-accessories/.
+2017-05-27 10:50:23,529 spider_tox.py[line:120] ERROR layer3 failed: failed to write into item, url is:(https://www.tox-cn.com/products/drives/pneumohydraulic-drives/powerpackage-accessories/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_tox.py", line 86, in parse3
+    item["brand"] = "山特维克可乐满/SANDVIK Coromant"
+KeyError: 'item'
+)

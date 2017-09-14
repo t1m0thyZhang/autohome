@@ -1,0 +1,9 @@
+2017-06-08 10:54:32,780 spiders.py[line:68] INFO Reading start URLs from redis key 'fsjr:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 10:54:36,707 spiders.py[line:95] DEBUG Read 16 requests from 'fsjr:start_urls'
+2017-06-08 10:54:36,808 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=699.
+2017-06-08 10:54:40,601 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=312.
+2017-06-08 10:55:06,921 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=643.
+2017-06-08 10:55:23,736 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=532.
+2017-06-08 10:55:28,296 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=465.
+2017-06-08 10:55:32,653 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=723.
+2017-06-08 10:55:46,763 spider_fsjr.py[line:52] INFO url is: http://www.fsjr.cn/pro_Show.asp?id=410.

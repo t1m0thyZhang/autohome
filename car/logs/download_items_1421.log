@@ -1,0 +1,8 @@
+2017-05-31 14:21:24,891 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'ruili:items' (server: localhost, port: 6379)
+2017-05-31 14:21:25,904 download_items_from_redis.py[line:93] INFO [ruili:items] Processing item: YRL32四柱液压机 <http://www.rljc.net/product_view_46_148.html>
+2017-05-31 14:21:25,907 download_items_from_redis.py[line:93] INFO [ruili:items] Processing item: YRL27四柱式单动薄板 <http://www.rljc.net/product_view_47_148.html>
+2017-05-31 14:21:25,908 download_items_from_redis.py[line:93] INFO [ruili:items] Processing item: YRL27框架式单动薄板 <http://www.rljc.net/product_view_48_148.html>
+2017-05-31 14:21:25,913 download_items_from_redis.py[line:93] INFO [ruili:items] Processing item: YRL28四柱式双动薄板 <http://www.rljc.net/product_view_49_148.html>
+2017-05-31 14:21:25,915 download_items_from_redis.py[line:93] INFO [ruili:items] Processing item: YRL41单柱液压机 <http://www.rljc.net/product_view_50_148.html>
+2017-05-31 14:21:25,918 download_items_from_redis.py[line:93] INFO [ruili:items] Processing item: YRL78龙门式液压机 <http://www.rljc.net/product_view_51_148.html>
+2017-05-31 14:21:25,921 download_items_from_redis.py[line:93] INFO [ruili:items] Processing item: YRL磁性材料成型液压 <http://www.rljc.net/product_view_52_148.html>

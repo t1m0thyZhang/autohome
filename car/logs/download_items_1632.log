@@ -1,0 +1,2 @@
+2017-05-25 16:32:10,717 download_items_from_redis.py[line:112] INFO [process id 0] start to download items in 'sv:items' (server: localhost, port: 6379)
+2017-05-25 16:32:11,749 download_items_from_redis.py[line:92] INFO [sv:items] Processing item: ;CoroCut 1-2 CoroCut 1-2 高效切断和切槽 概览 产品型号 产品详细信息 成功案例  <http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx>

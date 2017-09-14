@@ -1,0 +1,19 @@
+2017-06-09 09:55:41,789 spiders.py[line:68] INFO Reading start URLs from redis key 'pst:start_urls' (batch size: 16, encoding: utf-8
+2017-06-09 09:55:46,713 spiders.py[line:95] DEBUG Read 16 requests from 'pst:start_urls'
+2017-06-09 09:55:46,822 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-69.aspx.
+2017-06-09 09:55:53,759 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-97.aspx.
+2017-06-09 09:55:57,730 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-9.aspx.
+2017-06-09 09:56:02,984 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-16.aspx.
+2017-06-09 09:56:08,750 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-68.aspx.
+2017-06-09 09:56:14,061 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-96.aspx.
+2017-06-09 09:56:19,642 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-13.aspx.
+2017-06-09 09:56:25,394 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-72.aspx.
+2017-06-09 09:56:28,724 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-22.aspx.
+2017-06-09 09:56:34,342 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-87.aspx.
+2017-06-09 09:56:38,480 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-40.aspx.
+2017-06-09 09:56:44,007 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-18.aspx.
+2017-06-09 09:56:49,571 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-102.aspx.
+2017-06-09 09:56:55,733 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-21.aspx.
+2017-06-09 09:56:59,907 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-5.aspx.
+2017-06-09 09:57:05,556 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-42.aspx.
+2017-06-09 09:57:11,957 spider_pst.py[line:64] INFO detail is being parsed, url is: http://www.pousto.com.cn/pros_show-205-854.aspx.

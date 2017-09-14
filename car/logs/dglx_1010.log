@@ -1,0 +1,5 @@
+2017-06-06 10:10:34,233 spiders.py[line:68] INFO Reading start URLs from redis key 'dglx:start_urls' (batch size: 16, encoding: utf-8
+2017-06-06 10:10:37,049 __init__.py[line:47] DEBUG Resuming crawl (43 requests scheduled)
+2017-06-06 10:10:39,960 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/1255440698.html.
+2017-06-06 10:12:12,124 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/468219904.html.
+2017-06-06 10:13:34,447 spider_dglx.py[line:70] INFO step into layer2, url is: http://www.lxtpc.com.cn/offer/468224399.html.

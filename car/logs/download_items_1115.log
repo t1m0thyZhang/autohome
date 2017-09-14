@@ -1,0 +1,11 @@
+2017-05-25 11:15:17,233 download_items_from_redis.py[line:112] INFO [process id 0] start to download items in 'xww:items' (server: localhost, port: 6379)
+2017-05-25 11:15:18,253 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:15:18,253 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:15:18,269 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:15:18,273 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:15:18,276 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:15:22,285 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>
+2017-05-25 11:15:22,487 download_items_from_redis.py[line:48] ERROR failed to download image(url: http://www.xawinway.comhttp://www.xawinway.com:80/upload/images/1485334141301.jpg ), retry_num:1 reason:<urlopen error [Errno 11001] getaddrinfo failed>
+2017-05-25 11:15:22,503 download_items_from_redis.py[line:48] ERROR failed to download image(url: http://www.xawinway.comhttp://www.xawinway.com:80/upload/images/1485334141301.jpg ), retry_num:2 reason:<urlopen error [Errno 11001] getaddrinfo failed>
+2017-05-25 11:15:22,519 download_items_from_redis.py[line:48] ERROR failed to download image(url: http://www.xawinway.comhttp://www.xawinway.com:80/upload/images/1485334141301.jpg ), retry_num:3 reason:<urlopen error [Errno 11001] getaddrinfo failed>
+2017-05-25 11:19:11,255 download_items_from_redis.py[line:92] INFO [xww:items] Processing item: None <None>

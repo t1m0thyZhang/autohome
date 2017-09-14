@@ -1,0 +1,589 @@
+2017-05-25 15:23:29,506 spiders.py[line:68] INFO Reading start URLs from redis key 'sv:start_urls' (batch size: 16, encoding: utf-8
+2017-05-25 15:23:32,414 spiders.py[line:95] DEBUG Read 1 requests from 'sv:start_urls'
+2017-05-25 15:23:34,260 spider_sv.py[line:55] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/turning-tools.aspx.
+2017-05-25 15:23:37,694 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/heavy-turning-tools.aspx.
+2017-05-25 15:23:43,344 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/external-turning-tools.aspx.
+2017-05-25 15:23:48,716 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/internal-turning-tools.aspx.
+2017-05-25 15:23:54,795 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/multi-task-machining-tools.aspx.
+2017-05-25 15:24:00,096 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx.
+2017-05-25 15:24:00,108 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:24:05,194 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx.
+2017-05-25 15:24:05,206 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:24:09,568 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx.
+2017-05-25 15:24:09,584 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:24:14,921 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_xs/Pages/default.aspx.
+2017-05-25 15:24:14,936 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corocut_xs/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:24:20,773 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx.
+2017-05-25 15:24:20,788 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:24:25,796 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx.
+2017-05-25 15:24:25,805 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:24:30,710 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_300/pages/default.aspx.
+2017-05-25 15:24:30,720 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_300/pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:24:36,141 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_prime/Pages/default.aspx.
+2017-05-25 15:24:36,153 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_prime/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:24:41,496 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx.
+2017-05-25 15:24:41,515 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:24:46,334 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_sl/Pages/default.aspx.
+2017-05-25 15:24:46,349 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_sl/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:24:50,197 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx.
+2017-05-25 15:24:50,213 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:24:55,163 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromant_capto/Pages/default.aspx.
+2017-05-25 15:24:55,180 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coromant_capto/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:24:59,908 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_prime/Pages/default.aspx.
+2017-05-25 15:24:59,921 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_prime/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:25:03,440 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/qs_holding_system/Pages/default.aspx.
+2017-05-25 15:25:03,448 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/qs_holding_system/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:25:08,628 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx.
+2017-05-25 15:25:08,641 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:25:13,105 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroplex_TB/Pages/default.aspx.
+2017-05-25 15:25:13,111 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroplex_TB/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:26:16,512 spiders.py[line:95] DEBUG Read 1 requests from 'sv:start_urls'
+2017-05-25 15:26:17,153 spider_sv.py[line:55] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/turning-tools.aspx.
+2017-05-25 15:26:21,960 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/heavy-turning-tools.aspx.
+2017-05-25 15:26:24,903 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/external-turning-tools.aspx.
+2017-05-25 15:26:30,713 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/internal-turning-tools.aspx.
+2017-05-25 15:26:36,282 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/multi-task-machining-tools.aspx.
+2017-05-25 15:26:41,803 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx.
+2017-05-25 15:26:41,813 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:26:47,566 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx.
+2017-05-25 15:26:47,581 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:26:50,474 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx.
+2017-05-25 15:26:50,484 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:26:55,726 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_xs/Pages/default.aspx.
+2017-05-25 15:26:55,734 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corocut_xs/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:26:59,155 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx.
+2017-05-25 15:26:59,171 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:27:02,572 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_300/pages/default.aspx.
+2017-05-25 15:27:02,588 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_300/pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:27:06,832 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_prime/Pages/default.aspx.
+2017-05-25 15:27:06,848 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_prime/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:27:11,763 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx.
+2017-05-25 15:27:11,773 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:27:17,526 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_sl/Pages/default.aspx.
+2017-05-25 15:27:17,542 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_sl/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:27:19,721 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx.
+2017-05-25 15:27:19,730 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:27:22,673 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx.
+2017-05-25 15:27:22,694 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:27:26,262 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coromant_capto/Pages/default.aspx.
+2017-05-25 15:27:26,270 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coromant_capto/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:27:29,095 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_prime/Pages/default.aspx.
+2017-05-25 15:27:29,111 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_prime/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:27:35,138 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/qs_holding_system/Pages/default.aspx.
+2017-05-25 15:27:35,145 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/qs_holding_system/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:27:38,931 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx.
+2017-05-25 15:27:38,950 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:27:44,966 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroplex_mt/Pages/default.aspx.
+2017-05-25 15:27:44,971 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroplex_mt/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    details = response.xpath(dtlpath).extract()
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:46:06,368 spiders.py[line:95] DEBUG Read 1 requests from 'sv:start_urls'
+2017-05-25 15:46:08,157 spider_sv.py[line:55] INFO step into layer1, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/turning-tools.aspx.
+2017-05-25 15:46:11,713 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/external-turning-tools.aspx.
+2017-05-25 15:46:17,515 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/heavy-turning-tools.aspx.
+2017-05-25 15:46:21,960 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/internal-turning-tools.aspx.
+2017-05-25 15:46:27,460 spider_sv.py[line:71] INFO step into layer2, url is: http://www.sandvik.coromant.com/zh-cn/products/Pages/multi-task-machining-tools.aspx.
+2017-05-25 15:46:33,078 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_prime/Pages/default.aspx.
+2017-05-25 15:46:33,091 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_prime/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    dtlpath = "//div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul[1]"
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:46:38,904 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx.
+2017-05-25 15:46:38,930 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    dtlpath = "//div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul[1]"
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:46:42,351 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_xs/Pages/default.aspx.
+2017-05-25 15:46:42,367 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corocut_xs/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    dtlpath = "//div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul[1]"
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:46:47,313 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx.
+2017-05-25 15:46:47,321 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    dtlpath = "//div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul[1]"
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:46:51,693 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_300/pages/default.aspx.
+2017-05-25 15:46:51,710 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/coroturn_300/pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    dtlpath = "//div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul[1]"
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)
+2017-05-25 15:46:55,200 spider_sv.py[line:85] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx.
+2017-05-25 15:46:55,217 spider_sv.py[line:109] ERROR layer3 failed: failed to write into item, url is:(http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\product\product\spiders\spider_sv.py", line 98, in parse3
+    dtlpath = "//div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul[1]"
+  File "E:\python27\lib\site-packages\scrapy\http\response\text.py", line 119, in xpath
+    return self.selector.xpath(query, **kwargs)
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 226, in xpath
+    six.reraise(ValueError, ValueError(msg), sys.exc_info()[2])
+  File "E:\python27\lib\site-packages\parsel\selector.py", line 222, in xpath
+    **kwargs)
+  File "src/lxml/lxml.etree.pyx", line 1587, in lxml.etree._Element.xpath (src\lxml\lxml.etree.c:59369)
+  File "src/lxml/xpath.pxi", line 307, in lxml.etree.XPathElementEvaluator.__call__ (src\lxml\lxml.etree.c:171249)
+  File "src/lxml/xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src\lxml\lxml.etree.c:170206)
+ValueError: XPath error: Invalid expression in //div[@id='ctl00_PlaceHolderOuterWrap_DialogPlaceHolder_PlaceHolderOuterMain_ctl03__ControlWrapper_SlimRichHtmlField']/ul/li/div']
+)

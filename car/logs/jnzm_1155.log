@@ -1,0 +1,3 @@
+2017-05-31 11:55:06,210 spiders.py[line:68] INFO Reading start URLs from redis key 'jnzm:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 11:55:08,723 spiders.py[line:95] DEBUG Read 1 requests from 'jnzm:start_urls'
+2017-05-31 11:55:09,141 spider_jnzm.py[line:55] INFO step into layer1, url is: http://www.jnzys.com/a/chanpinzhongxin/list_8_1.html.

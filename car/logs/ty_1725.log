@@ -1,0 +1,4 @@
+2017-05-31 17:25:40,944 spiders.py[line:68] INFO Reading start URLs from redis key 'ty:start_urls' (batch size: 16, encoding: utf-8
+2017-05-31 17:25:42,467 __init__.py[line:47] DEBUG Resuming crawl (33 requests scheduled)
+2017-05-31 17:25:42,867 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_3wj8w.html.
+2017-05-31 17:26:36,785 spider_ty.py[line:77] INFO step into layer1, url is: http://www.wuxitaiyuan.com/products/product_3xj8w.html.

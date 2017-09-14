@@ -1,0 +1,13 @@
+2017-08-16 19:48:22,227 spiders.py[line:68] INFO Reading start URLs from redis key 'autohome:start_urls' (batch size: 1, encoding: utf-8
+2017-08-16 19:48:25,631 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'
+2017-08-16 19:48:26,779 spider_autohome.py[line:58] INFO url is: http://www.autohome.com.cn/3677/.
+2017-08-16 19:48:35,571 spider_autohome.py[line:69] ERROR failed, url is:(http://www.autohome.com.cn/3677/), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\autohome\autohome\car\spiders\spider_autohome.py", line 65, in parse
+    request = Request(url, callback=self.parse2)
+  File "E:\python27\lib\site-packages\scrapy\http\request\__init__.py", line 25, in __init__
+    self._set_url(url)
+  File "E:\python27\lib\site-packages\scrapy\http\request\__init__.py", line 58, in _set_url
+    raise ValueError('Missing scheme in request url: %s' % self._url)
+ValueError: Missing scheme in request url: k.autohome.com.cn/3677/9037/#pvareaid=101484
+)
+2017-08-16 19:48:35,601 spiders.py[line:95] DEBUG Read 1 requests from 'autohome:start_urls'

@@ -1,0 +1,43 @@
+2017-05-25 12:49:34,732 spiders.py[line:68] INFO Reading start URLs from redis key 'xww:start_urls' (batch size: 16, encoding: utf-8
+2017-05-25 12:49:37,598 spiders.py[line:95] DEBUG Read 1 requests from 'xww:start_urls'
+2017-05-25 12:49:52,598 rotate_retry.py[line:16] INFO no need to retry, request is:<GET http://www.xawinway.com/front/product_type.shtml?productTypeId=cd1c0c8b8f0446cfb4ee4edfa482056b&productTypeName=%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%BC%B8%E5%AD%94%E7%B2%BE%E9%95%97%E5%88%80>, failed reason:User timeout caused connection failure: Getting http://www.xawinway.com/front/product_type.shtml?productTypeId=cd1c0c8b8f0446cfb4ee4edfa482056b&productTypeName=%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%BC%B8%E5%AD%94%E7%B2%BE%E9%95%97%E5%88%80 took longer than 15.0 seconds..
+2017-05-25 12:49:52,818 spiders.py[line:95] DEBUG Read 1 requests from 'xww:start_urls'
+2017-05-25 12:49:52,990 xww.py[line:56] INFO step into layer1, url is: http://www.xawinway.com/front/product_type.shtml?productTypeId=cd1c0c8b8f0446cfb4ee4edfa482056b&productTypeName=%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%BC%B8%E5%AD%94%E7%B2%BE%E9%95%97%E5%88%80.
+2017-05-25 12:49:58,052 xww.py[line:74] INFO step into layer2, url is: http://www.xawinway.com:80/front/product_type.shtml?productTypeId=94409d1ed98e4e9db326b932a51899d5&productTypeName=%E5%88%80%E7%89%87.
+2017-05-25 12:50:03,436 xww.py[line:74] INFO step into layer2, url is: http://www.xawinway.com:80/front/product_type.shtml?productTypeId=b52af54580b24b6a8f73de3d92b54308&productTypeName=%E5%88%87%E5%89%8A%E8%AE%BE%E8%AE%A1.
+2017-05-25 12:50:03,450 xww.py[line:82] INFO request url: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=4e1d8a59f6cd477cb621fd3314ded1e9.
+2017-05-25 12:50:09,211 xww.py[line:74] INFO step into layer2, url is: http://www.xawinway.com:80/front/product_type.shtml?productTypeId=cd1c0c8b8f0446cfb4ee4edfa482056b&productTypeName=%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%BC%B8%E5%AD%94%E7%B2%BE%E9%95%97%E5%88%80.
+2017-05-25 12:50:09,211 xww.py[line:82] INFO request url: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=11956f0fc04c48a5af232f38616186d1.
+2017-05-25 12:50:12,845 xww.py[line:74] INFO step into layer2, url is: http://www.xawinway.com:80/front/product_type.shtml?productTypeId=1d6dc74104614e5c993c620c0936b8e7&productTypeName=%E6%B1%BD%E8%BD%A6.
+2017-05-25 12:50:12,845 xww.py[line:82] INFO request url: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=ce024d2979964087ad5c6c36e86b051c.
+2017-05-25 12:50:17,279 xww.py[line:74] INFO step into layer2, url is: http://www.xawinway.com:80/front/product_type.shtml?productTypeId=397948f7b28c478cb30ef124b7b5b0ca&productTypeName=%E8%88%AA%E7%A9%BA.
+2017-05-25 12:50:17,279 xww.py[line:82] INFO request url: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=4b0ea2d8b3d24f3c86769f840e5fa07e.
+2017-05-25 12:50:17,279 xww.py[line:82] INFO request url: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=dc56936b074744afa6b3673856d2a3ad.
+2017-05-25 12:50:17,279 xww.py[line:82] INFO request url: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=7cf4c5e265ed4133abdee350cbae3474.
+2017-05-25 12:50:22,112 xww.py[line:74] INFO step into layer2, url is: http://www.xawinway.com:80/front/product_type.shtml?productTypeId=eda9c6c595204c0baa787456793fcbf2&productTypeName=%E9%93%A3%E5%89%8A.
+2017-05-25 12:50:22,112 xww.py[line:82] INFO request url: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=b7df4d6f3c52463dbf36829a1c13ce3f.
+2017-05-25 12:50:22,112 xww.py[line:82] INFO request url: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=8c846d9a7b8d4282bad4cc02e690af99.
+2017-05-25 12:50:22,128 xww.py[line:82] INFO request url: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=ed74a5ecdc174aa58c2542b980ad44f1.
+2017-05-25 12:50:22,128 xww.py[line:82] INFO request url: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=c14dbb2e6db74e44b72a612f50d7e621.
+2017-05-25 12:50:22,128 xww.py[line:82] INFO request url: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=92e7e679ab944a458e6b26d6aca3f47e.
+2017-05-25 12:50:22,128 xww.py[line:82] INFO request url: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=3e24c7fec35b4a5e91b13d669815b251.
+2017-05-25 12:50:27,171 xww.py[line:74] INFO step into layer2, url is: http://www.xawinway.com:80/front/product_type.shtml?productTypeId=3da5f6fe63b0418a97d621f57210af99&productTypeName=%E5%AD%94%E5%8A%A0%E5%B7%A5.
+2017-05-25 12:50:27,174 xww.py[line:82] INFO request url: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=120a9a5a973c4f4b96d1721c70bb9826.
+2017-05-25 12:50:27,176 xww.py[line:82] INFO request url: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=7caf884f70cf41c29ee0353d846dea6c.
+2017-05-25 12:50:27,176 xww.py[line:82] INFO request url: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=f68474bd260d4f79b3d5f4947aaf442b.
+2017-05-25 12:50:31,773 xww.py[line:74] INFO step into layer2, url is: http://www.xawinway.com:80/front/product_type.shtml?productTypeId=1b435131a2ff4055aef7b03280782710&productTypeName=%E5%A4%8D%E6%9D%90%E5%8A%A0%E5%B7%A5.
+2017-05-25 12:50:35,052 xww.py[line:91] INFO --------layer3, url is: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=4e1d8a59f6cd477cb621fd3314ded1e9.
+2017-05-25 12:50:38,543 xww.py[line:91] INFO --------layer3, url is: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=11956f0fc04c48a5af232f38616186d1.
+2017-05-25 12:50:43,723 xww.py[line:91] INFO --------layer3, url is: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=ce024d2979964087ad5c6c36e86b051c.
+2017-05-25 12:50:46,818 xww.py[line:91] INFO --------layer3, url is: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=4b0ea2d8b3d24f3c86769f840e5fa07e.
+2017-05-25 12:50:51,890 xww.py[line:91] INFO --------layer3, url is: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=dc56936b074744afa6b3673856d2a3ad.
+2017-05-25 12:50:57,694 xww.py[line:91] INFO --------layer3, url is: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=7cf4c5e265ed4133abdee350cbae3474.
+2017-05-25 12:51:03,615 xww.py[line:91] INFO --------layer3, url is: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=8c846d9a7b8d4282bad4cc02e690af99.
+2017-05-25 12:51:09,065 xww.py[line:91] INFO --------layer3, url is: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=b7df4d6f3c52463dbf36829a1c13ce3f.
+2017-05-25 12:51:14,857 xww.py[line:91] INFO --------layer3, url is: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=c14dbb2e6db74e44b72a612f50d7e621.
+2017-05-25 12:51:20,267 xww.py[line:91] INFO --------layer3, url is: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=92e7e679ab944a458e6b26d6aca3f47e.
+2017-05-25 12:51:25,798 xww.py[line:91] INFO --------layer3, url is: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=ed74a5ecdc174aa58c2542b980ad44f1.
+2017-05-25 12:51:30,885 xww.py[line:91] INFO --------layer3, url is: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=3e24c7fec35b4a5e91b13d669815b251.
+2017-05-25 12:51:36,114 xww.py[line:91] INFO --------layer3, url is: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=120a9a5a973c4f4b96d1721c70bb9826.
+2017-05-25 12:51:40,184 xww.py[line:91] INFO --------layer3, url is: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=f68474bd260d4f79b3d5f4947aaf442b.
+2017-05-25 12:51:46,148 xww.py[line:91] INFO --------layer3, url is: http://www.xawinway.com:80/front/product_type_detaile.shtml?productDetaileId=7caf884f70cf41c29ee0353d846dea6c.

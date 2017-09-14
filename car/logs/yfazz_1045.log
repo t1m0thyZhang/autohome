@@ -1,0 +1,6 @@
+2017-06-14 10:45:06,960 spiders.py[line:68] INFO Reading start URLs from redis key 'yfazz:start_urls' (batch size: 16, encoding: utf-8
+2017-06-14 10:45:09,654 spiders.py[line:95] DEBUG Read 1 requests from 'yfazz:start_urls'
+2017-06-14 10:45:10,130 spider_yfazz.py[line:52] INFO url is: http://www.yfazz.com/cn/Products.asp.
+2017-06-14 10:45:20,558 spiders.py[line:68] INFO Reading start URLs from redis key 'yfazz:start_urls' (batch size: 16, encoding: utf-8
+2017-06-14 10:45:23,276 spiders.py[line:95] DEBUG Read 1 requests from 'yfazz:start_urls'
+2017-06-14 10:45:26,983 spider_yfazz.py[line:52] INFO url is: http://www.yfazz.com/cn/Products.asp.

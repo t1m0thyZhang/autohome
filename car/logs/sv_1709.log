@@ -1,0 +1,15 @@
+2017-05-25 17:09:07,072 spiders.py[line:68] INFO Reading start URLs from redis key 'sv:start_urls' (batch size: 16, encoding: utf-8
+2017-05-25 17:09:08,956 __init__.py[line:47] DEBUG Resuming crawl (15 requests scheduled)
+2017-05-25 17:09:11,930 spiders.py[line:95] DEBUG Read 1 requests from 'sv:start_urls'
+2017-05-25 17:09:12,029 spider_sv.py[line:92] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroplex_mt/Pages/default.aspx.
+2017-05-25 17:09:14,635 spider_sv.py[line:92] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroplex_sl/Pages/default.aspx.
+2017-05-25 17:09:19,509 spider_sv.py[line:92] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroplex_TB/Pages/default.aspx.
+2017-05-25 17:09:24,775 spider_sv.py[line:92] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroplex_TT/Pages/default.aspx.
+2017-05-25 17:09:30,664 spider_sv.py[line:92] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx.
+2017-05-25 17:09:34,471 spider_sv.py[line:92] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx.
+2017-05-25 17:09:39,552 spider_sv.py[line:92] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx.
+2017-05-25 17:09:42,447 spider_sv.py[line:92] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx.
+2017-05-25 17:09:47,815 spider_sv.py[line:92] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/corocut_mb/Pages/default.aspx.
+2017-05-25 17:09:52,253 spider_sv.py[line:92] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx.
+2017-05-25 17:09:57,355 spider_sv.py[line:92] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx.
+2017-05-25 17:10:02,101 spider_sv.py[line:92] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/easy-fix/Pages/default.aspx.

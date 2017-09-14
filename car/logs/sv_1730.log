@@ -1,0 +1,4 @@
+2017-05-25 17:30:58,115 spiders.py[line:68] INFO Reading start URLs from redis key 'sv:start_urls' (batch size: 16, encoding: utf-8
+2017-05-25 17:30:59,938 __init__.py[line:47] DEBUG Resuming crawl (15 requests scheduled)
+2017-05-25 17:31:03,618 spiders.py[line:95] DEBUG Read 1 requests from 'sv:start_urls'
+2017-05-25 17:31:03,717 spider_sv.py[line:89] INFO --------layer3, url is: http://www.sandvik.coromant.com/zh-cn/products/coroplex_mt/Pages/default.aspx.

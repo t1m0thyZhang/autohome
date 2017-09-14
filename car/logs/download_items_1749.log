@@ -1,0 +1,56 @@
+2017-05-25 17:49:38,443 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'sv:items' (server: localhost, port: 6379)
+2017-05-25 17:49:39,471 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max P <http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx>
+2017-05-25 17:49:39,486 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut XS <http://www.sandvik.coromant.com/zh-cn/products/corocut_xs/Pages/default.aspx>
+2017-05-25 17:49:39,486 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn TR <http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx>
+2017-05-25 17:49:39,509 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn 107 <http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx>
+2017-05-25 17:49:39,520 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn 300 <http://www.sandvik.coromant.com/zh-cn/products/coroturn_300/pages/default.aspx>
+2017-05-25 17:49:39,529 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 可乐满Capto <http://www.sandvik.coromant.com/zh-cn/products/coromant_capto/Pages/default.aspx>
+2017-05-25 17:49:39,542 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn SL <http://www.sandvik.coromant.com/zh-cn/products/coroturn_sl/Pages/default.aspx>
+2017-05-25 17:49:39,553 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: QS刀柄系统 <http://www.sandvik.coromant.com/zh-cn/products/qs_holding_system/Pages/default.aspx>
+2017-05-25 17:49:39,563 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn 107 <http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx>
+2017-05-25 17:49:39,572 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max P <http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx>
+2017-05-25 17:49:39,579 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut MB <http://www.sandvik.coromant.com/zh-cn/products/corocut_mb/Pages/default.aspx>
+2017-05-25 17:49:39,588 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max P <http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx>
+2017-05-25 17:49:39,596 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroPlex MT <http://www.sandvik.coromant.com/zh-cn/products/coroplex_mt/Pages/default.aspx>
+2017-05-25 17:49:39,605 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroPlex SL <http://www.sandvik.coromant.com/zh-cn/products/coroplex_sl/Pages/default.aspx>
+2017-05-25 17:49:39,614 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroPlex TT <http://www.sandvik.coromant.com/zh-cn/products/coroplex_TT/Pages/default.aspx>
+2017-05-25 17:49:39,625 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn TR <http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx>
+2017-05-25 17:49:39,634 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn XS <http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx>
+2017-05-25 17:49:39,642 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn 107 <http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx>
+2017-05-25 17:49:39,651 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max P <http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx>
+2017-05-25 17:49:39,658 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut MB <http://www.sandvik.coromant.com/zh-cn/products/corocut_mb/Pages/default.aspx>
+2017-05-25 17:49:39,668 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn XS <http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx>
+2017-05-25 17:49:39,676 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn 107 <http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx>
+2017-05-25 17:49:39,686 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: EasyFix <http://www.sandvik.coromant.com/zh-cn/products/easy-fix/Pages/default.aspx>
+2017-05-25 17:49:39,693 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn SL <http://www.sandvik.coromant.com/zh-cn/products/coroturn_sl/Pages/default.aspx>
+2017-05-25 17:49:39,701 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 可乐满Capto <http://www.sandvik.coromant.com/zh-cn/products/coromant_capto/Pages/default.aspx>
+2017-05-25 17:49:39,710 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 车削用Silent Tools 减振刀具 <http://www.sandvik.coromant.com/zh-cn/products/silent_tools_turning/pages/default.aspx>
+2017-05-25 17:49:39,719 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn TR <http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx>
+2017-05-25 17:49:39,726 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut 1-2 <http://www.sandvik.coromant.com/zh-cn/products/corocut_1-2/Pages/default.aspx>
+2017-05-25 17:49:39,736 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn 107 <http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx>
+2017-05-25 17:49:39,743 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max P <http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx>
+2017-05-25 17:49:39,753 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut XS <http://www.sandvik.coromant.com/zh-cn/products/corocut_xs/Pages/default.aspx>
+2017-05-25 17:49:39,760 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn TR <http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx>
+2017-05-25 17:49:39,769 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn 107 <http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx>
+2017-05-25 17:49:39,776 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn 300 <http://www.sandvik.coromant.com/zh-cn/products/coroturn_300/pages/default.aspx>
+2017-05-25 17:49:39,783 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 可乐满Capto <http://www.sandvik.coromant.com/zh-cn/products/coromant_capto/Pages/default.aspx>
+2017-05-25 17:49:39,790 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: QS刀柄系统 <http://www.sandvik.coromant.com/zh-cn/products/qs_holding_system/Pages/default.aspx>
+2017-05-25 17:49:39,799 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn SL <http://www.sandvik.coromant.com/zh-cn/products/coroturn_sl/Pages/default.aspx>
+2017-05-25 17:49:39,806 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max P <http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx>
+2017-05-25 17:49:39,813 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn 107 <http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx>
+2017-05-25 17:49:39,822 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut MB <http://www.sandvik.coromant.com/zh-cn/products/corocut_mb/Pages/default.aspx>
+2017-05-25 17:49:39,828 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max P <http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx>
+2017-05-25 17:49:39,838 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroPlex MT <http://www.sandvik.coromant.com/zh-cn/products/coroplex_mt/Pages/default.aspx>
+2017-05-25 17:49:39,845 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroPlex SL <http://www.sandvik.coromant.com/zh-cn/products/coroplex_sl/Pages/default.aspx>
+2017-05-25 17:49:39,852 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroPlex TT <http://www.sandvik.coromant.com/zh-cn/products/coroplex_TT/Pages/default.aspx>
+2017-05-25 17:49:39,859 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn TR <http://www.sandvik.coromant.com/zh-cn/products/coroturn_tr/Pages/default.aspx>
+2017-05-25 17:49:39,868 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn XS <http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx>
+2017-05-25 17:49:39,874 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn 107 <http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx>
+2017-05-25 17:49:39,881 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: T-Max P <http://www.sandvik.coromant.com/zh-cn/products/t-max_p/Pages/default.aspx>
+2017-05-25 17:49:39,888 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroCut MB <http://www.sandvik.coromant.com/zh-cn/products/corocut_mb/Pages/default.aspx>
+2017-05-25 17:49:39,894 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn XS <http://www.sandvik.coromant.com/zh-cn/products/coroturn_xs/Pages/default.aspx>
+2017-05-25 17:49:39,903 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn 107 <http://www.sandvik.coromant.com/zh-cn/products/coroturn_107/Pages/default.aspx>
+2017-05-25 17:49:39,908 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: EasyFix <http://www.sandvik.coromant.com/zh-cn/products/easy-fix/Pages/default.aspx>
+2017-05-25 17:49:39,917 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: CoroTurn SL <http://www.sandvik.coromant.com/zh-cn/products/coroturn_sl/Pages/default.aspx>
+2017-05-25 17:49:39,924 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 可乐满Capto <http://www.sandvik.coromant.com/zh-cn/products/coromant_capto/Pages/default.aspx>
+2017-05-25 17:49:39,930 download_items_from_redis.py[line:93] INFO [sv:items] Processing item: 车削用Silent Tools 减振刀具 <http://www.sandvik.coromant.com/zh-cn/products/silent_tools_turning/pages/default.aspx>

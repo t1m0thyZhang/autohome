@@ -1,0 +1,12 @@
+2017-06-06 15:26:49,868 download_items_from_redis.py[line:113] INFO [process id 0] start to download items in 'smc:items' (server: localhost, port: 6379)
+2017-06-06 15:26:50,898 download_items_from_redis.py[line:93] INFO [smc:items] Processing item: 4、5通先导式电磁阀 <http://www.smc.com.cn/PDF/docs/directional/pilot45/pilot45.htm>
+2017-06-06 15:26:50,901 download_items_from_redis.py[line:93] INFO [smc:items] Processing item: 3通先导式电磁阀 <http://www.smc.com.cn/PDF/docs/directional/pilot3/pilot3.htm>
+2017-06-06 15:26:50,903 download_items_from_redis.py[line:93] INFO [smc:items] Processing item: 4、5通先导式电磁阀 <http://www.smc.com.cn/PDF/docs/directional/pilot45/pilot45.htm>
+2017-06-06 15:26:50,904 download_items_from_redis.py[line:93] INFO [smc:items] Processing item: 气控阀 <http://www.smc.com.cn/PDF/docs/directional/air/air.htm>
+2017-06-06 15:26:50,905 download_items_from_redis.py[line:93] INFO [smc:items] Processing item: 串行传送系统 <http://www.smc.com.cn/PDF/docs/directional/serial/serial.htm>
+2017-06-06 15:26:50,907 download_items_from_redis.py[line:93] INFO [smc:items] Processing item: 3・4・5通直动式电磁阀 <http://www.smc.com.cn/PDF/docs/directional/direct345/direct345.htm>
+2017-06-06 15:26:50,907 download_items_from_redis.py[line:93] INFO [smc:items] Processing item: 大功率阀 <http://www.smc.com.cn/PDF/docs/directional/power/power.htm>
+2017-06-06 15:26:50,908 download_items_from_redis.py[line:93] INFO [smc:items] Processing item: 机控阀/手动阀 <http://www.smc.com.cn/PDF/docs/directional/mechanical/mechanical.htm>
+2017-06-06 15:30:14,536 download_items_from_redis.py[line:93] INFO [smc:items] Processing item: 3・4・5通直动式电磁阀 <http://www.smc.com.cn/PDF/docs/directional/direct345/direct345.htm>
+2017-06-06 15:30:16,538 download_items_from_redis.py[line:93] INFO [smc:items] Processing item: 机控阀/手动阀 <http://www.smc.com.cn/PDF/docs/directional/mechanical/mechanical.htm>
+2017-06-06 15:30:31,020 download_items_from_redis.py[line:93] INFO [smc:items] Processing item: 洁净/低发尘/无铜/氟离子 <http://www.smc.com.cn/PDF/docs/clean/clean/clean.htm>

@@ -1,0 +1,19 @@
+2017-05-24 17:18:44,069 spiders.py[line:68] INFO Reading start URLs from redis key 'ctz:start_urls' (batch size: 16, encoding: utf-8
+2017-05-24 17:18:44,410 __init__.py[line:46] DEBUG Resuming crawl (100 requests scheduled)
+2017-05-24 17:18:46,559 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=10.
+2017-05-24 17:18:50,359 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=11.
+2017-05-24 17:18:55,640 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=12.
+2017-05-24 17:19:01,095 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=13.
+2017-05-24 17:19:07,657 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=14.
+2017-05-24 17:19:12,586 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=15.
+2017-05-24 17:19:15,326 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=16.
+2017-05-24 17:19:20,877 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=17.
+2017-05-24 17:19:25,927 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=18.
+2017-05-24 17:19:31,871 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=19.
+2017-05-24 17:19:35,572 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=20.
+2017-05-24 17:19:38,361 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=21.
+2017-05-24 17:19:42,950 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=22.
+2017-05-24 17:19:49,094 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=23.
+2017-05-24 17:19:55,114 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=24.
+2017-05-24 17:19:59,473 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=26.
+2017-05-24 17:20:05,690 spider_ctz.py[line:75] INFO layer2 is being parsed, url is: http://www.ceratizit.com/products/metal-cutting/list/detail/?product=27.

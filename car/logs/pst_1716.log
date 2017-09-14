@@ -1,0 +1,21 @@
+2017-06-08 17:16:00,117 spiders.py[line:68] INFO Reading start URLs from redis key 'pst:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 17:16:04,903 spiders.py[line:95] DEBUG Read 16 requests from 'pst:start_urls'
+2017-06-08 17:16:05,003 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-99.aspx.
+2017-06-08 17:16:11,380 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-43.aspx.
+2017-06-08 17:16:16,963 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-101.aspx.
+2017-06-08 17:16:20,569 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-22.aspx.
+2017-06-08 17:16:26,088 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-4.aspx.
+2017-06-08 17:16:31,017 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-6.aspx.
+2017-06-08 17:16:34,512 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-48.aspx.
+2017-06-08 17:16:39,441 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-51.aspx.
+2017-06-08 17:16:42,423 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-42.aspx.
+2017-06-08 17:16:46,059 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-10.aspx.
+2017-06-08 17:16:51,457 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-103.aspx.
+2017-06-08 17:16:59,917 spiders.py[line:68] INFO Reading start URLs from redis key 'pst:start_urls' (batch size: 16, encoding: utf-8
+2017-06-08 17:17:02,678 spiders.py[line:95] DEBUG Read 5 requests from 'pst:start_urls'
+2017-06-08 17:17:05,884 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-1.aspx.
+2017-06-08 17:17:11,282 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-4.aspx.
+2017-06-08 17:17:15,553 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-2.aspx.
+2017-06-08 17:17:20,762 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-3.aspx.
+2017-06-08 17:17:25,605 spider_pst.py[line:49] INFO url is: http://www.pousto.com.cn/pros_list-0-0.aspx.
+2017-06-08 17:17:31,910 spider_pst.py[line:64] INFO detail is being parsed, url is: http://www.pousto.com.cn/pros_show-252-1156.aspx.

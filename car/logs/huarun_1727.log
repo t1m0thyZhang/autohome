@@ -1,0 +1,8 @@
+2017-06-07 17:27:32,476 spiders.py[line:68] INFO Reading start URLs from redis key 'huarun:start_urls' (batch size: 16, encoding: utf-8
+2017-06-07 17:27:35,160 spiders.py[line:95] DEBUG Read 1 requests from 'huarun:start_urls'
+2017-06-07 17:27:38,470 spider_huarun.py[line:73] INFO url is: http://www.huarun.com/product/productWall/?t=26.
+2017-06-07 17:27:59,677 spider_huarun.py[line:141] ERROR failed, url is:(http://www.huarun.com/index.php/Huarun/ProductsDescription), error info is:(Traceback (most recent call last):
+  File "C:\Users\timothy\Desktop\myproduct\product\spiders\spider_huarun.py", line 107, in parse2
+    print the_page["name"]
+KeyError: 'name'
+)
